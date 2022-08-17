@@ -321,7 +321,7 @@
 - [Preference-Adaptive Meta-Learning for Cold-Start Recommendation](https://github.com/tangxyw/RecSysPapers/blob/main/Preference-Adaptive Meta-Learning for Cold-Start Recommendation)
 - [Personalized Adaptive Meta Learning for Cold-start User Preference Prediction](https://github.com/tangxyw/RecSysPapers/blob/main/Personalized Adaptive Meta Learning for Cold-start User Preference Prediction)
 - [Transfer-Meta Framework for Cross-domain Recommendation to Cold-Start Users](https://github.com/tangxyw/RecSysPapers/blob/main/Transfer-Meta Framework for Cross-domain Recommendation to Cold-Start Users)
-## LTR
+## Learning-to-Rank
 ### Pair-wise
 - [LambdaRank - Learning_to_Rank_with_Nonsmooth_Cost_Functions](https://github.com/tangxyw/RecSysPapers/blob/main/LambdaRank - Learning_to_Rank_with_Nonsmooth_Cost_Functions)
 - [RankNET - Learning to Rank Using Gradient Descent](https://github.com/tangxyw/RecSysPapers/blob/main/RankNET - Learning to Rank Using Gradient Descent)
