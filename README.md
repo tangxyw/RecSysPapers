@@ -1,3 +1,40 @@
+
+# 推荐系统相关论文汇总 
+## 介绍
+1. 截至2022-08-18，本仓库收集汇总了推荐系统领域相关论文共**342**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+**纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
+2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
+3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
+4. 在某些一级分类下面，还有若干二级分类；一篇论文可能应该涉及多个二级分类(例如涉及冷启动的同时也讲了强化学习)，最终我会将论文放在较主要的那一类下；分类也会随时调整优化，欢迎在`issue`中提出宝贵意见。    
+5. 若您是文章作者，且不希望您的论文出现在这里，请在`issue`中提出，我核实后会马上下架。
+6. 关于排序算法的一些实现，请见我的另一个repo: https://github.com/tangxyw/RecAlgorithm    
+7. 本仓库仅供交流学习使用，不做任何商业目的。
+    
+## 联系方式
+<img src='Wechat.jpeg' alt='pic' width='220' height='220'>
+
+## 论文目录
+- [Rank](#Rank)
+- [Industry](#Industry)
+- [Pre-Rank](#Pre-Rank)
+- [Re-Rank](#Re-Rank)
+- [Match](#Match)
+- [Multi-Task](#Multi-Task)
+- [Multi-Modal](#Multi-Modal)
+- [Multi-Scenario](#Multi-Scenario)
+- [Debias](#Debias)
+- [Calibration](#Calibration)
+- [Distillation](#Distillation)
+- [Feedback-Delay](#Feedback-Delay)
+- [ContrastiveLearning](#ContrastiveLearning)
+- [Cold-Start](#Cold-Start)
+- [Learning-to-Rank](#Learning-to-Rank)
+- [Fairness](#Fairness)
+- [Look-Alike](#Look-Alike)
+- [CausalInference](#CausalInference)
+- [Diverse](#Diverse)
+- [ABTest](#ABTest)
+- [Reinforce](#Reinforce)
 ## Rank
 - [[2009][BPR] Bayesian Personalized Ranking from Implicit Feedback](Rank/%5B2009%5D%5BBPR%5D%20Bayesian%20Personalized%20Ranking%20from%20Implicit%20Feedback.pdf)
 - [[2010][FM] Factorization Machines](Rank/%5B2010%5D%5BFM%5D%20Factorization%20Machines.pdf)
@@ -70,19 +107,19 @@
 - [TencentRec - Real-time Stream Recommendation in Practice](Industry/TencentRec%20-%20Real-time%20Stream%20Recommendation%20in%20Practice.pdf)
 - [TiSSA - A Time Slice Self-Attention Approach for Modeling Sequential User Behaviors](Industry/TiSSA%20-%20A%20Time%20Slice%20Self-Attention%20Approach%20for%20Modeling%20Sequential%20User%20Behaviors.pdf)
 - [User Behavior Retrieval for Click-Through Rate Prediction](Industry/User%20Behavior%20Retrieval%20for%20Click-Through%20Rate%20Prediction.pdf)
-### Bundle
+#### Bundle
 - [CrossCBR - Cross-view Contrastive Learning for Bundle Recommendation](Industry/Bundle/CrossCBR%20-%20Cross-view%20Contrastive%20Learning%20for%20Bundle%20Recommendation.pdf)
-### Intent
+#### Intent
 - [FINN - Feedback Interactive Neural Network for Intent Recommendation](Industry/Intent/FINN%20-%20Feedback%20Interactive%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
 - [Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation](Industry/Intent/Metapath-guided%20Heterogeneous%20Graph%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
-### FeatureHashing
+#### FeatureHashing
 - [[2021][Google][DHE] Learning to Embed Categorical Features without Embedding Tables for Recommendation](Industry/FeatureHashing/%5B2021%5D%5BGoogle%5D%5BDHE%5D%20Learning%20to%20Embed%20Categorical%20Features%20without%20Embedding%20Tables%20for%20Recommendation.pdf)
 - [Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems](Industry/FeatureHashing/Compositional%20Embeddings%20Using%20Complementary%20Partitions%20for%20Memory-Efficient%20Recommendation%20Systems.pdf)
 - [Feature Hashing for Large Scale Multitask Learning](Industry/FeatureHashing/Feature%20Hashing%20for%20Large%20Scale%20Multitask%20Learning.pdf)
 - [Getting Deep Recommenders Fit - Bloom Embeddings for Sparse Binary Input Output Networks](Industry/FeatureHashing/Getting%20Deep%20Recommenders%20Fit%20-%20Bloom%20Embeddings%20for%20Sparse%20Binary%20Input%20Output%20Networks.pdf)
 - [Hash Embeddings for Efficient Word Representations](Industry/FeatureHashing/Hash%20Embeddings%20for%20Efficient%20Word%20Representations.pdf)
 - [Model Size Reduction Using Frequency Based Double Hashing for Recommender Systems](Industry/FeatureHashing/Model%20Size%20Reduction%20Using%20Frequency%20Based%20Double%20Hashing%20for%20Recommender%20Systems.pdf)
-### Regression
+#### Regression
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation](Industry/Regression/Deconfounding%20Duration%20Bias%20in%20Watch-time%20Prediction%20for%20Video%20Recommendation.pdf)
 ## Pre-Rank
 - [[2020][Alibaba][COLD] COLD - Towards the Next Generation of Pre-Ranking System](Pre-Rank/%5B2020%5D%5BAlibaba%5D%5BCOLD%5D%20COLD%20-%20Towards%20the%20Next%20Generation%20of%20Pre-Ranking%20System.pdf)
@@ -145,13 +182,13 @@
 - [Sparse-Interest Network for Sequential Recommendation](Match/Sparse-Interest%20Network%20for%20Sequential%20Recommendation.pdf)
 - [Self-Attentive Sequential Recommendation](Match/Self-Attentive%20Sequential%20Recommendation.pdf)
 - [Towards Personalized and Semantic Retrieval - An End-to-End Solution for E-commerce Search via Embedding Learning](Match/Towards%20Personalized%20and%20Semantic%20Retrieval%20-%20An%20End-to-End%20Solution%20for%20E-commerce%20Search%20via%20Embedding%20Learning.pdf)
-### Mulit-Interset
+#### Mulit-Interset
 - [[2019][Alibaba][MIND] Multi-Interest Network with Dynamic Routing for Recommendation at Tmall](Match/Mulit-Interset/%5B2019%5D%5BAlibaba%5D%5BMIND%5D%20Multi-Interest%20Network%20with%20Dynamic%20Routing%20for%20Recommendation%20at%20Tmall.pdf)
 - [Controllable Multi-Interest Framework for Recommendation](Match/Mulit-Interset/Controllable%20Multi-Interest%20Framework%20for%20Recommendation.pdf)
 - [Every Preference Changes Differently - Neural Multi-Interest Preference Model with Temporal Dynamics for Recommendation](Match/Mulit-Interset/Every%20Preference%20Changes%20Differently%20-%20Neural%20Multi-Interest%20Preference%20Model%20with%20Temporal%20Dynamics%20for%20Recommendation.pdf)
 - [Improving Multi-Interest Network with Stable Learning](Match/Mulit-Interset/Improving%20Multi-Interest%20Network%20with%20Stable%20Learning.pdf)
 - [Multiple Interest and Fine Granularity Network for User Modeling](Match/Mulit-Interset/Multiple%20Interest%20and%20Fine%20Granularity%20Network%20for%20User%20Modeling.pdf)
-### GNN
+#### GNN
 - [[2014][word2vec] Negative-Sampling Word-Embedding Method](Match/GNN/%5B2014%5D%5Bword2vec%5D%20Negative-Sampling%20Word-Embedding%20Method.pdf)
 - [[2014][DeepWalk] DeepWalk - Online Learning of Social Representations](Match/GNN/%5B2014%5D%5BDeepWalk%5D%20DeepWalk%20-%20Online%20Learning%20of%20Social%20Representations.pdf)
 - [[2015][Microsoft][LINE] LINE - Large-scale Information Network Embedding](Match/GNN/%5B2015%5D%5BMicrosoft%5D%5BLINE%5D%20LINE%20-%20Large-scale%20Information%20Network%20Embedding.pdf)
@@ -309,10 +346,10 @@
 - [MAMO - Memory-Augmented Meta-Optimization for Cold-start Recommendation](Cold-Start/MAMO%20-%20Memory-Augmented%20Meta-Optimization%20for%20Cold-start%20Recommendation.pdf)
 - [Transform Cold-Start Users into Warm via Fused Behaviors in Large-Scale Recommendation](Cold-Start/Transform%20Cold-Start%20Users%20into%20Warm%20via%20Fused%20Behaviors%20in%20Large-Scale%20Recommendation.pdf)
 - [Warm Up Cold-start Advertisements - Improving CTR Predictions via Learning to Learn ID Embeddings](Cold-Start/Warm%20Up%20Cold-start%20Advertisements%20-%20Improving%20CTR%20Predictions%20via%20Learning%20to%20Learn%20ID%20Embeddings.pdf)
-### Exploration&Exploitation
+#### Exploration&Exploitation
 - [An Empirical Evaluation of Thompson Sampling](Cold-Start/Exploration%26Exploitation/An%20Empirical%20Evaluation%20of%20Thompson%20Sampling.pdf)
 - [A Contextual-Bandit Approach to Personalized News Article Recommendation](Cold-Start/Exploration%26Exploitation/A%20Contextual-Bandit%20Approach%20to%20Personalized%20News%20Article%20Recommendation.pdf)
-### MetaLearning
+#### MetaLearning
 - [A Meta-Learning Perspective on Cold-Start Recommendations for Items](Cold-Start/MetaLearning/A%20Meta-Learning%20Perspective%20on%20Cold-Start%20Recommendations%20for%20Items.pdf)
 - [Learning Graph Meta Embeddings for Cold-Start Ads in Click-Through Rate Prediction](Cold-Start/MetaLearning/Learning%20Graph%20Meta%20Embeddings%20for%20Cold-Start%20Ads%20in%20Click-Through%20Rate%20Prediction.pdf)
 - [Meta-learning on Heterogeneous Information Networks for Cold-start Recommendation](Cold-Start/MetaLearning/Meta-learning%20on%20Heterogeneous%20Information%20Networks%20for%20Cold-start%20Recommendation.pdf)
@@ -322,13 +359,13 @@
 - [Personalized Adaptive Meta Learning for Cold-start User Preference Prediction](Cold-Start/MetaLearning/Personalized%20Adaptive%20Meta%20Learning%20for%20Cold-start%20User%20Preference%20Prediction.pdf)
 - [Transfer-Meta Framework for Cross-domain Recommendation to Cold-Start Users](Cold-Start/MetaLearning/Transfer-Meta%20Framework%20for%20Cross-domain%20Recommendation%20to%20Cold-Start%20Users.pdf)
 ## Learning-to-Rank
-### Pair-wise
+#### Pair-wise
 - [LambdaRank - Learning_to_Rank_with_Nonsmooth_Cost_Functions](Learning-to-Rank/Pair-wise/LambdaRank%20-%20Learning_to_Rank_with_Nonsmooth_Cost_Functions.pdf)
 - [RankNET - Learning to Rank Using Gradient Descent](Learning-to-Rank/Pair-wise/RankNET%20-%20Learning%20to%20Rank%20Using%20Gradient%20Descent.pdf)
 - [RankBoost - An Effcient Boosting Algorithm for Combining Preferences](Learning-to-Rank/Pair-wise/RankBoost%20-%20An%20Effcient%20Boosting%20Algorithm%20for%20Combining%20Preferences.pdf)
-### Point-wise
+#### Point-wise
 - [Learning to Rank Using Classification and Gradient](Learning-to-Rank/Point-wise/Learning%20to%20Rank%20Using%20Classification%20and%20Gradient.pdf)
-### List-wise
+#### List-wise
 - [AdaRank - A Boosting Algorithm for Information Retrieval](Learning-to-Rank/List-wise/AdaRank%20-%20A%20Boosting%20Algorithm%20for%20Information%20Retrieval.pdf)
 - [From RankNet to LambdaRank to LambdaMART](Learning-to-Rank/List-wise/From%20RankNet%20to%20LambdaRank%20to%20LambdaMART.pdf)
 - [LambdaMART - Adapting Boosting for Information Retrieval Measures](Learning-to-Rank/List-wise/LambdaMART%20-%20Adapting%20Boosting%20for%20Information%20Retrieval%20Measures.pdf)
