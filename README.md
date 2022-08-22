@@ -1,7 +1,7 @@
 
 # 推荐系统相关论文汇总 
 ## 介绍
-1. 截至2022-08-19，本仓库收集汇总了推荐系统领域相关论文共**344**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-08-22，本仓库收集汇总了推荐系统领域相关论文共**346**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -184,9 +184,12 @@
 - [Self-Attentive Sequential Recommendation](Match/Self-Attentive%20Sequential%20Recommendation.pdf)
 - [Towards Personalized and Semantic Retrieval - An End-to-End Solution for E-commerce Search via Embedding Learning](Match/Towards%20Personalized%20and%20Semantic%20Retrieval%20-%20An%20End-to-End%20Solution%20for%20E-commerce%20Search%20via%20Embedding%20Learning.pdf)
 - [Uni-Retriever - Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search](Match/Uni-Retriever%20-%20Towards%20Learning%20The%20Unified%20Embedding%20Based%20Retriever%20in%20Bing%20Sponsored%20Search.pdf)
+#### Classic
+- [Collaborative Filtering Recommender Systems](Match/Classic/Collaborative%20Filtering%20Recommender%20Systems.pdf)
+- [Item-Based Collaborative Filtering Recommendation Algorithms](Match/Classic/Item-Based%20Collaborative%20Filtering%20Recommendation%20Algorithms.pdf)
 #### Mulit-Interset
 - [[2019][Alibaba][MIND] Multi-Interest Network with Dynamic Routing for Recommendation at Tmall](Match/Mulit-Interset/%5B2019%5D%5BAlibaba%5D%5BMIND%5D%20Multi-Interest%20Network%20with%20Dynamic%20Routing%20for%20Recommendation%20at%20Tmall.pdf)
-- [Controllable Multi-Interest Framework for Recommendation](Match/Mulit-Interset/Controllable%20Multi-Interest%20Framework%20for%20Recommendation.pdf)
+- [[2020][Alibaba][ComiRec] Controllable Multi-Interest Framework for Recommendation](Match/Mulit-Interset/%5B2020%5D%5BAlibaba%5D%5BComiRec%5D%20Controllable%20Multi-Interest%20Framework%20for%20Recommendation.pdf)
 - [Every Preference Changes Differently - Neural Multi-Interest Preference Model with Temporal Dynamics for Recommendation](Match/Mulit-Interset/Every%20Preference%20Changes%20Differently%20-%20Neural%20Multi-Interest%20Preference%20Model%20with%20Temporal%20Dynamics%20for%20Recommendation.pdf)
 - [Improving Multi-Interest Network with Stable Learning](Match/Mulit-Interset/Improving%20Multi-Interest%20Network%20with%20Stable%20Learning.pdf)
 - [Multiple Interest and Fine Granularity Network for User Modeling](Match/Mulit-Interset/Multiple%20Interest%20and%20Fine%20Granularity%20Network%20for%20User%20Modeling.pdf)
