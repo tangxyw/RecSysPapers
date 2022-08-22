@@ -25,7 +25,7 @@ DIRS = [
     'Fairness',
     'Look-Alike',
     'CausalInference',
-    'Diverse',
+    'Diversity',
     'ABTest',
     'Reinforce',
 ]

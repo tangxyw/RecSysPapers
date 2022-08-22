@@ -33,7 +33,7 @@
 - [Fairness](#Fairness)
 - [Look-Alike](#Look-Alike)
 - [CausalInference](#CausalInference)
-- [Diverse](#Diverse)
+- [Diversity](#Diversity)
 - [ABTest](#ABTest)
 - [Reinforce](#Reinforce)
 ## Rank
@@ -365,7 +365,7 @@
 - [Transfer-Meta Framework for Cross-domain Recommendation to Cold-Start Users](Cold-Start/MetaLearning/Transfer-Meta%20Framework%20for%20Cross-domain%20Recommendation%20to%20Cold-Start%20Users.pdf)
 ## Learning-to-Rank
 #### Pair-wise
-- [LambdaRank - Learning_to_Rank_with_Nonsmooth_Cost_Functions](Learning-to-Rank/Pair-wise/LambdaRank%20-%20Learning_to_Rank_with_Nonsmooth_Cost_Functions.pdf)
+- [LambdaRank - Learning to Rank with Nonsmooth Cost Functions](Learning-to-Rank/Pair-wise/LambdaRank%20-%20Learning%20to%20Rank%20with%20Nonsmooth%20Cost%20Functions.pdf)
 - [RankNET - Learning to Rank Using Gradient Descent](Learning-to-Rank/Pair-wise/RankNET%20-%20Learning%20to%20Rank%20Using%20Gradient%20Descent.pdf)
 - [RankBoost - An Effcient Boosting Algorithm for Combining Preferences](Learning-to-Rank/Pair-wise/RankBoost%20-%20An%20Effcient%20Boosting%20Algorithm%20for%20Combining%20Preferences.pdf)
 #### Point-wise
@@ -393,22 +393,22 @@
 - [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](CausalInference/Model-Agnostic%20Counterfactual%20Reasoning%20for%20Eliminating%20Popularity%20Bias%20in%20Recommender%20System.pdf)
 - [Practical Counterfactual Policy Learning for Top-K Recommendations](CausalInference/Practical%20Counterfactual%20Policy%20Learning%20for%20Top-K%20Recommendations.pdf)
 - [Recommendations as Treatments - Debiasing Learning and Evaluation](CausalInference/Recommendations%20as%20Treatments%20-%20Debiasing%20Learning%20and%20Evaluation.pdf)
-## Diverse
-- [[2020][Huawei][pDPP] Personalized Re-ranking for Improving Diversity in Live Recommender Systems](Diverse/%5B2020%5D%5BHuawei%5D%5BpDPP%5D%20Personalized%20Re-ranking%20for%20Improving%20Diversity%20in%20Live%20Recommender%20Systems.pdf)
-- [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](Diverse/A%20Framework%20for%20Recommending%20Accurate%20and%20Diverse%20Items%20Using%20Bayesian%20Graph%20Convolutional%20Neural%20Networks.pdf)
-- [Adaptive, Personalized Diversity for Visual Discovery](Diverse/Adaptive%2C%20Personalized%20Diversity%20for%20Visual%20Discovery.pdf)
-- [Diversity on the Go! Streaming Determinantal Point Processes under a Maximum Induced Cardinality Objective](Diverse/Diversity%20on%20the%20Go%21%20Streaming%20Determinantal%20Point%20Processes%20under%20a%20Maximum%20Induced%20Cardinality%20Objective.pdf)
-- [DGCN - Diversified Recommendation with Graph Convolutional Networks](Diverse/DGCN%20-%20Diversified%20Recommendation%20with%20Graph%20Convolutional%20Networks.pdf)
-- [Diversifying Search Results](Diverse/Diversifying%20Search%20Results.pdf)
-- [Enhancing Recommendation Diversity using Determinantal Point Processes on Knowledge Graphs](Diverse/Enhancing%20Recommendation%20Diversity%20using%20Determinantal%20Point%20Processes%20on%20Knowledge%20Graphs.pdf)
-- [Enhancing Domain-Level and User-Level Adaptivity in Diversified Recommendation](Diverse/Enhancing%20Domain-Level%20and%20User-Level%20Adaptivity%20in%20Diversified%20Recommendation.pdf)
-- [Exploiting Query Reformulations for Web Search Result Diversification](Diverse/Exploiting%20Query%20Reformulations%20for%20Web%20Search%20Result%20Diversification.pdf)
-- [Feature-aware Diversified Re-ranking with Disentangled Representations for Relevant Recommendation](Diverse/Feature-aware%20Diversified%20Re-ranking%20with%20Disentangled%20Representations%20for%20Relevant%20Recommendation.pdf)
-- [Future-Aware Diverse Trends Framework for Recommendation](Diverse/Future-Aware%20Diverse%20Trends%20Framework%20for%20Recommendation.pdf)
-- [Improving Recommendation Lists Through Topic Diversification](Diverse/Improving%20Recommendation%20Lists%20Through%20Topic%20Diversification.pdf)
-- [Managing Diversity in Airbnb Search](Diverse/Managing%20Diversity%20in%20Airbnb%20Search.pdf)
-- [Novelty and Diversity in Information Retrieval Evaluation](Diverse/Novelty%20and%20Diversity%20in%20Information%20Retrieval%20Evaluation.pdf)
-- [P-Companion - A Principled Framework for Diversified Complementary Product Recommendation](Diverse/P-Companion%20-%20A%20Principled%20Framework%20for%20Diversified%20Complementary%20Product%20Recommendation.pdf)
+## Diversity
+- [[2020][Huawei][pDPP] Personalized Re-ranking for Improving Diversity in Live Recommender Systems](Diversity/%5B2020%5D%5BHuawei%5D%5BpDPP%5D%20Personalized%20Re-ranking%20for%20Improving%20Diversity%20in%20Live%20Recommender%20Systems.pdf)
+- [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](Diversity/A%20Framework%20for%20Recommending%20Accurate%20and%20Diverse%20Items%20Using%20Bayesian%20Graph%20Convolutional%20Neural%20Networks.pdf)
+- [Adaptive, Personalized Diversity for Visual Discovery](Diversity/Adaptive%2C%20Personalized%20Diversity%20for%20Visual%20Discovery.pdf)
+- [Diversity on the Go! Streaming Determinantal Point Processes under a Maximum Induced Cardinality Objective](Diversity/Diversity%20on%20the%20Go%21%20Streaming%20Determinantal%20Point%20Processes%20under%20a%20Maximum%20Induced%20Cardinality%20Objective.pdf)
+- [DGCN - Diversified Recommendation with Graph Convolutional Networks](Diversity/DGCN%20-%20Diversified%20Recommendation%20with%20Graph%20Convolutional%20Networks.pdf)
+- [Diversifying Search Results](Diversity/Diversifying%20Search%20Results.pdf)
+- [Enhancing Recommendation Diversity using Determinantal Point Processes on Knowledge Graphs](Diversity/Enhancing%20Recommendation%20Diversity%20using%20Determinantal%20Point%20Processes%20on%20Knowledge%20Graphs.pdf)
+- [Enhancing Domain-Level and User-Level Adaptivity in Diversified Recommendation](Diversity/Enhancing%20Domain-Level%20and%20User-Level%20Adaptivity%20in%20Diversified%20Recommendation.pdf)
+- [Exploiting Query Reformulations for Web Search Result Diversification](Diversity/Exploiting%20Query%20Reformulations%20for%20Web%20Search%20Result%20Diversification.pdf)
+- [Feature-aware Diversified Re-ranking with Disentangled Representations for Relevant Recommendation](Diversity/Feature-aware%20Diversified%20Re-ranking%20with%20Disentangled%20Representations%20for%20Relevant%20Recommendation.pdf)
+- [Future-Aware Diverse Trends Framework for Recommendation](Diversity/Future-Aware%20Diverse%20Trends%20Framework%20for%20Recommendation.pdf)
+- [Improving Recommendation Lists Through Topic Diversification](Diversity/Improving%20Recommendation%20Lists%20Through%20Topic%20Diversification.pdf)
+- [Managing Diversity in Airbnb Search](Diversity/Managing%20Diversity%20in%20Airbnb%20Search.pdf)
+- [Novelty and Diversity in Information Retrieval Evaluation](Diversity/Novelty%20and%20Diversity%20in%20Information%20Retrieval%20Evaluation.pdf)
+- [P-Companion - A Principled Framework for Diversified Complementary Product Recommendation](Diversity/P-Companion%20-%20A%20Principled%20Framework%20for%20Diversified%20Complementary%20Product%20Recommendation.pdf)
 ## ABTest
 - [Overlapping Experiment Infrastructure - More, Better, Faster Experimentation](ABTest/Overlapping%20Experiment%20Infrastructure%20-%20More%2C%20Better%2C%20Faster%20Experimentation.pdf)
 ## Reinforce
