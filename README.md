@@ -1,7 +1,7 @@
 
 # 推荐系统相关论文汇总 
 ## 介绍
-1. 截至2022-08-22，本仓库收集汇总了推荐系统领域相关论文共**347**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-08-23，本仓库收集汇总了推荐系统领域相关论文共**349**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -61,6 +61,7 @@
 - [[2017][Alibaba][DIN] Deep Interest Network for Click-Through Rate Prediction](Industry/%5B2017%5D%5BAlibaba%5D%5BDIN%5D%20Deep%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2017][Alibaba][ATRank] ATRank - An Attention-Based User Behavior Modeling Framework for Recommendation](Industry/%5B2017%5D%5BAlibaba%5D%5BATRank%5D%20ATRank%20-%20An%20Attention-Based%20User%20Behavior%20Modeling%20Framework%20for%20Recommendation.pdf)
 - [[2018][Alibaba][DIEN] Deep Interest Evolution Network for Click-Through Rate Prediction](Industry/%5B2018%5D%5BAlibaba%5D%5BDIEN%5D%20Deep%20Interest%20Evolution%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [[2018][FwFM] Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising](Industry/%5B2018%5D%5BFwFM%5D%20Field-weighted%20Factorization%20Machines%20for%20Click-Through%20Rate%20Prediction%20in%20Display%20Advertising.pdf)
 - [[2018][Airbnb] Real-time Personalization using Embeddings for Search Ranking at Airbnb](Industry/%5B2018%5D%5BAirbnb%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb.pdf)
 - [[2019][Alibaba][DSIN] Deep Session Interest Network for Click-Through Rate Prediction](Industry/%5B2019%5D%5BAlibaba%5D%5BDSIN%5D%20Deep%20Session%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2019][Alibaba][BST] Behavior Sequence Transformer for E-commerceRecommendation in Alibaba](Industry/%5B2019%5D%5BAlibaba%5D%5BBST%5D%20Behavior%20Sequence%20Transformer%20for%20E-commerceRecommendation%20in%20Alibaba.pdf)
@@ -223,6 +224,7 @@
 - [ProNE - Fast and Scalable Network Representation Learning](Match/GNN/ProNE%20-%20Fast%20and%20Scalable%20Network%20Representation%20Learning.pdf)
 - [Representation Learning for Attributed Multiplex Heterogeneous Network](Match/GNN/Representation%20Learning%20for%20Attributed%20Multiplex%20Heterogeneous%20Network.pdf)
 - [Self-supervised Graph Learning for Recommendation](Match/GNN/Self-supervised%20Graph%20Learning%20for%20Recommendation.pdf)
+- [Self-Supervised Hypergraph Transformer for Recommender Systems](Match/GNN/Self-Supervised%20Hypergraph%20Transformer%20for%20Recommender%20Systems.pdf)
 - [TwHIN - Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation](Match/GNN/TwHIN%20-%20Embedding%20the%20Twitter%20Heterogeneous%20Information%20Network%20for%20Personalized%20Recommendation.pdf)
 - [metapath2vec - Scalable Representation Learning for Heterogeneous Networks](Match/GNN/metapath2vec%20-%20Scalable%20Representation%20Learning%20for%20Heterogeneous%20Networks.pdf)
 - [struc2vec - Learning Node Representations from Structural Identity](Match/GNN/struc2vec%20-%20Learning%20Node%20Representations%20from%20Structural%20Identity.pdf)
