@@ -1,7 +1,7 @@
 
 # 推荐系统相关论文汇总 
 ## 介绍
-1. 截至2022-08-23，本仓库收集汇总了推荐系统领域相关论文共**349**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-08-24，本仓库收集汇总了推荐系统领域相关论文共**353**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -212,14 +212,18 @@
 - [[2020][meituan][STGCN] STGCN - A Spatial-Temporal Aware Graph Learning Method for POI Recommendation](Match/GNN/%5B2020%5D%5Bmeituan%5D%5BSTGCN%5D%20STGCN%20-%20A%20Spatial-Temporal%20Aware%20Graph%20Learning%20Method%20for%20POI%20Recommendation.pdf)
 - [[2020][LightGCN] LightGCN - Simplifying and Powering Graph Convolution Network for Recommendation](Match/GNN/%5B2020%5D%5BLightGCN%5D%20LightGCN%20-%20Simplifying%20and%20Powering%20Graph%20Convolution%20Network%20for%20Recommendation.pdf)
 - [ATBRG - Adaptive Target-Behavior Relational Graph Network for Effective Recommendation](Match/GNN/ATBRG%20-%20Adaptive%20Target-Behavior%20Relational%20Graph%20Network%20for%20Effective%20Recommendation.pdf)
+- [Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View](Match/GNN/Attentional%20Graph%20Convolutional%20Networks%20for%20Knowledge%20Concept%20Recommendation%20in%20MOOCs%20in%20a%20Heterogeneous%20View.pdf)
 - [Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items](Match/GNN/Decoupled%20Graph%20Convolution%20Network%20for%20Inferring%20Substitutable%20and%20Complementary%20Items.pdf)
 - [Embedding-based News Recommendationfor Millions of Users](Match/GNN/Embedding-based%20News%20Recommendationfor%20Millions%20of%20Users.pdf)
 - [Explicit Semantic Cross Feature Learning via Pre-trained Graph Neural Networks for CTR Prediction](Match/GNN/Explicit%20Semantic%20Cross%20Feature%20Learning%20via%20Pre-trained%20Graph%20Neural%20Networks%20for%20CTR%20Prediction.pdf)
 - [Graph Convolutional Matrix Completion](Match/GNN/Graph%20Convolutional%20Matrix%20Completion.pdf)
+- [Graph Neural Networks for Friend Ranking in Large-scale Social Platforms](Match/GNN/Graph%20Neural%20Networks%20for%20Friend%20Ranking%20in%20Large-scale%20Social%20Platforms.pdf)
 - [Graph Intention Network for Click-through Rate Prediction in Sponsored Search](Match/GNN/Graph%20Intention%20Network%20for%20Click-through%20Rate%20Prediction%20in%20Sponsored%20Search.pdf)
+- [Graph Neural Network for Tag Ranking in Tag-enhanced Video Recommendation](Match/GNN/Graph%20Neural%20Network%20for%20Tag%20Ranking%20in%20Tag-enhanced%20Video%20Recommendation.pdf)
 - [Graph Neural Networks for Social Recommendation](Match/GNN/Graph%20Neural%20Networks%20for%20Social%20Recommendation.pdf)
 - [IntentGC - a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation](Match/GNN/IntentGC%20-%20a%20Scalable%20Graph%20Convolution%20Framework%20Fusing%20Heterogeneous%20Information%20for%20Recommendation.pdf)
 - [Network Embedding as Matrix Factorization - Unifying DeepWalk, LINE, PTE, and node2vec](Match/GNN/Network%20Embedding%20as%20Matrix%20Factorization%20-%20Unifying%20DeepWalk%2C%20LINE%2C%20PTE%2C%20and%20node2vec.pdf)
+- [Package Recommendation with Intra- and Inter-Package Attention Networks](Match/GNN/Package%20Recommendation%20with%20Intra-%20and%20Inter-Package%20Attention%20Networks.pdf)
 - [PinnerSage - Multi-Modal User Embedding Framework for Recommendations at Pinterest](Match/GNN/PinnerSage%20-%20Multi-Modal%20User%20Embedding%20Framework%20for%20Recommendations%20at%20Pinterest.pdf)
 - [ProNE - Fast and Scalable Network Representation Learning](Match/GNN/ProNE%20-%20Fast%20and%20Scalable%20Network%20Representation%20Learning.pdf)
 - [Representation Learning for Attributed Multiplex Heterogeneous Network](Match/GNN/Representation%20Learning%20for%20Attributed%20Multiplex%20Heterogeneous%20Network.pdf)
