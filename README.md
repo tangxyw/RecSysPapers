@@ -1,7 +1,7 @@
 
 # 推荐系统相关论文汇总 
 ## 介绍
-1. 截至2022-08-24，本仓库收集汇总了推荐系统领域相关论文共**353**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-08-29，本仓库收集汇总了推荐系统领域相关论文共**363**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -75,7 +75,6 @@
 - [[2021][Alibaba][DINMP] A Non-sequential Approach to Deep User Interest Model for Click-Through Rate Prediction](Industry/%5B2021%5D%5BAlibaba%5D%5BDINMP%5D%20A%20Non-sequential%20Approach%20to%20Deep%20User%20Interest%20Model%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2021][Google] Bootstrapping Recommendations at Chrome Web Store](Industry/%5B2021%5D%5BGoogle%5D%20Bootstrapping%20Recommendations%20at%20Chrome%20Web%20Store.pdf)
 - [Adversarial Mixture Of Experts with Category Hierarchy Soft Constraint](Industry/Adversarial%20Mixture%20Of%20Experts%20with%20Category%20Hierarchy%20Soft%20Constraint.pdf)
-- [Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction](Industry/Adversarial%20Gradient%20Driven%20Exploration%20for%20Deep%20Click-Through%20Rate%20Prediction.pdf)
 - [An Embedding Learning Framework for Numerical Features in CTR Prediction](Industry/An%20Embedding%20Learning%20Framework%20for%20Numerical%20Features%20in%20CTR%20Prediction.pdf)
 - [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](Industry/Adversarial%20Filtering%20Modeling%20on%20Long-term%20User%20Behavior%20Sequences%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Curriculum Disentangled Recommendation with Noisy Multi-feedback](Industry/Curriculum%20Disentangled%20Recommendation%20with%20Noisy%20Multi-feedback.pdf)
@@ -109,8 +108,12 @@
 - [TencentRec - Real-time Stream Recommendation in Practice](Industry/TencentRec%20-%20Real-time%20Stream%20Recommendation%20in%20Practice.pdf)
 - [TiSSA - A Time Slice Self-Attention Approach for Modeling Sequential User Behaviors](Industry/TiSSA%20-%20A%20Time%20Slice%20Self-Attention%20Approach%20for%20Modeling%20Sequential%20User%20Behaviors.pdf)
 - [User Behavior Retrieval for Click-Through Rate Prediction](Industry/User%20Behavior%20Retrieval%20for%20Click-Through%20Rate%20Prediction.pdf)
+#### Reciprocal
+- [MATCHING THEORY-BASED RECOMMENDER SYSTEMS IN ONLINE DATING](Industry/Reciprocal/MATCHING%20THEORY-BASED%20RECOMMENDER%20SYSTEMS%20IN%20ONLINE%20DATING.pdf)
 #### Bundle
 - [CrossCBR - Cross-view Contrastive Learning for Bundle Recommendation](Industry/Bundle/CrossCBR%20-%20Cross-view%20Contrastive%20Learning%20for%20Bundle%20Recommendation.pdf)
+#### Edge
+- [Real-time Short Video Recommendation on Mobile Devices](Industry/Edge/Real-time%20Short%20Video%20Recommendation%20on%20Mobile%20Devices.pdf)
 #### Intent
 - [FINN - Feedback Interactive Neural Network for Intent Recommendation](Industry/Intent/FINN%20-%20Feedback%20Interactive%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
 - [Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation](Industry/Intent/Metapath-guided%20Heterogeneous%20Graph%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
@@ -213,6 +216,7 @@
 - [[2020][LightGCN] LightGCN - Simplifying and Powering Graph Convolution Network for Recommendation](Match/GNN/%5B2020%5D%5BLightGCN%5D%20LightGCN%20-%20Simplifying%20and%20Powering%20Graph%20Convolution%20Network%20for%20Recommendation.pdf)
 - [ATBRG - Adaptive Target-Behavior Relational Graph Network for Effective Recommendation](Match/GNN/ATBRG%20-%20Adaptive%20Target-Behavior%20Relational%20Graph%20Network%20for%20Effective%20Recommendation.pdf)
 - [Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View](Match/GNN/Attentional%20Graph%20Convolutional%20Networks%20for%20Knowledge%20Concept%20Recommendation%20in%20MOOCs%20in%20a%20Heterogeneous%20View.pdf)
+- [Debiasing Neighbor Aggregation for Graph Neural Network in Recommender Systems](Match/GNN/Debiasing%20Neighbor%20Aggregation%20for%20Graph%20Neural%20Network%20in%20Recommender%20Systems.pdf)
 - [Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items](Match/GNN/Decoupled%20Graph%20Convolution%20Network%20for%20Inferring%20Substitutable%20and%20Complementary%20Items.pdf)
 - [Embedding-based News Recommendationfor Millions of Users](Match/GNN/Embedding-based%20News%20Recommendationfor%20Millions%20of%20Users.pdf)
 - [Explicit Semantic Cross Feature Learning via Pre-trained Graph Neural Networks for CTR Prediction](Match/GNN/Explicit%20Semantic%20Cross%20Feature%20Learning%20via%20Pre-trained%20Graph%20Neural%20Networks%20for%20CTR%20Prediction.pdf)
@@ -227,6 +231,7 @@
 - [PinnerSage - Multi-Modal User Embedding Framework for Recommendations at Pinterest](Match/GNN/PinnerSage%20-%20Multi-Modal%20User%20Embedding%20Framework%20for%20Recommendations%20at%20Pinterest.pdf)
 - [ProNE - Fast and Scalable Network Representation Learning](Match/GNN/ProNE%20-%20Fast%20and%20Scalable%20Network%20Representation%20Learning.pdf)
 - [Representation Learning for Attributed Multiplex Heterogeneous Network](Match/GNN/Representation%20Learning%20for%20Attributed%20Multiplex%20Heterogeneous%20Network.pdf)
+- [Revisiting Item Promotion in GNN-based Collaborative Filtering - A Masked Targeted Topological Attack Perspective](Match/GNN/Revisiting%20Item%20Promotion%20in%20GNN-based%20Collaborative%20Filtering%20-%20A%20Masked%20Targeted%20Topological%20Attack%20Perspective.pdf)
 - [Self-supervised Graph Learning for Recommendation](Match/GNN/Self-supervised%20Graph%20Learning%20for%20Recommendation.pdf)
 - [Self-Supervised Hypergraph Transformer for Recommender Systems](Match/GNN/Self-Supervised%20Hypergraph%20Transformer%20for%20Recommender%20Systems.pdf)
 - [TwHIN - Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation](Match/GNN/TwHIN%20-%20Embedding%20the%20Twitter%20Heterogeneous%20Information%20Network%20for%20Personalized%20Recommendation.pdf)
@@ -278,12 +283,15 @@
 - [A Survey on Cross-domain Recommendation - Taxonomies, Methods, and Future Directions](Multi-Scenario/A%20Survey%20on%20Cross-domain%20Recommendation%20-%20Taxonomies%2C%20Methods%2C%20and%20Future%20Directions.pdf)
 - [Automatic Expert Selection for Multi-Scenario and Multi-Task Search](Multi-Scenario/Automatic%20Expert%20Selection%20for%20Multi-Scenario%20and%20Multi-Task%20Search.pdf)
 - [Cross-Domain Recommendation - An Embedding and Mapping Approach](Multi-Scenario/Cross-Domain%20Recommendation%20-%20An%20Embedding%20and%20Mapping%20Approach.pdf)
+- [Dynamic collaborative filtering Thompson Sampling for cross-domain advertisements recommendation](Multi-Scenario/Dynamic%20collaborative%20filtering%20Thompson%20Sampling%20for%20cross-domain%20advertisements%20recommendation.pdf)
 - [Improving Multi-Scenario Learning to Rank in E-commerce by Exploiting Task Relationships in the Label Space](Multi-Scenario/Improving%20Multi-Scenario%20Learning%20to%20Rank%20in%20E-commerce%20by%20Exploiting%20Task%20Relationships%20in%20the%20Label%20Space.pdf)
+- [KEEP - An Industrial Pre-Training Framework for Online Recommendation via Knowledge Extraction and Plugging](Multi-Scenario/KEEP%20-%20An%20Industrial%20Pre-Training%20Framework%20for%20Online%20Recommendation%20via%20Knowledge%20Extraction%20and%20Plugging.pdf)
 - [Leaving No One Behind- A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling](Multi-Scenario/Leaving%20No%20One%20Behind-%20A%20Multi-Scenario%20Multi-Task%20Meta%20Learning%20Approach%20for%20Advertiser%20Modeling.pdf)
 - [Multi-Graph based Multi-Scenario Recommendation in Large-scale Online Video Services](Multi-Scenario/Multi-Graph%20based%20Multi-Scenario%20Recommendation%20in%20Large-scale%20Online%20Video%20Services.pdf)
 - [Personalized Transfer of User Preferences for Cross-domain Recommendation](Multi-Scenario/Personalized%20Transfer%20of%20User%20Preferences%20for%20Cross-domain%20Recommendation.pdf)
 - [Scenario-aware and Mutual-based approach for Multi-scenario Recommendation in E-Commerce](Multi-Scenario/Scenario-aware%20and%20Mutual-based%20approach%20for%20Multi-scenario%20Recommendation%20in%20E-Commerce.pdf)
 - [Self-Supervised Learning on Users’ Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce](Multi-Scenario/Self-Supervised%20Learning%20on%20Users%E2%80%99%20Spontaneous%20Behaviors%20for%20Multi-Scenario%20Ranking%20in%20E-commerce.pdf)
+- [Scenario-Adaptive and Self-Supervised Model for Multi-Scenario Personalized Recommendation](Multi-Scenario/Scenario-Adaptive%20and%20Self-Supervised%20Model%20for%20Multi-Scenario%20Personalized%20Recommendation.pdf)
 ## Debias
 - [[2019][Huawei][PAL] a position-bias aware learning framework for CTR prediction in live recommender systems](Debias/%5B2019%5D%5BHuawei%5D%5BPAL%5D%20a%20position-bias%20aware%20learning%20framework%20for%20CTR%20prediction%20in%20live%20recommender%20systems.pdf)
 - [AutoDebias - Learning to Debias for Recommendation](Debias/AutoDebias%20-%20Learning%20to%20Debias%20for%20Recommendation.pdf)
@@ -336,6 +344,7 @@
 - [A Simple Framework for Contrastive Learning of Visual Representations](ContrastiveLearning/A%20Simple%20Framework%20for%20Contrastive%20Learning%20of%20Visual%20Representations.pdf)
 - [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](ContrastiveLearning/Bootstrap%20Your%20Own%20Latent%20A%20New%20Approach%20to%20Self-Supervised%20Learning.pdf)
 - [Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems](ContrastiveLearning/Contrastive%20Learning%20for%20Debiased%20Candidate%20Generation%20in%20Large-Scale%20Recommender%20Systems.pdf)
+- [Improving Knowledge-aware Recommendation with Multi-level Interactive Contrastive Learning](ContrastiveLearning/Improving%20Knowledge-aware%20Recommendation%20with%20Multi-level%20Interactive%20Contrastive%20Learning.pdf)
 - [Improved Baselines with Momentum Contrastive Learning](ContrastiveLearning/Improved%20Baselines%20with%20Momentum%20Contrastive%20Learning.pdf)
 - [Multi-view Multi-behavior Contrastive Learning in Recommendation](ContrastiveLearning/Multi-view%20Multi-behavior%20Contrastive%20Learning%20in%20Recommendation.pdf)
 - [Momentum Contrast for Unsupervised Visual Representation Learning](ContrastiveLearning/Momentum%20Contrast%20for%20Unsupervised%20Visual%20Representation%20Learning.pdf)
@@ -360,7 +369,9 @@
 - [Warm Up Cold-start Advertisements - Improving CTR Predictions via Learning to Learn ID Embeddings](Cold-Start/Warm%20Up%20Cold-start%20Advertisements%20-%20Improving%20CTR%20Predictions%20via%20Learning%20to%20Learn%20ID%20Embeddings.pdf)
 #### Exploration&Exploitation
 - [An Empirical Evaluation of Thompson Sampling](Cold-Start/Exploration%26Exploitation/An%20Empirical%20Evaluation%20of%20Thompson%20Sampling.pdf)
+- [Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction](Cold-Start/Exploration%26Exploitation/Adversarial%20Gradient%20Driven%20Exploration%20for%20Deep%20Click-Through%20Rate%20Prediction.pdf)
 - [A Contextual-Bandit Approach to Personalized News Article Recommendation](Cold-Start/Exploration%26Exploitation/A%20Contextual-Bandit%20Approach%20to%20Personalized%20News%20Article%20Recommendation.pdf)
+- [Comparison-based Conversational Recommender System with Relative Bandit Feedback](Cold-Start/Exploration%26Exploitation/Comparison-based%20Conversational%20Recommender%20System%20with%20Relative%20Bandit%20Feedback.pdf)
 #### MetaLearning
 - [A Meta-Learning Perspective on Cold-Start Recommendations for Items](Cold-Start/MetaLearning/A%20Meta-Learning%20Perspective%20on%20Cold-Start%20Recommendations%20for%20Items.pdf)
 - [Learning Graph Meta Embeddings for Cold-Start Ads in Click-Through Rate Prediction](Cold-Start/MetaLearning/Learning%20Graph%20Meta%20Embeddings%20for%20Cold-Start%20Ads%20in%20Click-Through%20Rate%20Prediction.pdf)
@@ -394,6 +405,7 @@
 - [CauseRec - Counterfactual User Sequence Synthesis for Sequential Recommendation](CausalInference/CauseRec%20-%20Counterfactual%20User%20Sequence%20Synthesis%20for%20Sequential%20Recommendation.pdf)
 - [Counterfactual Data-Augmented Sequential Recommendation](CausalInference/Counterfactual%20Data-Augmented%20Sequential%20Recommendation.pdf)
 - [Clicks can be Cheating - Counterfactual Recommendation for Mitigating Clickbait Issue](CausalInference/Clicks%20can%20be%20Cheating%20-%20Counterfactual%20Recommendation%20for%20Mitigating%20Clickbait%20Issue.pdf)
+- [Causal Inference in Recommender Systems - A Survey and Future Directions](CausalInference/Causal%20Inference%20in%20Recommender%20Systems%20-%20A%20Survey%20and%20Future%20Directions.pdf)
 - [Doubly Robust Joint Learning for Recommendation on Data Missing Not at Random](CausalInference/Doubly%20Robust%20Joint%20Learning%20for%20Recommendation%20on%20Data%20Missing%20Not%20at%20Random.pdf)
 - [Deconfounded Recommendation for Alleviating Bias Amplification](CausalInference/Deconfounded%20Recommendation%20for%20Alleviating%20Bias%20Amplification.pdf)
 - [Improving Ad Click Prediction by Considering Non-displayed Events](CausalInference/Improving%20Ad%20Click%20Prediction%20by%20Considering%20Non-displayed%20Events.pdf)
