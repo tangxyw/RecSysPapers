@@ -1,7 +1,7 @@
 
 # 推荐系统相关论文汇总 
 ## 介绍
-1. 截至2022-08-29，本仓库收集汇总了推荐系统领域相关论文共**363**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-08-30，本仓库收集汇总了推荐系统领域相关论文共**377**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -114,6 +114,21 @@
 - [CrossCBR - Cross-view Contrastive Learning for Bundle Recommendation](Industry/Bundle/CrossCBR%20-%20Cross-view%20Contrastive%20Learning%20for%20Bundle%20Recommendation.pdf)
 #### Edge
 - [Real-time Short Video Recommendation on Mobile Devices](Industry/Edge/Real-time%20Short%20Video%20Recommendation%20on%20Mobile%20Devices.pdf)
+#### POI
+- [[2020][meituan][STGCN] STGCN - A Spatial-Temporal Aware Graph Learning Method for POI Recommendation](Industry/POI/%5B2020%5D%5Bmeituan%5D%5BSTGCN%5D%20STGCN%20-%20A%20Spatial-Temporal%20Aware%20Graph%20Learning%20Method%20for%20POI%20Recommendation.pdf)
+- [A Survey on Deep Learning Based Point-Of-Interest (POI) Recommendations](Industry/POI/A%20Survey%20on%20Deep%20Learning%20Based%20Point-Of-Interest%20%28POI%29%20Recommendations.pdf)
+- [Empowering Next POI Recommendation with Multi-Relational Modeling](Industry/POI/Empowering%20Next%20POI%20Recommendation%20with%20Multi-Relational%20Modeling.pdf)
+- [Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation](Industry/POI/Hierarchical%20Multi-Task%20Graph%20Recurrent%20Network%20for%20Next%20POI%20Recommendation.pdf)
+- [LightMove - A Lightweight Next-POI Recommendation for Taxicab Rooftop Advertising](Industry/POI/LightMove%20-%20A%20Lightweight%20Next-POI%20Recommendation%20for%20Taxicab%20Rooftop%20Advertising.pdf)
+- [Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation](Industry/POI/Modeling%20Spatio-temporal%20Neighbourhood%20for%20Personalized%20Point-of-interest%20Recommendation.pdf)
+- [Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences](Industry/POI/Next%20Point-of-Interest%20Recommendation%20with%20Inferring%20Multi-step%20Future%20Preferences.pdf)
+- [Online POI Recommendation - Learning Dynamic Geo-Human Interactions in Streams](Industry/POI/Online%20POI%20Recommendation%20-%20Learning%20Dynamic%20Geo-Human%20Interactions%20in%20Streams.pdf)
+- [Point-of-Interest Recommender Systems based on Location-Based Social Networks - A Survey from an Experimental Perspective](Industry/POI/Point-of-Interest%20Recommender%20Systems%20based%20on%20Location-Based%20Social%20Networks%20-%20A%20Survey%20from%20an%20Experimental%20Perspective.pdf)
+- [POINTREC - A Test Collection for Narrative-driven Point of Interest Recommendation](Industry/POI/POINTREC%20-%20A%20Test%20Collection%20for%20Narrative-driven%20Point%20of%20Interest%20Recommendation.pdf)
+- [TADSAM - A Time-Aware Dynamic Self-Attention Model for Next Point-of-Interest Recommendation](Industry/POI/TADSAM%20-%20A%20Time-Aware%20Dynamic%20Self-Attention%20Model%20for%20Next%20Point-of-Interest%20Recommendation.pdf)
+- [Why We Go Where We Go - Profiling User Decisions on Choosing POIs](Industry/POI/Why%20We%20Go%20Where%20We%20Go%20-%20Profiling%20User%20Decisions%20on%20Choosing%20POIs.pdf)
+- [Where to Go Next - Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation](Industry/POI/Where%20to%20Go%20Next%20-%20Modeling%20Long-%20and%20Short-Term%20User%20Preferences%20for%20Point-of-Interest%20Recommendation.pdf)
+- [You Are What and Where You Are - Graph Enhanced Attention Network for Explainable POI Recommendation](Industry/POI/You%20Are%20What%20and%20Where%20You%20Are%20-%20Graph%20Enhanced%20Attention%20Network%20for%20Explainable%20POI%20Recommendation.pdf)
 #### Intent
 - [FINN - Feedback Interactive Neural Network for Intent Recommendation](Industry/Intent/FINN%20-%20Feedback%20Interactive%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
 - [Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation](Industry/Intent/Metapath-guided%20Heterogeneous%20Graph%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
@@ -212,7 +227,6 @@
 - [[2018][Alibaba][EGES] Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](Match/GNN/%5B2018%5D%5BAlibaba%5D%5BEGES%5D%20Billion-scale%20Commodity%20Embedding%20for%20E-commerce%20Recommendation%20in%20Alibaba.pdf)
 - [[2019][SR-GNN] Session-based Recommendation with Graph Neural Networks](Match/GNN/%5B2019%5D%5BSR-GNN%5D%20Session-based%20Recommendation%20with%20Graph%20Neural%20Networks.pdf)
 - [[2019][NGCF]Neural Graph Collaborative Filtering](Match/GNN/%5B2019%5D%5BNGCF%5DNeural%20Graph%20Collaborative%20Filtering.pdf)
-- [[2020][meituan][STGCN] STGCN - A Spatial-Temporal Aware Graph Learning Method for POI Recommendation](Match/GNN/%5B2020%5D%5Bmeituan%5D%5BSTGCN%5D%20STGCN%20-%20A%20Spatial-Temporal%20Aware%20Graph%20Learning%20Method%20for%20POI%20Recommendation.pdf)
 - [[2020][LightGCN] LightGCN - Simplifying and Powering Graph Convolution Network for Recommendation](Match/GNN/%5B2020%5D%5BLightGCN%5D%20LightGCN%20-%20Simplifying%20and%20Powering%20Graph%20Convolution%20Network%20for%20Recommendation.pdf)
 - [ATBRG - Adaptive Target-Behavior Relational Graph Network for Effective Recommendation](Match/GNN/ATBRG%20-%20Adaptive%20Target-Behavior%20Relational%20Graph%20Network%20for%20Effective%20Recommendation.pdf)
 - [Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View](Match/GNN/Attentional%20Graph%20Convolutional%20Networks%20for%20Knowledge%20Concept%20Recommendation%20in%20MOOCs%20in%20a%20Heterogeneous%20View.pdf)
@@ -283,6 +297,7 @@
 - [A Survey on Cross-domain Recommendation - Taxonomies, Methods, and Future Directions](Multi-Scenario/A%20Survey%20on%20Cross-domain%20Recommendation%20-%20Taxonomies%2C%20Methods%2C%20and%20Future%20Directions.pdf)
 - [Automatic Expert Selection for Multi-Scenario and Multi-Task Search](Multi-Scenario/Automatic%20Expert%20Selection%20for%20Multi-Scenario%20and%20Multi-Task%20Search.pdf)
 - [Cross-Domain Recommendation - An Embedding and Mapping Approach](Multi-Scenario/Cross-Domain%20Recommendation%20-%20An%20Embedding%20and%20Mapping%20Approach.pdf)
+- [Continual Transfer Learning for Cross-Domain Click-Through Rate Prediction at Taobao](Multi-Scenario/Continual%20Transfer%20Learning%20for%20Cross-Domain%20Click-Through%20Rate%20Prediction%20at%20Taobao.pdf)
 - [Dynamic collaborative filtering Thompson Sampling for cross-domain advertisements recommendation](Multi-Scenario/Dynamic%20collaborative%20filtering%20Thompson%20Sampling%20for%20cross-domain%20advertisements%20recommendation.pdf)
 - [Improving Multi-Scenario Learning to Rank in E-commerce by Exploiting Task Relationships in the Label Space](Multi-Scenario/Improving%20Multi-Scenario%20Learning%20to%20Rank%20in%20E-commerce%20by%20Exploiting%20Task%20Relationships%20in%20the%20Label%20Space.pdf)
 - [KEEP - An Industrial Pre-Training Framework for Online Recommendation via Knowledge Extraction and Plugging](Multi-Scenario/KEEP%20-%20An%20Industrial%20Pre-Training%20Framework%20for%20Online%20Recommendation%20via%20Knowledge%20Extraction%20and%20Plugging.pdf)
