@@ -1,7 +1,7 @@
 
 # 推荐系统相关论文汇总 
 ## 介绍
-1. 截至2022-08-30，本仓库收集汇总了推荐系统领域相关论文共**377**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-09-02，本仓库收集汇总了推荐系统领域相关论文共**380**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -110,6 +110,9 @@
 - [User Behavior Retrieval for Click-Through Rate Prediction](Industry/User%20Behavior%20Retrieval%20for%20Click-Through%20Rate%20Prediction.pdf)
 #### Reciprocal
 - [MATCHING THEORY-BASED RECOMMENDER SYSTEMS IN ONLINE DATING](Industry/Reciprocal/MATCHING%20THEORY-BASED%20RECOMMENDER%20SYSTEMS%20IN%20ONLINE%20DATING.pdf)
+#### Dataset
+- [KuaiRand - An Unbiased Sequential Recommendation Dataset with Randomly Exposed Videos](Industry/Dataset/KuaiRand%20-%20An%20Unbiased%20Sequential%20Recommendation%20Dataset%20with%20Randomly%20Exposed%20Videos.pdf)
+- [KuaiRec - A Fully-observed Dataset and Insights for Evaluating Recommender Systems](Industry/Dataset/KuaiRec%20-%20A%20Fully-observed%20Dataset%20and%20Insights%20for%20Evaluating%20Recommender%20Systems.pdf)
 #### Bundle
 - [CrossCBR - Cross-view Contrastive Learning for Bundle Recommendation](Industry/Bundle/CrossCBR%20-%20Cross-view%20Contrastive%20Learning%20for%20Bundle%20Recommendation.pdf)
 #### Edge
@@ -203,6 +206,7 @@
 - [Uni-Retriever - Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search](Match/Uni-Retriever%20-%20Towards%20Learning%20The%20Unified%20Embedding%20Based%20Retriever%20in%20Bing%20Sponsored%20Search.pdf)
 #### Classic
 - [Collaborative Filtering Recommender Systems](Match/Classic/Collaborative%20Filtering%20Recommender%20Systems.pdf)
+- [GroupLens - An open architecture for collaborative filtering of Netnews](Match/Classic/GroupLens%20-%20An%20open%20architecture%20for%20collaborative%20filtering%20of%20Netnews.pdf)
 - [Item-Based Collaborative Filtering Recommendation Algorithms](Match/Classic/Item-Based%20Collaborative%20Filtering%20Recommendation%20Algorithms.pdf)
 #### Mulit-Interset
 - [[2019][Alibaba][MIND] Multi-Interest Network with Dynamic Routing for Recommendation at Tmall](Match/Mulit-Interset/%5B2019%5D%5BAlibaba%5D%5BMIND%5D%20Multi-Interest%20Network%20with%20Dynamic%20Routing%20for%20Recommendation%20at%20Tmall.pdf)
@@ -264,11 +268,11 @@
 - [[2020][Alibaba][Multi-IPW&Multi-DR] LARGE-SCALE CAUSAL APPROACHES TO DEBIASING POST-CLICK CONVERSION RATE ESTIMATION WITH MULTI-TASK LEARNING](Multi-Task/%5B2020%5D%5BAlibaba%5D%5BMulti-IPW%26Multi-DR%5D%20LARGE-SCALE%20CAUSAL%20APPROACHES%20TO%20DEBIASING%20POST-CLICK%20CONVERSION%20RATE%20ESTIMATION%20WITH%20MULTI-TASK%20LEARNING.pdf)
 - [[2020][Tencent][PLE] Progressive Layered Extraction (PLE) - A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](Multi-Task/%5B2020%5D%5BTencent%5D%5BPLE%5D%20Progressive%20Layered%20Extraction%20%28PLE%29%20-%20A%20Novel%20Multi-Task%20Learning%20%28MTL%29%20Model%20for%20Personalized%20Recommendations.pdf)
 - [[2020][Google][MoSE] Multitask Mixture of Sequential Experts for User Activity Streams](Multi-Task/%5B2020%5D%5BGoogle%5D%5BMoSE%5D%20Multitask%20Mixture%20of%20Sequential%20Experts%20for%20User%20Activity%20Streams.pdf)
+- [[2020][JD][DMT] Deep Multifaceted Transformers for Multi-objective Ranking in Large-Scale E-commerce Recommender Systems](Multi-Task/%5B2020%5D%5BJD%5D%5BDMT%5D%20Deep%20Multifaceted%20Transformers%20for%20Multi-objective%20Ranking%20in%20Large-Scale%20E-commerce%20Recommender%20Systems.pdf)
 - [[2020][PCGrad] Gradient Surgery for Multi-Task Learning](Multi-Task/%5B2020%5D%5BPCGrad%5D%20Gradient%20Surgery%20for%20Multi-Task%20Learning.pdf)
 - [[2021][Meituan][AITM] Modeling the Sequential Dependence among Audience Multi-step Conversions with Multi-task Learning in Targeted Display Advertising](Multi-Task/%5B2021%5D%5BMeituan%5D%5BAITM%5D%20Modeling%20the%20Sequential%20Dependence%20among%20Audience%20Multi-step%20Conversions%20with%20Multi-task%20Learning%20in%20Targeted%20Display%20Advertising.pdf)
 - [[2022][Alibaba][ESCM2] ESCM2 - Entire Space Counterfactual Multi-Task Model for Post-Click Conversion Rate Estimation](Multi-Task/%5B2022%5D%5BAlibaba%5D%5BESCM2%5D%20ESCM2%20-%20Entire%20Space%20Counterfactual%20Multi-Task%20Model%20for%20Post-Click%20Conversion%20Rate%20Estimation.pdf)
 - [Can Small Heads Help Understanding and Improving Multi-Task Generalization](Multi-Task/Can%20Small%20Heads%20Help%20Understanding%20and%20Improving%20Multi-Task%20Generalization.pdf)
-- [Deep Multifaceted Transformers for Multi-objective Ranking in Large-Scale E-commerce Recommender Systems](Multi-Task/Deep%20Multifaceted%20Transformers%20for%20Multi-objective%20Ranking%20in%20Large-Scale%20E-commerce%20Recommender%20Systems.pdf)
 - [DSelect-k - Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning](Multi-Task/DSelect-k%20-%20Differentiable%20Selection%20in%20the%20Mixture%20of%20Experts%20with%20Applications%20to%20Multi-Task%20Learning.pdf)
 - [Entire Space Multi-Task Modeling via Post-Click Behavior Decomposition for Conversion Rate Prediction](Multi-Task/Entire%20Space%20Multi-Task%20Modeling%20via%20Post-Click%20Behavior%20Decomposition%20for%20Conversion%20Rate%20Prediction.pdf)
 - [GemNN - Gating-Enhanced Multi-Task Neural Networks with Feature Interaction Learning for CTR Prediction](Multi-Task/GemNN%20-%20Gating-Enhanced%20Multi-Task%20Neural%20Networks%20with%20Feature%20Interaction%20Learning%20for%20CTR%20Prediction.pdf)
