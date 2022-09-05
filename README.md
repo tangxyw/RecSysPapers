@@ -1,7 +1,7 @@
 
 # 推荐系统相关论文汇总 
 ## 介绍
-1. 截至2022-09-02，本仓库收集汇总了推荐系统领域相关论文共**380**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-09-05，本仓库收集汇总了推荐系统领域相关论文共**389**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -72,14 +72,15 @@
 - [[2020][Alibaba][SIM] Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction](Industry/%5B2020%5D%5BAlibaba%5D%5BSIM%5D%20Search-based%20User%20Interest%20Modeling%20with%20Lifelong%20Sequential%20Behavior%20Data%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2020][Alibaba][DMR] Deep Match to Rank Model for Personalized Click-Through Rate Prediction](Industry/%5B2020%5D%5BAlibaba%5D%5BDMR%5D%20Deep%20Match%20to%20Rank%20Model%20for%20Personalized%20Click-Through%20Rate%20Prediction.pdf)
 - [[2021][Fliggy] [DMSN] Spatial-Temporal Deep Intention Destination Networks for Online Travel Planning](Industry/%5B2021%5D%5BFliggy%5D%20%5BDMSN%5D%20Spatial-Temporal%20Deep%20Intention%20Destination%20Networks%20for%20Online%20Travel%20Planning.pdf)
+- [[2021][Huawei][AutoDis] An Embedding Learning Framework for Numerical Features in CTR Prediction](Industry/%5B2021%5D%5BHuawei%5D%5BAutoDis%5D%20An%20Embedding%20Learning%20Framework%20for%20Numerical%20Features%20in%20CTR%20Prediction.pdf)
 - [[2021][Alibaba][DINMP] A Non-sequential Approach to Deep User Interest Model for Click-Through Rate Prediction](Industry/%5B2021%5D%5BAlibaba%5D%5BDINMP%5D%20A%20Non-sequential%20Approach%20to%20Deep%20User%20Interest%20Model%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2021][Google] Bootstrapping Recommendations at Chrome Web Store](Industry/%5B2021%5D%5BGoogle%5D%20Bootstrapping%20Recommendations%20at%20Chrome%20Web%20Store.pdf)
 - [Adversarial Mixture Of Experts with Category Hierarchy Soft Constraint](Industry/Adversarial%20Mixture%20Of%20Experts%20with%20Category%20Hierarchy%20Soft%20Constraint.pdf)
-- [An Embedding Learning Framework for Numerical Features in CTR Prediction](Industry/An%20Embedding%20Learning%20Framework%20for%20Numerical%20Features%20in%20CTR%20Prediction.pdf)
 - [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](Industry/Adversarial%20Filtering%20Modeling%20on%20Long-term%20User%20Behavior%20Sequences%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Curriculum Disentangled Recommendation with Noisy Multi-feedback](Industry/Curriculum%20Disentangled%20Recommendation%20with%20Noisy%20Multi-feedback.pdf)
 - [Category-Specific CNN for Visual-aware CTR Prediction at JD.com](Industry/Category-Specific%20CNN%20for%20Visual-aware%20CTR%20Prediction%20at%20JD.com.pdf)
 - [CAN - Revisiting Feature Co-Action for Click-Through Rate Prediction](Industry/CAN%20-%20Revisiting%20Feature%20Co-Action%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [CAEN - A Hierarchically Attentive Evolution Network for Item-Attribute-Change-Aware Recommendation in the Growing E-commerce Environment](Industry/CAEN%20-%20A%20Hierarchically%20Attentive%20Evolution%20Network%20for%20Item-Attribute-Change-Aware%20Recommendation%20in%20the%20Growing%20E-commerce%20Environment.pdf)
 - [Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction](Industry/Deep%20Interest%20with%20Hierarchical%20Attention%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Deep Learning Recommendation Model for Personalization and Recommendation System](Industry/Deep%20Learning%20Recommendation%20Model%20for%20Personalization%20and%20Recommendation%20System.pdf)
 - [Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction](Industry/Deep%20Spatio-Temporal%20Neural%20Networks%20for%20Click-Through%20Rate%20Prediction.pdf)
@@ -120,6 +121,7 @@
 #### POI
 - [[2020][meituan][STGCN] STGCN - A Spatial-Temporal Aware Graph Learning Method for POI Recommendation](Industry/POI/%5B2020%5D%5Bmeituan%5D%5BSTGCN%5D%20STGCN%20-%20A%20Spatial-Temporal%20Aware%20Graph%20Learning%20Method%20for%20POI%20Recommendation.pdf)
 - [A Survey on Deep Learning Based Point-Of-Interest (POI) Recommendations](Industry/POI/A%20Survey%20on%20Deep%20Learning%20Based%20Point-Of-Interest%20%28POI%29%20Recommendations.pdf)
+- [A Multi-Channel Next POI Recommendation Framework with Multi-Granularity Check-in Signals](Industry/POI/A%20Multi-Channel%20Next%20POI%20Recommendation%20Framework%20with%20Multi-Granularity%20Check-in%20Signals.pdf)
 - [Empowering Next POI Recommendation with Multi-Relational Modeling](Industry/POI/Empowering%20Next%20POI%20Recommendation%20with%20Multi-Relational%20Modeling.pdf)
 - [Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation](Industry/POI/Hierarchical%20Multi-Task%20Graph%20Recurrent%20Network%20for%20Next%20POI%20Recommendation.pdf)
 - [LightMove - A Lightweight Next-POI Recommendation for Taxicab Rooftop Advertising](Industry/POI/LightMove%20-%20A%20Lightweight%20Next-POI%20Recommendation%20for%20Taxicab%20Rooftop%20Advertising.pdf)
@@ -204,6 +206,7 @@
 - [Self-Attentive Sequential Recommendation](Match/Self-Attentive%20Sequential%20Recommendation.pdf)
 - [Towards Personalized and Semantic Retrieval - An End-to-End Solution for E-commerce Search via Embedding Learning](Match/Towards%20Personalized%20and%20Semantic%20Retrieval%20-%20An%20End-to-End%20Solution%20for%20E-commerce%20Search%20via%20Embedding%20Learning.pdf)
 - [Uni-Retriever - Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search](Match/Uni-Retriever%20-%20Towards%20Learning%20The%20Unified%20Embedding%20Based%20Retriever%20in%20Bing%20Sponsored%20Search.pdf)
+- [XDM - Improving Sequential Deep Matching with Unclicked User Behaviors for Recommender System](Match/XDM%20-%20Improving%20Sequential%20Deep%20Matching%20with%20Unclicked%20User%20Behaviors%20for%20Recommender%20System.pdf)
 #### Classic
 - [Collaborative Filtering Recommender Systems](Match/Classic/Collaborative%20Filtering%20Recommender%20Systems.pdf)
 - [GroupLens - An open architecture for collaborative filtering of Netnews](Match/Classic/GroupLens%20-%20An%20open%20architecture%20for%20collaborative%20filtering%20of%20Netnews.pdf)
@@ -251,6 +254,7 @@
 - [Representation Learning for Attributed Multiplex Heterogeneous Network](Match/GNN/Representation%20Learning%20for%20Attributed%20Multiplex%20Heterogeneous%20Network.pdf)
 - [Revisiting Item Promotion in GNN-based Collaborative Filtering - A Masked Targeted Topological Attack Perspective](Match/GNN/Revisiting%20Item%20Promotion%20in%20GNN-based%20Collaborative%20Filtering%20-%20A%20Masked%20Targeted%20Topological%20Attack%20Perspective.pdf)
 - [Self-supervised Graph Learning for Recommendation](Match/GNN/Self-supervised%20Graph%20Learning%20for%20Recommendation.pdf)
+- [SVD-GCN - A Simplified Graph Convolution Paradigm for Recommendation](Match/GNN/SVD-GCN%20-%20A%20Simplified%20Graph%20Convolution%20Paradigm%20for%20Recommendation.pdf)
 - [Self-Supervised Hypergraph Transformer for Recommender Systems](Match/GNN/Self-Supervised%20Hypergraph%20Transformer%20for%20Recommender%20Systems.pdf)
 - [TwHIN - Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation](Match/GNN/TwHIN%20-%20Embedding%20the%20Twitter%20Heterogeneous%20Information%20Network%20for%20Personalized%20Recommendation.pdf)
 - [metapath2vec - Scalable Representation Learning for Heterogeneous Networks](Match/GNN/metapath2vec%20-%20Scalable%20Representation%20Learning%20for%20Heterogeneous%20Networks.pdf)
@@ -317,6 +321,8 @@
 - [Bias and Debias in Recommender System A Survey and Future Directions](Debias/Bias%20and%20Debias%20in%20Recommender%20System%20A%20Survey%20and%20Future%20Directions.pdf)
 - [Deep Position-wise Interaction Network for CTR Prediction](Debias/Deep%20Position-wise%20Interaction%20Network%20for%20CTR%20Prediction.pdf)
 - [Denoising Implicit Feedback for Recommendation](Debias/Denoising%20Implicit%20Feedback%20for%20Recommendation.pdf)
+- [DVR - Micro-Video Recommendation Optimizing Watch-Time-Gain under Duration Bias](Debias/DVR%20-%20Micro-Video%20Recommendation%20Optimizing%20Watch-Time-Gain%20under%20Duration%20Bias.pdf)
+- [Improving Micro-video Recommendation by Controlling Position Bias](Debias/Improving%20Micro-video%20Recommendation%20by%20Controlling%20Position%20Bias.pdf)
 - [Learning to rank with selection bias in personal search](Debias/Learning%20to%20rank%20with%20selection%20bias%20in%20personal%20search.pdf)
 - [Unbiased Learning-to-Rank with Biased Feedback](Debias/Unbiased%20Learning-to-Rank%20with%20Biased%20Feedback.pdf)
 ## Calibration
@@ -367,6 +373,7 @@
 - [Improved Baselines with Momentum Contrastive Learning](ContrastiveLearning/Improved%20Baselines%20with%20Momentum%20Contrastive%20Learning.pdf)
 - [Multi-view Multi-behavior Contrastive Learning in Recommendation](ContrastiveLearning/Multi-view%20Multi-behavior%20Contrastive%20Learning%20in%20Recommendation.pdf)
 - [Momentum Contrast for Unsupervised Visual Representation Learning](ContrastiveLearning/Momentum%20Contrast%20for%20Unsupervised%20Visual%20Representation%20Learning.pdf)
+- [Multi-level Contrastive Learning Framework for Sequential Recommendation](ContrastiveLearning/Multi-level%20Contrastive%20Learning%20Framework%20for%20Sequential%20Recommendation.pdf)
 - [Understanding the Behaviour of Contrastive Loss](ContrastiveLearning/Understanding%20the%20Behaviour%20of%20Contrastive%20Loss.pdf)
 - [Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere](ContrastiveLearning/Understanding%20Contrastive%20Representation%20Learning%20through%20Alignment%20and%20Uniformity%20on%20the%20Hypersphere.pdf)
 ## Cold-Start
@@ -380,6 +387,7 @@
 - [A Practical Exploration System for Search Advertising](Cold-Start/A%20Practical%20Exploration%20System%20for%20Search%20Advertising.pdf)
 - [A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps](Cold-Start/A%20Semi-Personalized%20System%20for%20User%20Cold%20Start%20Recommendation%20on%20Music%20Streaming%20Apps.pdf)
 - [Cold-start Sequential Recommendation via Meta Learner](Cold-Start/Cold-start%20Sequential%20Recommendation%20via%20Meta%20Learner.pdf)
+- [GIFT - Graph-guIded Feature Transfer for Cold-Start Video Click-Through Rate Prediction](Cold-Start/GIFT%20-%20Graph-guIded%20Feature%20Transfer%20for%20Cold-Start%20Video%20Click-Through%20Rate%20Prediction.pdf)
 - [Handling User Cold Start Problem in Recommender Systems Using Fuzzy Clustering](Cold-Start/Handling%20User%20Cold%20Start%20Problem%20in%20Recommender%20Systems%20Using%20Fuzzy%20Clustering.pdf)
 - [Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks](Cold-Start/Learning%20to%20Warm%20Up%20Cold%20Item%20Embeddings%20for%20Cold-start%20Recommendation%20with%20Meta%20Scaling%20and%20Shifting%20Networks.pdf)
 - [MAMO - Memory-Augmented Meta-Optimization for Cold-start Recommendation](Cold-Start/MAMO%20-%20Memory-Augmented%20Meta-Optimization%20for%20Cold-start%20Recommendation.pdf)
@@ -447,6 +455,7 @@
 - [Managing Diversity in Airbnb Search](Diversity/Managing%20Diversity%20in%20Airbnb%20Search.pdf)
 - [Novelty and Diversity in Information Retrieval Evaluation](Diversity/Novelty%20and%20Diversity%20in%20Information%20Retrieval%20Evaluation.pdf)
 - [P-Companion - A Principled Framework for Diversified Complementary Product Recommendation](Diversity/P-Companion%20-%20A%20Principled%20Framework%20for%20Diversified%20Complementary%20Product%20Recommendation.pdf)
+- [UNDERSTANDING DIVERSITY IN SESSION-BASED RECOMMENDATION](Diversity/UNDERSTANDING%20DIVERSITY%20IN%20SESSION-BASED%20RECOMMENDATION.pdf)
 ## ABTest
 - [Overlapping Experiment Infrastructure - More, Better, Faster Experimentation](ABTest/Overlapping%20Experiment%20Infrastructure%20-%20More%2C%20Better%2C%20Faster%20Experimentation.pdf)
 ## Reinforce
