@@ -1,7 +1,7 @@
 
 # 推荐系统相关论文汇总 
 ## 介绍
-1. 截至2022-09-05，本仓库收集汇总了推荐系统领域相关论文共**389**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-09-06，本仓库收集汇总了推荐系统领域相关论文共**398**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -115,7 +115,9 @@
 - [KuaiRand - An Unbiased Sequential Recommendation Dataset with Randomly Exposed Videos](Industry/Dataset/KuaiRand%20-%20An%20Unbiased%20Sequential%20Recommendation%20Dataset%20with%20Randomly%20Exposed%20Videos.pdf)
 - [KuaiRec - A Fully-observed Dataset and Insights for Evaluating Recommender Systems](Industry/Dataset/KuaiRec%20-%20A%20Fully-observed%20Dataset%20and%20Insights%20for%20Evaluating%20Recommender%20Systems.pdf)
 #### Bundle
+- [Bundle Recommendation with Graph Convolutional Networks](Industry/Bundle/Bundle%20Recommendation%20with%20Graph%20Convolutional%20Networks.pdf)
 - [CrossCBR - Cross-view Contrastive Learning for Bundle Recommendation](Industry/Bundle/CrossCBR%20-%20Cross-view%20Contrastive%20Learning%20for%20Bundle%20Recommendation.pdf)
+- [Hierarchical Fashion Graph Network for Personalized Outfit Recommendation](Industry/Bundle/Hierarchical%20Fashion%20Graph%20Network%20for%20Personalized%20Outfit%20Recommendation.pdf)
 #### Edge
 - [Real-time Short Video Recommendation on Mobile Devices](Industry/Edge/Real-time%20Short%20Video%20Recommendation%20on%20Mobile%20Devices.pdf)
 #### POI
@@ -238,6 +240,7 @@
 - [ATBRG - Adaptive Target-Behavior Relational Graph Network for Effective Recommendation](Match/GNN/ATBRG%20-%20Adaptive%20Target-Behavior%20Relational%20Graph%20Network%20for%20Effective%20Recommendation.pdf)
 - [Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View](Match/GNN/Attentional%20Graph%20Convolutional%20Networks%20for%20Knowledge%20Concept%20Recommendation%20in%20MOOCs%20in%20a%20Heterogeneous%20View.pdf)
 - [Debiasing Neighbor Aggregation for Graph Neural Network in Recommender Systems](Match/GNN/Debiasing%20Neighbor%20Aggregation%20for%20Graph%20Neural%20Network%20in%20Recommender%20Systems.pdf)
+- [Disentangled Graph Collaborative Filtering](Match/GNN/Disentangled%20Graph%20Collaborative%20Filtering.pdf)
 - [Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items](Match/GNN/Decoupled%20Graph%20Convolution%20Network%20for%20Inferring%20Substitutable%20and%20Complementary%20Items.pdf)
 - [Embedding-based News Recommendationfor Millions of Users](Match/GNN/Embedding-based%20News%20Recommendationfor%20Millions%20of%20Users.pdf)
 - [Explicit Semantic Cross Feature Learning via Pre-trained Graph Neural Networks for CTR Prediction](Match/GNN/Explicit%20Semantic%20Cross%20Feature%20Learning%20via%20Pre-trained%20Graph%20Neural%20Networks%20for%20CTR%20Prediction.pdf)
@@ -247,6 +250,7 @@
 - [Graph Neural Network for Tag Ranking in Tag-enhanced Video Recommendation](Match/GNN/Graph%20Neural%20Network%20for%20Tag%20Ranking%20in%20Tag-enhanced%20Video%20Recommendation.pdf)
 - [Graph Neural Networks for Social Recommendation](Match/GNN/Graph%20Neural%20Networks%20for%20Social%20Recommendation.pdf)
 - [IntentGC - a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation](Match/GNN/IntentGC%20-%20a%20Scalable%20Graph%20Convolution%20Framework%20Fusing%20Heterogeneous%20Information%20for%20Recommendation.pdf)
+- [MMGCN - Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video](Match/GNN/MMGCN%20-%20Multi-modal%20Graph%20Convolution%20Network%20for%20Personalized%20Recommendation%20of%20Micro-video.pdf)
 - [Network Embedding as Matrix Factorization - Unifying DeepWalk, LINE, PTE, and node2vec](Match/GNN/Network%20Embedding%20as%20Matrix%20Factorization%20-%20Unifying%20DeepWalk%2C%20LINE%2C%20PTE%2C%20and%20node2vec.pdf)
 - [Package Recommendation with Intra- and Inter-Package Attention Networks](Match/GNN/Package%20Recommendation%20with%20Intra-%20and%20Inter-Package%20Attention%20Networks.pdf)
 - [PinnerSage - Multi-Modal User Embedding Framework for Recommendations at Pinterest](Match/GNN/PinnerSage%20-%20Multi-Modal%20User%20Embedding%20Framework%20for%20Recommendations%20at%20Pinterest.pdf)
@@ -368,12 +372,17 @@
 - [An Empirical Study of Training Self-Supervised Vision Transformers](ContrastiveLearning/An%20Empirical%20Study%20of%20Training%20Self-Supervised%20Vision%20Transformers.pdf)
 - [A Simple Framework for Contrastive Learning of Visual Representations](ContrastiveLearning/A%20Simple%20Framework%20for%20Contrastive%20Learning%20of%20Visual%20Representations.pdf)
 - [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](ContrastiveLearning/Bootstrap%20Your%20Own%20Latent%20A%20New%20Approach%20to%20Self-Supervised%20Learning.pdf)
+- [Contrastive Learning for Interactive Recommendation in Fashion](ContrastiveLearning/Contrastive%20Learning%20for%20Interactive%20Recommendation%20in%20Fashion.pdf)
 - [Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems](ContrastiveLearning/Contrastive%20Learning%20for%20Debiased%20Candidate%20Generation%20in%20Large-Scale%20Recommender%20Systems.pdf)
+- [CCL4Rec - Contrast over Contrastive Learning for Micro-video Recommendation](ContrastiveLearning/CCL4Rec%20-%20Contrast%20over%20Contrastive%20Learning%20for%20Micro-video%20Recommendation.pdf)
+- [Disentangled Contrastive Learning for Social Recommendation](ContrastiveLearning/Disentangled%20Contrastive%20Learning%20for%20Social%20Recommendation.pdf)
+- [Exploiting Negative Preference in Content-based Music Recommendation with Contrastive Learning](ContrastiveLearning/Exploiting%20Negative%20Preference%20in%20Content-based%20Music%20Recommendation%20with%20Contrastive%20Learning.pdf)
 - [Improving Knowledge-aware Recommendation with Multi-level Interactive Contrastive Learning](ContrastiveLearning/Improving%20Knowledge-aware%20Recommendation%20with%20Multi-level%20Interactive%20Contrastive%20Learning.pdf)
 - [Improved Baselines with Momentum Contrastive Learning](ContrastiveLearning/Improved%20Baselines%20with%20Momentum%20Contrastive%20Learning.pdf)
 - [Multi-view Multi-behavior Contrastive Learning in Recommendation](ContrastiveLearning/Multi-view%20Multi-behavior%20Contrastive%20Learning%20in%20Recommendation.pdf)
 - [Momentum Contrast for Unsupervised Visual Representation Learning](ContrastiveLearning/Momentum%20Contrast%20for%20Unsupervised%20Visual%20Representation%20Learning.pdf)
 - [Multi-level Contrastive Learning Framework for Sequential Recommendation](ContrastiveLearning/Multi-level%20Contrastive%20Learning%20Framework%20for%20Sequential%20Recommendation.pdf)
+- [Predictive and Contrastive- Dual-Auxiliary Learning for Recommendation](ContrastiveLearning/Predictive%20and%20Contrastive-%20Dual-Auxiliary%20Learning%20for%20Recommendation.pdf)
 - [Understanding the Behaviour of Contrastive Loss](ContrastiveLearning/Understanding%20the%20Behaviour%20of%20Contrastive%20Loss.pdf)
 - [Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere](ContrastiveLearning/Understanding%20Contrastive%20Representation%20Learning%20through%20Alignment%20and%20Uniformity%20on%20the%20Hypersphere.pdf)
 ## Cold-Start
