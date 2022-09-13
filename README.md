@@ -1,7 +1,7 @@
 
 # 推荐系统相关论文汇总 
 ## 介绍
-1. 截至2022-09-06，本仓库收集汇总了推荐系统领域相关论文共**398**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-09-13，本仓库收集汇总了推荐系统领域相关论文共**407**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -40,10 +40,10 @@
 - [[2009][BPR] Bayesian Personalized Ranking from Implicit Feedback](Rank/%5B2009%5D%5BBPR%5D%20Bayesian%20Personalized%20Ranking%20from%20Implicit%20Feedback.pdf)
 - [[2010][FM] Factorization Machines](Rank/%5B2010%5D%5BFM%5D%20Factorization%20Machines.pdf)
 - [[2014][Facebook][GBDT+LR] Practical Lessons from Predicting Clicks on Ads at Facebook](Rank/%5B2014%5D%5BFacebook%5D%5BGBDT%2BLR%5D%20Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf)
-- [[2016][SJTU][PNN] Product-based Neural Networks for User Response Prediction (SJTU 2016)](Rank/%5B2016%5D%5BSJTU%5D%5BPNN%5D%20Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction%20%28SJTU%202016%29.pdf)
 - [[2016][UCL][FNN] Deep Learning over Multi-field Categorical Data](Rank/%5B2016%5D%5BUCL%5D%5BFNN%5D%20Deep%20Learning%20over%20Multi-field%20Categorical%20Data.pdf)
 - [[2016][Microsft][Deep Crossing] Deep Crossing - Web-Scale Modeling without Manually Crafted Combinatorial Features](Rank/%5B2016%5D%5BMicrosft%5D%5BDeep%20Crossing%5D%20Deep%20Crossing%20-%20Web-Scale%20Modeling%20without%20Manually%20Crafted%20Combinatorial%20Features.pdf)
 - [[2016][Google][Wide&Deep] Wide & Deep Learning for Recommender Systems](Rank/%5B2016%5D%5BGoogle%5D%5BWide%26Deep%5D%20Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.pdf)
+- [[2016][SJTU][PNN] Product-based Neural Networks for User Response Prediction](Rank/%5B2016%5D%5BSJTU%5D%5BPNN%5D%20Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction.pdf)
 - [[2016][NTU][FFM] Field-aware Factorization Machines for CTR Prediction](Rank/%5B2016%5D%5BNTU%5D%5BFFM%5D%20Field-aware%20Factorization%20Machines%20for%20CTR%20Prediction.pdf)
 - [[2017][Stanford][DCN] Deep & Cross Network for Ad Click Predictions](Rank/%5B2017%5D%5BStanford%5D%5BDCN%5D%20Deep%20%26%20Cross%20Network%20for%20Ad%20Click%20Predictions.pdf)
 - [[2017][NUS][NFM] Neural Factorization Machines for Sparse Predictive Analytics](Rank/%5B2017%5D%5BNUS%5D%5BNFM%5D%20Neural%20Factorization%20Machines%20for%20Sparse%20Predictive%20Analytics.pdf)
@@ -81,6 +81,7 @@
 - [Category-Specific CNN for Visual-aware CTR Prediction at JD.com](Industry/Category-Specific%20CNN%20for%20Visual-aware%20CTR%20Prediction%20at%20JD.com.pdf)
 - [CAN - Revisiting Feature Co-Action for Click-Through Rate Prediction](Industry/CAN%20-%20Revisiting%20Feature%20Co-Action%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [CAEN - A Hierarchically Attentive Evolution Network for Item-Attribute-Change-Aware Recommendation in the Growing E-commerce Environment](Industry/CAEN%20-%20A%20Hierarchically%20Attentive%20Evolution%20Network%20for%20Item-Attribute-Change-Aware%20Recommendation%20in%20the%20Growing%20E-commerce%20Environment.pdf)
+- [Dual Graph enhanced Embedding Neural Network for CTR Prediction](Industry/Dual%20Graph%20enhanced%20Embedding%20Neural%20Network%20for%20CTR%20Prediction.pdf)
 - [Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction](Industry/Deep%20Interest%20with%20Hierarchical%20Attention%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Deep Learning Recommendation Model for Personalization and Recommendation System](Industry/Deep%20Learning%20Recommendation%20Model%20for%20Personalization%20and%20Recommendation%20System.pdf)
 - [Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction](Industry/Deep%20Spatio-Temporal%20Neural%20Networks%20for%20Click-Through%20Rate%20Prediction.pdf)
@@ -89,7 +90,9 @@
 - [Denoising User-aware Memory Network for Recommendation](Industry/Denoising%20User-aware%20Memory%20Network%20for%20Recommendation.pdf)
 - [EXTR - Click-Through Rate Prediction with Externalities in E-Commerce Sponsored Search](Industry/EXTR%20-%20Click-Through%20Rate%20Prediction%20with%20Externalities%20in%20E-Commerce%20Sponsored%20Search.pdf)
 - [End-to-End User Behavior Retrieval in Click-Through Rate Prediction Model](Industry/End-to-End%20User%20Behavior%20Retrieval%20in%20Click-Through%20Rate%20Prediction%20Model.pdf)
+- [FM2 - Field-matrixed Factorization Machines for Recommender Systems](Industry/FM2%20-%20Field-matrixed%20Factorization%20Machines%20for%20Recommender%20Systems.pdf)
 - [FeedRec - News Feed Recommendation with Various User Feedbacks](Industry/FeedRec%20-%20News%20Feed%20Recommendation%20with%20Various%20User%20Feedbacks.pdf)
+- [Fi-GNN - Modeling Feature Interactions via Graph Neural Networks for CTR Prediction](Industry/Fi-GNN%20-%20Modeling%20Feature%20Interactions%20via%20Graph%20Neural%20Networks%20for%20CTR%20Prediction.pdf)
 - [FLEN - Leveraging Field for Scalable CTR Prediction](Industry/FLEN%20-%20Leveraging%20Field%20for%20Scalable%20CTR%20Prediction.pdf)
 - [GateNet - Gating-Enhanced Deep Network for Click-Through Rate Prediction](Industry/GateNet%20-%20Gating-Enhanced%20Deep%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Hybrid Interest Modeling for Long-tailed Users](Industry/Hybrid%20Interest%20Modeling%20for%20Long-tailed%20Users.pdf)
@@ -101,6 +104,7 @@
 - [Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction](Industry/Multi-Interactive%20Attention%20Network%20for%20Fine-grained%20Feature%20Learning%20in%20CTR%20Prediction.pdf)
 - [MRIF - Multi-resolution Interest Fusion for Recommendation](Industry/MRIF%20-%20Multi-resolution%20Interest%20Fusion%20for%20Recommendation.pdf)
 - [News Recommendation with Candidate-aware User Modeling](Industry/News%20Recommendation%20with%20Candidate-aware%20User%20Modeling.pdf)
+- [Product-based Neural Networks for User Response Prediction over Multi-field Categorical Data](Industry/Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction%20over%20Multi-field%20Categorical%20Data.pdf)
 - [Recommender Transformers with Behavior Pathways](Industry/Recommender%20Transformers%20with%20Behavior%20Pathways.pdf)
 - [Res-embedding for Deep Learning Based Click-Through Rate Prediction Modeling](Industry/Res-embedding%20for%20Deep%20Learning%20Based%20Click-Through%20Rate%20Prediction%20Modeling.pdf)
 - [Sequential Modeling with Multiple Attributes for Watchlist Recommendation in E-Commerce](Industry/Sequential%20Modeling%20with%20Multiple%20Attributes%20for%20Watchlist%20Recommendation%20in%20E-Commerce.pdf)
@@ -137,6 +141,7 @@
 - [Where to Go Next - Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation](Industry/POI/Where%20to%20Go%20Next%20-%20Modeling%20Long-%20and%20Short-Term%20User%20Preferences%20for%20Point-of-Interest%20Recommendation.pdf)
 - [You Are What and Where You Are - Graph Enhanced Attention Network for Explainable POI Recommendation](Industry/POI/You%20Are%20What%20and%20Where%20You%20Are%20-%20Graph%20Enhanced%20Attention%20Network%20for%20Explainable%20POI%20Recommendation.pdf)
 #### Intent
+- [Automatically Discovering User Consumption Intents in Meituan](Industry/Intent/Automatically%20Discovering%20User%20Consumption%20Intents%20in%20Meituan.pdf)
 - [FINN - Feedback Interactive Neural Network for Intent Recommendation](Industry/Intent/FINN%20-%20Feedback%20Interactive%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
 - [Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation](Industry/Intent/Metapath-guided%20Heterogeneous%20Graph%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
 #### FeatureHashing
@@ -169,6 +174,7 @@
 - [Practical Diversified Recommendations on YouTube with Determinantal Point Processes](Re-Rank/Practical%20Diversified%20Recommendations%20on%20YouTube%20with%20Determinantal%20Point%20Processes.pdf)
 - [Personalized Click Shaping through Lagrangian Duality for Online Recommendation](Re-Rank/Personalized%20Click%20Shaping%20through%20Lagrangian%20Duality%20for%20Online%20Recommendation.pdf)
 - [Personalized Re-ranking for Recommendation](Re-Rank/Personalized%20Re-ranking%20for%20Recommendation.pdf)
+- [Personalized Re-ranking with Item Relationships for E-commerce](Re-Rank/Personalized%20Re-ranking%20with%20Item%20Relationships%20for%20E-commerce.pdf)
 - [Re-ranking With Constraints on Diversified Exposures for Homepage Recommender System](Re-Rank/Re-ranking%20With%20Constraints%20on%20Diversified%20Exposures%20for%20Homepage%20Recommender%20System.pdf)
 - [Revisit Recommender System in the Permutation Prospective](Re-Rank/Revisit%20Recommender%20System%20in%20the%20Permutation%20Prospective.pdf)
 - [SLATEQ - A Tractable Decomposition for Reinforcement Learning with Recommendation Sets](Re-Rank/SLATEQ%20-%20A%20Tractable%20Decomposition%20for%20Reinforcement%20Learning%20with%20Recommendation%20Sets.pdf)
@@ -181,6 +187,7 @@
 - [[2016][Yahoo][App2Vec] App2Vec - Vector Modeling of Mobile Apps and Applications](Match/%5B2016%5D%5BYahoo%5D%5BApp2Vec%5D%20App2Vec%20-%20Vector%20Modeling%20of%20Mobile%20Apps%20and%20Applications.pdf)
 - [[2018][TC-CML] Loss Aversion in Recommender Systems - Utilizing Negative User Preference to Improve Recommendation Quality](Match/%5B2018%5D%5BTC-CML%5D%20Loss%20Aversion%20in%20Recommender%20Systems%20-%20Utilizing%20Negative%20User%20Preference%20to%20Improve%20Recommendation%20Quality.pdf)
 - [[2019][Google] Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations](Match/%5B2019%5D%5BGoogle%5D%20Sampling-Bias-Corrected%20Neural%20Modeling%20for%20Large%20Corpus%20Item%20Recommendations.pdf)
+- [[2019][Baidu][MOBIUS] MOBIUS - Towards the Next Generation of Query-Ad Matching in Baidu’s Sponsored Search](Match/%5B2019%5D%5BBaidu%5D%5BMOBIUS%5D%20MOBIUS%20-%20Towards%20the%20Next%20Generation%20of%20Query-Ad%20Matching%20in%20Baidu%E2%80%99s%20Sponsored%20Search.pdf)
 - [[2019][Alibaba][SDM] SDM - Sequential Deep Matching Model for Online Large-scale Recommender System](Match/%5B2019%5D%5BAlibaba%5D%5BSDM%5D%20SDM%20-%20Sequential%20Deep%20Matching%20Model%20for%20Online%20Large-scale%20Recommender%20System.pdf)
 - [[2020][Alibaba][Swing&Surprise] Large Scale Product Graph Construction for Recommendation in E-commerce](Match/%5B2020%5D%5BAlibaba%5D%5BSwing%26Surprise%5D%20Large%20Scale%20Product%20Graph%20Construction%20for%20Recommendation%20in%20E-commerce.pdf)
 - [[2020][Weixin][UTPM] Learning to Build User-tag Profile in Recommendation System](Match/%5B2020%5D%5BWeixin%5D%5BUTPM%5D%20Learning%20to%20Build%20User-tag%20Profile%20in%20Recommendation%20System.pdf)
@@ -201,7 +208,6 @@
 - [Joint Optimization of Tree-based Index and Deep Model for Recommender Systems](Match/Joint%20Optimization%20of%20Tree-based%20Index%20and%20Deep%20Model%20for%20Recommender%20Systems.pdf)
 - [Learning Tree-based Deep Model for Recommender Systems](Match/Learning%20Tree-based%20Deep%20Model%20for%20Recommender%20Systems.pdf)
 - [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](Match/Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf)
-- [MOBIUS - Towards the Next Generation of Query-Ad Matching in Baidu’s Sponsored Search](Match/MOBIUS%20-%20Towards%20the%20Next%20Generation%20of%20Query-Ad%20Matching%20in%20Baidu%E2%80%99s%20Sponsored%20Search.pdf)
 - [Octopus - Comprehensive and Elastic User Representation for the Generation of Recommendation Candidates](Match/Octopus%20-%20Comprehensive%20and%20Elastic%20User%20Representation%20for%20the%20Generation%20of%20Recommendation%20Candidates.pdf)
 - [Path-based Deep Network for Candidate Item Matching in Recommenders](Match/Path-based%20Deep%20Network%20for%20Candidate%20Item%20Matching%20in%20Recommenders.pdf)
 - [Sparse-Interest Network for Sequential Recommendation](Match/Sparse-Interest%20Network%20for%20Sequential%20Recommendation.pdf)
@@ -244,14 +250,17 @@
 - [Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items](Match/GNN/Decoupled%20Graph%20Convolution%20Network%20for%20Inferring%20Substitutable%20and%20Complementary%20Items.pdf)
 - [Embedding-based News Recommendationfor Millions of Users](Match/GNN/Embedding-based%20News%20Recommendationfor%20Millions%20of%20Users.pdf)
 - [Explicit Semantic Cross Feature Learning via Pre-trained Graph Neural Networks for CTR Prediction](Match/GNN/Explicit%20Semantic%20Cross%20Feature%20Learning%20via%20Pre-trained%20Graph%20Neural%20Networks%20for%20CTR%20Prediction.pdf)
+- [Friend Recommendations with Self-Rescaling Graph Neural Networks](Match/GNN/Friend%20Recommendations%20with%20Self-Rescaling%20Graph%20Neural%20Networks.pdf)
 - [Graph Convolutional Matrix Completion](Match/GNN/Graph%20Convolutional%20Matrix%20Completion.pdf)
 - [Graph Neural Networks for Friend Ranking in Large-scale Social Platforms](Match/GNN/Graph%20Neural%20Networks%20for%20Friend%20Ranking%20in%20Large-scale%20Social%20Platforms.pdf)
 - [Graph Intention Network for Click-through Rate Prediction in Sponsored Search](Match/GNN/Graph%20Intention%20Network%20for%20Click-through%20Rate%20Prediction%20in%20Sponsored%20Search.pdf)
 - [Graph Neural Network for Tag Ranking in Tag-enhanced Video Recommendation](Match/GNN/Graph%20Neural%20Network%20for%20Tag%20Ranking%20in%20Tag-enhanced%20Video%20Recommendation.pdf)
 - [Graph Neural Networks for Social Recommendation](Match/GNN/Graph%20Neural%20Networks%20for%20Social%20Recommendation.pdf)
+- [GraphSAIL - Graph Structure Aware Incremental Learning for Recommender Systems](Match/GNN/GraphSAIL%20-%20Graph%20Structure%20Aware%20Incremental%20Learning%20for%20Recommender%20Systems.pdf)
 - [IntentGC - a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation](Match/GNN/IntentGC%20-%20a%20Scalable%20Graph%20Convolution%20Framework%20Fusing%20Heterogeneous%20Information%20for%20Recommendation.pdf)
 - [MMGCN - Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video](Match/GNN/MMGCN%20-%20Multi-modal%20Graph%20Convolution%20Network%20for%20Personalized%20Recommendation%20of%20Micro-video.pdf)
 - [Network Embedding as Matrix Factorization - Unifying DeepWalk, LINE, PTE, and node2vec](Match/GNN/Network%20Embedding%20as%20Matrix%20Factorization%20-%20Unifying%20DeepWalk%2C%20LINE%2C%20PTE%2C%20and%20node2vec.pdf)
+- [Neighbor Interaction Aware Graph Convolution Networks for Recommendation](Match/GNN/Neighbor%20Interaction%20Aware%20Graph%20Convolution%20Networks%20for%20Recommendation.pdf)
 - [Package Recommendation with Intra- and Inter-Package Attention Networks](Match/GNN/Package%20Recommendation%20with%20Intra-%20and%20Inter-Package%20Attention%20Networks.pdf)
 - [PinnerSage - Multi-Modal User Embedding Framework for Recommendations at Pinterest](Match/GNN/PinnerSage%20-%20Multi-Modal%20User%20Embedding%20Framework%20for%20Recommendations%20at%20Pinterest.pdf)
 - [ProNE - Fast and Scalable Network Representation Learning](Match/GNN/ProNE%20-%20Fast%20and%20Scalable%20Network%20Representation%20Learning.pdf)
