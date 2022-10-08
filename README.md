@@ -1,7 +1,7 @@
 
 # 推荐系统相关论文汇总 
 ## 介绍
-1. 截至2022-09-16，本仓库收集汇总了推荐系统领域相关论文共**414**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-10-08，本仓库收集汇总了推荐系统领域相关论文共**420**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -68,6 +68,7 @@
 - [[2019][Weibo][FiBiNET] FiBiNET - Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction](Industry/%5B2019%5D%5BWeibo%5D%5BFiBiNET%5D%20FiBiNET%20-%20Combining%20Feature%20Importance%20and%20Bilinear%20feature%20Interaction%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2019][Alibaba][MIMN] Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction](Industry/%5B2019%5D%5BAlibaba%5D%5BMIMN%5D%20Practice%20on%20Long%20Sequential%20User%20Behavior%20Modeling%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2019][Airbnb] Applying Deep Learning To Airbnb Search](Industry/%5B2019%5D%5BAirbnb%5D%20Applying%20Deep%20Learning%20To%20Airbnb%20Search.pdf)
+- [[2020][Alibaba][CAN] CAN - Revisiting Feature Co-Action for Click-Through Rate Prediction](Industry/%5B2020%5D%5BAlibaba%5D%5BCAN%5D%20CAN%20-%20Revisiting%20Feature%20Co-Action%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2020][Alibaba][ESAM] ESAM - Discriminative Domain Adaptation with Non-Displayed Items to Improve Long-Tail Performance](Industry/%5B2020%5D%5BAlibaba%5D%5BESAM%5D%20ESAM%20-%20Discriminative%20Domain%20Adaptation%20with%20Non-Displayed%20Items%20to%20Improve%20Long-Tail%20Performance.pdf)
 - [[2020][Alibaba][SIM] Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction](Industry/%5B2020%5D%5BAlibaba%5D%5BSIM%5D%20Search-based%20User%20Interest%20Modeling%20with%20Lifelong%20Sequential%20Behavior%20Data%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2020][Alibaba][DMR] Deep Match to Rank Model for Personalized Click-Through Rate Prediction](Industry/%5B2020%5D%5BAlibaba%5D%5BDMR%5D%20Deep%20Match%20to%20Rank%20Model%20for%20Personalized%20Click-Through%20Rate%20Prediction.pdf)
@@ -79,7 +80,6 @@
 - [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](Industry/Adversarial%20Filtering%20Modeling%20on%20Long-term%20User%20Behavior%20Sequences%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Curriculum Disentangled Recommendation with Noisy Multi-feedback](Industry/Curriculum%20Disentangled%20Recommendation%20with%20Noisy%20Multi-feedback.pdf)
 - [Category-Specific CNN for Visual-aware CTR Prediction at JD.com](Industry/Category-Specific%20CNN%20for%20Visual-aware%20CTR%20Prediction%20at%20JD.com.pdf)
-- [CAN - Revisiting Feature Co-Action for Click-Through Rate Prediction](Industry/CAN%20-%20Revisiting%20Feature%20Co-Action%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [ContextNet - A Click-Through Rate Prediction Framework Using Contextual information to Refine Feature Embedding](Industry/ContextNet%20-%20A%20Click-Through%20Rate%20Prediction%20Framework%20Using%20Contextual%20information%20to%20Refine%20Feature%20Embedding.pdf)
 - [CAEN - A Hierarchically Attentive Evolution Network for Item-Attribute-Change-Aware Recommendation in the Growing E-commerce Environment](Industry/CAEN%20-%20A%20Hierarchically%20Attentive%20Evolution%20Network%20for%20Item-Attribute-Change-Aware%20Recommendation%20in%20the%20Growing%20E-commerce%20Environment.pdf)
 - [Dual Graph enhanced Embedding Neural Network for CTR Prediction](Industry/Dual%20Graph%20enhanced%20Embedding%20Neural%20Network%20for%20CTR%20Prediction.pdf)
@@ -110,6 +110,7 @@
 - [MRIF - Multi-resolution Interest Fusion for Recommendation](Industry/MRIF%20-%20Multi-resolution%20Interest%20Fusion%20for%20Recommendation.pdf)
 - [News Recommendation with Candidate-aware User Modeling](Industry/News%20Recommendation%20with%20Candidate-aware%20User%20Modeling.pdf)
 - [Product-based Neural Networks for User Response Prediction over Multi-field Categorical Data](Industry/Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction%20over%20Multi-field%20Categorical%20Data.pdf)
+- [PURS - Personalized Unexpected Recommender System for Improving User Satisfaction](Industry/PURS%20-%20Personalized%20Unexpected%20Recommender%20System%20for%20Improving%20User%20Satisfaction.pdf)
 - [Recommender Transformers with Behavior Pathways](Industry/Recommender%20Transformers%20with%20Behavior%20Pathways.pdf)
 - [Res-embedding for Deep Learning Based Click-Through Rate Prediction Modeling](Industry/Res-embedding%20for%20Deep%20Learning%20Based%20Click-Through%20Rate%20Prediction%20Modeling.pdf)
 - [Sequential Modeling with Multiple Attributes for Watchlist Recommendation in E-Commerce](Industry/Sequential%20Modeling%20with%20Multiple%20Attributes%20for%20Watchlist%20Recommendation%20in%20E-Commerce.pdf)
@@ -119,6 +120,7 @@
 - [TiSSA - A Time Slice Self-Attention Approach for Modeling Sequential User Behaviors](Industry/TiSSA%20-%20A%20Time%20Slice%20Self-Attention%20Approach%20for%20Modeling%20Sequential%20User%20Behaviors.pdf)
 - [User Behavior Retrieval for Click-Through Rate Prediction](Industry/User%20Behavior%20Retrieval%20for%20Click-Through%20Rate%20Prediction.pdf)
 #### Reciprocal
+- [Modeling Two-Way Selection Preference for Person-Job Fit](Industry/Reciprocal/Modeling%20Two-Way%20Selection%20Preference%20for%20Person-Job%20Fit.pdf)
 - [MATCHING THEORY-BASED RECOMMENDER SYSTEMS IN ONLINE DATING](Industry/Reciprocal/MATCHING%20THEORY-BASED%20RECOMMENDER%20SYSTEMS%20IN%20ONLINE%20DATING.pdf)
 #### Dataset
 - [KuaiRand - An Unbiased Sequential Recommendation Dataset with Randomly Exposed Videos](Industry/Dataset/KuaiRand%20-%20An%20Unbiased%20Sequential%20Recommendation%20Dataset%20with%20Randomly%20Exposed%20Videos.pdf)
@@ -141,6 +143,7 @@
 - [Online POI Recommendation - Learning Dynamic Geo-Human Interactions in Streams](Industry/POI/Online%20POI%20Recommendation%20-%20Learning%20Dynamic%20Geo-Human%20Interactions%20in%20Streams.pdf)
 - [Point-of-Interest Recommender Systems based on Location-Based Social Networks - A Survey from an Experimental Perspective](Industry/POI/Point-of-Interest%20Recommender%20Systems%20based%20on%20Location-Based%20Social%20Networks%20-%20A%20Survey%20from%20an%20Experimental%20Perspective.pdf)
 - [POINTREC - A Test Collection for Narrative-driven Point of Interest Recommendation](Industry/POI/POINTREC%20-%20A%20Test%20Collection%20for%20Narrative-driven%20Point%20of%20Interest%20Recommendation.pdf)
+- [ST-PIL - Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation](Industry/POI/ST-PIL%20-%20Spatial-Temporal%20Periodic%20Interest%20Learning%20for%20Next%20Point-of-Interest%20Recommendation.pdf)
 - [TADSAM - A Time-Aware Dynamic Self-Attention Model for Next Point-of-Interest Recommendation](Industry/POI/TADSAM%20-%20A%20Time-Aware%20Dynamic%20Self-Attention%20Model%20for%20Next%20Point-of-Interest%20Recommendation.pdf)
 - [Why We Go Where We Go - Profiling User Decisions on Choosing POIs](Industry/POI/Why%20We%20Go%20Where%20We%20Go%20-%20Profiling%20User%20Decisions%20on%20Choosing%20POIs.pdf)
 - [Where to Go Next - Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation](Industry/POI/Where%20to%20Go%20Next%20-%20Modeling%20Long-%20and%20Short-Term%20User%20Preferences%20for%20Point-of-Interest%20Recommendation.pdf)
@@ -223,6 +226,8 @@
 - [Towards Personalized and Semantic Retrieval - An End-to-End Solution for E-commerce Search via Embedding Learning](Match/Towards%20Personalized%20and%20Semantic%20Retrieval%20-%20An%20End-to-End%20Solution%20for%20E-commerce%20Search%20via%20Embedding%20Learning.pdf)
 - [Uni-Retriever - Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search](Match/Uni-Retriever%20-%20Towards%20Learning%20The%20Unified%20Embedding%20Based%20Retriever%20in%20Bing%20Sponsored%20Search.pdf)
 - [XDM - Improving Sequential Deep Matching with Unclicked User Behaviors for Recommender System](Match/XDM%20-%20Improving%20Sequential%20Deep%20Matching%20with%20Unclicked%20User%20Behaviors%20for%20Recommender%20System.pdf)
+#### Nearline
+- [Truncation-Free Matching System for Display Advertising at Alibaba](Match/Nearline/Truncation-Free%20Matching%20System%20for%20Display%20Advertising%20at%20Alibaba.pdf)
 #### Classic
 - [Collaborative Filtering Recommender Systems](Match/Classic/Collaborative%20Filtering%20Recommender%20Systems.pdf)
 - [GroupLens - An open architecture for collaborative filtering of Netnews](Match/Classic/GroupLens%20-%20An%20open%20architecture%20for%20collaborative%20filtering%20of%20Netnews.pdf)
@@ -333,6 +338,7 @@
 - [Leaving No One Behind- A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling](Multi-Scenario/Leaving%20No%20One%20Behind-%20A%20Multi-Scenario%20Multi-Task%20Meta%20Learning%20Approach%20for%20Advertiser%20Modeling.pdf)
 - [Multi-Graph based Multi-Scenario Recommendation in Large-scale Online Video Services](Multi-Scenario/Multi-Graph%20based%20Multi-Scenario%20Recommendation%20in%20Large-scale%20Online%20Video%20Services.pdf)
 - [Personalized Transfer of User Preferences for Cross-domain Recommendation](Multi-Scenario/Personalized%20Transfer%20of%20User%20Preferences%20for%20Cross-domain%20Recommendation.pdf)
+- [SAR-Net - A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios](Multi-Scenario/SAR-Net%20-%20A%20Scenario-Aware%20Ranking%20Network%20for%20Personalized%20Fair%20Recommendation%20in%20Hundreds%20of%20Travel%20Scenarios.pdf)
 - [Scenario-aware and Mutual-based approach for Multi-scenario Recommendation in E-Commerce](Multi-Scenario/Scenario-aware%20and%20Mutual-based%20approach%20for%20Multi-scenario%20Recommendation%20in%20E-Commerce.pdf)
 - [Self-Supervised Learning on Users’ Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce](Multi-Scenario/Self-Supervised%20Learning%20on%20Users%E2%80%99%20Spontaneous%20Behaviors%20for%20Multi-Scenario%20Ranking%20in%20E-commerce.pdf)
 - [Scenario-Adaptive and Self-Supervised Model for Multi-Scenario Personalized Recommendation](Multi-Scenario/Scenario-Adaptive%20and%20Self-Supervised%20Model%20for%20Multi-Scenario%20Personalized%20Recommendation.pdf)
@@ -374,10 +380,10 @@
 ## Feedback-Delay
 - [[2021][Alibaba] Real Negatives Matter - Continuous Training with Real Negatives for Delayed Feedback Modeling](Feedback-Delay/%5B2021%5D%5BAlibaba%5D%20Real%20Negatives%20Matter%20-%20Continuous%20Training%20with%20Real%20Negatives%20for%20Delayed%20Feedback%20Modeling.pdf)
 - [Asymptotically Unbiased Estimation for Delayed Feedback Modeling via Label Correction](Feedback-Delay/Asymptotically%20Unbiased%20Estimation%20for%20Delayed%20Feedback%20Modeling%20via%20Label%20Correction.pdf)
+- [An Attention-based Model for Conversion Rate Prediction with Delayed Feedback via Post-click Calibration](Feedback-Delay/An%20Attention-based%20Model%20for%20Conversion%20Rate%20Prediction%20with%20Delayed%20Feedback%20via%20Post-click%20Calibration.pdf)
 - [Addressing Delayed Feedback for Continuous Training with Neural Networks in CTR prediction](Feedback-Delay/Addressing%20Delayed%20Feedback%20for%20Continuous%20Training%20with%20Neural%20Networks%20in%20CTR%20prediction.pdf)
 - [A Nonparametric Delayed Feedback Model for Conversion Rate Prediction](Feedback-Delay/A%20Nonparametric%20Delayed%20Feedback%20Model%20for%20Conversion%20Rate%20Prediction.pdf)
 - [A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback](Feedback-Delay/A%20Feedback%20Shift%20Correction%20in%20Predicting%20Conversion%20Rates%20under%20Delayed%20Feedback.pdf)
-- [An Attention-based Model for CVR with Delayed Feedback via Post-Click Calibration](Feedback-Delay/An%20Attention-based%20Model%20for%20CVR%20with%20Delayed%20Feedback%20via%20Post-Click%20Calibration.pdf)
 - [Counterfactual Reward Modification for Streaming Recommendation with Delayed Feedback](Feedback-Delay/Counterfactual%20Reward%20Modification%20for%20Streaming%20Recommendation%20with%20Delayed%20Feedback.pdf)
 - [Capturing Delayed Feedback in Conversion Rate Predictionvia Elapsed-Time Sampling](Feedback-Delay/Capturing%20Delayed%20Feedback%20in%20Conversion%20Rate%20Predictionvia%20Elapsed-Time%20Sampling.pdf)
 - [Delayed Feedback Model with Negative Binomial Regression for Multiple Conversions](Feedback-Delay/Delayed%20Feedback%20Model%20with%20Negative%20Binomial%20Regression%20for%20Multiple%20Conversions.pdf)
@@ -416,6 +422,7 @@
 - [GIFT - Graph-guIded Feature Transfer for Cold-Start Video Click-Through Rate Prediction](Cold-Start/GIFT%20-%20Graph-guIded%20Feature%20Transfer%20for%20Cold-Start%20Video%20Click-Through%20Rate%20Prediction.pdf)
 - [Handling User Cold Start Problem in Recommender Systems Using Fuzzy Clustering](Cold-Start/Handling%20User%20Cold%20Start%20Problem%20in%20Recommender%20Systems%20Using%20Fuzzy%20Clustering.pdf)
 - [Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks](Cold-Start/Learning%20to%20Warm%20Up%20Cold%20Item%20Embeddings%20for%20Cold-start%20Recommendation%20with%20Meta%20Scaling%20and%20Shifting%20Networks.pdf)
+- [LHRM - A LBS based Heterogeneous Relations Model for User Cold Start Recommendation in Online Travel Platform](Cold-Start/LHRM%20-%20A%20LBS%20based%20Heterogeneous%20Relations%20Model%20for%20User%20Cold%20Start%20Recommendation%20in%20Online%20Travel%20Platform.pdf)
 - [MAMO - Memory-Augmented Meta-Optimization for Cold-start Recommendation](Cold-Start/MAMO%20-%20Memory-Augmented%20Meta-Optimization%20for%20Cold-start%20Recommendation.pdf)
 - [Transform Cold-Start Users into Warm via Fused Behaviors in Large-Scale Recommendation](Cold-Start/Transform%20Cold-Start%20Users%20into%20Warm%20via%20Fused%20Behaviors%20in%20Large-Scale%20Recommendation.pdf)
 - [Telepath - Understanding Users from a Human Vision Perspective in Large-Scale Recommender Systems](Cold-Start/Telepath%20-%20Understanding%20Users%20from%20a%20Human%20Vision%20Perspective%20in%20Large-Scale%20Recommender%20Systems.pdf)
