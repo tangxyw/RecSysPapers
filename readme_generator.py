@@ -125,8 +125,7 @@ with open("./README.md", 'r+') as readme_file:
     固定部分 - 英文
 """
 
-with open("./README_EN.md", 'r+') as readme_en_file:
-    # old_content = readme_file.read()
+with open("./README_EN.md", 'w') as readme_en_file:
     desc = """
 # Summary of Papers Related to Recommendation System
 ## Introduce
@@ -148,7 +147,6 @@ I will remove it immediately after verification.
 7. This repo is for exchange and study only, without any commercial purpose.
     """
 
-    readme_en_file.seek(0, 0)
     readme_en_file.write(desc.format(today, count))
     readme_en_file.write("\n" * 2)
     readme_en_file.write("## WeChat")
