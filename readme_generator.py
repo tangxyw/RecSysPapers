@@ -99,7 +99,7 @@ with open("./README.md", 'r+') as readme_file:
     old_content = readme_file.read()
     desc = """
 # 推荐系统相关论文汇总
-([English Version is Here]('./README_EN.md'))
+([English Version is Here](/README_EN.md))
 ## 介绍
 1. 截至{}，本仓库收集汇总了推荐系统领域相关论文共**{}**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
