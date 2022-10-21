@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2022-10-08，本仓库收集汇总了推荐系统领域相关论文共**420**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-10-21，本仓库收集汇总了推荐系统领域相关论文共**425**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -104,6 +104,7 @@
 - [Improving Deep Learning For Airbnb Search](Industry/Improving%20Deep%20Learning%20For%20Airbnb%20Search.pdf)
 - [Implicit User Awareness Modeling via Candidate Items for CTR Prediction in Search Ads](Industry/Implicit%20User%20Awareness%20Modeling%20via%20Candidate%20Items%20for%20CTR%20Prediction%20in%20Search%20Ads.pdf)
 - [Long Short-Term Temporal Meta-learning in Online Recommendation](Industry/Long%20Short-Term%20Temporal%20Meta-learning%20in%20Online%20Recommendation.pdf)
+- [LambdaFM - Learning Optimal Ranking with Factorization Machines Using Lambda Surrogates](Industry/LambdaFM%20-%20Learning%20Optimal%20Ranking%20with%20Factorization%20Machines%20Using%20Lambda%20Surrogates.pdf)
 - [Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction](Industry/Lifelong%20Sequential%20Modeling%20with%20Personalized%20Memorization%20for%20User%20Response%20Prediction.pdf)
 - [Modeling Users’ Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](Industry/Modeling%20Users%E2%80%99%20Contextualized%20Page-wise%20Feedback%20for%20Click-Through%20Rate%20Prediction%20in%20E-commerce%20Search.pdf)
 - [MaskNet - Introducing Feature-Wise Multiplication to CTR Ranking Models by Instance-Guided Mask](Industry/MaskNet%20-%20Introducing%20Feature-Wise%20Multiplication%20to%20CTR%20Ranking%20Models%20by%20Instance-Guided%20Mask.pdf)
@@ -119,6 +120,7 @@
 - [Triangle Graph Interest Network for Click-through Rate Prediction](Industry/Triangle%20Graph%20Interest%20Network%20for%20Click-through%20Rate%20Prediction.pdf)
 - [TencentRec - Real-time Stream Recommendation in Practice](Industry/TencentRec%20-%20Real-time%20Stream%20Recommendation%20in%20Practice.pdf)
 - [TiSSA - A Time Slice Self-Attention Approach for Modeling Sequential User Behaviors](Industry/TiSSA%20-%20A%20Time%20Slice%20Self-Attention%20Approach%20for%20Modeling%20Sequential%20User%20Behaviors.pdf)
+- [Towards Understanding the Overfitting Phenomenon of Deep Click-Through Rate Prediction Models](Industry/Towards%20Understanding%20the%20Overfitting%20Phenomenon%20of%20Deep%20Click-Through%20Rate%20Prediction%20Models.pdf)
 - [User Behavior Retrieval for Click-Through Rate Prediction](Industry/User%20Behavior%20Retrieval%20for%20Click-Through%20Rate%20Prediction.pdf)
 #### Reciprocal
 - [Modeling Two-Way Selection Preference for Person-Job Fit](Industry/Reciprocal/Modeling%20Two-Way%20Selection%20Preference%20for%20Person-Job%20Fit.pdf)
@@ -260,6 +262,7 @@
 - [ATBRG - Adaptive Target-Behavior Relational Graph Network for Effective Recommendation](Match/GNN/ATBRG%20-%20Adaptive%20Target-Behavior%20Relational%20Graph%20Network%20for%20Effective%20Recommendation.pdf)
 - [Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View](Match/GNN/Attentional%20Graph%20Convolutional%20Networks%20for%20Knowledge%20Concept%20Recommendation%20in%20MOOCs%20in%20a%20Heterogeneous%20View.pdf)
 - [Debiasing Neighbor Aggregation for Graph Neural Network in Recommender Systems](Match/GNN/Debiasing%20Neighbor%20Aggregation%20for%20Graph%20Neural%20Network%20in%20Recommender%20Systems.pdf)
+- [DC-GNN - Decoupled Graph Neural Networks for Improving and Accelerating Large-Scale E-commerce Retrieval](Match/GNN/DC-GNN%20-%20Decoupled%20Graph%20Neural%20Networks%20for%20Improving%20and%20Accelerating%20Large-Scale%20E-commerce%20Retrieval.pdf)
 - [Disentangled Graph Collaborative Filtering](Match/GNN/Disentangled%20Graph%20Collaborative%20Filtering.pdf)
 - [Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items](Match/GNN/Decoupled%20Graph%20Convolution%20Network%20for%20Inferring%20Substitutable%20and%20Complementary%20Items.pdf)
 - [Embedding-based News Recommendationfor Millions of Users](Match/GNN/Embedding-based%20News%20Recommendationfor%20Millions%20of%20Users.pdf)
@@ -309,6 +312,7 @@
 - [GemNN - Gating-Enhanced Multi-Task Neural Networks with Feature Interaction Learning for CTR Prediction](Multi-Task/GemNN%20-%20Gating-Enhanced%20Multi-Task%20Neural%20Networks%20with%20Feature%20Interaction%20Learning%20for%20CTR%20Prediction.pdf)
 - [Hierarchically Modeling Micro and Macro Behaviors via Multi-Task Learning for Conversion Rate Prediction](Multi-Task/Hierarchically%20Modeling%20Micro%20and%20Macro%20Behaviors%20via%20Multi-Task%20Learning%20for%20Conversion%20Rate%20Prediction.pdf)
 - [HyperGrid Transformers - Towards A Single Model for Multiple Tasks](Multi-Task/HyperGrid%20Transformers%20-%20Towards%20A%20Single%20Model%20for%20Multiple%20Tasks.pdf)
+- [Learning to Recommend with Multiple Cascading Behaviors](Multi-Task/Learning%20to%20Recommend%20with%20Multiple%20Cascading%20Behaviors.pdf)
 - [MetaBalance - Improving Multi-Task Recommendations via Adapting Gradient Magnitudes of Auxiliary Tasks](Multi-Task/MetaBalance%20-%20Improving%20Multi-Task%20Recommendations%20via%20Adapting%20Gradient%20Magnitudes%20of%20Auxiliary%20Tasks.pdf)
 - [MSSM - A Multiple-level Sparse Sharing Model for Efficient Multi-Task Learning](Multi-Task/MSSM%20-%20A%20Multiple-level%20Sparse%20Sharing%20Model%20for%20Efficient%20Multi-Task%20Learning.pdf)
 - [Mixture of Virtual-Kernel Experts for Multi-Objective User Profile Modeling](Multi-Task/Mixture%20of%20Virtual-Kernel%20Experts%20for%20Multi-Objective%20User%20Profile%20Modeling.pdf)
@@ -427,6 +431,7 @@
 - [MAMO - Memory-Augmented Meta-Optimization for Cold-start Recommendation](Cold-Start/MAMO%20-%20Memory-Augmented%20Meta-Optimization%20for%20Cold-start%20Recommendation.pdf)
 - [Transform Cold-Start Users into Warm via Fused Behaviors in Large-Scale Recommendation](Cold-Start/Transform%20Cold-Start%20Users%20into%20Warm%20via%20Fused%20Behaviors%20in%20Large-Scale%20Recommendation.pdf)
 - [Telepath - Understanding Users from a Human Vision Perspective in Large-Scale Recommender Systems](Cold-Start/Telepath%20-%20Understanding%20Users%20from%20a%20Human%20Vision%20Perspective%20in%20Large-Scale%20Recommender%20Systems.pdf)
+- [What You Look Matters Offline Evaluation of Advertising Creatives for Cold-start Problem](Cold-Start/What%20You%20Look%20Matters%20Offline%20Evaluation%20of%20Advertising%20Creatives%20for%20Cold-start%20Problem.pdf)
 - [Warm Up Cold-start Advertisements - Improving CTR Predictions via Learning to Learn ID Embeddings](Cold-Start/Warm%20Up%20Cold-start%20Advertisements%20-%20Improving%20CTR%20Predictions%20via%20Learning%20to%20Learn%20ID%20Embeddings.pdf)
 #### Exploration&Exploitation
 - [An Empirical Evaluation of Thompson Sampling](Cold-Start/Exploration%26Exploitation/An%20Empirical%20Evaluation%20of%20Thompson%20Sampling.pdf)
