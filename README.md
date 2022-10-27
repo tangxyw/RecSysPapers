@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2022-10-21，本仓库收集汇总了推荐系统领域相关论文共**425**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-10-27，本仓库收集汇总了推荐系统领域相关论文共**427**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -87,7 +87,6 @@
 - [Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction](Industry/Deep%20Interest%20with%20Hierarchical%20Attention%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Deep Learning Recommendation Model for Personalization and Recommendation System](Industry/Deep%20Learning%20Recommendation%20Model%20for%20Personalization%20and%20Recommendation%20System.pdf)
 - [Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction](Industry/Deep%20Spatio-Temporal%20Neural%20Networks%20for%20Click-Through%20Rate%20Prediction.pdf)
-- [Deep Interest Highlight Network for Click-Through Rate Prediction in Trigger-Induced Recommendation](Industry/Deep%20Interest%20Highlight%20Network%20for%20Click-Through%20Rate%20Prediction%20in%20Trigger-Induced%20Recommendation.pdf)
 - [Denoising Neural Network for News Recommendation with Positive and Negative Implicit Feedback](Industry/Denoising%20Neural%20Network%20for%20News%20Recommendation%20with%20Positive%20and%20Negative%20Implicit%20Feedback.pdf)
 - [Denoising User-aware Memory Network for Recommendation](Industry/Denoising%20User-aware%20Memory%20Network%20for%20Recommendation.pdf)
 - [EXTR - Click-Through Rate Prediction with Externalities in E-Commerce Sponsored Search](Industry/EXTR%20-%20Click-Through%20Rate%20Prediction%20with%20Externalities%20in%20E-Commerce%20Sponsored%20Search.pdf)
@@ -122,6 +121,9 @@
 - [TiSSA - A Time Slice Self-Attention Approach for Modeling Sequential User Behaviors](Industry/TiSSA%20-%20A%20Time%20Slice%20Self-Attention%20Approach%20for%20Modeling%20Sequential%20User%20Behaviors.pdf)
 - [Towards Understanding the Overfitting Phenomenon of Deep Click-Through Rate Prediction Models](Industry/Towards%20Understanding%20the%20Overfitting%20Phenomenon%20of%20Deep%20Click-Through%20Rate%20Prediction%20Models.pdf)
 - [User Behavior Retrieval for Click-Through Rate Prediction](Industry/User%20Behavior%20Retrieval%20for%20Click-Through%20Rate%20Prediction.pdf)
+#### TriggerInduced
+- [[2021][Tencent][R3S] Real-time Relevant Recommendation Suggestion](Industry/TriggerInduced/%5B2021%5D%5BTencent%5D%5BR3S%5D%20Real-time%20Relevant%20Recommendation%20Suggestion.pdf)
+- [[2022][Alibaba][DIHN] Deep Interest Highlight Network for Click-Through Rate Prediction in Trigger-Induced Recommendation](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIHN%5D%20Deep%20Interest%20Highlight%20Network%20for%20Click-Through%20Rate%20Prediction%20in%20Trigger-Induced%20Recommendation.pdf)
 #### Reciprocal
 - [Modeling Two-Way Selection Preference for Person-Job Fit](Industry/Reciprocal/Modeling%20Two-Way%20Selection%20Preference%20for%20Person-Job%20Fit.pdf)
 - [MATCHING THEORY-BASED RECOMMENDER SYSTEMS IN ONLINE DATING](Industry/Reciprocal/MATCHING%20THEORY-BASED%20RECOMMENDER%20SYSTEMS%20IN%20ONLINE%20DATING.pdf)
@@ -165,6 +167,7 @@
 - [Hash Embeddings for Efficient Word Representations](Industry/FeatureHashing/Hash%20Embeddings%20for%20Efficient%20Word%20Representations.pdf)
 - [Model Size Reduction Using Frequency Based Double Hashing for Recommender Systems](Industry/FeatureHashing/Model%20Size%20Reduction%20Using%20Frequency%20Based%20Double%20Hashing%20for%20Recommender%20Systems.pdf)
 #### Regression
+- [Beyond Clicks - Dwell Time for Personalization](Industry/Regression/Beyond%20Clicks%20-%20Dwell%20Time%20for%20Personalization.pdf)
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation](Industry/Regression/Deconfounding%20Duration%20Bias%20in%20Watch-time%20Prediction%20for%20Video%20Recommendation.pdf)
 ## Pre-Rank
 - [[2020][Alibaba][COLD] COLD - Towards the Next Generation of Pre-Ranking System](Pre-Rank/%5B2020%5D%5BAlibaba%5D%5BCOLD%5D%20COLD%20-%20Towards%20the%20Next%20Generation%20of%20Pre-Ranking%20System.pdf)
