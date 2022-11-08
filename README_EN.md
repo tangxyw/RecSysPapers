@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2022-11-07, **435** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2022-11-08, **444** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **ReinForce Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -132,8 +132,15 @@ I will remove it immediately after verification.
 - [[2021][Tencent][R3S] Real-time Relevant Recommendation Suggestion](Industry/TriggerInduced/%5B2021%5D%5BTencent%5D%5BR3S%5D%20Real-time%20Relevant%20Recommendation%20Suggestion.pdf)
 - [[2022][Alibaba][DIHN] Deep Interest Highlight Network for Click-Through Rate Prediction in Trigger-Induced Recommendation](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIHN%5D%20Deep%20Interest%20Highlight%20Network%20for%20Click-Through%20Rate%20Prediction%20in%20Trigger-Induced%20Recommendation.pdf)
 #### Reciprocal
-- [Modeling Two-Way Selection Preference for Person-Job Fit](Industry/Reciprocal/Modeling%20Two-Way%20Selection%20Preference%20for%20Person-Job%20Fit.pdf)
+- [[2022][Boss][DPGNN] Modeling Two-Way Selection Preference for Person-Job Fit](Industry/Reciprocal/%5B2022%5D%5BBoss%5D%5BDPGNN%5D%20Modeling%20Two-Way%20Selection%20Preference%20for%20Person-Job%20Fit.pdf)
+- [Latent Factor Models and Aggregation Operators for Collaborative Filtering in Reciprocal Recommender Systems](Industry/Reciprocal/Latent%20Factor%20Models%20and%20Aggregation%20Operators%20for%20Collaborative%20Filtering%20in%20Reciprocal%20Recommender%20Systems.pdf)
 - [MATCHING THEORY-BASED RECOMMENDER SYSTEMS IN ONLINE DATING](Industry/Reciprocal/MATCHING%20THEORY-BASED%20RECOMMENDER%20SYSTEMS%20IN%20ONLINE%20DATING.pdf)
+- [Optimally balancing receiver and recommended users' importance in reciprocal recommender systems](Industry/Reciprocal/Optimally%20balancing%20receiver%20and%20recommended%20users%27%20importance%20in%20reciprocal%20recommender%20systems.pdf)
+- [Reciprocal Recommendation for Job Matching with Bidirectional Feedback](Industry/Reciprocal/Reciprocal%20Recommendation%20for%20Job%20Matching%20with%20Bidirectional%20Feedback.pdf)
+- [Reciprocal Recommendation System for Online Dating](Industry/Reciprocal/Reciprocal%20Recommendation%20System%20for%20Online%20Dating.pdf)
+- [RECON - A Reciprocal Recommender for Online Dating](Industry/Reciprocal/RECON%20-%20A%20Reciprocal%20Recommender%20for%20Online%20Dating.pdf)
+- [Reciprocal Recommendation Algorithm for the Field of Recruitment](Industry/Reciprocal/Reciprocal%20Recommendation%20Algorithm%20for%20the%20Field%20of%20Recruitment.pdf)
+- [Supporting users in fnding successful matches in reciprocal recommender systems](Industry/Reciprocal/Supporting%20users%20in%20fnding%20successful%20matches%20in%20reciprocal%20recommender%20systems.pdf)
 #### Dataset
 - [KuaiRand - An Unbiased Sequential Recommendation Dataset with Randomly Exposed Videos](Industry/Dataset/KuaiRand%20-%20An%20Unbiased%20Sequential%20Recommendation%20Dataset%20with%20Randomly%20Exposed%20Videos.pdf)
 - [KuaiRec - A Fully-observed Dataset and Insights for Evaluating Recommender Systems](Industry/Dataset/KuaiRec%20-%20A%20Fully-observed%20Dataset%20and%20Insights%20for%20Evaluating%20Recommender%20Systems.pdf)
@@ -479,6 +486,8 @@ I will remove it immediately after verification.
 - [ListNet - Learning to Rank - From Pairwise Approach to Listwise Approach](Learning-to-Rank/List-wise/ListNet%20-%20Learning%20to%20Rank%20-%20From%20Pairwise%20Approach%20to%20Listwise%20Approach.pdf)
 ## Fairness
 - [[2020][FairCo] Controlling Fairness and Bias in Dynamic Learning-to-Rank](Fairness/%5B2020%5D%5BFairCo%5D%20Controlling%20Fairness%20and%20Bias%20in%20Dynamic%20Learning-to-Rank.pdf)
+- [Equity of Attention - Amortizing Individual Fairness in Rankings](Fairness/Equity%20of%20Attention%20-%20Amortizing%20Individual%20Fairness%20in%20Rankings.pdf)
+- [Fairness in Recommendation Ranking through Pairwise Comparisons](Fairness/Fairness%20in%20Recommendation%20Ranking%20through%20Pairwise%20Comparisons.pdf)
 ## Look-Alike
 - [[2019][Tencent][RALM] Real-time Attention Based Look-alike Model for Recommender System](Look-Alike/%5B2019%5D%5BTencent%5D%5BRALM%5D%20Real-time%20Attention%20Based%20Look-alike%20Model%20for%20Recommender%20System.pdf)
 - [A Sub-linear, Massive-scale Look-alike Audience Extension System](Look-Alike/A%20Sub-linear%2C%20Massive-scale%20Look-alike%20Audience%20Extension%20System.pdf)
