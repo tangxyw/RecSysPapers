@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2022-11-08，本仓库收集汇总了推荐系统领域相关论文共**444**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-11-11，本仓库收集汇总了推荐系统领域相关论文共**450**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -173,9 +173,10 @@
 - [Feature Hashing for Large Scale Multitask Learning](Industry/FeatureHashing/Feature%20Hashing%20for%20Large%20Scale%20Multitask%20Learning.pdf)
 - [Getting Deep Recommenders Fit - Bloom Embeddings for Sparse Binary Input Output Networks](Industry/FeatureHashing/Getting%20Deep%20Recommenders%20Fit%20-%20Bloom%20Embeddings%20for%20Sparse%20Binary%20Input%20Output%20Networks.pdf)
 - [Hash Embeddings for Efficient Word Representations](Industry/FeatureHashing/Hash%20Embeddings%20for%20Efficient%20Word%20Representations.pdf)
+- [Learning Effective and Efficient Embedding via an Adaptively-Masked Twins-based Layer](Industry/FeatureHashing/Learning%20Effective%20and%20Efficient%20Embedding%20via%20an%20Adaptively-Masked%20Twins-based%20Layer.pdf)
 - [Model Size Reduction Using Frequency Based Double Hashing for Recommender Systems](Industry/FeatureHashing/Model%20Size%20Reduction%20Using%20Frequency%20Based%20Double%20Hashing%20for%20Recommender%20Systems.pdf)
 #### Regression
-- [Beyond Clicks - Dwell Time for Personalization](Industry/Regression/Beyond%20Clicks%20-%20Dwell%20Time%20for%20Personalization.pdf)
+- [[2014][Yahoo] Beyond Clicks - Dwell Time for Personalization](Industry/Regression/%5B2014%5D%5BYahoo%5D%20Beyond%20Clicks%20-%20Dwell%20Time%20for%20Personalization.pdf)
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation](Industry/Regression/Deconfounding%20Duration%20Bias%20in%20Watch-time%20Prediction%20for%20Video%20Recommendation.pdf)
 ## Pre-Rank
 - [[2020][Alibaba][COLD] COLD - Towards the Next Generation of Pre-Ranking System](Pre-Rank/%5B2020%5D%5BAlibaba%5D%5BCOLD%5D%20COLD%20-%20Towards%20the%20Next%20Generation%20of%20Pre-Ranking%20System.pdf)
@@ -219,10 +220,13 @@
 - [[2020][Google][MNS] Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations](Match/%5B2020%5D%5BGoogle%5D%5BMNS%5D%20Mixed%20Negative%20Sampling%20for%20Learning%20Two-tower%20Neural%20Networks%20in%20Recommendations.pdf)
 - [[2021][Google] Self-supervised Learning for Large-scale Item Recommendations](Match/%5B2021%5D%5BGoogle%5D%20Self-supervised%20Learning%20for%20Large-scale%20Item%20Recommendations.pdf)
 - [[2021][Alibaba][MGDSPR] Embedding-based Product Retrieval in Taobao Search](Match/%5B2021%5D%5BAlibaba%5D%5BMGDSPR%5D%20Embedding-based%20Product%20Retrieval%20in%20Taobao%20Search.pdf)
+- [Attentive Collaborative Filtering - Multimedia Recommendation with Item- and Component-Level Aention](Match/Attentive%20Collaborative%20Filtering%20-%20Multimedia%20Recommendation%20with%20Item-%20and%20Component-Level%20A%C2%82ention.pdf)
 - [A User-Centered Concept Mining System for Query and Document Understanding at Tencent](Match/A%20User-Centered%20Concept%20Mining%20System%20for%20Query%20and%20Document%20Understanding%20at%20Tencent.pdf)
 - [A Dual Augmented Two-tower Model for Online Large-scale Recommendation](Match/A%20Dual%20Augmented%20Two-tower%20Model%20for%20Online%20Large-scale%20Recommendation.pdf)
 - [CROLoss - Towards a Customizable Loss for Retrieval Models in Recommender Systems](Match/CROLoss%20-%20Towards%20a%20Customizable%20Loss%20for%20Retrieval%20Models%20in%20Recommender%20Systems.pdf)
+- [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](Match/Collaborative%20Denoising%20Auto-Encoders%20for%20Top-N%20Recommender%20Systems.pdf)
 - [Cross-Batch Negative Sampling for Training Two-Tower Recommenders](Match/Cross-Batch%20Negative%20Sampling%20for%20Training%20Two-Tower%20Recommenders.pdf)
+- [Deep Matrix Factorization Models for Recommender Systems](Match/Deep%20Matrix%20Factorization%20Models%20for%20Recommender%20Systems.pdf)
 - [Disentangled Self-Supervision in Sequential Recommenders](Match/Disentangled%20Self-Supervision%20in%20Sequential%20Recommenders.pdf)
 - [Deep Retrieval - Learning A Retrievable Structure for Large-Scale Recommendations](Match/Deep%20Retrieval%20-%20Learning%20A%20Retrievable%20Structure%20for%20Large-Scale%20Recommendations.pdf)
 - [Efficient Training on Very Large Corpora via Gramian Estimation](Match/Efficient%20Training%20on%20Very%20Large%20Corpora%20via%20Gramian%20Estimation.pdf)
@@ -233,12 +237,14 @@
 - [Joint Optimization of Tree-based Index and Deep Model for Recommender Systems](Match/Joint%20Optimization%20of%20Tree-based%20Index%20and%20Deep%20Model%20for%20Recommender%20Systems.pdf)
 - [Learning Tree-based Deep Model for Recommender Systems](Match/Learning%20Tree-based%20Deep%20Model%20for%20Recommender%20Systems.pdf)
 - [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](Match/Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf)
+- [NAIS - Neural Attentive Item Similarity Model for Recommendation](Match/NAIS%20-%20Neural%20Attentive%20Item%20Similarity%20Model%20for%20Recommendation.pdf)
 - [Octopus - Comprehensive and Elastic User Representation for the Generation of Recommendation Candidates](Match/Octopus%20-%20Comprehensive%20and%20Elastic%20User%20Representation%20for%20the%20Generation%20of%20Recommendation%20Candidates.pdf)
 - [Path-based Deep Network for Candidate Item Matching in Recommenders](Match/Path-based%20Deep%20Network%20for%20Candidate%20Item%20Matching%20in%20Recommenders.pdf)
 - [Sparse-Interest Network for Sequential Recommendation](Match/Sparse-Interest%20Network%20for%20Sequential%20Recommendation.pdf)
 - [Self-Attentive Sequential Recommendation](Match/Self-Attentive%20Sequential%20Recommendation.pdf)
 - [Towards Personalized and Semantic Retrieval - An End-to-End Solution for E-commerce Search via Embedding Learning](Match/Towards%20Personalized%20and%20Semantic%20Retrieval%20-%20An%20End-to-End%20Solution%20for%20E-commerce%20Search%20via%20Embedding%20Learning.pdf)
 - [Uni-Retriever - Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search](Match/Uni-Retriever%20-%20Towards%20Learning%20The%20Unified%20Embedding%20Based%20Retriever%20in%20Bing%20Sponsored%20Search.pdf)
+- [Variational Autoencoders for Collaborative Filtering](Match/Variational%20Autoencoders%20for%20Collaborative%20Filtering.pdf)
 - [XDM - Improving Sequential Deep Matching with Unclicked User Behaviors for Recommender System](Match/XDM%20-%20Improving%20Sequential%20Deep%20Matching%20with%20Unclicked%20User%20Behaviors%20for%20Recommender%20System.pdf)
 #### Nearline
 - [Truncation-Free Matching System for Display Advertising at Alibaba](Match/Nearline/Truncation-Free%20Matching%20System%20for%20Display%20Advertising%20at%20Alibaba.pdf)
