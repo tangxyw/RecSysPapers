@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2022-11-15，本仓库收集汇总了推荐系统领域相关论文共**461**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-11-16，本仓库收集汇总了推荐系统领域相关论文共**470**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -231,7 +231,6 @@
 - [Deep Matrix Factorization Models for Recommender Systems](Match/Deep%20Matrix%20Factorization%20Models%20for%20Recommender%20Systems.pdf)
 - [Disentangled Self-Supervision in Sequential Recommenders](Match/Disentangled%20Self-Supervision%20in%20Sequential%20Recommenders.pdf)
 - [Deep Collaborative Filtering via Marginalized Denoising Auto-encoder](Match/Deep%20Collaborative%20Filtering%20via%20Marginalized%20Denoising%20Auto-encoder.pdf)
-- [Deep Retrieval - Learning A Retrievable Structure for Large-Scale Recommendations](Match/Deep%20Retrieval%20-%20Learning%20A%20Retrievable%20Structure%20for%20Large-Scale%20Recommendations.pdf)
 - [Efficient Training on Very Large Corpora via Gramian Estimation](Match/Efficient%20Training%20on%20Very%20Large%20Corpora%20via%20Gramian%20Estimation.pdf)
 - [Extreme Multi-label Learning for Semantic Matching in Product Search](Match/Extreme%20Multi-label%20Learning%20for%20Semantic%20Matching%20in%20Product%20Search.pdf)
 - [Factorization Meets the Neighborhood - a Multifaceted Collaborative Filtering Model](Match/Factorization%20Meets%20the%20Neighborhood%20-%20a%20Multifaceted%20Collaborative%20Filtering%20Model.pdf)
@@ -240,9 +239,7 @@
 - [Itinerary-aware Personalized Deep Matching at Fliggy](Match/Itinerary-aware%20Personalized%20Deep%20Matching%20at%20Fliggy.pdf)
 - [ItemSage - Learning Product Embeddings for Shopping Recommendations at Pinterest](Match/ItemSage%20-%20Learning%20Product%20Embeddings%20for%20Shopping%20Recommendations%20at%20Pinterest.pdf)
 - [Inferring Networks of Substitutable and Complementary Products](Match/Inferring%20Networks%20of%20Substitutable%20and%20Complementary%20Products.pdf)
-- [Joint Optimization of Tree-based Index and Deep Model for Recommender Systems](Match/Joint%20Optimization%20of%20Tree-based%20Index%20and%20Deep%20Model%20for%20Recommender%20Systems.pdf)
 - [Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking](Match/Latent%20Relational%20Metric%20Learning%20via%20Memory-based%20Attention%20for%20Collaborative%20Ranking.pdf)
-- [Learning Tree-based Deep Model for Recommender Systems](Match/Learning%20Tree-based%20Deep%20Model%20for%20Recommender%20Systems.pdf)
 - [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](Match/Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf)
 - [NAIS - Neural Attentive Item Similarity Model for Recommendation](Match/NAIS%20-%20Neural%20Attentive%20Item%20Similarity%20Model%20for%20Recommendation.pdf)
 - [Octopus - Comprehensive and Elastic User Representation for the Generation of Recommendation Candidates](Match/Octopus%20-%20Comprehensive%20and%20Elastic%20User%20Representation%20for%20the%20Generation%20of%20Recommendation%20Candidates.pdf)
@@ -252,10 +249,16 @@
 - [Sequential Recommendation via Stochastic Self-Attention](Match/Sequential%20Recommendation%20via%20Stochastic%20Self-Attention.pdf)
 - [Sparse-Interest Network for Sequential Recommendation](Match/Sparse-Interest%20Network%20for%20Sequential%20Recommendation.pdf)
 - [Self-Attentive Sequential Recommendation](Match/Self-Attentive%20Sequential%20Recommendation.pdf)
+- [StarSpace - Embed All The Things!](Match/StarSpace%20-%20Embed%20All%20The%20Things%21.pdf)
 - [Towards Personalized and Semantic Retrieval - An End-to-End Solution for E-commerce Search via Embedding Learning](Match/Towards%20Personalized%20and%20Semantic%20Retrieval%20-%20An%20End-to-End%20Solution%20for%20E-commerce%20Search%20via%20Embedding%20Learning.pdf)
 - [Uni-Retriever - Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search](Match/Uni-Retriever%20-%20Towards%20Learning%20The%20Unified%20Embedding%20Based%20Retriever%20in%20Bing%20Sponsored%20Search.pdf)
 - [Variational Autoencoders for Collaborative Filtering](Match/Variational%20Autoencoders%20for%20Collaborative%20Filtering.pdf)
 - [XDM - Improving Sequential Deep Matching with Unclicked User Behaviors for Recommender System](Match/XDM%20-%20Improving%20Sequential%20Deep%20Matching%20with%20Unclicked%20User%20Behaviors%20for%20Recommender%20System.pdf)
+#### Tree-Based
+- [Deep Retrieval - Learning A Retrievable Structure for Large-Scale Recommendations](Match/Tree-Based/Deep%20Retrieval%20-%20Learning%20A%20Retrievable%20Structure%20for%20Large-Scale%20Recommendations.pdf)
+- [Joint Optimization of Tree-based Index and Deep Model for Recommender Systems](Match/Tree-Based/Joint%20Optimization%20of%20Tree-based%20Index%20and%20Deep%20Model%20for%20Recommender%20Systems.pdf)
+- [Learning Optimal Tree Models under Beam Search](Match/Tree-Based/Learning%20Optimal%20Tree%20Models%20under%20Beam%20Search.pdf)
+- [Learning Tree-based Deep Model for Recommender Systems](Match/Tree-Based/Learning%20Tree-based%20Deep%20Model%20for%20Recommender%20Systems.pdf)
 #### Nearline
 - [Truncation-Free Matching System for Display Advertising at Alibaba](Match/Nearline/Truncation-Free%20Matching%20System%20for%20Display%20Advertising%20at%20Alibaba.pdf)
 #### Classic
@@ -501,9 +504,16 @@
 ## Look-Alike
 - [[2019][Tencent][RALM] Real-time Attention Based Look-alike Model for Recommender System](Look-Alike/%5B2019%5D%5BTencent%5D%5BRALM%5D%20Real-time%20Attention%20Based%20Look-alike%20Model%20for%20Recommender%20System.pdf)
 - [A Sub-linear, Massive-scale Look-alike Audience Extension System](Look-Alike/A%20Sub-linear%2C%20Massive-scale%20Look-alike%20Audience%20Extension%20System.pdf)
+- [Adversarial Factorization Autoencoder for Look-alike Modeling](Look-Alike/Adversarial%20Factorization%20Autoencoder%20for%20Look-alike%20Modeling.pdf)
+- [A Feature-Pair-based Associative Classification Approach to Look-alike Modeling for Conversion-Oriented User-Targeting in Tail Campaigns](Look-Alike/A%20Feature-Pair-based%20Associative%20Classification%20Approach%20to%20Look-alike%20Modeling%20for%20Conversion-Oriented%20User-Targeting%20in%20Tail%20Campaigns.pdf)
 - [Audience Expansion for Online Social Network Advertising](Look-Alike/Audience%20Expansion%20for%20Online%20Social%20Network%20Advertising.pdf)
+- [Comprehensive Audience Expansion based on End-to-End Neural Prediction](Look-Alike/Comprehensive%20Audience%20Expansion%20based%20on%20End-to-End%20Neural%20Prediction.pdf)
 - [Effective Audience Extension in Online Advertising](Look-Alike/Effective%20Audience%20Extension%20in%20Online%20Advertising.pdf)
 - [Finding Users Who Act Alike - Transfer Learning for Expanding](Look-Alike/Finding%20Users%20Who%20Act%20Alike%20-%20Transfer%20Learning%20for%20Expanding.pdf)
+- [Hubble - An Industrial System for Audience Expansion in Mobile Marketing](Look-Alike/Hubble%20-%20An%20Industrial%20System%20for%20Audience%20Expansion%20in%20Mobile%20Marketing.pdf)
+- [Learning to Expand Audience via Meta Hybrid Experts and Critics for Recommendation and Advertising](Look-Alike/Learning%20to%20Expand%20Audience%20via%20Meta%20Hybrid%20Experts%20and%20Critics%20for%20Recommendation%20and%20Advertising.pdf)
+- [Score Look-alike Audiences](Look-Alike/Score%20Look-alike%20Audiences.pdf)
+- [Two-Stage Audience Expansion for Financial Targeting in Marketing](Look-Alike/Two-Stage%20Audience%20Expansion%20for%20Financial%20Targeting%20in%20Marketing.pdf)
 ## CausalInference
 - [CauseRec - Counterfactual User Sequence Synthesis for Sequential Recommendation](CausalInference/CauseRec%20-%20Counterfactual%20User%20Sequence%20Synthesis%20for%20Sequential%20Recommendation.pdf)
 - [Counterfactual Data-Augmented Sequential Recommendation](CausalInference/Counterfactual%20Data-Augmented%20Sequential%20Recommendation.pdf)
