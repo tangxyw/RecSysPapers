@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2022-11-16，本仓库收集汇总了推荐系统领域相关论文共**470**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-11-17，本仓库收集汇总了推荐系统领域相关论文共**473**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -156,6 +156,7 @@
 - [Online POI Recommendation - Learning Dynamic Geo-Human Interactions in Streams](Industry/POI/Online%20POI%20Recommendation%20-%20Learning%20Dynamic%20Geo-Human%20Interactions%20in%20Streams.pdf)
 - [Point-of-Interest Recommender Systems based on Location-Based Social Networks - A Survey from an Experimental Perspective](Industry/POI/Point-of-Interest%20Recommender%20Systems%20based%20on%20Location-Based%20Social%20Networks%20-%20A%20Survey%20from%20an%20Experimental%20Perspective.pdf)
 - [POINTREC - A Test Collection for Narrative-driven Point of Interest Recommendation](Industry/POI/POINTREC%20-%20A%20Test%20Collection%20for%20Narrative-driven%20Point%20of%20Interest%20Recommendation.pdf)
+- [Personalized Long- and Short-term Preference Learning for Next POI Recommendation](Industry/POI/Personalized%20Long-%20and%20Short-term%20Preference%20Learning%20for%20Next%20POI%20Recommendation.pdf)
 - [ST-PIL - Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation](Industry/POI/ST-PIL%20-%20Spatial-Temporal%20Periodic%20Interest%20Learning%20for%20Next%20Point-of-Interest%20Recommendation.pdf)
 - [TADSAM - A Time-Aware Dynamic Self-Attention Model for Next Point-of-Interest Recommendation](Industry/POI/TADSAM%20-%20A%20Time-Aware%20Dynamic%20Self-Attention%20Model%20for%20Next%20Point-of-Interest%20Recommendation.pdf)
 - [Why We Go Where We Go - Profiling User Decisions on Choosing POIs](Industry/POI/Why%20We%20Go%20Where%20We%20Go%20-%20Profiling%20User%20Decisions%20on%20Choosing%20POIs.pdf)
@@ -174,6 +175,7 @@
 - [Getting Deep Recommenders Fit - Bloom Embeddings for Sparse Binary Input Output Networks](Industry/FeatureHashing/Getting%20Deep%20Recommenders%20Fit%20-%20Bloom%20Embeddings%20for%20Sparse%20Binary%20Input%20Output%20Networks.pdf)
 - [Hash Embeddings for Efficient Word Representations](Industry/FeatureHashing/Hash%20Embeddings%20for%20Efficient%20Word%20Representations.pdf)
 - [Learning Effective and Efficient Embedding via an Adaptively-Masked Twins-based Layer](Industry/FeatureHashing/Learning%20Effective%20and%20Efficient%20Embedding%20via%20an%20Adaptively-Masked%20Twins-based%20Layer.pdf)
+- [Memory-efficient Embedding for Recommendations](Industry/FeatureHashing/Memory-efficient%20Embedding%20for%20Recommendations.pdf)
 - [Model Size Reduction Using Frequency Based Double Hashing for Recommender Systems](Industry/FeatureHashing/Model%20Size%20Reduction%20Using%20Frequency%20Based%20Double%20Hashing%20for%20Recommender%20Systems.pdf)
 #### Regression
 - [[2014][Yahoo] Beyond Clicks - Dwell Time for Personalization](Industry/Regression/%5B2014%5D%5BYahoo%5D%20Beyond%20Clicks%20-%20Dwell%20Time%20for%20Personalization.pdf)
@@ -388,10 +390,11 @@
 ## Debias
 - [[2019][Huawei][PAL] a position-bias aware learning framework for CTR prediction in live recommender systems](Debias/%5B2019%5D%5BHuawei%5D%5BPAL%5D%20a%20position-bias%20aware%20learning%20framework%20for%20CTR%20prediction%20in%20live%20recommender%20systems.pdf)
 - [AutoDebias - Learning to Debias for Recommendation](Debias/AutoDebias%20-%20Learning%20to%20Debias%20for%20Recommendation.pdf)
-- [Bias and Debias in Recommender System A Survey and Future Directions](Debias/Bias%20and%20Debias%20in%20Recommender%20System%20A%20Survey%20and%20Future%20Directions.pdf)
+- [Bias and Debias in Recommender System - A Survey and Future Directions](Debias/Bias%20and%20Debias%20in%20Recommender%20System%20-%20A%20Survey%20and%20Future%20Directions.pdf)
 - [Deep Position-wise Interaction Network for CTR Prediction](Debias/Deep%20Position-wise%20Interaction%20Network%20for%20CTR%20Prediction.pdf)
 - [Denoising Implicit Feedback for Recommendation](Debias/Denoising%20Implicit%20Feedback%20for%20Recommendation.pdf)
 - [DVR - Micro-Video Recommendation Optimizing Watch-Time-Gain under Duration Bias](Debias/DVR%20-%20Micro-Video%20Recommendation%20Optimizing%20Watch-Time-Gain%20under%20Duration%20Bias.pdf)
+- [Disentangling User Interest and Conformity for Recommendation with Causal Embedding](Debias/Disentangling%20User%20Interest%20and%20Conformity%20for%20Recommendation%20with%20Causal%20Embedding.pdf)
 - [Improving Micro-video Recommendation by Controlling Position Bias](Debias/Improving%20Micro-video%20Recommendation%20by%20Controlling%20Position%20Bias.pdf)
 - [Learning to rank with selection bias in personal search](Debias/Learning%20to%20rank%20with%20selection%20bias%20in%20personal%20search.pdf)
 - [Unbiased Learning-to-Rank with Biased Feedback](Debias/Unbiased%20Learning-to-Rank%20with%20Biased%20Feedback.pdf)
@@ -503,13 +506,13 @@
 - [Fairness in Recommendation Ranking through Pairwise Comparisons](Fairness/Fairness%20in%20Recommendation%20Ranking%20through%20Pairwise%20Comparisons.pdf)
 ## Look-Alike
 - [[2019][Tencent][RALM] Real-time Attention Based Look-alike Model for Recommender System](Look-Alike/%5B2019%5D%5BTencent%5D%5BRALM%5D%20Real-time%20Attention%20Based%20Look-alike%20Model%20for%20Recommender%20System.pdf)
+- [[2019][Pinterest] Finding Users Who Act Alike - Transfer Learning for Expanding](Look-Alike/%5B2019%5D%5BPinterest%5D%20Finding%20Users%20Who%20Act%20Alike%20-%20Transfer%20Learning%20for%20Expanding.pdf)
 - [A Sub-linear, Massive-scale Look-alike Audience Extension System](Look-Alike/A%20Sub-linear%2C%20Massive-scale%20Look-alike%20Audience%20Extension%20System.pdf)
 - [Adversarial Factorization Autoencoder for Look-alike Modeling](Look-Alike/Adversarial%20Factorization%20Autoencoder%20for%20Look-alike%20Modeling.pdf)
 - [A Feature-Pair-based Associative Classification Approach to Look-alike Modeling for Conversion-Oriented User-Targeting in Tail Campaigns](Look-Alike/A%20Feature-Pair-based%20Associative%20Classification%20Approach%20to%20Look-alike%20Modeling%20for%20Conversion-Oriented%20User-Targeting%20in%20Tail%20Campaigns.pdf)
 - [Audience Expansion for Online Social Network Advertising](Look-Alike/Audience%20Expansion%20for%20Online%20Social%20Network%20Advertising.pdf)
 - [Comprehensive Audience Expansion based on End-to-End Neural Prediction](Look-Alike/Comprehensive%20Audience%20Expansion%20based%20on%20End-to-End%20Neural%20Prediction.pdf)
 - [Effective Audience Extension in Online Advertising](Look-Alike/Effective%20Audience%20Extension%20in%20Online%20Advertising.pdf)
-- [Finding Users Who Act Alike - Transfer Learning for Expanding](Look-Alike/Finding%20Users%20Who%20Act%20Alike%20-%20Transfer%20Learning%20for%20Expanding.pdf)
 - [Hubble - An Industrial System for Audience Expansion in Mobile Marketing](Look-Alike/Hubble%20-%20An%20Industrial%20System%20for%20Audience%20Expansion%20in%20Mobile%20Marketing.pdf)
 - [Learning to Expand Audience via Meta Hybrid Experts and Critics for Recommendation and Advertising](Look-Alike/Learning%20to%20Expand%20Audience%20via%20Meta%20Hybrid%20Experts%20and%20Critics%20for%20Recommendation%20and%20Advertising.pdf)
 - [Score Look-alike Audiences](Look-Alike/Score%20Look-alike%20Audiences.pdf)
