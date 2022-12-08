@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2022-11-25，本仓库收集汇总了推荐系统领域相关论文共**486**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-12-08，本仓库收集汇总了推荐系统领域相关论文共**500**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -140,17 +140,27 @@
 - [KuaiRand - An Unbiased Sequential Recommendation Dataset with Randomly Exposed Videos](Industry/Dataset/KuaiRand%20-%20An%20Unbiased%20Sequential%20Recommendation%20Dataset%20with%20Randomly%20Exposed%20Videos.pdf)
 - [KuaiRec - A Fully-observed Dataset and Insights for Evaluating Recommender Systems](Industry/Dataset/KuaiRec%20-%20A%20Fully-observed%20Dataset%20and%20Insights%20for%20Evaluating%20Recommender%20Systems.pdf)
 - [Tenrec - A Large-scale Multipurpose Benchmark Dataset for Recommender Systems](Industry/Dataset/Tenrec%20-%20A%20Large-scale%20Multipurpose%20Benchmark%20Dataset%20for%20Recommender%20Systems.pdf)
+#### CreativeSelection
+- [Automated Creative Optimization for E-Commerce Advertising](Industry/CreativeSelection/Automated%20Creative%20Optimization%20for%20E-Commerce%20Advertising.pdf)
+- [A Hybrid Bandit Model with Visual Priors for Creative Ranking in Display Advertising](Industry/CreativeSelection/A%20Hybrid%20Bandit%20Model%20with%20Visual%20Priors%20for%20Creative%20Ranking%20in%20Display%20Advertising.pdf)
+- [CREATER - CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning](Industry/CreativeSelection/CREATER%20-%20CTR-driven%20Advertising%20Text%20Generation%20with%20Controlled%20Pre-Training%20and%20Contrastive%20Fine-Tuning.pdf)
+- [Efficient Optimal Selection for Composited Advertising Creatives with Tree Structure](Industry/CreativeSelection/Efficient%20Optimal%20Selection%20for%20Composited%20Advertising%20Creatives%20with%20Tree%20Structure.pdf)
+- [Learning to Create Better Ads- Generation and Ranking Approaches for Ad Creative Refinement](Industry/CreativeSelection/Learning%20to%20Create%20Better%20Ads-%20Generation%20and%20Ranking%20Approaches%20for%20Ad%20Creative%20Refinement.pdf)
 #### Bundle
 - [Bundle Recommendation with Graph Convolutional Networks](Industry/Bundle/Bundle%20Recommendation%20with%20Graph%20Convolutional%20Networks.pdf)
+- [Bundle MCR - Towards Conversational Bundle Recommendation](Industry/Bundle/Bundle%20MCR%20-%20Towards%20Conversational%20Bundle%20Recommendation.pdf)
 - [CrossCBR - Cross-view Contrastive Learning for Bundle Recommendation](Industry/Bundle/CrossCBR%20-%20Cross-view%20Contrastive%20Learning%20for%20Bundle%20Recommendation.pdf)
 - [Hierarchical Fashion Graph Network for Personalized Outfit Recommendation](Industry/Bundle/Hierarchical%20Fashion%20Graph%20Network%20for%20Personalized%20Outfit%20Recommendation.pdf)
 #### Edge
 - [Real-time Short Video Recommendation on Mobile Devices](Industry/Edge/Real-time%20Short%20Video%20Recommendation%20on%20Mobile%20Devices.pdf)
+#### RepeatConsumption
+- [Modeling User Repeat Consumption Behavior for Online Novel Recommendation](Industry/RepeatConsumption/Modeling%20User%20Repeat%20Consumption%20Behavior%20for%20Online%20Novel%20Recommendation.pdf)
 #### POI
 - [[2020][meituan][STGCN] STGCN - A Spatial-Temporal Aware Graph Learning Method for POI Recommendation](Industry/POI/%5B2020%5D%5Bmeituan%5D%5BSTGCN%5D%20STGCN%20-%20A%20Spatial-Temporal%20Aware%20Graph%20Learning%20Method%20for%20POI%20Recommendation.pdf)
 - [A Survey on Deep Learning Based Point-Of-Interest (POI) Recommendations](Industry/POI/A%20Survey%20on%20Deep%20Learning%20Based%20Point-Of-Interest%20%28POI%29%20Recommendations.pdf)
 - [A Multi-Channel Next POI Recommendation Framework with Multi-Granularity Check-in Signals](Industry/POI/A%20Multi-Channel%20Next%20POI%20Recommendation%20Framework%20with%20Multi-Granularity%20Check-in%20Signals.pdf)
 - [Empowering Next POI Recommendation with Multi-Relational Modeling](Industry/POI/Empowering%20Next%20POI%20Recommendation%20with%20Multi-Relational%20Modeling.pdf)
+- [Exploring the Impact of Temporal Bias in Point-of-Interest Recommendation](Industry/POI/Exploring%20the%20Impact%20of%20Temporal%20Bias%20in%20Point-of-Interest%20Recommendation.pdf)
 - [Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation](Industry/POI/Hierarchical%20Multi-Task%20Graph%20Recurrent%20Network%20for%20Next%20POI%20Recommendation.pdf)
 - [LightMove - A Lightweight Next-POI Recommendation for Taxicab Rooftop Advertising](Industry/POI/LightMove%20-%20A%20Lightweight%20Next-POI%20Recommendation%20for%20Taxicab%20Rooftop%20Advertising.pdf)
 - [Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation](Industry/POI/Modeling%20Spatio-temporal%20Neighbourhood%20for%20Personalized%20Point-of-interest%20Recommendation.pdf)
@@ -186,9 +196,9 @@
 - [[2020][Alibaba][COLD] COLD - Towards the Next Generation of Pre-Ranking System](Pre-Rank/%5B2020%5D%5BAlibaba%5D%5BCOLD%5D%20COLD%20-%20Towards%20the%20Next%20Generation%20of%20Pre-Ranking%20System.pdf)
 - [[2021][Alibaba] Towards a Better Tradeoff between Effectiveness and Efficiency in Pre-Ranking - A Learnable Feature Selection based Approach](Pre-Rank/%5B2021%5D%5BAlibaba%5D%20Towards%20a%20Better%20Tradeoff%20between%20Effectiveness%20and%20Efficiency%20in%20Pre-Ranking%20-%20A%20Learnable%20Feature%20Selection%20based%20Approach.pdf)
 - [[2022] On Ranking Consistency of Pre-ranking Stage](Pre-Rank/%5B2022%5D%20On%20Ranking%20Consistency%20of%20Pre-ranking%20Stage.pdf)
+- [[2022][Meituan] Contrastive Information Transfer for Pre-Ranking Systems](Pre-Rank/%5B2022%5D%5BMeituan%5D%20Contrastive%20Information%20Transfer%20for%20Pre-Ranking%20Systems.pdf)
 - [AutoFAS - Automatic Feature and Architecture Selection for Pre-Ranking System](Pre-Rank/AutoFAS%20-%20Automatic%20Feature%20and%20Architecture%20Selection%20for%20Pre-Ranking%20System.pdf)
 - [Cascade Ranking for Operational E-commerce Search](Pre-Rank/Cascade%20Ranking%20for%20Operational%20E-commerce%20Search.pdf)
-- [Contrastive Information Transfer for Pre-Ranking Systems](Pre-Rank/Contrastive%20Information%20Transfer%20for%20Pre-Ranking%20Systems.pdf)
 - [EENMF - An End-to-End Neural Matching Framework for E-Commerce Sponsored Search](Pre-Rank/EENMF%20-%20An%20End-to-End%20Neural%20Matching%20Framework%20for%20E-Commerce%20Sponsored%20Search.pdf)
 ## Re-Rank
 - [[2018][Hulu] Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity](Re-Rank/%5B2018%5D%5BHulu%5D%20Fast%20Greedy%20MAP%20Inference%20for%20Determinantal%20Point%20Process%20to%20Improve%20Recommendation%20Diversity.pdf)
@@ -373,18 +383,23 @@
 - [Why I like it - multi-task learning for recommendation and explanation](Multi-Task/Why%20I%20like%20it%20-%20multi-task%20learning%20for%20recommendation%20and%20explanation.pdf)
 ## Multi-Modal
 - [Adversarial Multimodal Representation Learning for Click-Through Rate Prediction](Multi-Modal/Adversarial%20Multimodal%20Representation%20Learning%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [Heterogeneous Attention Network for Effective and Efficient Cross-modal Retrieval](Multi-Modal/Heterogeneous%20Attention%20Network%20for%20Effective%20and%20Efficient%20Cross-modal%20Retrieval.pdf)
+- [Learning Joint Embedding with Multimodal Cues for Cross-Modal Video-Text Retrieva](Multi-Modal/Learning%20Joint%20Embedding%20with%20Multimodal%20Cues%20for%20Cross-Modal%20Video-Text%20Retrieva.pdf)
 - [Pretraining Representations of Multi-modal Multi-query E-commerce Search](Multi-Modal/Pretraining%20Representations%20of%20Multi-modal%20Multi-query%20E-commerce%20Search.pdf)
 ## Multi-Scenario
 - [[2020][JD][DADNN] DADNN - Multi-Scene CTR Prediction via Domain-Aware Deep Neural Network](Multi-Scenario/%5B2020%5D%5BJD%5D%5BDADNN%5D%20DADNN%20-%20Multi-Scene%20CTR%20Prediction%20via%20Domain-Aware%20Deep%20Neural%20Network.pdf)
 - [[2021][Alibaba][STAR] One Model to Serve All - Star Topology Adaptive Recommenderfor Multi-Domain CTR Prediction](Multi-Scenario/%5B2021%5D%5BAlibaba%5D%5BSTAR%5D%20One%20Model%20to%20Serve%20All%20-%20Star%20Topology%20Adaptive%20Recommenderfor%20Multi-Domain%20CTR%20Prediction.pdf)
+- [[2021][Baidu] Multi-Task and Multi-Scene Unified Ranking Model for Online Advertising](Multi-Scenario/%5B2021%5D%5BBaidu%5D%20Multi-Task%20and%20Multi-Scene%20Unified%20Ranking%20Model%20for%20Online%20Advertising.pdf)
 - [A Deep Framework for Cross-Domain and Cross-System Recommendations](Multi-Scenario/A%20Deep%20Framework%20for%20Cross-Domain%20and%20Cross-System%20Recommendations.pdf)
 - [APG - Adaptive Parameter Generation Network for Click-Through Rate Prediction](Multi-Scenario/APG%20-%20Adaptive%20Parameter%20Generation%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [AdaSparse - Learning Adaptively Sparse Structures for Multi-Domain Click-Through Rate Prediction](Multi-Scenario/AdaSparse%20-%20Learning%20Adaptively%20Sparse%20Structures%20for%20Multi-Domain%20Click-Through%20Rate%20Prediction.pdf)
 - [A Survey on Cross-domain Recommendation - Taxonomies, Methods, and Future Directions](Multi-Scenario/A%20Survey%20on%20Cross-domain%20Recommendation%20-%20Taxonomies%2C%20Methods%2C%20and%20Future%20Directions.pdf)
+- [Adaptive Domain Interest Network for Multi-domain Recommendation](Multi-Scenario/Adaptive%20Domain%20Interest%20Network%20for%20Multi-domain%20Recommendation.pdf)
 - [Automatic Expert Selection for Multi-Scenario and Multi-Task Search](Multi-Scenario/Automatic%20Expert%20Selection%20for%20Multi-Scenario%20and%20Multi-Task%20Search.pdf)
 - [Cross Domain Recommendation via Bi-directional Transfer Graph Collaborative Filtering Networks](Multi-Scenario/Cross%20Domain%20Recommendation%20via%20Bi-directional%20Transfer%20Graph%20Collaborative%20Filtering%20Networks.pdf)
 - [Cross-Domain Recommendation - An Embedding and Mapping Approach](Multi-Scenario/Cross-Domain%20Recommendation%20-%20An%20Embedding%20and%20Mapping%20Approach.pdf)
 - [CoNet - Collaborative Cross Networks for Cross-Domain Recommendation](Multi-Scenario/CoNet%20-%20Collaborative%20Cross%20Networks%20for%20Cross-Domain%20Recommendation.pdf)
+- [Cross domain recommendation based on multi-type media fusion](Multi-Scenario/Cross%20domain%20recommendation%20based%20on%20multi-type%20media%20fusion.pdf)
 - [Cross-domain Recommendation Without Sharing User-relevant Data](Multi-Scenario/Cross-domain%20Recommendation%20Without%20Sharing%20User-relevant%20Data.pdf)
 - [Continual Transfer Learning for Cross-Domain Click-Through Rate Prediction at Taobao](Multi-Scenario/Continual%20Transfer%20Learning%20for%20Cross-Domain%20Click-Through%20Rate%20Prediction%20at%20Taobao.pdf)
 - [DTCDR - A Framework for Dual-Target Cross-Domain Recommendation](Multi-Scenario/DTCDR%20-%20A%20Framework%20for%20Dual-Target%20Cross-Domain%20Recommendation.pdf)
@@ -455,6 +470,7 @@
 - [A Simple Framework for Contrastive Learning of Visual Representations](ContrastiveLearning/A%20Simple%20Framework%20for%20Contrastive%20Learning%20of%20Visual%20Representations.pdf)
 - [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](ContrastiveLearning/Bootstrap%20Your%20Own%20Latent%20A%20New%20Approach%20to%20Self-Supervised%20Learning.pdf)
 - [Contrastive Learning for Interactive Recommendation in Fashion](ContrastiveLearning/Contrastive%20Learning%20for%20Interactive%20Recommendation%20in%20Fashion.pdf)
+- [CL4CTR - A Contrastive Learning Framework for CTR Prediction](ContrastiveLearning/CL4CTR%20-%20A%20Contrastive%20Learning%20Framework%20for%20CTR%20Prediction.pdf)
 - [Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems](ContrastiveLearning/Contrastive%20Learning%20for%20Debiased%20Candidate%20Generation%20in%20Large-Scale%20Recommender%20Systems.pdf)
 - [CCL4Rec - Contrast over Contrastive Learning for Micro-video Recommendation](ContrastiveLearning/CCL4Rec%20-%20Contrast%20over%20Contrastive%20Learning%20for%20Micro-video%20Recommendation.pdf)
 - [Disentangled Contrastive Learning for Social Recommendation](ContrastiveLearning/Disentangled%20Contrastive%20Learning%20for%20Social%20Recommendation.pdf)
