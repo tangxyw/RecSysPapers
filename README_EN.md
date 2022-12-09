@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2022-12-08, **500** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2022-12-09, **501** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **ReinForce Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -62,6 +62,7 @@ I will remove it immediately after verification.
 - [[2018][USTC][xDeepFM] xDeepFM - Combining Explicit and Implicit Feature Interactions for Recommender Systems](Rank/%5B2018%5D%5BUSTC%5D%5BxDeepFM%5D%20xDeepFM%20-%20Combining%20Explicit%20and%20Implicit%20Feature%20Interactions%20for%20Recommender%20Systems.pdf)
 - [[2019][AutoInt] AutoInt - Automatic Feature Interaction Learning via Self-Attentive Neural Networks](Rank/%5B2019%5D%5BAutoInt%5D%20AutoInt%20-%20Automatic%20Feature%20Interaction%20Learning%20via%20Self-Attentive%20Neural%20Networks.pdf)
 - [[2020][Tencent][DFN] Deep Feedback Network for Recommendation](Rank/%5B2020%5D%5BTencent%5D%5BDFN%5D%20Deep%20Feedback%20Network%20for%20Recommendation.pdf)
+- [DCN V2 - Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems](Rank/DCN%20V2%20-%20Improved%20Deep%20%26%20Cross%20Network%20and%20Practical%20Lessons%20for%20Web-scale%20Learning%20to%20Rank%20Systems.pdf)
 - [SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS](Rank/SESSION-BASED%20RECOMMENDATIONS%20WITH%20RECURRENT%20NEURAL%20NETWORKS.pdf)
 ## Industry
 - [[2016][Youtube] Deep Neural Networks for YouTube Recommendations](Industry/%5B2016%5D%5BYoutube%5D%20Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf)
@@ -148,6 +149,7 @@ I will remove it immediately after verification.
 - [KuaiRec - A Fully-observed Dataset and Insights for Evaluating Recommender Systems](Industry/Dataset/KuaiRec%20-%20A%20Fully-observed%20Dataset%20and%20Insights%20for%20Evaluating%20Recommender%20Systems.pdf)
 - [Tenrec - A Large-scale Multipurpose Benchmark Dataset for Recommender Systems](Industry/Dataset/Tenrec%20-%20A%20Large-scale%20Multipurpose%20Benchmark%20Dataset%20for%20Recommender%20Systems.pdf)
 #### CreativeSelection
+- [[2021][Baidu][GemNN] GemNN - Gating-Enhanced Multi-Task Neural Networks with Feature Interaction Learning for CTR Prediction](Industry/CreativeSelection/%5B2021%5D%5BBaidu%5D%5BGemNN%5D%20GemNN%20-%20Gating-Enhanced%20Multi-Task%20Neural%20Networks%20with%20Feature%20Interaction%20Learning%20for%20CTR%20Prediction.pdf)
 - [Automated Creative Optimization for E-Commerce Advertising](Industry/CreativeSelection/Automated%20Creative%20Optimization%20for%20E-Commerce%20Advertising.pdf)
 - [A Hybrid Bandit Model with Visual Priors for Creative Ranking in Display Advertising](Industry/CreativeSelection/A%20Hybrid%20Bandit%20Model%20with%20Visual%20Priors%20for%20Creative%20Ranking%20in%20Display%20Advertising.pdf)
 - [CREATER - CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning](Industry/CreativeSelection/CREATER%20-%20CTR-driven%20Advertising%20Text%20Generation%20with%20Controlled%20Pre-Training%20and%20Contrastive%20Fine-Tuning.pdf)
@@ -372,7 +374,6 @@ I will remove it immediately after verification.
 - [Dynamic Task Prioritization for Multitask Learning](Multi-Task/Dynamic%20Task%20Prioritization%20for%20Multitask%20Learning.pdf)
 - [DSelect-k - Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning](Multi-Task/DSelect-k%20-%20Differentiable%20Selection%20in%20the%20Mixture%20of%20Experts%20with%20Applications%20to%20Multi-Task%20Learning.pdf)
 - [Entire Space Multi-Task Modeling via Post-Click Behavior Decomposition for Conversion Rate Prediction](Multi-Task/Entire%20Space%20Multi-Task%20Modeling%20via%20Post-Click%20Behavior%20Decomposition%20for%20Conversion%20Rate%20Prediction.pdf)
-- [GemNN - Gating-Enhanced Multi-Task Neural Networks with Feature Interaction Learning for CTR Prediction](Multi-Task/GemNN%20-%20Gating-Enhanced%20Multi-Task%20Neural%20Networks%20with%20Feature%20Interaction%20Learning%20for%20CTR%20Prediction.pdf)
 - [Hierarchically Modeling Micro and Macro Behaviors via Multi-Task Learning for Conversion Rate Prediction](Multi-Task/Hierarchically%20Modeling%20Micro%20and%20Macro%20Behaviors%20via%20Multi-Task%20Learning%20for%20Conversion%20Rate%20Prediction.pdf)
 - [HyperGrid Transformers - Towards A Single Model for Multiple Tasks](Multi-Task/HyperGrid%20Transformers%20-%20Towards%20A%20Single%20Model%20for%20Multiple%20Tasks.pdf)
 - [Learning to Recommend with Multiple Cascading Behaviors](Multi-Task/Learning%20to%20Recommend%20with%20Multiple%20Cascading%20Behaviors.pdf)
