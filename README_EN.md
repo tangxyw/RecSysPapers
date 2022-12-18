@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2022-12-09, **501** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2022-12-18, **502** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **ReinForce Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -320,6 +320,7 @@ I will remove it immediately after verification.
 - [[2019][NGCF]Neural Graph Collaborative Filtering](Match/GNN/%5B2019%5D%5BNGCF%5DNeural%20Graph%20Collaborative%20Filtering.pdf)
 - [[2020][LightGCN] LightGCN - Simplifying and Powering Graph Convolution Network for Recommendation](Match/GNN/%5B2020%5D%5BLightGCN%5D%20LightGCN%20-%20Simplifying%20and%20Powering%20Graph%20Convolution%20Network%20for%20Recommendation.pdf)
 - [ATBRG - Adaptive Target-Behavior Relational Graph Network for Effective Recommendation](Match/GNN/ATBRG%20-%20Adaptive%20Target-Behavior%20Relational%20Graph%20Network%20for%20Effective%20Recommendation.pdf)
+- [A Survey of Graph Neural Networks for Social Recommender Systems](Match/GNN/A%20Survey%20of%20Graph%20Neural%20Networks%20for%20Social%20Recommender%20Systems.pdf)
 - [Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View](Match/GNN/Attentional%20Graph%20Convolutional%20Networks%20for%20Knowledge%20Concept%20Recommendation%20in%20MOOCs%20in%20a%20Heterogeneous%20View.pdf)
 - [Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer](Match/GNN/Continuous-Time%20Sequential%20Recommendation%20with%20Temporal%20Graph%20Collaborative%20Transformer.pdf)
 - [Debiasing Neighbor Aggregation for Graph Neural Network in Recommender Systems](Match/GNN/Debiasing%20Neighbor%20Aggregation%20for%20Graph%20Neural%20Network%20in%20Recommender%20Systems.pdf)

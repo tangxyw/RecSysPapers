@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2022-12-09，本仓库收集汇总了推荐系统领域相关论文共**501**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-12-18，本仓库收集汇总了推荐系统领域相关论文共**502**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -313,6 +313,7 @@
 - [[2019][NGCF]Neural Graph Collaborative Filtering](Match/GNN/%5B2019%5D%5BNGCF%5DNeural%20Graph%20Collaborative%20Filtering.pdf)
 - [[2020][LightGCN] LightGCN - Simplifying and Powering Graph Convolution Network for Recommendation](Match/GNN/%5B2020%5D%5BLightGCN%5D%20LightGCN%20-%20Simplifying%20and%20Powering%20Graph%20Convolution%20Network%20for%20Recommendation.pdf)
 - [ATBRG - Adaptive Target-Behavior Relational Graph Network for Effective Recommendation](Match/GNN/ATBRG%20-%20Adaptive%20Target-Behavior%20Relational%20Graph%20Network%20for%20Effective%20Recommendation.pdf)
+- [A Survey of Graph Neural Networks for Social Recommender Systems](Match/GNN/A%20Survey%20of%20Graph%20Neural%20Networks%20for%20Social%20Recommender%20Systems.pdf)
 - [Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View](Match/GNN/Attentional%20Graph%20Convolutional%20Networks%20for%20Knowledge%20Concept%20Recommendation%20in%20MOOCs%20in%20a%20Heterogeneous%20View.pdf)
 - [Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer](Match/GNN/Continuous-Time%20Sequential%20Recommendation%20with%20Temporal%20Graph%20Collaborative%20Transformer.pdf)
 - [Debiasing Neighbor Aggregation for Graph Neural Network in Recommender Systems](Match/GNN/Debiasing%20Neighbor%20Aggregation%20for%20Graph%20Neural%20Network%20in%20Recommender%20Systems.pdf)
