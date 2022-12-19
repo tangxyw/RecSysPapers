@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2022-12-18，本仓库收集汇总了推荐系统领域相关论文共**502**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-12-19，本仓库收集汇总了推荐系统领域相关论文共**506**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -194,6 +194,7 @@
 #### Regression
 - [[2014][Yahoo] Beyond Clicks - Dwell Time for Personalization](Industry/Regression/%5B2014%5D%5BYahoo%5D%20Beyond%20Clicks%20-%20Dwell%20Time%20for%20Personalization.pdf)
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation](Industry/Regression/Deconfounding%20Duration%20Bias%20in%20Watch-time%20Prediction%20for%20Video%20Recommendation.pdf)
+#### AutomaticPlaylistContinuation
 ## Pre-Rank
 - [[2020][Alibaba][COLD] COLD - Towards the Next Generation of Pre-Ranking System](Pre-Rank/%5B2020%5D%5BAlibaba%5D%5BCOLD%5D%20COLD%20-%20Towards%20the%20Next%20Generation%20of%20Pre-Ranking%20System.pdf)
 - [[2021][Alibaba] Towards a Better Tradeoff between Effectiveness and Efficiency in Pre-Ranking - A Learnable Feature Selection based Approach](Pre-Rank/%5B2021%5D%5BAlibaba%5D%20Towards%20a%20Better%20Tradeoff%20between%20Effectiveness%20and%20Efficiency%20in%20Pre-Ranking%20-%20A%20Learnable%20Feature%20Selection%20based%20Approach.pdf)
@@ -242,6 +243,7 @@
 - [Attentive Sequential Models of Latent Intent for Next Item Recommendation](Match/Attentive%20Sequential%20Models%20of%20Latent%20Intent%20for%20Next%20Item%20Recommendation.pdf)
 - [A User-Centered Concept Mining System for Query and Document Understanding at Tencent](Match/A%20User-Centered%20Concept%20Mining%20System%20for%20Query%20and%20Document%20Understanding%20at%20Tencent.pdf)
 - [AutoRec - Autoencoders Meet Collaborative Filtering](Match/AutoRec%20-%20Autoencoders%20Meet%20Collaborative%20Filtering.pdf)
+- [A Simple Convolutional Generative Network for Next Item Recommendation](Match/A%20Simple%20Convolutional%20Generative%20Network%20for%20Next%20Item%20Recommendation.pdf)
 - [A Dual Augmented Two-tower Model for Online Large-scale Recommendation](Match/A%20Dual%20Augmented%20Two-tower%20Model%20for%20Online%20Large-scale%20Recommendation.pdf)
 - [CROLoss - Towards a Customizable Loss for Retrieval Models in Recommender Systems](Match/CROLoss%20-%20Towards%20a%20Customizable%20Loss%20for%20Retrieval%20Models%20in%20Recommender%20Systems.pdf)
 - [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](Match/Collaborative%20Denoising%20Auto-Encoders%20for%20Top-N%20Recommender%20Systems.pdf)
@@ -262,10 +264,13 @@
 - [Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking](Match/Latent%20Relational%20Metric%20Learning%20via%20Memory-based%20Attention%20for%20Collaborative%20Ranking.pdf)
 - [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](Match/Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf)
 - [Locker - Locally Constrained Self-Attentive Sequential Recommendation](Match/Locker%20-%20Locally%20Constrained%20Self-Attentive%20Sequential%20Recommendation.pdf)
+- [Modeling Dynamic Missingness of Implicit Feedback for Recommendation](Match/Modeling%20Dynamic%20Missingness%20of%20Implicit%20Feedback%20for%20Recommendation.pdf)
 - [NAIS - Neural Attentive Item Similarity Model for Recommendation](Match/NAIS%20-%20Neural%20Attentive%20Item%20Similarity%20Model%20for%20Recommendation.pdf)
+- [Neural Aentive Session-based Recommendation](Match/Neural%20A%1Dentive%20Session-based%20Recommendation.pdf)
 - [Octopus - Comprehensive and Elastic User Representation for the Generation of Recommendation Candidates](Match/Octopus%20-%20Comprehensive%20and%20Elastic%20User%20Representation%20for%20the%20Generation%20of%20Recommendation%20Candidates.pdf)
 - [Outer Product-based Neural Collaborative Filtering](Match/Outer%20Product-based%20Neural%20Collaborative%20Filtering.pdf)
 - [PinnerSage - Multi-Modal User Embedding Framework for Recommendations at Pinterest](Match/PinnerSage%20-%20Multi-Modal%20User%20Embedding%20Framework%20for%20Recommendations%20at%20Pinterest.pdf)
+- [Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding](Match/Personalized%20Top-N%20Sequential%20Recommendation%20via%20Convolutional%20Sequence%20Embedding.pdf)
 - [Path-based Deep Network for Candidate Item Matching in Recommenders](Match/Path-based%20Deep%20Network%20for%20Candidate%20Item%20Matching%20in%20Recommenders.pdf)
 - [Representing and Recommending Shopping Baskets with Complementarity, Compatibility, and Loyalty](Match/Representing%20and%20Recommending%20Shopping%20Baskets%20with%20Complementarity%2C%20Compatibility%2C%20and%20Loyalty.pdf)
 - [Recommendation on Live - Streaming Platforms- Dynamic Availability and Repeat Consumption](Match/Recommendation%20on%20Live%20-%20Streaming%20Platforms-%20Dynamic%20Availability%20and%20Repeat%20Consumption.pdf)
