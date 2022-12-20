@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2022-12-19，本仓库收集汇总了推荐系统领域相关论文共**506**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2022-12-20，本仓库收集汇总了推荐系统领域相关论文共**529**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -195,6 +195,29 @@
 - [[2014][Yahoo] Beyond Clicks - Dwell Time for Personalization](Industry/Regression/%5B2014%5D%5BYahoo%5D%20Beyond%20Clicks%20-%20Dwell%20Time%20for%20Personalization.pdf)
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation](Industry/Regression/Deconfounding%20Duration%20Bias%20in%20Watch-time%20Prediction%20for%20Video%20Recommendation.pdf)
 #### AutomaticPlaylistContinuation
+- [A hybrid two-stage recommender system for automatic playlist continuation](Industry/AutomaticPlaylistContinuation/A%20hybrid%20two-stage%20recommender%20system%20for%20automatic%20playlist%20continuation.pdf)
+- [A Line in the Sandv- Recommendation or Ad-hoc Retrieval ](Industry/AutomaticPlaylistContinuation/A%20Line%20in%20the%20Sandv-%20Recommendation%20or%20Ad-hoc%20Retrieval%20.pdf)
+- [Automatic Playlist Continuation using Subprofile-Aware Diversification](Industry/AutomaticPlaylistContinuation/Automatic%20Playlist%20Continuation%20using%20Subprofile-Aware%20Diversification.pdf)
+- [A Hybrid Recommender System for Improving Automatic Playlist Continuation](Industry/AutomaticPlaylistContinuation/A%20Hybrid%20Recommender%20System%20for%20Improving%20Automatic%20Playlist%20Continuation.pdf)
+- [Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation](Industry/AutomaticPlaylistContinuation/Adversarial%20Mahalanobis%20Distance-based%20Attentive%20Song%20Recommender%20for%20Automatic%20Playlist%20Continuation.pdf)
+- [Automatic playlist continuation using a hybrid recommender system combining features from text and audio](Industry/AutomaticPlaylistContinuation/Automatic%20playlist%20continuation%20using%20a%20hybrid%20recommender%20system%20combining%20features%20from%20text%20and%20audio.pdf)
+- [An Ensemble Approach of Recurrent Neural Networks using Pre-Trained Embeddings for Playlist Completion](Industry/AutomaticPlaylistContinuation/An%20Ensemble%20Approach%20of%20Recurrent%20Neural%20Networks%20using%20Pre-Trained%20Embeddings%20for%20Playlist%20Completion.pdf)
+- [An Analysis of Approaches Taken in the ACM RecSys Challenge 2018 for Automatic Music Playlist Continuation](Industry/AutomaticPlaylistContinuation/An%20Analysis%20of%20Approaches%20Taken%20in%20the%20ACM%20RecSys%20Challenge%202018%20for%20Automatic%20Music%20Playlist%20Continuation.pdf)
+- [Automatic Music Playlist Continuation via Neighbor-based Collaborative Filtering and Discriminative Reweighting:Reranking](Industry/AutomaticPlaylistContinuation/Automatic%20Music%20Playlist%20Continuation%20via%20Neighbor-based%20Collaborative%20Filtering%20and%20Discriminative%20Reweighting%3AReranking.pdf)
+- [Artist-driven layering and user’s behaviour impact on recommendations in a playlist continuation scenario](Industry/AutomaticPlaylistContinuation/Artist-driven%20layering%20and%20user%E2%80%99s%20behaviour%20impact%20on%20recommendations%20in%20a%20playlist%20continuation%20scenario.pdf)
+- [Consistency-Aware Recommendation for User-Generated ItemList Continuation](Industry/AutomaticPlaylistContinuation/Consistency-Aware%20Recommendation%20for%20User-Generated%20ItemList%20Continuation.pdf)
+- [Efficient Similarity Based Methods For The Playlist Continuation Task](Industry/AutomaticPlaylistContinuation/Efficient%20Similarity%20Based%20Methods%20For%20The%20Playlist%20Continuation%20Task.pdf)
+- [Efficient K-NN for Playlist Continuation](Industry/AutomaticPlaylistContinuation/Efficient%20K-NN%20for%20Playlist%20Continuation.pdf)
+- [Effective Nearest-Neighbor Music Recommendations](Industry/AutomaticPlaylistContinuation/Effective%20Nearest-Neighbor%20Music%20Recommendations.pdf)
+- [MMCF - Multimodal Collaborative Filtering for Automatic Playlist Continuation](Industry/AutomaticPlaylistContinuation/MMCF%20-%20Multimodal%20Collaborative%20Filtering%20for%20Automatic%20Playlist%20Continuation.pdf)
+- [Offline Evaluation to Make Decisions About Playlist Recommendation Algorithms](Industry/AutomaticPlaylistContinuation/Offline%20Evaluation%20to%20Make%20Decisions%20About%20Playlist%20Recommendation%20Algorithms.pdf)
+- [Random Walk with Restart for Automatic Playlist Continuation and Query-Specific Adaptations](Industry/AutomaticPlaylistContinuation/Random%20Walk%20with%20Restart%20for%20Automatic%20Playlist%20Continuation%20and%20Query-Specific%20Adaptations.pdf)
+- [Social Tags and Emotions as main Features for the Next Song To Play in Automatic Playlist Continuation](Industry/AutomaticPlaylistContinuation/Social%20Tags%20and%20Emotions%20as%20main%20Features%20for%20the%20Next%20Song%20To%20Play%20in%20Automatic%20Playlist%20Continuation.pdf)
+- [TrailMix - An Ensemble Recommender System for Playlist Curation and Continuation](Industry/AutomaticPlaylistContinuation/TrailMix%20-%20An%20Ensemble%20Recommender%20System%20for%20Playlist%20Curation%20and%20Continuation.pdf)
+- [Towards Seed-Free Music Playlist Generation](Industry/AutomaticPlaylistContinuation/Towards%20Seed-Free%20Music%20Playlist%20Generation.pdf)
+- [Two-stage Model for Automatic Playlist Continuation at Scale](Industry/AutomaticPlaylistContinuation/Two-stage%20Model%20for%20Automatic%20Playlist%20Continuation%20at%20Scale.pdf)
+- [Using Adversarial Autoencoders for Multi-Modal Automatic Playlist Continuation](Industry/AutomaticPlaylistContinuation/Using%20Adversarial%20Autoencoders%20for%20Multi-Modal%20Automatic%20Playlist%20Continuation.pdf)
+- [User Recommendation in Content Curation Platforms](Industry/AutomaticPlaylistContinuation/User%20Recommendation%20in%20Content%20Curation%20Platforms.pdf)
 ## Pre-Rank
 - [[2020][Alibaba][COLD] COLD - Towards the Next Generation of Pre-Ranking System](Pre-Rank/%5B2020%5D%5BAlibaba%5D%5BCOLD%5D%20COLD%20-%20Towards%20the%20Next%20Generation%20of%20Pre-Ranking%20System.pdf)
 - [[2021][Alibaba] Towards a Better Tradeoff between Effectiveness and Efficiency in Pre-Ranking - A Learnable Feature Selection based Approach](Pre-Rank/%5B2021%5D%5BAlibaba%5D%20Towards%20a%20Better%20Tradeoff%20between%20Effectiveness%20and%20Efficiency%20in%20Pre-Ranking%20-%20A%20Learnable%20Feature%20Selection%20based%20Approach.pdf)
