@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2022-12-20, **529** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2022-12-23, **532** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **ReinForce Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -269,6 +269,7 @@ I will remove it immediately after verification.
 - [[2020][Google][MNS] Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations](Match/%5B2020%5D%5BGoogle%5D%5BMNS%5D%20Mixed%20Negative%20Sampling%20for%20Learning%20Two-tower%20Neural%20Networks%20in%20Recommendations.pdf)
 - [[2021][Google] Self-supervised Learning for Large-scale Item Recommendations](Match/%5B2021%5D%5BGoogle%5D%20Self-supervised%20Learning%20for%20Large-scale%20Item%20Recommendations.pdf)
 - [[2021][Alibaba][MGDSPR] Embedding-based Product Retrieval in Taobao Search](Match/%5B2021%5D%5BAlibaba%5D%5BMGDSPR%5D%20Embedding-based%20Product%20Retrieval%20in%20Taobao%20Search.pdf)
+- [[2021][Alibaba][XDM] XDM - Improving Sequential Deep Matching with Unclicked User Behaviors for Recommender System](Match/%5B2021%5D%5BAlibaba%5D%5BXDM%5D%20XDM%20-%20Improving%20Sequential%20Deep%20Matching%20with%20Unclicked%20User%20Behaviors%20for%20Recommender%20System.pdf)
 - [Attentive Collaborative Filtering - Multimedia Recommendation with Item- and Component-Level Aention](Match/Attentive%20Collaborative%20Filtering%20-%20Multimedia%20Recommendation%20with%20Item-%20and%20Component-Level%20A%C2%82ention.pdf)
 - [Attentive Sequential Models of Latent Intent for Next Item Recommendation](Match/Attentive%20Sequential%20Models%20of%20Latent%20Intent%20for%20Next%20Item%20Recommendation.pdf)
 - [A User-Centered Concept Mining System for Query and Document Understanding at Tencent](Match/A%20User-Centered%20Concept%20Mining%20System%20for%20Query%20and%20Document%20Understanding%20at%20Tencent.pdf)
@@ -292,6 +293,7 @@ I will remove it immediately after verification.
 - [Improving Recommendation Accuracy using Networks of Substitutable and Complementary Products](Match/Improving%20Recommendation%20Accuracy%20using%20Networks%20of%20Substitutable%20and%20Complementary%20Products.pdf)
 - [ItemSage - Learning Product Embeddings for Shopping Recommendations at Pinterest](Match/ItemSage%20-%20Learning%20Product%20Embeddings%20for%20Shopping%20Recommendations%20at%20Pinterest.pdf)
 - [Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking](Match/Latent%20Relational%20Metric%20Learning%20via%20Memory-based%20Attention%20for%20Collaborative%20Ranking.pdf)
+- [Learning from History and Present - Next-item Recommendation via Discriminatively Exploiting User Behaviors](Match/Learning%20from%20History%20and%20Present%20-%20Next-item%20Recommendation%20via%20Discriminatively%20Exploiting%20User%20Behaviors.pdf)
 - [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](Match/Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf)
 - [Locker - Locally Constrained Self-Attentive Sequential Recommendation](Match/Locker%20-%20Locally%20Constrained%20Self-Attentive%20Sequential%20Recommendation.pdf)
 - [Modeling Dynamic Missingness of Implicit Feedback for Recommendation](Match/Modeling%20Dynamic%20Missingness%20of%20Implicit%20Feedback%20for%20Recommendation.pdf)
@@ -304,6 +306,7 @@ I will remove it immediately after verification.
 - [Path-based Deep Network for Candidate Item Matching in Recommenders](Match/Path-based%20Deep%20Network%20for%20Candidate%20Item%20Matching%20in%20Recommenders.pdf)
 - [Representing and Recommending Shopping Baskets with Complementarity, Compatibility, and Loyalty](Match/Representing%20and%20Recommending%20Shopping%20Baskets%20with%20Complementarity%2C%20Compatibility%2C%20and%20Loyalty.pdf)
 - [Recommendation on Live - Streaming Platforms- Dynamic Availability and Repeat Consumption](Match/Recommendation%20on%20Live%20-%20Streaming%20Platforms-%20Dynamic%20Availability%20and%20Repeat%20Consumption.pdf)
+- [Sequential Recommender System based on Hierarchical Attention Network](Match/Sequential%20Recommender%20System%20based%20on%20Hierarchical%20Attention%20Network.pdf)
 - [Sequential Recommendation via Stochastic Self-Attention](Match/Sequential%20Recommendation%20via%20Stochastic%20Self-Attention.pdf)
 - [Sparse-Interest Network for Sequential Recommendation](Match/Sparse-Interest%20Network%20for%20Sequential%20Recommendation.pdf)
 - [Self-Attentive Sequential Recommendation](Match/Self-Attentive%20Sequential%20Recommendation.pdf)
@@ -311,7 +314,6 @@ I will remove it immediately after verification.
 - [Towards Personalized and Semantic Retrieval - An End-to-End Solution for E-commerce Search via Embedding Learning](Match/Towards%20Personalized%20and%20Semantic%20Retrieval%20-%20An%20End-to-End%20Solution%20for%20E-commerce%20Search%20via%20Embedding%20Learning.pdf)
 - [Uni-Retriever - Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search](Match/Uni-Retriever%20-%20Towards%20Learning%20The%20Unified%20Embedding%20Based%20Retriever%20in%20Bing%20Sponsored%20Search.pdf)
 - [Variational Autoencoders for Collaborative Filtering](Match/Variational%20Autoencoders%20for%20Collaborative%20Filtering.pdf)
-- [XDM - Improving Sequential Deep Matching with Unclicked User Behaviors for Recommender System](Match/XDM%20-%20Improving%20Sequential%20Deep%20Matching%20with%20Unclicked%20User%20Behaviors%20for%20Recommender%20System.pdf)
 #### Tree-Based
 - [Deep Retrieval - Learning A Retrievable Structure for Large-Scale Recommendations](Match/Tree-Based/Deep%20Retrieval%20-%20Learning%20A%20Retrievable%20Structure%20for%20Large-Scale%20Recommendations.pdf)
 - [Joint Optimization of Tree-based Index and Deep Model for Recommender Systems](Match/Tree-Based/Joint%20Optimization%20of%20Tree-based%20Index%20and%20Deep%20Model%20for%20Recommender%20Systems.pdf)
@@ -615,5 +617,6 @@ I will remove it immediately after verification.
 - [Overlapping Experiment Infrastructure - More, Better, Faster Experimentation](ABTest/Overlapping%20Experiment%20Infrastructure%20-%20More%2C%20Better%2C%20Faster%20Experimentation.pdf)
 ## Reinforce
 - [Jointly Learning to Recommend and Advertise](Reinforce/Jointly%20Learning%20to%20Recommend%20and%20Advertise.pdf)
+- [Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning](Reinforce/Recommendations%20with%20Negative%20Feedback%20via%20Pairwise%20Deep%20Reinforcement%20Learning.pdf)
 - [Reinforcement Learning for Slate-based Recommender Systems - A Tractable Decomposition and Practical Methodology](Reinforce/Reinforcement%20Learning%20for%20Slate-based%20Recommender%20Systems%20-%20A%20Tractable%20Decomposition%20and%20Practical%20Methodology.pdf)
 - [Top-K Off-Policy Correctionfor a REINFORCE Recommender System](Reinforce/Top-K%20Off-Policy%20Correctionfor%20a%20REINFORCE%20Recommender%20System.pdf)
