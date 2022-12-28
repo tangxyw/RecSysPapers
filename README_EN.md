@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2022-12-23, **532** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2022-12-28, **543** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **ReinForce Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -163,7 +163,17 @@ I will remove it immediately after verification.
 #### Edge
 - [Real-time Short Video Recommendation on Mobile Devices](Industry/Edge/Real-time%20Short%20Video%20Recommendation%20on%20Mobile%20Devices.pdf)
 #### RepeatConsumption
+- [Buy It Again - Modeling Repeat Purchase Recommendations](Industry/RepeatConsumption/Buy%20It%20Again%20-%20Modeling%20Repeat%20Purchase%20Recommendations.pdf)
+- [Modeling Item-Specific Temporal Dynamics of Repeat Consumption for Recommender Systems](Industry/RepeatConsumption/Modeling%20Item-Specific%20Temporal%20Dynamics%20of%20Repeat%20Consumption%20for%20Recommender%20Systems.pdf)
 - [Modeling User Repeat Consumption Behavior for Online Novel Recommendation](Industry/RepeatConsumption/Modeling%20User%20Repeat%20Consumption%20Behavior%20for%20Online%20Novel%20Recommendation.pdf)
+- [On the Value of Reminders within E-Commerce Recommendations](Industry/RepeatConsumption/On%20the%20Value%20of%20Reminders%20within%20E-Commerce%20Recommendations.pdf)
+- [Predicting Consumption Patterns with Repeated and Novel Events](Industry/RepeatConsumption/Predicting%20Consumption%20Patterns%20with%20Repeated%20and%20Novel%20Events.pdf)
+- [Predicting Music Relistening Behavior Using the ACT-R Framework](Industry/RepeatConsumption/Predicting%20Music%20Relistening%20Behavior%20Using%20the%20ACT-R%20Framework.pdf)
+- [Recommendation on Live-Streaming Platforms - Dynamic Availability and Repeat Consumption](Industry/RepeatConsumption/Recommendation%20on%20Live-Streaming%20Platforms%20-%20Dynamic%20Availability%20and%20Repeat%20Consumption.pdf)
+- [RepeatNet - A Repeat Aware Neural Recommendation Machine for Session-based Recommendation](Industry/RepeatConsumption/RepeatNet%20-%20A%20Repeat%20Aware%20Neural%20Recommendation%20Machine%20for%20Session-based%20Recommendation.pdf)
+- [Recommendation for Repeat Consumption from User Implicit Feedback](Industry/RepeatConsumption/Recommendation%20for%20Repeat%20Consumption%20from%20User%20Implicit%20Feedback.pdf)
+- [The Dynamics of Repeat Consumption](Industry/RepeatConsumption/The%20Dynamics%20of%20Repeat%20Consumption.pdf)
+- [Will You “Reconsume” the Near Past? Fast Prediction on Short-Term Reconsumption Behaviors](Industry/RepeatConsumption/Will%20You%20%E2%80%9CReconsume%E2%80%9D%20the%20Near%20Past%3F%20Fast%20Prediction%20on%20Short-Term%20Reconsumption%20Behaviors.pdf)
 #### POI
 - [[2020][meituan][STGCN] STGCN - A Spatial-Temporal Aware Graph Learning Method for POI Recommendation](Industry/POI/%5B2020%5D%5Bmeituan%5D%5BSTGCN%5D%20STGCN%20-%20A%20Spatial-Temporal%20Aware%20Graph%20Learning%20Method%20for%20POI%20Recommendation.pdf)
 - [A Survey on Deep Learning Based Point-Of-Interest (POI) Recommendations](Industry/POI/A%20Survey%20on%20Deep%20Learning%20Based%20Point-Of-Interest%20%28POI%29%20Recommendations.pdf)
@@ -586,6 +596,7 @@ I will remove it immediately after verification.
 - [Score Look-alike Audiences](Look-Alike/Score%20Look-alike%20Audiences.pdf)
 - [Two-Stage Audience Expansion for Financial Targeting in Marketing](Look-Alike/Two-Stage%20Audience%20Expansion%20for%20Financial%20Targeting%20in%20Marketing.pdf)
 ## CausalInference
+- [A Model-Agnostic Causal Learning Framework for Recommendation using Search Data](CausalInference/A%20Model-Agnostic%20Causal%20Learning%20Framework%20for%20Recommendation%20using%20Search%20Data.pdf)
 - [CauseRec - Counterfactual User Sequence Synthesis for Sequential Recommendation](CausalInference/CauseRec%20-%20Counterfactual%20User%20Sequence%20Synthesis%20for%20Sequential%20Recommendation.pdf)
 - [Counterfactual Data-Augmented Sequential Recommendation](CausalInference/Counterfactual%20Data-Augmented%20Sequential%20Recommendation.pdf)
 - [Clicks can be Cheating - Counterfactual Recommendation for Mitigating Clickbait Issue](CausalInference/Clicks%20can%20be%20Cheating%20-%20Counterfactual%20Recommendation%20for%20Mitigating%20Clickbait%20Issue.pdf)
