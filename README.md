@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2022-12-28，本仓库收集汇总了推荐系统领域相关论文共**543**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-01-02，本仓库收集汇总了推荐系统领域相关论文共**543**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -156,9 +156,9 @@
 #### Edge
 - [Real-time Short Video Recommendation on Mobile Devices](Industry/Edge/Real-time%20Short%20Video%20Recommendation%20on%20Mobile%20Devices.pdf)
 #### RepeatConsumption
+- [[2022][Tencent][NoveNet] Modeling User Repeat Consumption Behavior for Online Novel Recommendation](Industry/RepeatConsumption/%5B2022%5D%5BTencent%5D%5BNoveNet%5D%20Modeling%20User%20Repeat%20Consumption%20Behavior%20for%20Online%20Novel%20Recommendation.pdf)
 - [Buy It Again - Modeling Repeat Purchase Recommendations](Industry/RepeatConsumption/Buy%20It%20Again%20-%20Modeling%20Repeat%20Purchase%20Recommendations.pdf)
 - [Modeling Item-Specific Temporal Dynamics of Repeat Consumption for Recommender Systems](Industry/RepeatConsumption/Modeling%20Item-Specific%20Temporal%20Dynamics%20of%20Repeat%20Consumption%20for%20Recommender%20Systems.pdf)
-- [Modeling User Repeat Consumption Behavior for Online Novel Recommendation](Industry/RepeatConsumption/Modeling%20User%20Repeat%20Consumption%20Behavior%20for%20Online%20Novel%20Recommendation.pdf)
 - [On the Value of Reminders within E-Commerce Recommendations](Industry/RepeatConsumption/On%20the%20Value%20of%20Reminders%20within%20E-Commerce%20Recommendations.pdf)
 - [Predicting Consumption Patterns with Repeated and Novel Events](Industry/RepeatConsumption/Predicting%20Consumption%20Patterns%20with%20Repeated%20and%20Novel%20Events.pdf)
 - [Predicting Music Relistening Behavior Using the ACT-R Framework](Industry/RepeatConsumption/Predicting%20Music%20Relistening%20Behavior%20Using%20the%20ACT-R%20Framework.pdf)
