@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-02-01, **549** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-02-05, **553** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **ReinForce Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -415,6 +415,7 @@ I will remove it immediately after verification.
 - [[2021][Meituan][AITM] Modeling the Sequential Dependence among Audience Multi-step Conversions with Multi-task Learning in Targeted Display Advertising](Multi-Task/%5B2021%5D%5BMeituan%5D%5BAITM%5D%20Modeling%20the%20Sequential%20Dependence%20among%20Audience%20Multi-step%20Conversions%20with%20Multi-task%20Learning%20in%20Targeted%20Display%20Advertising.pdf)
 - [[2022][Alibaba][ESCM2] ESCM2 - Entire Space Counterfactual Multi-Task Model for Post-Click Conversion Rate Estimation](Multi-Task/%5B2022%5D%5BAlibaba%5D%5BESCM2%5D%20ESCM2%20-%20Entire%20Space%20Counterfactual%20Multi-Task%20Model%20for%20Post-Click%20Conversion%20Rate%20Estimation.pdf)
 - [Can Small Heads Help Understanding and Improving Multi-Task Generalization](Multi-Task/Can%20Small%20Heads%20Help%20Understanding%20and%20Improving%20Multi-Task%20Generalization.pdf)
+- [Cross-stitch Networks for Multi-task Learning](Multi-Task/Cross-stitch%20Networks%20for%20Multi-task%20Learning.pdf)
 - [Dynamic Task Prioritization for Multitask Learning](Multi-Task/Dynamic%20Task%20Prioritization%20for%20Multitask%20Learning.pdf)
 - [DSelect-k - Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning](Multi-Task/DSelect-k%20-%20Differentiable%20Selection%20in%20the%20Mixture%20of%20Experts%20with%20Applications%20to%20Multi-Task%20Learning.pdf)
 - [Entire Space Multi-Task Modeling via Post-Click Behavior Decomposition for Conversion Rate Prediction](Multi-Task/Entire%20Space%20Multi-Task%20Modeling%20via%20Post-Click%20Behavior%20Decomposition%20for%20Conversion%20Rate%20Prediction.pdf)
@@ -457,6 +458,7 @@ I will remove it immediately after verification.
 - [DTCDR - A Framework for Dual-Target Cross-Domain Recommendation](Multi-Scenario/DTCDR%20-%20A%20Framework%20for%20Dual-Target%20Cross-Domain%20Recommendation.pdf)
 - [Dynamic collaborative filtering Thompson Sampling for cross-domain advertisements recommendation](Multi-Scenario/Dynamic%20collaborative%20filtering%20Thompson%20Sampling%20for%20cross-domain%20advertisements%20recommendation.pdf)
 - [DeepAPF - Deep Attentive Probabilistic Factorization for Multi-site Video Recommendation](Multi-Scenario/DeepAPF%20-%20Deep%20Attentive%20Probabilistic%20Factorization%20for%20Multi-site%20Video%20Recommendation.pdf)
+- [Heterogeneous Graph Augmented Multi-Scenario Sharing Recommendation with Tree-Guided Expert Networks](Multi-Scenario/Heterogeneous%20Graph%20Augmented%20Multi-Scenario%20Sharing%20Recommendation%20with%20Tree-Guided%20Expert%20Networks.pdf)
 - [Improving Multi-Scenario Learning to Rank in E-commerce by Exploiting Task Relationships in the Label Space](Multi-Scenario/Improving%20Multi-Scenario%20Learning%20to%20Rank%20in%20E-commerce%20by%20Exploiting%20Task%20Relationships%20in%20the%20Label%20Space.pdf)
 - [KEEP - An Industrial Pre-Training Framework for Online Recommendation via Knowledge Extraction and Plugging](Multi-Scenario/KEEP%20-%20An%20Industrial%20Pre-Training%20Framework%20for%20Online%20Recommendation%20via%20Knowledge%20Extraction%20and%20Plugging.pdf)
 - [Leaving No One Behind - A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling](Multi-Scenario/Leaving%20No%20One%20Behind%20-%20A%20Multi-Scenario%20Multi-Task%20Meta%20Learning%20Approach%20for%20Advertiser%20Modeling.pdf)
@@ -571,6 +573,8 @@ I will remove it immediately after verification.
 - [Personalized Adaptive Meta Learning for Cold-start User Preference Prediction](Cold-Start/MetaLearning/Personalized%20Adaptive%20Meta%20Learning%20for%20Cold-start%20User%20Preference%20Prediction.pdf)
 - [Transfer-Meta Framework for Cross-domain Recommendation to Cold-Start Users](Cold-Start/MetaLearning/Transfer-Meta%20Framework%20for%20Cross-domain%20Recommendation%20to%20Cold-Start%20Users.pdf)
 ## Learning-to-Rank
+- [AliExpress Learning-To-Rank- Maximizing Online Model Performance without Going Online](Learning-to-Rank/AliExpress%20Learning-To-Rank-%20Maximizing%20Online%20Model%20Performance%20without%20Going%20Online.pdf)
+- [Learning Groupwise Multivariate Scoring Functions Using Deep Neural Networks](Learning-to-Rank/Learning%20Groupwise%20Multivariate%20Scoring%20Functions%20Using%20Deep%20Neural%20Networks.pdf)
 #### Pair-wise
 - [LambdaRank - Learning to Rank with Nonsmooth Cost Functions](Learning-to-Rank/Pair-wise/LambdaRank%20-%20Learning%20to%20Rank%20with%20Nonsmooth%20Cost%20Functions.pdf)
 - [RankNET - Learning to Rank Using Gradient Descent](Learning-to-Rank/Pair-wise/RankNET%20-%20Learning%20to%20Rank%20Using%20Gradient%20Descent.pdf)
