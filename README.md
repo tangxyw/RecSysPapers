@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-02-12，本仓库收集汇总了推荐系统领域相关论文共**556**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-02-13，本仓库收集汇总了推荐系统领域相关论文共**564**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -601,6 +601,8 @@
 - [Two-Stage Audience Expansion for Financial Targeting in Marketing](Look-Alike/Two-Stage%20Audience%20Expansion%20for%20Financial%20Targeting%20in%20Marketing.pdf)
 ## CausalInference
 - [A Model-Agnostic Causal Learning Framework for Recommendation using Search Data](CausalInference/A%20Model-Agnostic%20Causal%20Learning%20Framework%20for%20Recommendation%20using%20Search%20Data.pdf)
+- [Addressing Confounding Feature Issue for Causal Recommendation](CausalInference/Addressing%20Confounding%20Feature%20Issue%20for%20Causal%20Recommendation.pdf)
+- [CausCF - Causal Collaborative Filtering for Recommendation Effect Estimation](CausalInference/CausCF%20-%20Causal%20Collaborative%20Filtering%20for%20Recommendation%20Effect%20Estimation.pdf)
 - [Causal Inference in Recommender Systems - A Survey of Strategies for Bias  Mitigation, Explanation, and Generalization](CausalInference/Causal%20Inference%20in%20Recommender%20Systems%20-%20A%20Survey%20of%20Strategies%20for%20Bias%20%20Mitigation%2C%20Explanation%2C%20and%20Generalization.pdf)
 - [CauseRec - Counterfactual User Sequence Synthesis for Sequential Recommendation](CausalInference/CauseRec%20-%20Counterfactual%20User%20Sequence%20Synthesis%20for%20Sequential%20Recommendation.pdf)
 - [Counterfactual Data-Augmented Sequential Recommendation](CausalInference/Counterfactual%20Data-Augmented%20Sequential%20Recommendation.pdf)
@@ -610,8 +612,13 @@
 - [Deconfounded Recommendation for Alleviating Bias Amplification](CausalInference/Deconfounded%20Recommendation%20for%20Alleviating%20Bias%20Amplification.pdf)
 - [Improving Ad Click Prediction by Considering Non-displayed Events](CausalInference/Improving%20Ad%20Click%20Prediction%20by%20Considering%20Non-displayed%20Events.pdf)
 - [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](CausalInference/Model-Agnostic%20Counterfactual%20Reasoning%20for%20Eliminating%20Popularity%20Bias%20in%20Recommender%20System.pdf)
+- [Mitigating Hidden Confounding Effects for Causal Recommendation](CausalInference/Mitigating%20Hidden%20Confounding%20Effects%20for%20Causal%20Recommendation.pdf)
+- [On the Opportunity of Causal Learning in Recommendation Systems - Foundation, Estimation, Prediction and Challenges](CausalInference/On%20the%20Opportunity%20of%20Causal%20Learning%20in%20Recommendation%20Systems%20-%20Foundation%2C%20Estimation%2C%20Prediction%20and%20Challenges.pdf)
 - [Practical Counterfactual Policy Learning for Top-K Recommendations](CausalInference/Practical%20Counterfactual%20Policy%20Learning%20for%20Top-K%20Recommendations.pdf)
+- [Recommending the Most Effective Intervention to Improve Employment for Job Seekers with Disability](CausalInference/Recommending%20the%20Most%20Effective%20Intervention%20to%20Improve%20Employment%20for%20Job%20Seekers%20with%20Disability.pdf)
 - [Recommendations as Treatments - Debiasing Learning and Evaluation](CausalInference/Recommendations%20as%20Treatments%20-%20Debiasing%20Learning%20and%20Evaluation.pdf)
+- [Towards Unbiased and Robust Causal Ranking for Recommender Systems](CausalInference/Towards%20Unbiased%20and%20Robust%20Causal%20Ranking%20for%20Recommender%20Systems.pdf)
+- [Top-N Recommendation with Counterfactual User Preference Simulation](CausalInference/Top-N%20Recommendation%20with%20Counterfactual%20User%20Preference%20Simulation.pdf)
 ## Diversity
 - [[2020][Huawei][pDPP] Personalized Re-ranking for Improving Diversity in Live Recommender Systems](Diversity/%5B2020%5D%5BHuawei%5D%5BpDPP%5D%20Personalized%20Re-ranking%20for%20Improving%20Diversity%20in%20Live%20Recommender%20Systems.pdf)
 - [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](Diversity/A%20Framework%20for%20Recommending%20Accurate%20and%20Diverse%20Items%20Using%20Bayesian%20Graph%20Convolutional%20Neural%20Networks.pdf)
@@ -629,6 +636,7 @@
 - [Managing Diversity in Airbnb Search](Diversity/Managing%20Diversity%20in%20Airbnb%20Search.pdf)
 - [Novelty and Diversity in Information Retrieval Evaluation](Diversity/Novelty%20and%20Diversity%20in%20Information%20Retrieval%20Evaluation.pdf)
 - [P-Companion - A Principled Framework for Diversified Complementary Product Recommendation](Diversity/P-Companion%20-%20A%20Principled%20Framework%20for%20Diversified%20Complementary%20Product%20Recommendation.pdf)
+- [User-controllable Recommendation Against Filter Bubbles](Diversity/User-controllable%20Recommendation%20Against%20Filter%20Bubbles.pdf)
 - [UNDERSTANDING DIVERSITY IN SESSION-BASED RECOMMENDATION](Diversity/UNDERSTANDING%20DIVERSITY%20IN%20SESSION-BASED%20RECOMMENDATION.pdf)
 ## ABTest
 - [Overlapping Experiment Infrastructure - More, Better, Faster Experimentation](ABTest/Overlapping%20Experiment%20Infrastructure%20-%20More%2C%20Better%2C%20Faster%20Experimentation.pdf)
