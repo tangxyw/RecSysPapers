@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-02-13, **564** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-02-16, **580** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **ReinForce Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -89,6 +89,7 @@ I will remove it immediately after verification.
 - [Adversarial Mixture Of Experts with Category Hierarchy Soft Constraint](Industry/Adversarial%20Mixture%20Of%20Experts%20with%20Category%20Hierarchy%20Soft%20Constraint.pdf)
 - [Alternating Pointwise-Pairwise Learning for Personalized Item Ranking](Industry/Alternating%20Pointwise-Pairwise%20Learning%20for%20Personalized%20Item%20Ranking.pdf)
 - [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](Industry/Adversarial%20Filtering%20Modeling%20on%20Long-term%20User%20Behavior%20Sequences%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [A Deep Behavior Path Matching Network for Click-Through Rate Prediction](Industry/A%20Deep%20Behavior%20Path%20Matching%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Curriculum Disentangled Recommendation with Noisy Multi-feedback](Industry/Curriculum%20Disentangled%20Recommendation%20with%20Noisy%20Multi-feedback.pdf)
 - [Category-Specific CNN for Visual-aware CTR Prediction at JD.com](Industry/Category-Specific%20CNN%20for%20Visual-aware%20CTR%20Prediction%20at%20JD.com.pdf)
 - [ContextNet - A Click-Through Rate Prediction Framework Using Contextual information to Refine Feature Embedding](Industry/ContextNet%20-%20A%20Click-Through%20Rate%20Prediction%20Framework%20Using%20Contextual%20information%20to%20Refine%20Feature%20Embedding.pdf)
@@ -123,6 +124,7 @@ I will remove it immediately after verification.
 - [Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction](Industry/Multi-Interactive%20Attention%20Network%20for%20Fine-grained%20Feature%20Learning%20in%20CTR%20Prediction.pdf)
 - [MRIF - Multi-resolution Interest Fusion for Recommendation](Industry/MRIF%20-%20Multi-resolution%20Interest%20Fusion%20for%20Recommendation.pdf)
 - [News Recommendation with Candidate-aware User Modeling](Industry/News%20Recommendation%20with%20Candidate-aware%20User%20Modeling.pdf)
+- [Optimizing Feature Set for Click-Through Rate Prediction](Industry/Optimizing%20Feature%20Set%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Product-based Neural Networks for User Response Prediction over Multi-field Categorical Data](Industry/Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction%20over%20Multi-field%20Categorical%20Data.pdf)
 - [PURS - Personalized Unexpected Recommender System for Improving User Satisfaction](Industry/PURS%20-%20Personalized%20Unexpected%20Recommender%20System%20for%20Improving%20User%20Satisfaction.pdf)
 - [Recommender Transformers with Behavior Pathways](Industry/Recommender%20Transformers%20with%20Behavior%20Pathways.pdf)
@@ -131,6 +133,7 @@ I will remove it immediately after verification.
 - [Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction](Industry/Sampling%20Is%20All%20You%20Need%20on%20Modeling%20Long-Term%20User%20Behaviors%20for%20CTR%20Prediction.pdf)
 - [Triangle Graph Interest Network for Click-through Rate Prediction](Industry/Triangle%20Graph%20Interest%20Network%20for%20Click-through%20Rate%20Prediction.pdf)
 - [TencentRec - Real-time Stream Recommendation in Practice](Industry/TencentRec%20-%20Real-time%20Stream%20Recommendation%20in%20Practice.pdf)
+- [TWIN - TWo-stage Interest Network for Lifelong User Behavior Modeling in CTR Prediction at Kuaishou](Industry/TWIN%20-%20TWo-stage%20Interest%20Network%20for%20Lifelong%20User%20Behavior%20Modeling%20in%20CTR%20Prediction%20at%20Kuaishou.pdf)
 - [TiSSA - A Time Slice Self-Attention Approach for Modeling Sequential User Behaviors](Industry/TiSSA%20-%20A%20Time%20Slice%20Self-Attention%20Approach%20for%20Modeling%20Sequential%20User%20Behaviors.pdf)
 - [Towards Understanding the Overfitting Phenomenon of Deep Click-Through Rate Prediction Models](Industry/Towards%20Understanding%20the%20Overfitting%20Phenomenon%20of%20Deep%20Click-Through%20Rate%20Prediction%20Models.pdf)
 - [User Behavior Retrieval for Click-Through Rate Prediction](Industry/User%20Behavior%20Retrieval%20for%20Click-Through%20Rate%20Prediction.pdf)
@@ -288,6 +291,7 @@ I will remove it immediately after verification.
 - [Attentive Sequential Models of Latent Intent for Next Item Recommendation](Match/Attentive%20Sequential%20Models%20of%20Latent%20Intent%20for%20Next%20Item%20Recommendation.pdf)
 - [A User-Centered Concept Mining System for Query and Document Understanding at Tencent](Match/A%20User-Centered%20Concept%20Mining%20System%20for%20Query%20and%20Document%20Understanding%20at%20Tencent.pdf)
 - [AutoRec - Autoencoders Meet Collaborative Filtering](Match/AutoRec%20-%20Autoencoders%20Meet%20Collaborative%20Filtering.pdf)
+- [Adap-tau - Adaptively Modulating Embedding Magnitude for Recommendation](Match/Adap-tau%20-%20Adaptively%20Modulating%20Embedding%20Magnitude%20for%20Recommendation.pdf)
 - [A Simple Convolutional Generative Network for Next Item Recommendation](Match/A%20Simple%20Convolutional%20Generative%20Network%20for%20Next%20Item%20Recommendation.pdf)
 - [A Dual Augmented Two-tower Model for Online Large-scale Recommendation](Match/A%20Dual%20Augmented%20Two-tower%20Model%20for%20Online%20Large-scale%20Recommendation.pdf)
 - [CROLoss - Towards a Customizable Loss for Retrieval Models in Recommender Systems](Match/CROLoss%20-%20Towards%20a%20Customizable%20Loss%20for%20Retrieval%20Models%20in%20Recommender%20Systems.pdf)
@@ -296,6 +300,7 @@ I will remove it immediately after verification.
 - [Cross-Batch Negative Sampling for Training Two-Tower Recommenders](Match/Cross-Batch%20Negative%20Sampling%20for%20Training%20Two-Tower%20Recommenders.pdf)
 - [Collaborative Deep Learning for Recommender Systems](Match/Collaborative%20Deep%20Learning%20for%20Recommender%20Systems.pdf)
 - [Deep Matrix Factorization Models for Recommender Systems](Match/Deep%20Matrix%20Factorization%20Models%20for%20Recommender%20Systems.pdf)
+- [Divide and Conquer - Towards Better Embedding-based Retrieval for Recommender Systems from a Multi-task Perspective](Match/Divide%20and%20Conquer%20-%20Towards%20Better%20Embedding-based%20Retrieval%20for%20Recommender%20Systems%20from%20a%20Multi-task%20Perspective.pdf)
 - [Disentangled Self-Supervision in Sequential Recommenders](Match/Disentangled%20Self-Supervision%20in%20Sequential%20Recommenders.pdf)
 - [Deep Collaborative Filtering via Marginalized Denoising Auto-encoder](Match/Deep%20Collaborative%20Filtering%20via%20Marginalized%20Denoising%20Auto-encoder.pdf)
 - [Efficient Training on Very Large Corpora via Gramian Estimation](Match/Efficient%20Training%20on%20Very%20Large%20Corpora%20via%20Gramian%20Estimation.pdf)
@@ -315,6 +320,7 @@ I will remove it immediately after verification.
 - [Neural Aentive Session-based Recommendation](Match/Neural%20A%1Dentive%20Session-based%20Recommendation.pdf)
 - [Octopus - Comprehensive and Elastic User Representation for the Generation of Recommendation Candidates](Match/Octopus%20-%20Comprehensive%20and%20Elastic%20User%20Representation%20for%20the%20Generation%20of%20Recommendation%20Candidates.pdf)
 - [Outer Product-based Neural Collaborative Filtering](Match/Outer%20Product-based%20Neural%20Collaborative%20Filtering.pdf)
+- [On the Theories Behind Hard Negative Sampling for Recommendation](Match/On%20the%20Theories%20Behind%20Hard%20Negative%20Sampling%20for%20Recommendation.pdf)
 - [PinnerSage - Multi-Modal User Embedding Framework for Recommendations at Pinterest](Match/PinnerSage%20-%20Multi-Modal%20User%20Embedding%20Framework%20for%20Recommendations%20at%20Pinterest.pdf)
 - [Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding](Match/Personalized%20Top-N%20Sequential%20Recommendation%20via%20Convolutional%20Sequence%20Embedding.pdf)
 - [Path-based Deep Network for Candidate Item Matching in Recommenders](Match/Path-based%20Deep%20Network%20for%20Candidate%20Item%20Matching%20in%20Recommenders.pdf)
@@ -325,6 +331,7 @@ I will remove it immediately after verification.
 - [Sparse-Interest Network for Sequential Recommendation](Match/Sparse-Interest%20Network%20for%20Sequential%20Recommendation.pdf)
 - [Self-Attentive Sequential Recommendation](Match/Self-Attentive%20Sequential%20Recommendation.pdf)
 - [StarSpace - Embed All The Things!](Match/StarSpace%20-%20Embed%20All%20The%20Things%21.pdf)
+- [SimpleX - A Simple and Strong Baseline for Collaborative Filtering](Match/SimpleX%20-%20A%20Simple%20and%20Strong%20Baseline%20for%20Collaborative%20Filtering.pdf)
 - [Towards Personalized and Semantic Retrieval - An End-to-End Solution for E-commerce Search via Embedding Learning](Match/Towards%20Personalized%20and%20Semantic%20Retrieval%20-%20An%20End-to-End%20Solution%20for%20E-commerce%20Search%20via%20Embedding%20Learning.pdf)
 - [Uni-Retriever - Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search](Match/Uni-Retriever%20-%20Towards%20Learning%20The%20Unified%20Embedding%20Based%20Retriever%20in%20Bing%20Sponsored%20Search.pdf)
 - [Variational Autoencoders for Collaborative Filtering](Match/Variational%20Autoencoders%20for%20Collaborative%20Filtering.pdf)
@@ -430,6 +437,7 @@ I will remove it immediately after verification.
 - [Multi-Objective Ranking Optimization for Product Search Using Stochastic Label Aggregation](Multi-Task/Multi-Objective%20Ranking%20Optimization%20for%20Product%20Search%20Using%20Stochastic%20Label%20Aggregation.pdf)
 - [Multi-Task Learning for Dense Prediction Tasks - A Survey](Multi-Task/Multi-Task%20Learning%20for%20Dense%20Prediction%20Tasks%20-%20A%20Survey.pdf)
 - [Multi-Task Learning as Multi-Objective Optimization - slide](Multi-Task/Multi-Task%20Learning%20as%20Multi-Objective%20Optimization%20-%20slide.pdf)
+- [Multi-Task Deep Recommender Systems - A Survey](Multi-Task/Multi-Task%20Deep%20Recommender%20Systems%20-%20A%20Survey.pdf)
 - [Perceive Your Users in Depth - Learning Universal User Representations from Multiple E-commerce Tasks](Multi-Task/Perceive%20Your%20Users%20in%20Depth%20-%20Learning%20Universal%20User%20Representations%20from%20Multiple%20E-commerce%20Tasks.pdf)
 - [Personalized Approximate Pareto-Efficient Recommendation](Multi-Task/Personalized%20Approximate%20Pareto-Efficient%20Recommendation.pdf)
 - [Pareto Multi-Task Learning](Multi-Task/Pareto%20Multi-Task%20Learning.pdf)
@@ -440,6 +448,7 @@ I will remove it immediately after verification.
 - [Adversarial Multimodal Representation Learning for Click-Through Rate Prediction](Multi-Modal/Adversarial%20Multimodal%20Representation%20Learning%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Heterogeneous Attention Network for Effective and Efficient Cross-modal Retrieval](Multi-Modal/Heterogeneous%20Attention%20Network%20for%20Effective%20and%20Efficient%20Cross-modal%20Retrieval.pdf)
 - [Learning Joint Embedding with Multimodal Cues for Cross-Modal Video-Text Retrieva](Multi-Modal/Learning%20Joint%20Embedding%20with%20Multimodal%20Cues%20for%20Cross-Modal%20Video-Text%20Retrieva.pdf)
+- [Multimodal Recommender Systems - A Survey](Multi-Modal/Multimodal%20Recommender%20Systems%20-%20A%20Survey.pdf)
 - [Pretraining Representations of Multi-modal Multi-query E-commerce Search](Multi-Modal/Pretraining%20Representations%20of%20Multi-modal%20Multi-query%20E-commerce%20Search.pdf)
 ## Multi-Scenario
 - [[2020][JD][DADNN] DADNN - Multi-Scene CTR Prediction via Domain-Aware Deep Neural Network](Multi-Scenario/%5B2020%5D%5BJD%5D%5BDADNN%5D%20DADNN%20-%20Multi-Scene%20CTR%20Prediction%20via%20Domain-Aware%20Deep%20Neural%20Network.pdf)
@@ -457,6 +466,7 @@ I will remove it immediately after verification.
 - [CoNet - Collaborative Cross Networks for Cross-Domain Recommendation](Multi-Scenario/CoNet%20-%20Collaborative%20Cross%20Networks%20for%20Cross-Domain%20Recommendation.pdf)
 - [Cross domain recommendation based on multi-type media fusion](Multi-Scenario/Cross%20domain%20recommendation%20based%20on%20multi-type%20media%20fusion.pdf)
 - [Cross-domain Recommendation Without Sharing User-relevant Data](Multi-Scenario/Cross-domain%20Recommendation%20Without%20Sharing%20User-relevant%20Data.pdf)
+- [Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation](Multi-Scenario/Correlative%20Preference%20Transfer%20with%20Hierarchical%20Hypergraph%20Network%20for%20Multi-Domain%20Recommendation.pdf)
 - [Continual Transfer Learning for Cross-Domain Click-Through Rate Prediction at Taobao](Multi-Scenario/Continual%20Transfer%20Learning%20for%20Cross-Domain%20Click-Through%20Rate%20Prediction%20at%20Taobao.pdf)
 - [DTCDR - A Framework for Dual-Target Cross-Domain Recommendation](Multi-Scenario/DTCDR%20-%20A%20Framework%20for%20Dual-Target%20Cross-Domain%20Recommendation.pdf)
 - [Dynamic collaborative filtering Thompson Sampling for cross-domain advertisements recommendation](Multi-Scenario/Dynamic%20collaborative%20filtering%20Thompson%20Sampling%20for%20cross-domain%20advertisements%20recommendation.pdf)
@@ -531,6 +541,7 @@ I will remove it immediately after verification.
 - [CL4CTR - A Contrastive Learning Framework for CTR Prediction](ContrastiveLearning/CL4CTR%20-%20A%20Contrastive%20Learning%20Framework%20for%20CTR%20Prediction.pdf)
 - [Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems](ContrastiveLearning/Contrastive%20Learning%20for%20Debiased%20Candidate%20Generation%20in%20Large-Scale%20Recommender%20Systems.pdf)
 - [CCL4Rec - Contrast over Contrastive Learning for Micro-video Recommendation](ContrastiveLearning/CCL4Rec%20-%20Contrast%20over%20Contrastive%20Learning%20for%20Micro-video%20Recommendation.pdf)
+- [Disentangled Causal Embedding With Contrastive Learning For Recommender System](ContrastiveLearning/Disentangled%20Causal%20Embedding%20With%20Contrastive%20Learning%20For%20Recommender%20System.pdf)
 - [Disentangled Contrastive Learning for Social Recommendation](ContrastiveLearning/Disentangled%20Contrastive%20Learning%20for%20Social%20Recommendation.pdf)
 - [Exploiting Negative Preference in Content-based Music Recommendation with Contrastive Learning](ContrastiveLearning/Exploiting%20Negative%20Preference%20in%20Content-based%20Music%20Recommendation%20with%20Contrastive%20Learning.pdf)
 - [Improving Knowledge-aware Recommendation with Multi-level Interactive Contrastive Learning](ContrastiveLearning/Improving%20Knowledge-aware%20Recommendation%20with%20Multi-level%20Interactive%20Contrastive%20Learning.pdf)
@@ -552,6 +563,7 @@ I will remove it immediately after verification.
 - [A Practical Exploration System for Search Advertising](Cold-Start/A%20Practical%20Exploration%20System%20for%20Search%20Advertising.pdf)
 - [A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps](Cold-Start/A%20Semi-Personalized%20System%20for%20User%20Cold%20Start%20Recommendation%20on%20Music%20Streaming%20Apps.pdf)
 - [Cold-start Sequential Recommendation via Meta Learner](Cold-Start/Cold-start%20Sequential%20Recommendation%20via%20Meta%20Learner.pdf)
+- [Contrastive Collaborative Filtering for Cold-Start Item Recommendation](Cold-Start/Contrastive%20Collaborative%20Filtering%20for%20Cold-Start%20Item%20Recommendation.pdf)
 - [GIFT - Graph-guIded Feature Transfer for Cold-Start Video Click-Through Rate Prediction](Cold-Start/GIFT%20-%20Graph-guIded%20Feature%20Transfer%20for%20Cold-Start%20Video%20Click-Through%20Rate%20Prediction.pdf)
 - [Handling User Cold Start Problem in Recommender Systems Using Fuzzy Clustering](Cold-Start/Handling%20User%20Cold%20Start%20Problem%20in%20Recommender%20Systems%20Using%20Fuzzy%20Clustering.pdf)
 - [Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks](Cold-Start/Learning%20to%20Warm%20Up%20Cold%20Item%20Embeddings%20for%20Cold-start%20Recommendation%20with%20Meta%20Scaling%20and%20Shifting%20Networks.pdf)
@@ -607,6 +619,7 @@ I will remove it immediately after verification.
 - [Score Look-alike Audiences](Look-Alike/Score%20Look-alike%20Audiences.pdf)
 - [Two-Stage Audience Expansion for Financial Targeting in Marketing](Look-Alike/Two-Stage%20Audience%20Expansion%20for%20Financial%20Targeting%20in%20Marketing.pdf)
 ## CausalInference
+- [A Counterfactual Collaborative Session-based Recommender System](CausalInference/A%20Counterfactual%20Collaborative%20Session-based%20Recommender%20System.pdf)
 - [A Model-Agnostic Causal Learning Framework for Recommendation using Search Data](CausalInference/A%20Model-Agnostic%20Causal%20Learning%20Framework%20for%20Recommendation%20using%20Search%20Data.pdf)
 - [Addressing Confounding Feature Issue for Causal Recommendation](CausalInference/Addressing%20Confounding%20Feature%20Issue%20for%20Causal%20Recommendation.pdf)
 - [CausCF - Causal Collaborative Filtering for Recommendation Effect Estimation](CausalInference/CausCF%20-%20Causal%20Collaborative%20Filtering%20for%20Recommendation%20Effect%20Estimation.pdf)
@@ -648,7 +661,10 @@ I will remove it immediately after verification.
 ## ABTest
 - [Overlapping Experiment Infrastructure - More, Better, Faster Experimentation](ABTest/Overlapping%20Experiment%20Infrastructure%20-%20More%2C%20Better%2C%20Faster%20Experimentation.pdf)
 ## Reinforce
+- [Exploration and Regularization of the Latent Action Space in Recommendation](Reinforce/Exploration%20and%20Regularization%20of%20the%20Latent%20Action%20Space%20in%20Recommendation.pdf)
 - [Jointly Learning to Recommend and Advertise](Reinforce/Jointly%20Learning%20to%20Recommend%20and%20Advertise.pdf)
+- [Reinforcing User Retention in a Billion Scale Short Video Recommender System](Reinforce/Reinforcing%20User%20Retention%20in%20a%20Billion%20Scale%20Short%20Video%20Recommender%20System.pdf)
 - [Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning](Reinforce/Recommendations%20with%20Negative%20Feedback%20via%20Pairwise%20Deep%20Reinforcement%20Learning.pdf)
 - [Reinforcement Learning for Slate-based Recommender Systems - A Tractable Decomposition and Practical Methodology](Reinforce/Reinforcement%20Learning%20for%20Slate-based%20Recommender%20Systems%20-%20A%20Tractable%20Decomposition%20and%20Practical%20Methodology.pdf)
 - [Top-K Off-Policy Correctionfor a REINFORCE Recommender System](Reinforce/Top-K%20Off-Policy%20Correctionfor%20a%20REINFORCE%20Recommender%20System.pdf)
+- [Two-Stage Constrained Actor-Critic for Short Video Recommendation](Reinforce/Two-Stage%20Constrained%20Actor-Critic%20for%20Short%20Video%20Recommendation.pdf)
