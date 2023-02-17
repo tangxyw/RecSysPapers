@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-02-16，本仓库收集汇总了推荐系统领域相关论文共**580**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-02-17，本仓库收集汇总了推荐系统领域相关论文共**581**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -208,6 +208,8 @@
 - [Learning Effective and Efficient Embedding via an Adaptively-Masked Twins-based Layer](Industry/FeatureHashing/Learning%20Effective%20and%20Efficient%20Embedding%20via%20an%20Adaptively-Masked%20Twins-based%20Layer.pdf)
 - [Memory-efficient Embedding for Recommendations](Industry/FeatureHashing/Memory-efficient%20Embedding%20for%20Recommendations.pdf)
 - [Model Size Reduction Using Frequency Based Double Hashing for Recommender Systems](Industry/FeatureHashing/Model%20Size%20Reduction%20Using%20Frequency%20Based%20Double%20Hashing%20for%20Recommender%20Systems.pdf)
+#### Interactive
+- [Q&R - A Two-Stage Approach toward Interactive Recommendation](Industry/Interactive/Q%26R%20-%20A%20Two-Stage%20Approach%20toward%20Interactive%20Recommendation.pdf)
 #### Regression
 - [[2014][Yahoo] Beyond Clicks - Dwell Time for Personalization](Industry/Regression/%5B2014%5D%5BYahoo%5D%20Beyond%20Clicks%20-%20Dwell%20Time%20for%20Personalization.pdf)
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation](Industry/Regression/Deconfounding%20Duration%20Bias%20in%20Watch-time%20Prediction%20for%20Video%20Recommendation.pdf)
@@ -280,11 +282,11 @@
 - [[2021][Google] Self-supervised Learning for Large-scale Item Recommendations](Match/%5B2021%5D%5BGoogle%5D%20Self-supervised%20Learning%20for%20Large-scale%20Item%20Recommendations.pdf)
 - [[2021][Alibaba][MGDSPR] Embedding-based Product Retrieval in Taobao Search](Match/%5B2021%5D%5BAlibaba%5D%5BMGDSPR%5D%20Embedding-based%20Product%20Retrieval%20in%20Taobao%20Search.pdf)
 - [[2021][Alibaba][XDM] XDM - Improving Sequential Deep Matching with Unclicked User Behaviors for Recommender System](Match/%5B2021%5D%5BAlibaba%5D%5BXDM%5D%20XDM%20-%20Improving%20Sequential%20Deep%20Matching%20with%20Unclicked%20User%20Behaviors%20for%20Recommender%20System.pdf)
+- [[2023] Adap-tau - Adaptively Modulating Embedding Magnitude for Recommendation](Match/%5B2023%5D%20Adap-tau%20-%20Adaptively%20Modulating%20Embedding%20Magnitude%20for%20Recommendation.pdf)
 - [Attentive Collaborative Filtering - Multimedia Recommendation with Item- and Component-Level Aention](Match/Attentive%20Collaborative%20Filtering%20-%20Multimedia%20Recommendation%20with%20Item-%20and%20Component-Level%20A%C2%82ention.pdf)
 - [Attentive Sequential Models of Latent Intent for Next Item Recommendation](Match/Attentive%20Sequential%20Models%20of%20Latent%20Intent%20for%20Next%20Item%20Recommendation.pdf)
 - [A User-Centered Concept Mining System for Query and Document Understanding at Tencent](Match/A%20User-Centered%20Concept%20Mining%20System%20for%20Query%20and%20Document%20Understanding%20at%20Tencent.pdf)
 - [AutoRec - Autoencoders Meet Collaborative Filtering](Match/AutoRec%20-%20Autoencoders%20Meet%20Collaborative%20Filtering.pdf)
-- [Adap-tau - Adaptively Modulating Embedding Magnitude for Recommendation](Match/Adap-tau%20-%20Adaptively%20Modulating%20Embedding%20Magnitude%20for%20Recommendation.pdf)
 - [A Simple Convolutional Generative Network for Next Item Recommendation](Match/A%20Simple%20Convolutional%20Generative%20Network%20for%20Next%20Item%20Recommendation.pdf)
 - [A Dual Augmented Two-tower Model for Online Large-scale Recommendation](Match/A%20Dual%20Augmented%20Two-tower%20Model%20for%20Online%20Large-scale%20Recommendation.pdf)
 - [CROLoss - Towards a Customizable Loss for Retrieval Models in Recommender Systems](Match/CROLoss%20-%20Towards%20a%20Customizable%20Loss%20for%20Retrieval%20Models%20in%20Recommender%20Systems.pdf)
