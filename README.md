@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-02-17，本仓库收集汇总了推荐系统领域相关论文共**581**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-02-20，本仓库收集汇总了推荐系统领域相关论文共**583**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -79,6 +79,7 @@
 - [[2021][Huawei][AutoDis] An Embedding Learning Framework for Numerical Features in CTR Prediction](Industry/%5B2021%5D%5BHuawei%5D%5BAutoDis%5D%20An%20Embedding%20Learning%20Framework%20for%20Numerical%20Features%20in%20CTR%20Prediction.pdf)
 - [[2021][Alibaba][DINMP] A Non-sequential Approach to Deep User Interest Model for Click-Through Rate Prediction](Industry/%5B2021%5D%5BAlibaba%5D%5BDINMP%5D%20A%20Non-sequential%20Approach%20to%20Deep%20User%20Interest%20Model%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2021][Google] Bootstrapping Recommendations at Chrome Web Store](Industry/%5B2021%5D%5BGoogle%5D%20Bootstrapping%20Recommendations%20at%20Chrome%20Web%20Store.pdf)
+- [[2022][Alibaba] Towards Understanding the Overfitting Phenomenon of Deep Click-Through Rate Prediction Models](Industry/%5B2022%5D%5BAlibaba%5D%20Towards%20Understanding%20the%20Overfitting%20Phenomenon%20of%20Deep%20Click-Through%20Rate%20Prediction%20Models.pdf)
 - [Adversarial Mixture Of Experts with Category Hierarchy Soft Constraint](Industry/Adversarial%20Mixture%20Of%20Experts%20with%20Category%20Hierarchy%20Soft%20Constraint.pdf)
 - [Alternating Pointwise-Pairwise Learning for Personalized Item Ranking](Industry/Alternating%20Pointwise-Pairwise%20Learning%20for%20Personalized%20Item%20Ranking.pdf)
 - [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](Industry/Adversarial%20Filtering%20Modeling%20on%20Long-term%20User%20Behavior%20Sequences%20for%20Click-Through%20Rate%20Prediction.pdf)
@@ -128,7 +129,6 @@
 - [TencentRec - Real-time Stream Recommendation in Practice](Industry/TencentRec%20-%20Real-time%20Stream%20Recommendation%20in%20Practice.pdf)
 - [TWIN - TWo-stage Interest Network for Lifelong User Behavior Modeling in CTR Prediction at Kuaishou](Industry/TWIN%20-%20TWo-stage%20Interest%20Network%20for%20Lifelong%20User%20Behavior%20Modeling%20in%20CTR%20Prediction%20at%20Kuaishou.pdf)
 - [TiSSA - A Time Slice Self-Attention Approach for Modeling Sequential User Behaviors](Industry/TiSSA%20-%20A%20Time%20Slice%20Self-Attention%20Approach%20for%20Modeling%20Sequential%20User%20Behaviors.pdf)
-- [Towards Understanding the Overfitting Phenomenon of Deep Click-Through Rate Prediction Models](Industry/Towards%20Understanding%20the%20Overfitting%20Phenomenon%20of%20Deep%20Click-Through%20Rate%20Prediction%20Models.pdf)
 - [User Behavior Retrieval for Click-Through Rate Prediction](Industry/User%20Behavior%20Retrieval%20for%20Click-Through%20Rate%20Prediction.pdf)
 #### TriggerInduced
 - [[2021][Tencent][R3S] Real-time Relevant Recommendation Suggestion](Industry/TriggerInduced/%5B2021%5D%5BTencent%5D%5BR3S%5D%20Real-time%20Relevant%20Recommendation%20Suggestion.pdf)
@@ -487,6 +487,7 @@
 - [Disentangling User Interest and Conformity for Recommendation with Causal Embedding](Debias/Disentangling%20User%20Interest%20and%20Conformity%20for%20Recommendation%20with%20Causal%20Embedding.pdf)
 - [Improving Micro-video Recommendation by Controlling Position Bias](Debias/Improving%20Micro-video%20Recommendation%20by%20Controlling%20Position%20Bias.pdf)
 - [Learning to rank with selection bias in personal search](Debias/Learning%20to%20rank%20with%20selection%20bias%20in%20personal%20search.pdf)
+- [UKD - Debiasing Conversion Rate Estimation via Uncertainty-regularized Knowledge Distillation](Debias/UKD%20-%20Debiasing%20Conversion%20Rate%20Estimation%20via%20Uncertainty-regularized%20Knowledge%20Distillation.pdf)
 - [Unbiased Learning-to-Rank with Biased Feedback](Debias/Unbiased%20Learning-to-Rank%20with%20Biased%20Feedback.pdf)
 ## Calibration
 - [Attended Temperature Scaling - A Practical Approach for Calibrating Deep Neural Networks](Calibration/Attended%20Temperature%20Scaling%20-%20A%20Practical%20Approach%20for%20Calibrating%20Deep%20Neural%20Networks.pdf)
@@ -641,6 +642,7 @@
 - [Adaptive, Personalized Diversity for Visual Discovery](Diversity/Adaptive%2C%20Personalized%20Diversity%20for%20Visual%20Discovery.pdf)
 - [Diversity on the Go! Streaming Determinantal Point Processes under a Maximum Induced Cardinality Objective](Diversity/Diversity%20on%20the%20Go%21%20Streaming%20Determinantal%20Point%20Processes%20under%20a%20Maximum%20Induced%20Cardinality%20Objective.pdf)
 - [DGCN - Diversified Recommendation with Graph Convolutional Networks](Diversity/DGCN%20-%20Diversified%20Recommendation%20with%20Graph%20Convolutional%20Networks.pdf)
+- [DGRec - Graph Neural Network for Recommendation with Diversified Embedding Generation](Diversity/DGRec%20-%20Graph%20Neural%20Network%20for%20Recommendation%20with%20Diversified%20Embedding%20Generation.pdf)
 - [Diversifying Search Results](Diversity/Diversifying%20Search%20Results.pdf)
 - [Enhancing Recommendation Diversity using Determinantal Point Processes on Knowledge Graphs](Diversity/Enhancing%20Recommendation%20Diversity%20using%20Determinantal%20Point%20Processes%20on%20Knowledge%20Graphs.pdf)
 - [Enhancing Domain-Level and User-Level Adaptivity in Diversified Recommendation](Diversity/Enhancing%20Domain-Level%20and%20User-Level%20Adaptivity%20in%20Diversified%20Recommendation.pdf)
