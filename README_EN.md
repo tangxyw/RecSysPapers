@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-02-20, **583** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-02-21, **591** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **ReinForce Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -90,11 +90,13 @@ I will remove it immediately after verification.
 - [Adversarial Mixture Of Experts with Category Hierarchy Soft Constraint](Industry/Adversarial%20Mixture%20Of%20Experts%20with%20Category%20Hierarchy%20Soft%20Constraint.pdf)
 - [Alternating Pointwise-Pairwise Learning for Personalized Item Ranking](Industry/Alternating%20Pointwise-Pairwise%20Learning%20for%20Personalized%20Item%20Ranking.pdf)
 - [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](Industry/Adversarial%20Filtering%20Modeling%20on%20Long-term%20User%20Behavior%20Sequences%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [AutoField - Automating Feature Selection in Deep Recommender Systems](Industry/AutoField%20-%20Automating%20Feature%20Selection%20in%20Deep%20Recommender%20Systems.pdf)
 - [A Deep Behavior Path Matching Network for Click-Through Rate Prediction](Industry/A%20Deep%20Behavior%20Path%20Matching%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Curriculum Disentangled Recommendation with Noisy Multi-feedback](Industry/Curriculum%20Disentangled%20Recommendation%20with%20Noisy%20Multi-feedback.pdf)
 - [Category-Specific CNN for Visual-aware CTR Prediction at JD.com](Industry/Category-Specific%20CNN%20for%20Visual-aware%20CTR%20Prediction%20at%20JD.com.pdf)
 - [ContextNet - A Click-Through Rate Prediction Framework Using Contextual information to Refine Feature Embedding](Industry/ContextNet%20-%20A%20Click-Through%20Rate%20Prediction%20Framework%20Using%20Contextual%20information%20to%20Refine%20Feature%20Embedding.pdf)
 - [CAEN - A Hierarchically Attentive Evolution Network for Item-Attribute-Change-Aware Recommendation in the Growing E-commerce Environment](Industry/CAEN%20-%20A%20Hierarchically%20Attentive%20Evolution%20Network%20for%20Item-Attribute-Change-Aware%20Recommendation%20in%20the%20Growing%20E-commerce%20Environment.pdf)
+- [Decision-Making Context Interaction Network for Click-Through Rate Prediction](Industry/Decision-Making%20Context%20Interaction%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Dual Graph enhanced Embedding Neural Network for CTR Prediction](Industry/Dual%20Graph%20enhanced%20Embedding%20Neural%20Network%20for%20CTR%20Prediction.pdf)
 - [Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction](Industry/Deep%20Interest%20with%20Hierarchical%20Attention%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Disentangling Past-Future Modeling in Sequential Recommendation via Dual Networks](Industry/Disentangling%20Past-Future%20Modeling%20in%20Sequential%20Recommendation%20via%20Dual%20Networks.pdf)
@@ -131,6 +133,7 @@ I will remove it immediately after verification.
 - [Recommender Transformers with Behavior Pathways](Industry/Recommender%20Transformers%20with%20Behavior%20Pathways.pdf)
 - [Res-embedding for Deep Learning Based Click-Through Rate Prediction Modeling](Industry/Res-embedding%20for%20Deep%20Learning%20Based%20Click-Through%20Rate%20Prediction%20Modeling.pdf)
 - [Sequential Modeling with Multiple Attributes for Watchlist Recommendation in E-Commerce](Industry/Sequential%20Modeling%20with%20Multiple%20Attributes%20for%20Watchlist%20Recommendation%20in%20E-Commerce.pdf)
+- [Sparse Attentive Memory Network for Click-through Rate Prediction with Long Sequences](Industry/Sparse%20Attentive%20Memory%20Network%20for%20Click-through%20Rate%20Prediction%20with%20Long%20Sequences.pdf)
 - [Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction](Industry/Sampling%20Is%20All%20You%20Need%20on%20Modeling%20Long-Term%20User%20Behaviors%20for%20CTR%20Prediction.pdf)
 - [Triangle Graph Interest Network for Click-through Rate Prediction](Industry/Triangle%20Graph%20Interest%20Network%20for%20Click-through%20Rate%20Prediction.pdf)
 - [TencentRec - Real-time Stream Recommendation in Practice](Industry/TencentRec%20-%20Real-time%20Stream%20Recommendation%20in%20Practice.pdf)
@@ -232,6 +235,7 @@ I will remove it immediately after verification.
 - [Automatic Music Playlist Continuation via Neighbor-based Collaborative Filtering and Discriminative Reweighting:Reranking](Industry/AutomaticPlaylistContinuation/Automatic%20Music%20Playlist%20Continuation%20via%20Neighbor-based%20Collaborative%20Filtering%20and%20Discriminative%20Reweighting%3AReranking.pdf)
 - [Artist-driven layering and user’s behaviour impact on recommendations in a playlist continuation scenario](Industry/AutomaticPlaylistContinuation/Artist-driven%20layering%20and%20user%E2%80%99s%20behaviour%20impact%20on%20recommendations%20in%20a%20playlist%20continuation%20scenario.pdf)
 - [Consistency-Aware Recommendation for User-Generated ItemList Continuation](Industry/AutomaticPlaylistContinuation/Consistency-Aware%20Recommendation%20for%20User-Generated%20ItemList%20Continuation.pdf)
+- [Dual-interest Factorization-heads Attention for Sequential Recommendation](Industry/AutomaticPlaylistContinuation/Dual-interest%20Factorization-heads%20Attention%20for%20Sequential%20Recommendation.pdf)
 - [Efficient Similarity Based Methods For The Playlist Continuation Task](Industry/AutomaticPlaylistContinuation/Efficient%20Similarity%20Based%20Methods%20For%20The%20Playlist%20Continuation%20Task.pdf)
 - [Efficient K-NN for Playlist Continuation](Industry/AutomaticPlaylistContinuation/Efficient%20K-NN%20for%20Playlist%20Continuation.pdf)
 - [Effective Nearest-Neighbor Music Recommendations](Industry/AutomaticPlaylistContinuation/Effective%20Nearest-Neighbor%20Music%20Recommendations.pdf)
@@ -305,6 +309,7 @@ I will remove it immediately after verification.
 - [Divide and Conquer - Towards Better Embedding-based Retrieval for Recommender Systems from a Multi-task Perspective](Match/Divide%20and%20Conquer%20-%20Towards%20Better%20Embedding-based%20Retrieval%20for%20Recommender%20Systems%20from%20a%20Multi-task%20Perspective.pdf)
 - [Disentangled Self-Supervision in Sequential Recommenders](Match/Disentangled%20Self-Supervision%20in%20Sequential%20Recommenders.pdf)
 - [Deep Collaborative Filtering via Marginalized Denoising Auto-encoder](Match/Deep%20Collaborative%20Filtering%20via%20Marginalized%20Denoising%20Auto-encoder.pdf)
+- [Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation](Match/Dynamic%20Multi-Behavior%20Sequence%20Modeling%20for%20Next%20Item%20Recommendation.pdf)
 - [Efficient Training on Very Large Corpora via Gramian Estimation](Match/Efficient%20Training%20on%20Very%20Large%20Corpora%20via%20Gramian%20Estimation.pdf)
 - [Extreme Multi-label Learning for Semantic Matching in Product Search](Match/Extreme%20Multi-label%20Learning%20for%20Semantic%20Matching%20in%20Product%20Search.pdf)
 - [Factorization Meets the Neighborhood - a Multifaceted Collaborative Filtering Model](Match/Factorization%20Meets%20the%20Neighborhood%20-%20a%20Multifaceted%20Collaborative%20Filtering%20Model.pdf)
@@ -479,6 +484,7 @@ I will remove it immediately after verification.
 - [Leaving No One Behind - A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling](Multi-Scenario/Leaving%20No%20One%20Behind%20-%20A%20Multi-Scenario%20Multi-Task%20Meta%20Learning%20Approach%20for%20Advertiser%20Modeling.pdf)
 - [Multi-Graph based Multi-Scenario Recommendation in Large-scale Online Video Services](Multi-Scenario/Multi-Graph%20based%20Multi-Scenario%20Recommendation%20in%20Large-scale%20Online%20Video%20Services.pdf)
 - [Personalized Transfer of User Preferences for Cross-domain Recommendation](Multi-Scenario/Personalized%20Transfer%20of%20User%20Preferences%20for%20Cross-domain%20Recommendation.pdf)
+- [PEPNet - Parameter and Embedding Personalized Network for Infusing with Personalized Prior Information](Multi-Scenario/PEPNet%20-%20Parameter%20and%20Embedding%20Personalized%20Network%20for%20Infusing%20with%20Personalized%20Prior%20Information.pdf)
 - [SAR-Net - A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios](Multi-Scenario/SAR-Net%20-%20A%20Scenario-Aware%20Ranking%20Network%20for%20Personalized%20Fair%20Recommendation%20in%20Hundreds%20of%20Travel%20Scenarios.pdf)
 - [Semi-Supervised Learning for Cross-Domain Recommendation to Cold-Start Users](Multi-Scenario/Semi-Supervised%20Learning%20for%20Cross-Domain%20Recommendation%20to%20Cold-Start%20Users.pdf)
 - [Scenario-aware and Mutual-based approach for Multi-scenario Recommendation in E-Commerce](Multi-Scenario/Scenario-aware%20and%20Mutual-based%20approach%20for%20Multi-scenario%20Recommendation%20in%20E-Commerce.pdf)
@@ -529,11 +535,13 @@ I will remove it immediately after verification.
 - [Addressing Delayed Feedback for Continuous Training with Neural Networks in CTR prediction](Feedback-Delay/Addressing%20Delayed%20Feedback%20for%20Continuous%20Training%20with%20Neural%20Networks%20in%20CTR%20prediction.pdf)
 - [A Nonparametric Delayed Feedback Model for Conversion Rate Prediction](Feedback-Delay/A%20Nonparametric%20Delayed%20Feedback%20Model%20for%20Conversion%20Rate%20Prediction.pdf)
 - [A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback](Feedback-Delay/A%20Feedback%20Shift%20Correction%20in%20Predicting%20Conversion%20Rates%20under%20Delayed%20Feedback.pdf)
+- [A Multi-Task Learning Approach for Delayed Feedback Modeling](Feedback-Delay/A%20Multi-Task%20Learning%20Approach%20for%20Delayed%20Feedback%20Modeling.pdf)
 - [Counterfactual Reward Modification for Streaming Recommendation with Delayed Feedback](Feedback-Delay/Counterfactual%20Reward%20Modification%20for%20Streaming%20Recommendation%20with%20Delayed%20Feedback.pdf)
 - [Capturing Delayed Feedback in Conversion Rate Predictionvia Elapsed-Time Sampling](Feedback-Delay/Capturing%20Delayed%20Feedback%20in%20Conversion%20Rate%20Predictionvia%20Elapsed-Time%20Sampling.pdf)
 - [Delayed Feedback Model with Negative Binomial Regression for Multiple Conversions](Feedback-Delay/Delayed%20Feedback%20Model%20with%20Negative%20Binomial%20Regression%20for%20Multiple%20Conversions.pdf)
 - [Delayed Feedback Modeling for the Entire Space Conversion Rate Prediction](Feedback-Delay/Delayed%20Feedback%20Modeling%20for%20the%20Entire%20Space%20Conversion%20Rate%20Prediction.pdf)
 - [Dual Learning Algorithm for Delayed Conversions](Feedback-Delay/Dual%20Learning%20Algorithm%20for%20Delayed%20Conversions.pdf)
+- [Generalized Delayed Feedback Model with Post-Click Information in Recommender Systems](Feedback-Delay/Generalized%20Delayed%20Feedback%20Model%20with%20Post-Click%20Information%20in%20Recommender%20Systems.pdf)
 - [Handling many conversions per click in modeling delayed feedback](Feedback-Delay/Handling%20many%20conversions%20per%20click%20in%20modeling%20delayed%20feedback.pdf)
 - [Modeling Delayed Feedback in Display Advertising](Feedback-Delay/Modeling%20Delayed%20Feedback%20in%20Display%20Advertising.pdf)
 ## ContrastiveLearning
