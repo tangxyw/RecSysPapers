@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-02-21, **591** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-02-28, **594** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **ReinForce Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -190,15 +190,18 @@ I will remove it immediately after verification.
 - [Empowering Next POI Recommendation with Multi-Relational Modeling](Industry/POI/Empowering%20Next%20POI%20Recommendation%20with%20Multi-Relational%20Modeling.pdf)
 - [Exploring the Impact of Temporal Bias in Point-of-Interest Recommendation](Industry/POI/Exploring%20the%20Impact%20of%20Temporal%20Bias%20in%20Point-of-Interest%20Recommendation.pdf)
 - [Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation](Industry/POI/Hierarchical%20Multi-Task%20Graph%20Recurrent%20Network%20for%20Next%20POI%20Recommendation.pdf)
+- [Location Embeddings for Next Trip Recommendation](Industry/POI/Location%20Embeddings%20for%20Next%20Trip%20Recommendation.pdf)
 - [LightMove - A Lightweight Next-POI Recommendation for Taxicab Rooftop Advertising](Industry/POI/LightMove%20-%20A%20Lightweight%20Next-POI%20Recommendation%20for%20Taxicab%20Rooftop%20Advertising.pdf)
 - [Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation](Industry/POI/Modeling%20Spatio-temporal%20Neighbourhood%20for%20Personalized%20Point-of-interest%20Recommendation.pdf)
 - [Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences](Industry/POI/Next%20Point-of-Interest%20Recommendation%20with%20Inferring%20Multi-step%20Future%20Preferences.pdf)
 - [Online POI Recommendation - Learning Dynamic Geo-Human Interactions in Streams](Industry/POI/Online%20POI%20Recommendation%20-%20Learning%20Dynamic%20Geo-Human%20Interactions%20in%20Streams.pdf)
+- [ODNET - A Novel Personalized Origin-Destination Ranking Network for Flight Recommendation](Industry/POI/ODNET%20-%20A%20Novel%20Personalized%20Origin-Destination%20Ranking%20Network%20for%20Flight%20Recommendation.pdf)
 - [Point-of-Interest Recommender Systems based on Location-Based Social Networks - A Survey from an Experimental Perspective](Industry/POI/Point-of-Interest%20Recommender%20Systems%20based%20on%20Location-Based%20Social%20Networks%20-%20A%20Survey%20from%20an%20Experimental%20Perspective.pdf)
 - [POINTREC - A Test Collection for Narrative-driven Point of Interest Recommendation](Industry/POI/POINTREC%20-%20A%20Test%20Collection%20for%20Narrative-driven%20Point%20of%20Interest%20Recommendation.pdf)
 - [Personalized Long- and Short-term Preference Learning for Next POI Recommendation](Industry/POI/Personalized%20Long-%20and%20Short-term%20Preference%20Learning%20for%20Next%20POI%20Recommendation.pdf)
 - [ST-PIL - Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation](Industry/POI/ST-PIL%20-%20Spatial-Temporal%20Periodic%20Interest%20Learning%20for%20Next%20Point-of-Interest%20Recommendation.pdf)
 - [TADSAM - A Time-Aware Dynamic Self-Attention Model for Next Point-of-Interest Recommendation](Industry/POI/TADSAM%20-%20A%20Time-Aware%20Dynamic%20Self-Attention%20Model%20for%20Next%20Point-of-Interest%20Recommendation.pdf)
+- [Where to Go Next - A Spatio-Temporal Gated Network for Next POI Recommendation](Industry/POI/Where%20to%20Go%20Next%20-%20A%20Spatio-Temporal%20Gated%20Network%20for%20Next%20POI%20Recommendation.pdf)
 - [Why We Go Where We Go - Profiling User Decisions on Choosing POIs](Industry/POI/Why%20We%20Go%20Where%20We%20Go%20-%20Profiling%20User%20Decisions%20on%20Choosing%20POIs.pdf)
 - [Where to Go Next - Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation](Industry/POI/Where%20to%20Go%20Next%20-%20Modeling%20Long-%20and%20Short-Term%20User%20Preferences%20for%20Point-of-Interest%20Recommendation.pdf)
 - [You Are What and Where You Are - Graph Enhanced Attention Network for Explainable POI Recommendation](Industry/POI/You%20Are%20What%20and%20Where%20You%20Are%20-%20Graph%20Enhanced%20Attention%20Network%20for%20Explainable%20POI%20Recommendation.pdf)
