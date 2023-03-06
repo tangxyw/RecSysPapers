@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-02-28, **594** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-03-06, **596** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **ReinForce Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -503,6 +503,7 @@ I will remove it immediately after verification.
 - [Disentangling User Interest and Conformity for Recommendation with Causal Embedding](Debias/Disentangling%20User%20Interest%20and%20Conformity%20for%20Recommendation%20with%20Causal%20Embedding.pdf)
 - [Improving Micro-video Recommendation by Controlling Position Bias](Debias/Improving%20Micro-video%20Recommendation%20by%20Controlling%20Position%20Bias.pdf)
 - [Learning to rank with selection bias in personal search](Debias/Learning%20to%20rank%20with%20selection%20bias%20in%20personal%20search.pdf)
+- [Should I Follow the Crowd? A Probabilistic Analysis of the Effectiveness of Popularity in Recommender Systems](Debias/Should%20I%20Follow%20the%20Crowd%3F%20A%20Probabilistic%20Analysis%20of%20the%20Effectiveness%20of%20Popularity%20in%20Recommender%20Systems.pdf)
 - [UKD - Debiasing Conversion Rate Estimation via Uncertainty-regularized Knowledge Distillation](Debias/UKD%20-%20Debiasing%20Conversion%20Rate%20Estimation%20via%20Uncertainty-regularized%20Knowledge%20Distillation.pdf)
 - [Unbiased Learning-to-Rank with Biased Feedback](Debias/Unbiased%20Learning-to-Rank%20with%20Biased%20Feedback.pdf)
 ## Calibration
@@ -580,6 +581,7 @@ I will remove it immediately after verification.
 - [Contrastive Collaborative Filtering for Cold-Start Item Recommendation](Cold-Start/Contrastive%20Collaborative%20Filtering%20for%20Cold-Start%20Item%20Recommendation.pdf)
 - [GIFT - Graph-guIded Feature Transfer for Cold-Start Video Click-Through Rate Prediction](Cold-Start/GIFT%20-%20Graph-guIded%20Feature%20Transfer%20for%20Cold-Start%20Video%20Click-Through%20Rate%20Prediction.pdf)
 - [Handling User Cold Start Problem in Recommender Systems Using Fuzzy Clustering](Cold-Start/Handling%20User%20Cold%20Start%20Problem%20in%20Recommender%20Systems%20Using%20Fuzzy%20Clustering.pdf)
+- [Improving Item Cold-start Recommendation via Model-agnostic Conditional Variational Autoencoder](Cold-Start/Improving%20Item%20Cold-start%20Recommendation%20via%20Model-agnostic%20Conditional%20Variational%20Autoencoder.pdf)
 - [Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks](Cold-Start/Learning%20to%20Warm%20Up%20Cold%20Item%20Embeddings%20for%20Cold-start%20Recommendation%20with%20Meta%20Scaling%20and%20Shifting%20Networks.pdf)
 - [LHRM - A LBS based Heterogeneous Relations Model for User Cold Start Recommendation in Online Travel Platform](Cold-Start/LHRM%20-%20A%20LBS%20based%20Heterogeneous%20Relations%20Model%20for%20User%20Cold%20Start%20Recommendation%20in%20Online%20Travel%20Platform.pdf)
 - [MAMO - Memory-Augmented Meta-Optimization for Cold-start Recommendation](Cold-Start/MAMO%20-%20Memory-Augmented%20Meta-Optimization%20for%20Cold-start%20Recommendation.pdf)
