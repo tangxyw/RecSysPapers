@@ -27,7 +27,7 @@ DIRS = [
     'CausalInference',
     'Diversity',
     'ABTest',
-    'Reinforce',
+    'ReinforcementLearning',
 ]
 # GITHUB_PATH = "https://github.com/tangxyw/RecSysPapers/blob/main/"
 count = 0
@@ -132,7 +132,7 @@ with open("./README_EN.md", 'w') as readme_en_file:
 1. Up to {}, **{}** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
-**Look-Alike**, **Learning-to-Rank**, **ReinForce Learning** and other fields, the repo will track the industry progress and update continuely.
+**Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
 2. Due to the restriction of special characters in the file name, all `:` in the title of the paper are changed to `-`. 
 Bring to attention please when searching.
 3. If the prefix of the file name contains `[]`, it indicates that I have read it thoroughly. The first `[]` refers to 

@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-03-06，本仓库收集汇总了推荐系统领域相关论文共**596**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-03-07，本仓库收集汇总了推荐系统领域相关论文共**614**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -36,7 +36,7 @@
 - [CausalInference](#CausalInference)
 - [Diversity](#Diversity)
 - [ABTest](#ABTest)
-- [Reinforce](#Reinforce)
+- [ReinforcementLearning](#ReinforcementLearning)
 ## Rank
 - [[2009][BPR] Bayesian Personalized Ranking from Implicit Feedback](Rank/%5B2009%5D%5BBPR%5D%20Bayesian%20Personalized%20Ranking%20from%20Implicit%20Feedback.pdf)
 - [[2010][FM] Factorization Machines](Rank/%5B2010%5D%5BFM%5D%20Factorization%20Machines.pdf)
@@ -72,7 +72,6 @@
 - [[2019][Alibaba][MIMN] Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction](Industry/%5B2019%5D%5BAlibaba%5D%5BMIMN%5D%20Practice%20on%20Long%20Sequential%20User%20Behavior%20Modeling%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2019][Airbnb] Applying Deep Learning To Airbnb Search](Industry/%5B2019%5D%5BAirbnb%5D%20Applying%20Deep%20Learning%20To%20Airbnb%20Search.pdf)
 - [[2020][Alibaba][CAN] CAN - Revisiting Feature Co-Action for Click-Through Rate Prediction](Industry/%5B2020%5D%5BAlibaba%5D%5BCAN%5D%20CAN%20-%20Revisiting%20Feature%20Co-Action%20for%20Click-Through%20Rate%20Prediction.pdf)
-- [[2020][Alibaba][ESAM] ESAM - Discriminative Domain Adaptation with Non-Displayed Items to Improve Long-Tail Performance](Industry/%5B2020%5D%5BAlibaba%5D%5BESAM%5D%20ESAM%20-%20Discriminative%20Domain%20Adaptation%20with%20Non-Displayed%20Items%20to%20Improve%20Long-Tail%20Performance.pdf)
 - [[2020][Alibaba][SIM] Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction](Industry/%5B2020%5D%5BAlibaba%5D%5BSIM%5D%20Search-based%20User%20Interest%20Modeling%20with%20Lifelong%20Sequential%20Behavior%20Data%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2020][Alibaba][DMR] Deep Match to Rank Model for Personalized Click-Through Rate Prediction](Industry/%5B2020%5D%5BAlibaba%5D%5BDMR%5D%20Deep%20Match%20to%20Rank%20Model%20for%20Personalized%20Click-Through%20Rate%20Prediction.pdf)
 - [[2021][Fliggy] [DMSN] Spatial-Temporal Deep Intention Destination Networks for Online Travel Planning](Industry/%5B2021%5D%5BFliggy%5D%20%5BDMSN%5D%20Spatial-Temporal%20Deep%20Intention%20Destination%20Networks%20for%20Online%20Travel%20Planning.pdf)
@@ -488,15 +487,26 @@
 - [Scenario-Adaptive and Self-Supervised Model for Multi-Scenario Personalized Recommendation](Multi-Scenario/Scenario-Adaptive%20and%20Self-Supervised%20Model%20for%20Multi-Scenario%20Personalized%20Recommendation.pdf)
 ## Debias
 - [[2019][Huawei][PAL] a position-bias aware learning framework for CTR prediction in live recommender systems](Debias/%5B2019%5D%5BHuawei%5D%5BPAL%5D%20a%20position-bias%20aware%20learning%20framework%20for%20CTR%20prediction%20in%20live%20recommender%20systems.pdf)
+- [[2020][Alibaba][ESAM] ESAM - Discriminative Domain Adaptation with Non-Displayed Items to Improve Long-Tail Performance](Debias/%5B2020%5D%5BAlibaba%5D%5BESAM%5D%20ESAM%20-%20Discriminative%20Domain%20Adaptation%20with%20Non-Displayed%20Items%20to%20Improve%20Long-Tail%20Performance.pdf)
+- [Are You Influenced by Others When Rating? Improve Rating Prediction by Conformity Modeling](Debias/Are%20You%20Influenced%20by%20Others%20When%20Rating%3F%20Improve%20Rating%20Prediction%20by%20Conformity%20Modeling.pdf)
+- [A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data](Debias/A%20General%20Knowledge%20Distillation%20Framework%20for%20Counterfactual%20Recommendation%20via%20Uniform%20Data.pdf)
 - [AutoDebias - Learning to Debias for Recommendation](Debias/AutoDebias%20-%20Learning%20to%20Debias%20for%20Recommendation.pdf)
 - [Bias and Debias in Recommender System - A Survey and Future Directions](Debias/Bias%20and%20Debias%20in%20Recommender%20System%20-%20A%20Survey%20and%20Future%20Directions.pdf)
 - [Deep Position-wise Interaction Network for CTR Prediction](Debias/Deep%20Position-wise%20Interaction%20Network%20for%20CTR%20Prediction.pdf)
+- [Debiasing the Human-Recommender System Feedback Loop in Collaborative Filtering](Debias/Debiasing%20the%20Human-Recommender%20System%20Feedback%20Loop%20in%20Collaborative%20Filtering.pdf)
 - [Denoising Implicit Feedback for Recommendation](Debias/Denoising%20Implicit%20Feedback%20for%20Recommendation.pdf)
 - [DVR - Micro-Video Recommendation Optimizing Watch-Time-Gain under Duration Bias](Debias/DVR%20-%20Micro-Video%20Recommendation%20Optimizing%20Watch-Time-Gain%20under%20Duration%20Bias.pdf)
+- [Deconvolving Feedback Loops in Recommender Systems](Debias/Deconvolving%20Feedback%20Loops%20in%20Recommender%20Systems.pdf)
 - [Disentangling User Interest and Conformity for Recommendation with Causal Embedding](Debias/Disentangling%20User%20Interest%20and%20Conformity%20for%20Recommendation%20with%20Causal%20Embedding.pdf)
+- [Degenerate Feedback Loops in Recommender Systems](Debias/Degenerate%20Feedback%20Loops%20in%20Recommender%20Systems.pdf)
+- [Influence Function for Unbiased Recommendation](Debias/Influence%20Function%20for%20Unbiased%20Recommendation.pdf)
+- [Improving Ad Click Prediction by Considering Non-displayed Events](Debias/Improving%20Ad%20Click%20Prediction%20by%20Considering%20Non-displayed%20Events.pdf)
 - [Improving Micro-video Recommendation by Controlling Position Bias](Debias/Improving%20Micro-video%20Recommendation%20by%20Controlling%20Position%20Bias.pdf)
 - [Learning to rank with selection bias in personal search](Debias/Learning%20to%20rank%20with%20selection%20bias%20in%20personal%20search.pdf)
+- [Predicting Counterfactuals from Large Historical Data and Small Randomized Trials](Debias/Predicting%20Counterfactuals%20from%20Large%20Historical%20Data%20and%20Small%20Randomized%20Trials.pdf)
+- [Recommendations as Treatments - Debiasing Learning and Evaluation](Debias/Recommendations%20as%20Treatments%20-%20Debiasing%20Learning%20and%20Evaluation.pdf)
 - [Should I Follow the Crowd? A Probabilistic Analysis of the Effectiveness of Popularity in Recommender Systems](Debias/Should%20I%20Follow%20the%20Crowd%3F%20A%20Probabilistic%20Analysis%20of%20the%20Effectiveness%20of%20Popularity%20in%20Recommender%20Systems.pdf)
+- [Training and Testing of Recommender Systems on Data Missing Not at Random](Debias/Training%20and%20Testing%20of%20Recommender%20Systems%20on%20Data%20Missing%20Not%20at%20Random.pdf)
 - [UKD - Debiasing Conversion Rate Estimation via Uncertainty-regularized Knowledge Distillation](Debias/UKD%20-%20Debiasing%20Conversion%20Rate%20Estimation%20via%20Uncertainty-regularized%20Knowledge%20Distillation.pdf)
 - [Unbiased Learning-to-Rank with Biased Feedback](Debias/Unbiased%20Learning-to-Rank%20with%20Biased%20Feedback.pdf)
 ## Calibration
@@ -639,13 +649,11 @@
 - [Causal Inference in Recommender Systems - A Survey and Future Directions](CausalInference/Causal%20Inference%20in%20Recommender%20Systems%20-%20A%20Survey%20and%20Future%20Directions.pdf)
 - [Doubly Robust Joint Learning for Recommendation on Data Missing Not at Random](CausalInference/Doubly%20Robust%20Joint%20Learning%20for%20Recommendation%20on%20Data%20Missing%20Not%20at%20Random.pdf)
 - [Deconfounded Recommendation for Alleviating Bias Amplification](CausalInference/Deconfounded%20Recommendation%20for%20Alleviating%20Bias%20Amplification.pdf)
-- [Improving Ad Click Prediction by Considering Non-displayed Events](CausalInference/Improving%20Ad%20Click%20Prediction%20by%20Considering%20Non-displayed%20Events.pdf)
 - [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](CausalInference/Model-Agnostic%20Counterfactual%20Reasoning%20for%20Eliminating%20Popularity%20Bias%20in%20Recommender%20System.pdf)
 - [Mitigating Hidden Confounding Effects for Causal Recommendation](CausalInference/Mitigating%20Hidden%20Confounding%20Effects%20for%20Causal%20Recommendation.pdf)
 - [On the Opportunity of Causal Learning in Recommendation Systems - Foundation, Estimation, Prediction and Challenges](CausalInference/On%20the%20Opportunity%20of%20Causal%20Learning%20in%20Recommendation%20Systems%20-%20Foundation%2C%20Estimation%2C%20Prediction%20and%20Challenges.pdf)
 - [Practical Counterfactual Policy Learning for Top-K Recommendations](CausalInference/Practical%20Counterfactual%20Policy%20Learning%20for%20Top-K%20Recommendations.pdf)
 - [Recommending the Most Effective Intervention to Improve Employment for Job Seekers with Disability](CausalInference/Recommending%20the%20Most%20Effective%20Intervention%20to%20Improve%20Employment%20for%20Job%20Seekers%20with%20Disability.pdf)
-- [Recommendations as Treatments - Debiasing Learning and Evaluation](CausalInference/Recommendations%20as%20Treatments%20-%20Debiasing%20Learning%20and%20Evaluation.pdf)
 - [Towards Unbiased and Robust Causal Ranking for Recommender Systems](CausalInference/Towards%20Unbiased%20and%20Robust%20Causal%20Ranking%20for%20Recommender%20Systems.pdf)
 - [Top-N Recommendation with Counterfactual User Preference Simulation](CausalInference/Top-N%20Recommendation%20with%20Counterfactual%20User%20Preference%20Simulation.pdf)
 ## Diversity
@@ -670,11 +678,21 @@
 - [UNDERSTANDING DIVERSITY IN SESSION-BASED RECOMMENDATION](Diversity/UNDERSTANDING%20DIVERSITY%20IN%20SESSION-BASED%20RECOMMENDATION.pdf)
 ## ABTest
 - [Overlapping Experiment Infrastructure - More, Better, Faster Experimentation](ABTest/Overlapping%20Experiment%20Infrastructure%20-%20More%2C%20Better%2C%20Faster%20Experimentation.pdf)
-## Reinforce
-- [Exploration and Regularization of the Latent Action Space in Recommendation](Reinforce/Exploration%20and%20Regularization%20of%20the%20Latent%20Action%20Space%20in%20Recommendation.pdf)
-- [Jointly Learning to Recommend and Advertise](Reinforce/Jointly%20Learning%20to%20Recommend%20and%20Advertise.pdf)
-- [Reinforcing User Retention in a Billion Scale Short Video Recommender System](Reinforce/Reinforcing%20User%20Retention%20in%20a%20Billion%20Scale%20Short%20Video%20Recommender%20System.pdf)
-- [Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning](Reinforce/Recommendations%20with%20Negative%20Feedback%20via%20Pairwise%20Deep%20Reinforcement%20Learning.pdf)
-- [Reinforcement Learning for Slate-based Recommender Systems - A Tractable Decomposition and Practical Methodology](Reinforce/Reinforcement%20Learning%20for%20Slate-based%20Recommender%20Systems%20-%20A%20Tractable%20Decomposition%20and%20Practical%20Methodology.pdf)
-- [Top-K Off-Policy Correctionfor a REINFORCE Recommender System](Reinforce/Top-K%20Off-Policy%20Correctionfor%20a%20REINFORCE%20Recommender%20System.pdf)
-- [Two-Stage Constrained Actor-Critic for Short Video Recommendation](Reinforce/Two-Stage%20Constrained%20Actor-Critic%20for%20Short%20Video%20Recommendation.pdf)
+## ReinforcementLearning
+- [A Reinforcement Learning Framework for Explainable Recommendation](ReinforcementLearning/A%20Reinforcement%20Learning%20Framework%20for%20Explainable%20Recommendation.pdf)
+- [Counterfactual Evaluation of Slate Recommendations with Sequential Reward Interactions](ReinforcementLearning/Counterfactual%20Evaluation%20of%20Slate%20Recommendations%20with%20Sequential%20Reward%20Interactions.pdf)
+- [DRN - A Deep Reinforcement Learning Framework for News Recommendation](ReinforcementLearning/DRN%20-%20A%20Deep%20Reinforcement%20Learning%20Framework%20for%20News%20Recommendation.pdf)
+- [Deep Reinforcement Learning for List-wise Recommendations](ReinforcementLearning/Deep%20Reinforcement%20Learning%20for%20List-wise%20Recommendations.pdf)
+- [Deep Reinforcement Learning for Search, Recommendation, and Online Advertising - A Survey](ReinforcementLearning/Deep%20Reinforcement%20Learning%20for%20Search%2C%20Recommendation%2C%20and%20Online%20Advertising%20-%20A%20Survey.pdf)
+- [Deep Reinforcement Learning for Page-wise Recommendations](ReinforcementLearning/Deep%20Reinforcement%20Learning%20for%20Page-wise%20Recommendations.pdf)
+- [Exploration and Regularization of the Latent Action Space in Recommendation](ReinforcementLearning/Exploration%20and%20Regularization%20of%20the%20Latent%20Action%20Space%20in%20Recommendation.pdf)
+- [Jointly Learning to Recommend and Advertise](ReinforcementLearning/Jointly%20Learning%20to%20Recommend%20and%20Advertise.pdf)
+- [Large-scale Interactive Recommendation with Tree-structured Policy Gradient](ReinforcementLearning/Large-scale%20Interactive%20Recommendation%20with%20Tree-structured%20Policy%20Gradient.pdf)
+- [Off-policy evaluation for slate recommendation](ReinforcementLearning/Off-policy%20evaluation%20for%20slate%20recommendation.pdf)
+- [Reinforcing User Retention in a Billion Scale Short Video Recommender System](ReinforcementLearning/Reinforcing%20User%20Retention%20in%20a%20Billion%20Scale%20Short%20Video%20Recommender%20System.pdf)
+- [Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning](ReinforcementLearning/Recommendations%20with%20Negative%20Feedback%20via%20Pairwise%20Deep%20Reinforcement%20Learning.pdf)
+- [Reinforcement Learning for Slate-based Recommender Systems - A Tractable Decomposition and Practical Methodology](ReinforcementLearning/Reinforcement%20Learning%20for%20Slate-based%20Recommender%20Systems%20-%20A%20Tractable%20Decomposition%20and%20Practical%20Methodology.pdf)
+- [Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation](ReinforcementLearning/Stabilizing%20Reinforcement%20Learning%20in%20Dynamic%20Environment%20with%20Application%20to%20Online%20Recommendation.pdf)
+- [Top-K Off-Policy Correctionfor a REINFORCE Recommender System](ReinforcementLearning/Top-K%20Off-Policy%20Correctionfor%20a%20REINFORCE%20Recommender%20System.pdf)
+- [Two-Stage Constrained Actor-Critic for Short Video Recommendation](ReinforcementLearning/Two-Stage%20Constrained%20Actor-Critic%20for%20Short%20Video%20Recommendation.pdf)
+- [When People Change their Mind - Off-Policy Evaluation in Non-stationary Recommendation Environments](ReinforcementLearning/When%20People%20Change%20their%20Mind%20-%20Off-Policy%20Evaluation%20in%20Non-stationary%20Recommendation%20Environments.pdf)
