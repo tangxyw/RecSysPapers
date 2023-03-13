@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-03-07，本仓库收集汇总了推荐系统领域相关论文共**614**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-03-13，本仓库收集汇总了推荐系统领域相关论文共**616**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -96,6 +96,7 @@
 - [Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction](Industry/Deep%20Spatio-Temporal%20Neural%20Networks%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Denoising Neural Network for News Recommendation with Positive and Negative Implicit Feedback](Industry/Denoising%20Neural%20Network%20for%20News%20Recommendation%20with%20Positive%20and%20Negative%20Implicit%20Feedback.pdf)
 - [Denoising User-aware Memory Network for Recommendation](Industry/Denoising%20User-aware%20Memory%20Network%20for%20Recommendation.pdf)
+- [E-Commerce Item Recommendation Based on Field-aware Factorization Machine](Industry/E-Commerce%20Item%20Recommendation%20Based%20on%20Field-aware%20Factorization%20Machine.pdf)
 - [EXTR - Click-Through Rate Prediction with Externalities in E-Commerce Sponsored Search](Industry/EXTR%20-%20Click-Through%20Rate%20Prediction%20with%20Externalities%20in%20E-Commerce%20Sponsored%20Search.pdf)
 - [End-to-End User Behavior Retrieval in Click-Through Rate Prediction Model](Industry/End-to-End%20User%20Behavior%20Retrieval%20in%20Click-Through%20Rate%20Prediction%20Model.pdf)
 - [FM2 - Field-matrixed Factorization Machines for Recommender Systems](Industry/FM2%20-%20Field-matrixed%20Factorization%20Machines%20for%20Recommender%20Systems.pdf)
@@ -695,4 +696,5 @@
 - [Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation](ReinforcementLearning/Stabilizing%20Reinforcement%20Learning%20in%20Dynamic%20Environment%20with%20Application%20to%20Online%20Recommendation.pdf)
 - [Top-K Off-Policy Correctionfor a REINFORCE Recommender System](ReinforcementLearning/Top-K%20Off-Policy%20Correctionfor%20a%20REINFORCE%20Recommender%20System.pdf)
 - [Two-Stage Constrained Actor-Critic for Short Video Recommendation](ReinforcementLearning/Two-Stage%20Constrained%20Actor-Critic%20for%20Short%20Video%20Recommendation.pdf)
+- [Virtual-Taobao - Virtualizing Real-world Online Retail Environment for Reinforcement Learning](ReinforcementLearning/Virtual-Taobao%20-%20Virtualizing%20Real-world%20Online%20Retail%20Environment%20for%20Reinforcement%20Learning.pdf)
 - [When People Change their Mind - Off-Policy Evaluation in Non-stationary Recommendation Environments](ReinforcementLearning/When%20People%20Change%20their%20Mind%20-%20Off-Policy%20Evaluation%20in%20Non-stationary%20Recommendation%20Environments.pdf)
