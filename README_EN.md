@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-03-17, **632** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-03-18, **633** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -146,6 +146,7 @@ I will remove it immediately after verification.
 #### TriggerInduced
 - [[2021][Tencent][R3S] Real-time Relevant Recommendation Suggestion](Industry/TriggerInduced/%5B2021%5D%5BTencent%5D%5BR3S%5D%20Real-time%20Relevant%20Recommendation%20Suggestion.pdf)
 - [[2022][Alibaba][DIHN] Deep Interest Highlight Network for Click-Through Rate Prediction in Trigger-Induced Recommendation](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIHN%5D%20Deep%20Interest%20Highlight%20Network%20for%20Click-Through%20Rate%20Prediction%20in%20Trigger-Induced%20Recommendation.pdf)
+- [Deep Intention-Aware Network for Click-Through Rate Prediction](Industry/TriggerInduced/Deep%20Intention-Aware%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 #### Reciprocal
 - [[2022][Boss][DPGNN] Modeling Two-Way Selection Preference for Person-Job Fit](Industry/Reciprocal/%5B2022%5D%5BBoss%5D%5BDPGNN%5D%20Modeling%20Two-Way%20Selection%20Preference%20for%20Person-Job%20Fit.pdf)
 - [Latent Factor Models and Aggregation Operators for Collaborative Filtering in Reciprocal Recommender Systems](Industry/Reciprocal/Latent%20Factor%20Models%20and%20Aggregation%20Operators%20for%20Collaborative%20Filtering%20in%20Reciprocal%20Recommender%20Systems.pdf)
