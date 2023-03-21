@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-03-18，本仓库收集汇总了推荐系统领域相关论文共**633**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-03-21，本仓库收集汇总了推荐系统领域相关论文共**638**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -82,11 +82,13 @@
 - [Adversarial Mixture Of Experts with Category Hierarchy Soft Constraint](Industry/Adversarial%20Mixture%20Of%20Experts%20with%20Category%20Hierarchy%20Soft%20Constraint.pdf)
 - [Alternating Pointwise-Pairwise Learning for Personalized Item Ranking](Industry/Alternating%20Pointwise-Pairwise%20Learning%20for%20Personalized%20Item%20Ranking.pdf)
 - [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](Industry/Adversarial%20Filtering%20Modeling%20on%20Long-term%20User%20Behavior%20Sequences%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [AutoMLP - Automated MLP for Sequential Recommendations](Industry/AutoMLP%20-%20Automated%20MLP%20for%20Sequential%20Recommendations.pdf)
 - [AutoField - Automating Feature Selection in Deep Recommender Systems](Industry/AutoField%20-%20Automating%20Feature%20Selection%20in%20Deep%20Recommender%20Systems.pdf)
 - [A Deep Behavior Path Matching Network for Click-Through Rate Prediction](Industry/A%20Deep%20Behavior%20Path%20Matching%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [A Self-Correcting Sequential Recommender](Industry/A%20Self-Correcting%20Sequential%20Recommender.pdf)
 - [Curriculum Disentangled Recommendation with Noisy Multi-feedback](Industry/Curriculum%20Disentangled%20Recommendation%20with%20Noisy%20Multi-feedback.pdf)
 - [Category-Specific CNN for Visual-aware CTR Prediction at JD.com](Industry/Category-Specific%20CNN%20for%20Visual-aware%20CTR%20Prediction%20at%20JD.com.pdf)
+- [ConsRec - Learning Consensus Behind Interactions for Group Recommendation](Industry/ConsRec%20-%20Learning%20Consensus%20Behind%20Interactions%20for%20Group%20Recommendation.pdf)
 - [ContextNet - A Click-Through Rate Prediction Framework Using Contextual information to Refine Feature Embedding](Industry/ContextNet%20-%20A%20Click-Through%20Rate%20Prediction%20Framework%20Using%20Contextual%20information%20to%20Refine%20Feature%20Embedding.pdf)
 - [CAEN - A Hierarchically Attentive Evolution Network for Item-Attribute-Change-Aware Recommendation in the Growing E-commerce Environment](Industry/CAEN%20-%20A%20Hierarchically%20Attentive%20Evolution%20Network%20for%20Item-Attribute-Change-Aware%20Recommendation%20in%20the%20Growing%20E-commerce%20Environment.pdf)
 - [Decision-Making Context Interaction Network for Click-Through Rate Prediction](Industry/Decision-Making%20Context%20Interaction%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
@@ -128,6 +130,7 @@
 - [PURS - Personalized Unexpected Recommender System for Improving User Satisfaction](Industry/PURS%20-%20Personalized%20Unexpected%20Recommender%20System%20for%20Improving%20User%20Satisfaction.pdf)
 - [Recommender Transformers with Behavior Pathways](Industry/Recommender%20Transformers%20with%20Behavior%20Pathways.pdf)
 - [Res-embedding for Deep Learning Based Click-Through Rate Prediction Modeling](Industry/Res-embedding%20for%20Deep%20Learning%20Based%20Click-Through%20Rate%20Prediction%20Modeling.pdf)
+- [Reweighting Clicks with Dwell Time in Recommendation](Industry/Reweighting%20Clicks%20with%20Dwell%20Time%20in%20Recommendation.pdf)
 - [Sequential Modeling with Multiple Attributes for Watchlist Recommendation in E-Commerce](Industry/Sequential%20Modeling%20with%20Multiple%20Attributes%20for%20Watchlist%20Recommendation%20in%20E-Commerce.pdf)
 - [Sparse Attentive Memory Network for Click-through Rate Prediction with Long Sequences](Industry/Sparse%20Attentive%20Memory%20Network%20for%20Click-through%20Rate%20Prediction%20with%20Long%20Sequences.pdf)
 - [Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction](Industry/Sampling%20Is%20All%20You%20Need%20on%20Modeling%20Long-Term%20User%20Behaviors%20for%20CTR%20Prediction.pdf)
@@ -153,6 +156,7 @@
 #### Dataset
 - [KuaiRand - An Unbiased Sequential Recommendation Dataset with Randomly Exposed Videos](Industry/Dataset/KuaiRand%20-%20An%20Unbiased%20Sequential%20Recommendation%20Dataset%20with%20Randomly%20Exposed%20Videos.pdf)
 - [KuaiRec - A Fully-observed Dataset and Insights for Evaluating Recommender Systems](Industry/Dataset/KuaiRec%20-%20A%20Fully-observed%20Dataset%20and%20Insights%20for%20Evaluating%20Recommender%20Systems.pdf)
+- [MobileRec - A Large-Scale Dataset for Mobile Apps Recommendation](Industry/Dataset/MobileRec%20-%20A%20Large-Scale%20Dataset%20for%20Mobile%20Apps%20Recommendation.pdf)
 - [Tenrec - A Large-scale Multipurpose Benchmark Dataset for Recommender Systems](Industry/Dataset/Tenrec%20-%20A%20Large-scale%20Multipurpose%20Benchmark%20Dataset%20for%20Recommender%20Systems.pdf)
 #### CreativeSelection
 - [[2021][Baidu][GemNN] GemNN - Gating-Enhanced Multi-Task Neural Networks with Feature Interaction Learning for CTR Prediction](Industry/CreativeSelection/%5B2021%5D%5BBaidu%5D%5BGemNN%5D%20GemNN%20-%20Gating-Enhanced%20Multi-Task%20Neural%20Networks%20with%20Feature%20Interaction%20Learning%20for%20CTR%20Prediction.pdf)
@@ -337,6 +341,7 @@
 - [Recommendation on Live - Streaming Platforms- Dynamic Availability and Repeat Consumption](Match/Recommendation%20on%20Live%20-%20Streaming%20Platforms-%20Dynamic%20Availability%20and%20Repeat%20Consumption.pdf)
 - [Sequential Recommender System based on Hierarchical Attention Network](Match/Sequential%20Recommender%20System%20based%20on%20Hierarchical%20Attention%20Network.pdf)
 - [Sequential Recommendation via Stochastic Self-Attention](Match/Sequential%20Recommendation%20via%20Stochastic%20Self-Attention.pdf)
+- [Semi-supervised Adversarial Learning for Complementary Item Recommendation](Match/Semi-supervised%20Adversarial%20Learning%20for%20Complementary%20Item%20Recommendation.pdf)
 - [Sparse-Interest Network for Sequential Recommendation](Match/Sparse-Interest%20Network%20for%20Sequential%20Recommendation.pdf)
 - [Self-Attentive Sequential Recommendation](Match/Self-Attentive%20Sequential%20Recommendation.pdf)
 - [StarSpace - Embed All The Things!](Match/StarSpace%20-%20Embed%20All%20The%20Things%21.pdf)
