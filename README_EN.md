@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-03-21, **638** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-03-24, **640** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -116,6 +116,7 @@ I will remove it immediately after verification.
 - [FiBiNet++ - Improving FiBiNet by Greatly Reducing Model Size for CTR Prediction](Industry/FiBiNet%2B%2B%20-%20Improving%20FiBiNet%20by%20Greatly%20Reducing%20Model%20Size%20for%20CTR%20Prediction.pdf)
 - [GateNet - Gating-Enhanced Deep Network for Click-Through Rate Prediction](Industry/GateNet%20-%20Gating-Enhanced%20Deep%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Hybrid Interest Modeling for Long-tailed Users](Industry/Hybrid%20Interest%20Modeling%20for%20Long-tailed%20Users.pdf)
+- [Hierarchical Gating Networks for Sequential Recommendation](Industry/Hierarchical%20Gating%20Networks%20for%20Sequential%20Recommendation.pdf)
 - [HIEN - Hierarchical Intention Embedding Network for Click-Through Rate Prediction](Industry/HIEN%20-%20Hierarchical%20Intention%20Embedding%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Improving Pairwise Learning for Item Recommendation from Implicit Feedback](Industry/Improving%20Pairwise%20Learning%20for%20Item%20Recommendation%20from%20Implicit%20Feedback.pdf)
 - [Improving Recommendation Quality in Google Drive](Industry/Improving%20Recommendation%20Quality%20in%20Google%20Drive.pdf)
@@ -481,6 +482,7 @@ I will remove it immediately after verification.
 - [[2021][Alibaba][STAR] One Model to Serve All - Star Topology Adaptive Recommenderfor Multi-Domain CTR Prediction](Multi-Scenario/%5B2021%5D%5BAlibaba%5D%5BSTAR%5D%20One%20Model%20to%20Serve%20All%20-%20Star%20Topology%20Adaptive%20Recommenderfor%20Multi-Domain%20CTR%20Prediction.pdf)
 - [[2021][Baidu] Multi-Task and Multi-Scene Unified Ranking Model for Online Advertising](Multi-Scenario/%5B2021%5D%5BBaidu%5D%20Multi-Task%20and%20Multi-Scene%20Unified%20Ranking%20Model%20for%20Online%20Advertising.pdf)
 - [[2022][AntGroup][AESM2] Automatic Expert Selection for Multi-Scenario and Multi-Task Search](Multi-Scenario/%5B2022%5D%5BAntGroup%5D%5BAESM2%5D%20Automatic%20Expert%20Selection%20for%20Multi-Scenario%20and%20Multi-Task%20Search.pdf)
+- [[2023][Kuaishou][PEPNet] PEPNet - Parameter and Embedding Personalized Network for Infusing with Personalized Prior Information](Multi-Scenario/%5B2023%5D%5BKuaishou%5D%5BPEPNet%5D%20PEPNet%20-%20Parameter%20and%20Embedding%20Personalized%20Network%20for%20Infusing%20with%20Personalized%20Prior%20Information.pdf)
 - [A Deep Framework for Cross-Domain and Cross-System Recommendations](Multi-Scenario/A%20Deep%20Framework%20for%20Cross-Domain%20and%20Cross-System%20Recommendations.pdf)
 - [APG - Adaptive Parameter Generation Network for Click-Through Rate Prediction](Multi-Scenario/APG%20-%20Adaptive%20Parameter%20Generation%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [AdaSparse - Learning Adaptively Sparse Structures for Multi-Domain Click-Through Rate Prediction](Multi-Scenario/AdaSparse%20-%20Learning%20Adaptively%20Sparse%20Structures%20for%20Multi-Domain%20Click-Through%20Rate%20Prediction.pdf)
@@ -502,12 +504,12 @@ I will remove it immediately after verification.
 - [DeepAPF - Deep Attentive Probabilistic Factorization for Multi-site Video Recommendation](Multi-Scenario/DeepAPF%20-%20Deep%20Attentive%20Probabilistic%20Factorization%20for%20Multi-site%20Video%20Recommendation.pdf)
 - [DisenCDR - Learning Disentangled Representations for Cross-Domain Recommendation](Multi-Scenario/DisenCDR%20-%20Learning%20Disentangled%20Representations%20for%20Cross-Domain%20Recommendation.pdf)
 - [Heterogeneous Graph Augmented Multi-Scenario Sharing Recommendation with Tree-Guided Expert Networks](Multi-Scenario/Heterogeneous%20Graph%20Augmented%20Multi-Scenario%20Sharing%20Recommendation%20with%20Tree-Guided%20Expert%20Networks.pdf)
+- [HiNet - Novel Multi-Scenario & Multi-Task Learning with Hierarchical Information Extraction](Multi-Scenario/HiNet%20-%20Novel%20Multi-Scenario%20%26%20Multi-Task%20Learning%20with%20Hierarchical%20Information%20Extraction.pdf)
 - [Improving Multi-Scenario Learning to Rank in E-commerce by Exploiting Task Relationships in the Label Space](Multi-Scenario/Improving%20Multi-Scenario%20Learning%20to%20Rank%20in%20E-commerce%20by%20Exploiting%20Task%20Relationships%20in%20the%20Label%20Space.pdf)
 - [KEEP - An Industrial Pre-Training Framework for Online Recommendation via Knowledge Extraction and Plugging](Multi-Scenario/KEEP%20-%20An%20Industrial%20Pre-Training%20Framework%20for%20Online%20Recommendation%20via%20Knowledge%20Extraction%20and%20Plugging.pdf)
 - [Leaving No One Behind - A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling](Multi-Scenario/Leaving%20No%20One%20Behind%20-%20A%20Multi-Scenario%20Multi-Task%20Meta%20Learning%20Approach%20for%20Advertiser%20Modeling.pdf)
 - [Multi-Graph based Multi-Scenario Recommendation in Large-scale Online Video Services](Multi-Scenario/Multi-Graph%20based%20Multi-Scenario%20Recommendation%20in%20Large-scale%20Online%20Video%20Services.pdf)
 - [Personalized Transfer of User Preferences for Cross-domain Recommendation](Multi-Scenario/Personalized%20Transfer%20of%20User%20Preferences%20for%20Cross-domain%20Recommendation.pdf)
-- [PEPNet - Parameter and Embedding Personalized Network for Infusing with Personalized Prior Information](Multi-Scenario/PEPNet%20-%20Parameter%20and%20Embedding%20Personalized%20Network%20for%20Infusing%20with%20Personalized%20Prior%20Information.pdf)
 - [SAR-Net - A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios](Multi-Scenario/SAR-Net%20-%20A%20Scenario-Aware%20Ranking%20Network%20for%20Personalized%20Fair%20Recommendation%20in%20Hundreds%20of%20Travel%20Scenarios.pdf)
 - [Semi-Supervised Learning for Cross-Domain Recommendation to Cold-Start Users](Multi-Scenario/Semi-Supervised%20Learning%20for%20Cross-Domain%20Recommendation%20to%20Cold-Start%20Users.pdf)
 - [Scenario-aware and Mutual-based approach for Multi-scenario Recommendation in E-Commerce](Multi-Scenario/Scenario-aware%20and%20Mutual-based%20approach%20for%20Multi-scenario%20Recommendation%20in%20E-Commerce.pdf)
