@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-03-27, **642** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-04-04, **644** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -429,6 +429,7 @@ I will remove it immediately after verification.
 - [Revisiting Item Promotion in GNN-based Collaborative Filtering - A Masked Targeted Topological Attack Perspective](Match/GNN/Revisiting%20Item%20Promotion%20in%20GNN-based%20Collaborative%20Filtering%20-%20A%20Masked%20Targeted%20Topological%20Attack%20Perspective.pdf)
 - [Self-supervised Graph Learning for Recommendation](Match/GNN/Self-supervised%20Graph%20Learning%20for%20Recommendation.pdf)
 - [SVD-GCN - A Simplified Graph Convolution Paradigm for Recommendation](Match/GNN/SVD-GCN%20-%20A%20Simplified%20Graph%20Convolution%20Paradigm%20for%20Recommendation.pdf)
+- [SimClusters - Community-Based Representations for Heterogeneous Recommendations at Twitter](Match/GNN/SimClusters%20-%20Community-Based%20Representations%20for%20Heterogeneous%20Recommendations%20at%20Twitter.pdf)
 - [Self-Supervised Hypergraph Transformer for Recommender Systems](Match/GNN/Self-Supervised%20Hypergraph%20Transformer%20for%20Recommender%20Systems.pdf)
 - [TwHIN - Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation](Match/GNN/TwHIN%20-%20Embedding%20the%20Twitter%20Heterogeneous%20Information%20Network%20for%20Personalized%20Recommendation.pdf)
 - [metapath2vec - Scalable Representation Learning for Heterogeneous Networks](Match/GNN/metapath2vec%20-%20Scalable%20Representation%20Learning%20for%20Heterogeneous%20Networks.pdf)
@@ -474,6 +475,7 @@ I will remove it immediately after verification.
 - [Why I like it - multi-task learning for recommendation and explanation](Multi-Task/Why%20I%20like%20it%20-%20multi-task%20learning%20for%20recommendation%20and%20explanation.pdf)
 ## Multi-Modal
 - [Adversarial Multimodal Representation Learning for Click-Through Rate Prediction](Multi-Modal/Adversarial%20Multimodal%20Representation%20Learning%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [Bootstrap Latent Representations for Multi-modal Recommendation](Multi-Modal/Bootstrap%20Latent%20Representations%20for%20Multi-modal%20Recommendation.pdf)
 - [Heterogeneous Attention Network for Effective and Efficient Cross-modal Retrieval](Multi-Modal/Heterogeneous%20Attention%20Network%20for%20Effective%20and%20Efficient%20Cross-modal%20Retrieval.pdf)
 - [Learning Joint Embedding with Multimodal Cues for Cross-Modal Video-Text Retrieva](Multi-Modal/Learning%20Joint%20Embedding%20with%20Multimodal%20Cues%20for%20Cross-Modal%20Video-Text%20Retrieva.pdf)
 - [Multimodal Recommender Systems - A Survey](Multi-Modal/Multimodal%20Recommender%20Systems%20-%20A%20Survey.pdf)
