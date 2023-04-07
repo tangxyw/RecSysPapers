@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-04-04，本仓库收集汇总了推荐系统领域相关论文共**644**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-04-07，本仓库收集汇总了推荐系统领域相关论文共**647**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -207,6 +207,7 @@
 - [Personalized Long- and Short-term Preference Learning for Next POI Recommendation](Industry/POI/Personalized%20Long-%20and%20Short-term%20Preference%20Learning%20for%20Next%20POI%20Recommendation.pdf)
 - [ST-PIL - Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation](Industry/POI/ST-PIL%20-%20Spatial-Temporal%20Periodic%20Interest%20Learning%20for%20Next%20Point-of-Interest%20Recommendation.pdf)
 - [TADSAM - A Time-Aware Dynamic Self-Attention Model for Next Point-of-Interest Recommendation](Industry/POI/TADSAM%20-%20A%20Time-Aware%20Dynamic%20Self-Attention%20Model%20for%20Next%20Point-of-Interest%20Recommendation.pdf)
+- [When Online Meets Offline - Exploring Periodicity for Travel Destination Prediction](Industry/POI/When%20Online%20Meets%20Offline%20-%20Exploring%20Periodicity%20for%20Travel%20Destination%20Prediction.pdf)
 - [Where to Go Next - A Spatio-Temporal Gated Network for Next POI Recommendation](Industry/POI/Where%20to%20Go%20Next%20-%20A%20Spatio-Temporal%20Gated%20Network%20for%20Next%20POI%20Recommendation.pdf)
 - [Why We Go Where We Go - Profiling User Decisions on Choosing POIs](Industry/POI/Why%20We%20Go%20Where%20We%20Go%20-%20Profiling%20User%20Decisions%20on%20Choosing%20POIs.pdf)
 - [Where to Go Next - Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation](Industry/POI/Where%20to%20Go%20Next%20-%20Modeling%20Long-%20and%20Short-Term%20User%20Preferences%20for%20Point-of-Interest%20Recommendation.pdf)
@@ -450,6 +451,7 @@
 - [Dynamic Task Prioritization for Multitask Learning](Multi-Task/Dynamic%20Task%20Prioritization%20for%20Multitask%20Learning.pdf)
 - [DSelect-k - Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning](Multi-Task/DSelect-k%20-%20Differentiable%20Selection%20in%20the%20Mixture%20of%20Experts%20with%20Applications%20to%20Multi-Task%20Learning.pdf)
 - [Entire Space Multi-Task Modeling via Post-Click Behavior Decomposition for Conversion Rate Prediction](Multi-Task/Entire%20Space%20Multi-Task%20Modeling%20via%20Post-Click%20Behavior%20Decomposition%20for%20Conversion%20Rate%20Prediction.pdf)
+- [Feature Decomposition for Reducing Negative Transfer - A Novel Multi-task Learning Method for Recommender System](Multi-Task/Feature%20Decomposition%20for%20Reducing%20Negative%20Transfer%20-%20A%20Novel%20Multi-task%20Learning%20Method%20for%20Recommender%20System.pdf)
 - [Hierarchically Modeling Micro and Macro Behaviors via Multi-Task Learning for Conversion Rate Prediction](Multi-Task/Hierarchically%20Modeling%20Micro%20and%20Macro%20Behaviors%20via%20Multi-Task%20Learning%20for%20Conversion%20Rate%20Prediction.pdf)
 - [HyperGrid Transformers - Towards A Single Model for Multiple Tasks](Multi-Task/HyperGrid%20Transformers%20-%20Towards%20A%20Single%20Model%20for%20Multiple%20Tasks.pdf)
 - [Learning to Recommend with Multiple Cascading Behaviors](Multi-Task/Learning%20to%20Recommend%20with%20Multiple%20Cascading%20Behaviors.pdf)
@@ -616,6 +618,7 @@
 - [Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks](Cold-Start/Learning%20to%20Warm%20Up%20Cold%20Item%20Embeddings%20for%20Cold-start%20Recommendation%20with%20Meta%20Scaling%20and%20Shifting%20Networks.pdf)
 - [LHRM - A LBS based Heterogeneous Relations Model for User Cold Start Recommendation in Online Travel Platform](Cold-Start/LHRM%20-%20A%20LBS%20based%20Heterogeneous%20Relations%20Model%20for%20User%20Cold%20Start%20Recommendation%20in%20Online%20Travel%20Platform.pdf)
 - [MAMO - Memory-Augmented Meta-Optimization for Cold-start Recommendation](Cold-Start/MAMO%20-%20Memory-Augmented%20Meta-Optimization%20for%20Cold-start%20Recommendation.pdf)
+- [SMINet - State-Aware Multi-Aspect Interests Representation Network for Cold-Start Users Recommendation](Cold-Start/SMINet%20-%20State-Aware%20Multi-Aspect%20Interests%20Representation%20Network%20for%20Cold-Start%20Users%20Recommendation.pdf)
 - [Task-adaptive Neural Process for User Cold-Start Recommendation](Cold-Start/Task-adaptive%20Neural%20Process%20for%20User%20Cold-Start%20Recommendation.pdf)
 - [Transform Cold-Start Users into Warm via Fused Behaviors in Large-Scale Recommendation](Cold-Start/Transform%20Cold-Start%20Users%20into%20Warm%20via%20Fused%20Behaviors%20in%20Large-Scale%20Recommendation.pdf)
 - [Telepath - Understanding Users from a Human Vision Perspective in Large-Scale Recommender Systems](Cold-Start/Telepath%20-%20Understanding%20Users%20from%20a%20Human%20Vision%20Perspective%20in%20Large-Scale%20Recommender%20Systems.pdf)
