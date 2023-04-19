@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-04-16, **650** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-04-19, **653** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -91,6 +91,7 @@ I will remove it immediately after verification.
 - [Adversarial Mixture Of Experts with Category Hierarchy Soft Constraint](Industry/Adversarial%20Mixture%20Of%20Experts%20with%20Category%20Hierarchy%20Soft%20Constraint.pdf)
 - [Alternating Pointwise-Pairwise Learning for Personalized Item Ranking](Industry/Alternating%20Pointwise-Pairwise%20Learning%20for%20Personalized%20Item%20Ranking.pdf)
 - [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](Industry/Adversarial%20Filtering%20Modeling%20on%20Long-term%20User%20Behavior%20Sequences%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [A Large Scale Prediction Engine for App Install Clicks and Conversions](Industry/A%20Large%20Scale%20Prediction%20Engine%20for%20App%20Install%20Clicks%20and%20Conversions.pdf)
 - [AutoMLP - Automated MLP for Sequential Recommendations](Industry/AutoMLP%20-%20Automated%20MLP%20for%20Sequential%20Recommendations.pdf)
 - [AutoField - Automating Feature Selection in Deep Recommender Systems](Industry/AutoField%20-%20Automating%20Feature%20Selection%20in%20Deep%20Recommender%20Systems.pdf)
 - [A Deep Behavior Path Matching Network for Click-Through Rate Prediction](Industry/A%20Deep%20Behavior%20Path%20Matching%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
@@ -118,7 +119,6 @@ I will remove it immediately after verification.
 - [FiBiNet++ - Improving FiBiNet by Greatly Reducing Model Size for CTR Prediction](Industry/FiBiNet%2B%2B%20-%20Improving%20FiBiNet%20by%20Greatly%20Reducing%20Model%20Size%20for%20CTR%20Prediction.pdf)
 - [FinalMLP - An Enhanced Two-Stream MLP Model for CTR Prediction](Industry/FinalMLP%20-%20An%20Enhanced%20Two-Stream%20MLP%20Model%20for%20CTR%20Prediction.pdf)
 - [GateNet - Gating-Enhanced Deep Network for Click-Through Rate Prediction](Industry/GateNet%20-%20Gating-Enhanced%20Deep%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
-- [General-Purpose User Embeddings based on Mobile App Usage](Industry/General-Purpose%20User%20Embeddings%20based%20on%20Mobile%20App%20Usage.pdf)
 - [Hierarchically Fusing Long and Short-Term User Interests for Click-Through Rate Prediction in Product Search](Industry/Hierarchically%20Fusing%20Long%20and%20Short-Term%20User%20Interests%20for%20Click-Through%20Rate%20Prediction%20in%20Product%20Search.pdf)
 - [Hybrid Interest Modeling for Long-tailed Users](Industry/Hybrid%20Interest%20Modeling%20for%20Long-tailed%20Users.pdf)
 - [Hierarchical Gating Networks for Sequential Recommendation](Industry/Hierarchical%20Gating%20Networks%20for%20Sequential%20Recommendation.pdf)
@@ -134,6 +134,7 @@ I will remove it immediately after verification.
 - [Learning Within-Session Budgets from Browsing Trajectories](Industry/Learning%20Within-Session%20Budgets%20from%20Browsing%20Trajectories.pdf)
 - [Modeling Users’ Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](Industry/Modeling%20Users%E2%80%99%20Contextualized%20Page-wise%20Feedback%20for%20Click-Through%20Rate%20Prediction%20in%20E-commerce%20Search.pdf)
 - [Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction](Industry/Multi-Interactive%20Attention%20Network%20for%20Fine-grained%20Feature%20Learning%20in%20CTR%20Prediction.pdf)
+- [Modeling Mobile User Actions for Purchase Recommendation using Deep Memory Networks](Industry/Modeling%20Mobile%20User%20Actions%20for%20Purchase%20Recommendation%20using%20Deep%20Memory%20Networks.pdf)
 - [MRIF - Multi-resolution Interest Fusion for Recommendation](Industry/MRIF%20-%20Multi-resolution%20Interest%20Fusion%20for%20Recommendation.pdf)
 - [Micro-Behavior Encoding for Session-based Recommendation](Industry/Micro-Behavior%20Encoding%20for%20Session-based%20Recommendation.pdf)
 - [Neural News Recommendation with Negative Feedback](Industry/Neural%20News%20Recommendation%20with%20Negative%20Feedback.pdf)
@@ -227,6 +228,7 @@ I will remove it immediately after verification.
 - [FINN - Feedback Interactive Neural Network for Intent Recommendation](Industry/Intent/FINN%20-%20Feedback%20Interactive%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
 - [Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation](Industry/Intent/Metapath-guided%20Heterogeneous%20Graph%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
 #### Representation
+- [[2020][Tencent][AETN] General-Purpose User Embeddings based on Mobile App Usage](Industry/Representation/%5B2020%5D%5BTencent%5D%5BAETN%5D%20General-Purpose%20User%20Embeddings%20based%20on%20Mobile%20App%20Usage.pdf)
 - [[2022][Pinterest][PinnerFormer] PinnerFormer - Sequence Modeling for User Representation at Pinterest](Industry/Representation/%5B2022%5D%5BPinterest%5D%5BPinnerFormer%5D%20PinnerFormer%20-%20Sequence%20Modeling%20for%20User%20Representation%20at%20Pinterest.pdf)
 #### FeatureHashing
 - [[2021][Google][DHE] Learning to Embed Categorical Features without Embedding Tables for Recommendation](Industry/FeatureHashing/%5B2021%5D%5BGoogle%5D%5BDHE%5D%20Learning%20to%20Embed%20Categorical%20Features%20without%20Embedding%20Tables%20for%20Recommendation.pdf)
@@ -676,6 +678,7 @@ I will remove it immediately after verification.
 - [Comprehensive Audience Expansion based on End-to-End Neural Prediction](Look-Alike/Comprehensive%20Audience%20Expansion%20based%20on%20End-to-End%20Neural%20Prediction.pdf)
 - [Effective Audience Extension in Online Advertising](Look-Alike/Effective%20Audience%20Extension%20in%20Online%20Advertising.pdf)
 - [Hubble - An Industrial System for Audience Expansion in Mobile Marketing](Look-Alike/Hubble%20-%20An%20Industrial%20System%20for%20Audience%20Expansion%20in%20Mobile%20Marketing.pdf)
+- [Implicit Look-alike Modelling in Display Ads - Transfer Collaborative Filtering to CTR Estimation ](Look-Alike/Implicit%20Look-alike%20Modelling%20in%20Display%20Ads%20-%20Transfer%20Collaborative%20Filtering%20to%20CTR%20Estimation%20.pdf)
 - [Learning to Expand Audience via Meta Hybrid Experts and Critics for Recommendation and Advertising](Look-Alike/Learning%20to%20Expand%20Audience%20via%20Meta%20Hybrid%20Experts%20and%20Critics%20for%20Recommendation%20and%20Advertising.pdf)
 - [Score Look-alike Audiences](Look-Alike/Score%20Look-alike%20Audiences.pdf)
 - [Two-Stage Audience Expansion for Financial Targeting in Marketing](Look-Alike/Two-Stage%20Audience%20Expansion%20for%20Financial%20Targeting%20in%20Marketing.pdf)
