@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-04-19, **653** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-04-28, **655** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -353,6 +353,7 @@ I will remove it immediately after verification.
 - [PinnerSage - Multi-Modal User Embedding Framework for Recommendations at Pinterest](Match/PinnerSage%20-%20Multi-Modal%20User%20Embedding%20Framework%20for%20Recommendations%20at%20Pinterest.pdf)
 - [Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding](Match/Personalized%20Top-N%20Sequential%20Recommendation%20via%20Convolutional%20Sequence%20Embedding.pdf)
 - [Path-based Deep Network for Candidate Item Matching in Recommenders](Match/Path-based%20Deep%20Network%20for%20Candidate%20Item%20Matching%20in%20Recommenders.pdf)
+- [Que2Search - Fast and Accurate Query and Document Understanding for Search at Facebook](Match/Que2Search%20-%20Fast%20and%20Accurate%20Query%20and%20Document%20Understanding%20for%20Search%20at%20Facebook.pdf)
 - [Representing and Recommending Shopping Baskets with Complementarity, Compatibility, and Loyalty](Match/Representing%20and%20Recommending%20Shopping%20Baskets%20with%20Complementarity%2C%20Compatibility%2C%20and%20Loyalty.pdf)
 - [Recommendation on Live - Streaming Platforms- Dynamic Availability and Repeat Consumption](Match/Recommendation%20on%20Live%20-%20Streaming%20Platforms-%20Dynamic%20Availability%20and%20Repeat%20Consumption.pdf)
 - [Sequential Recommender System based on Hierarchical Attention Network](Match/Sequential%20Recommender%20System%20based%20on%20Hierarchical%20Attention%20Network.pdf)
@@ -361,6 +362,7 @@ I will remove it immediately after verification.
 - [Sparse-Interest Network for Sequential Recommendation](Match/Sparse-Interest%20Network%20for%20Sequential%20Recommendation.pdf)
 - [Self-Attentive Sequential Recommendation](Match/Self-Attentive%20Sequential%20Recommendation.pdf)
 - [StarSpace - Embed All The Things!](Match/StarSpace%20-%20Embed%20All%20The%20Things%21.pdf)
+- [Sample Optimization For Display Advertising](Match/Sample%20Optimization%20For%20Display%20Advertising.pdf)
 - [SimpleX - A Simple and Strong Baseline for Collaborative Filtering](Match/SimpleX%20-%20A%20Simple%20and%20Strong%20Baseline%20for%20Collaborative%20Filtering.pdf)
 - [Towards Personalized and Semantic Retrieval - An End-to-End Solution for E-commerce Search via Embedding Learning](Match/Towards%20Personalized%20and%20Semantic%20Retrieval%20-%20An%20End-to-End%20Solution%20for%20E-commerce%20Search%20via%20Embedding%20Learning.pdf)
 - [Uni-Retriever - Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search](Match/Uni-Retriever%20-%20Towards%20Learning%20The%20Unified%20Embedding%20Based%20Retriever%20in%20Bing%20Sponsored%20Search.pdf)
