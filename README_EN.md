@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-04-28, **655** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-05-06, **656** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -155,8 +155,8 @@ I will remove it immediately after verification.
 - [User Behavior Retrieval for Click-Through Rate Prediction](Industry/User%20Behavior%20Retrieval%20for%20Click-Through%20Rate%20Prediction.pdf)
 #### TriggerInduced
 - [[2021][Tencent][R3S] Real-time Relevant Recommendation Suggestion](Industry/TriggerInduced/%5B2021%5D%5BTencent%5D%5BR3S%5D%20Real-time%20Relevant%20Recommendation%20Suggestion.pdf)
+- [[2022][Alibaba][DIAN] Deep Intention-Aware Network for Click-Through Rate Prediction](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIAN%5D%20Deep%20Intention-Aware%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2022][Alibaba][DIHN] Deep Interest Highlight Network for Click-Through Rate Prediction in Trigger-Induced Recommendation](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIHN%5D%20Deep%20Interest%20Highlight%20Network%20for%20Click-Through%20Rate%20Prediction%20in%20Trigger-Induced%20Recommendation.pdf)
-- [Deep Intention-Aware Network for Click-Through Rate Prediction](Industry/TriggerInduced/Deep%20Intention-Aware%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 #### Reciprocal
 - [[2022][Boss][DPGNN] Modeling Two-Way Selection Preference for Person-Job Fit](Industry/Reciprocal/%5B2022%5D%5BBoss%5D%5BDPGNN%5D%20Modeling%20Two-Way%20Selection%20Preference%20for%20Person-Job%20Fit.pdf)
 - [Latent Factor Models and Aggregation Operators for Collaborative Filtering in Reciprocal Recommender Systems](Industry/Reciprocal/Latent%20Factor%20Models%20and%20Aggregation%20Operators%20for%20Collaborative%20Filtering%20in%20Reciprocal%20Recommender%20Systems.pdf)
@@ -308,6 +308,7 @@ I will remove it immediately after verification.
 - [[2019][Google] Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations](Match/%5B2019%5D%5BGoogle%5D%20Sampling-Bias-Corrected%20Neural%20Modeling%20for%20Large%20Corpus%20Item%20Recommendations.pdf)
 - [[2019][Baidu][MOBIUS] MOBIUS - Towards the Next Generation of Query-Ad Matching in Baidu’s Sponsored Search](Match/%5B2019%5D%5BBaidu%5D%5BMOBIUS%5D%20MOBIUS%20-%20Towards%20the%20Next%20Generation%20of%20Query-Ad%20Matching%20in%20Baidu%E2%80%99s%20Sponsored%20Search.pdf)
 - [[2019][Alibaba][SDM] SDM - Sequential Deep Matching Model for Online Large-scale Recommender System](Match/%5B2019%5D%5BAlibaba%5D%5BSDM%5D%20SDM%20-%20Sequential%20Deep%20Matching%20Model%20for%20Online%20Large-scale%20Recommender%20System.pdf)
+- [[2020][Baidu] Sample Optimization For Display Advertising](Match/%5B2020%5D%5BBaidu%5D%20Sample%20Optimization%20For%20Display%20Advertising.pdf)
 - [[2020][Alibaba][Swing&Surprise] Large Scale Product Graph Construction for Recommendation in E-commerce](Match/%5B2020%5D%5BAlibaba%5D%5BSwing%26Surprise%5D%20Large%20Scale%20Product%20Graph%20Construction%20for%20Recommendation%20in%20E-commerce.pdf)
 - [[2020][Weixin][UTPM] Learning to Build User-tag Profile in Recommendation System](Match/%5B2020%5D%5BWeixin%5D%5BUTPM%5D%20Learning%20to%20Build%20User-tag%20Profile%20in%20Recommendation%20System.pdf)
 - [[2020][Facebook][EBR] Embedding-based Retrieval in Facebook Search](Match/%5B2020%5D%5BFacebook%5D%5BEBR%5D%20Embedding-based%20Retrieval%20in%20Facebook%20Search.pdf)
@@ -362,7 +363,6 @@ I will remove it immediately after verification.
 - [Sparse-Interest Network for Sequential Recommendation](Match/Sparse-Interest%20Network%20for%20Sequential%20Recommendation.pdf)
 - [Self-Attentive Sequential Recommendation](Match/Self-Attentive%20Sequential%20Recommendation.pdf)
 - [StarSpace - Embed All The Things!](Match/StarSpace%20-%20Embed%20All%20The%20Things%21.pdf)
-- [Sample Optimization For Display Advertising](Match/Sample%20Optimization%20For%20Display%20Advertising.pdf)
 - [SimpleX - A Simple and Strong Baseline for Collaborative Filtering](Match/SimpleX%20-%20A%20Simple%20and%20Strong%20Baseline%20for%20Collaborative%20Filtering.pdf)
 - [Towards Personalized and Semantic Retrieval - An End-to-End Solution for E-commerce Search via Embedding Learning](Match/Towards%20Personalized%20and%20Semantic%20Retrieval%20-%20An%20End-to-End%20Solution%20for%20E-commerce%20Search%20via%20Embedding%20Learning.pdf)
 - [Uni-Retriever - Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search](Match/Uni-Retriever%20-%20Towards%20Learning%20The%20Unified%20Embedding%20Based%20Retriever%20in%20Bing%20Sponsored%20Search.pdf)
@@ -602,6 +602,7 @@ I will remove it immediately after verification.
 - [Contrastive Learning for Interactive Recommendation in Fashion](ContrastiveLearning/Contrastive%20Learning%20for%20Interactive%20Recommendation%20in%20Fashion.pdf)
 - [CL4CTR - A Contrastive Learning Framework for CTR Prediction](ContrastiveLearning/CL4CTR%20-%20A%20Contrastive%20Learning%20Framework%20for%20CTR%20Prediction.pdf)
 - [Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems](ContrastiveLearning/Contrastive%20Learning%20for%20Debiased%20Candidate%20Generation%20in%20Large-Scale%20Recommender%20Systems.pdf)
+- [Contrastive Self-supervised Sequential Recommendation with Robust Augmentation](ContrastiveLearning/Contrastive%20Self-supervised%20Sequential%20Recommendation%20with%20Robust%20Augmentation.pdf)
 - [CCL4Rec - Contrast over Contrastive Learning for Micro-video Recommendation](ContrastiveLearning/CCL4Rec%20-%20Contrast%20over%20Contrastive%20Learning%20for%20Micro-video%20Recommendation.pdf)
 - [Disentangled Causal Embedding With Contrastive Learning For Recommender System](ContrastiveLearning/Disentangled%20Causal%20Embedding%20With%20Contrastive%20Learning%20For%20Recommender%20System.pdf)
 - [Disentangled Contrastive Learning for Social Recommendation](ContrastiveLearning/Disentangled%20Contrastive%20Learning%20for%20Social%20Recommendation.pdf)
