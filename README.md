@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-05-06，本仓库收集汇总了推荐系统领域相关论文共**656**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-05-15，本仓库收集汇总了推荐系统领域相关论文共**661**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -88,6 +88,7 @@
 - [AutoMLP - Automated MLP for Sequential Recommendations](Industry/AutoMLP%20-%20Automated%20MLP%20for%20Sequential%20Recommendations.pdf)
 - [AutoField - Automating Feature Selection in Deep Recommender Systems](Industry/AutoField%20-%20Automating%20Feature%20Selection%20in%20Deep%20Recommender%20Systems.pdf)
 - [A Deep Behavior Path Matching Network for Click-Through Rate Prediction](Industry/A%20Deep%20Behavior%20Path%20Matching%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [Attention Mixtures for Time-Aware Sequential Recommendation](Industry/Attention%20Mixtures%20for%20Time-Aware%20Sequential%20Recommendation.pdf)
 - [A Self-Correcting Sequential Recommender](Industry/A%20Self-Correcting%20Sequential%20Recommender.pdf)
 - [Category-Specific CNN for Visual-aware CTR Prediction at JD.com](Industry/Category-Specific%20CNN%20for%20Visual-aware%20CTR%20Prediction%20at%20JD.com.pdf)
 - [ConsRec - Learning Consensus Behind Interactions for Group Recommendation](Industry/ConsRec%20-%20Learning%20Consensus%20Behind%20Interactions%20for%20Group%20Recommendation.pdf)
@@ -146,6 +147,7 @@
 - [TWIN - TWo-stage Interest Network for Lifelong User Behavior Modeling in CTR Prediction at Kuaishou](Industry/TWIN%20-%20TWo-stage%20Interest%20Network%20for%20Lifelong%20User%20Behavior%20Modeling%20in%20CTR%20Prediction%20at%20Kuaishou.pdf)
 - [TiSSA - A Time Slice Self-Attention Approach for Modeling Sequential User Behaviors](Industry/TiSSA%20-%20A%20Time%20Slice%20Self-Attention%20Approach%20for%20Modeling%20Sequential%20User%20Behaviors.pdf)
 - [User Behavior Retrieval for Click-Through Rate Prediction](Industry/User%20Behavior%20Retrieval%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [Visualizing and Understanding Deep Neural Networks in CTR Prediction](Industry/Visualizing%20and%20Understanding%20Deep%20Neural%20Networks%20in%20CTR%20Prediction.pdf)
 #### TriggerInduced
 - [[2021][Tencent][R3S] Real-time Relevant Recommendation Suggestion](Industry/TriggerInduced/%5B2021%5D%5BTencent%5D%5BR3S%5D%20Real-time%20Relevant%20Recommendation%20Suggestion.pdf)
 - [[2022][Alibaba][DIAN] Deep Intention-Aware Network for Click-Through Rate Prediction](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIAN%5D%20Deep%20Intention-Aware%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
@@ -165,6 +167,7 @@
 - [KuaiRec - A Fully-observed Dataset and Insights for Evaluating Recommender Systems](Industry/Dataset/KuaiRec%20-%20A%20Fully-observed%20Dataset%20and%20Insights%20for%20Evaluating%20Recommender%20Systems.pdf)
 - [MobileRec - A Large-Scale Dataset for Mobile Apps Recommendation](Industry/Dataset/MobileRec%20-%20A%20Large-Scale%20Dataset%20for%20Mobile%20Apps%20Recommendation.pdf)
 - [Tenrec - A Large-scale Multipurpose Benchmark Dataset for Recommender Systems](Industry/Dataset/Tenrec%20-%20A%20Large-scale%20Multipurpose%20Benchmark%20Dataset%20for%20Recommender%20Systems.pdf)
+- [U-NEED - A Fine-grained Dataset for User Needs-Centric E-commerce Conversational Recommendation](Industry/Dataset/U-NEED%20-%20A%20Fine-grained%20Dataset%20for%20User%20Needs-Centric%20E-commerce%20Conversational%20Recommendation.pdf)
 #### CreativeSelection
 - [[2021][Baidu][GemNN] GemNN - Gating-Enhanced Multi-Task Neural Networks with Feature Interaction Learning for CTR Prediction](Industry/CreativeSelection/%5B2021%5D%5BBaidu%5D%5BGemNN%5D%20GemNN%20-%20Gating-Enhanced%20Multi-Task%20Neural%20Networks%20with%20Feature%20Interaction%20Learning%20for%20CTR%20Prediction.pdf)
 - [Automated Creative Optimization for E-Commerce Advertising](Industry/CreativeSelection/Automated%20Creative%20Optimization%20for%20E-Commerce%20Advertising.pdf)
@@ -219,6 +222,7 @@
 #### Intent
 - [Automatically Discovering User Consumption Intents in Meituan](Industry/Intent/Automatically%20Discovering%20User%20Consumption%20Intents%20in%20Meituan.pdf)
 - [FINN - Feedback Interactive Neural Network for Intent Recommendation](Industry/Intent/FINN%20-%20Feedback%20Interactive%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
+- [Learning to Personalize Recommendations based on Customers’ Shopping Intents](Industry/Intent/Learning%20to%20Personalize%20Recommendations%20based%20on%20Customers%E2%80%99%20Shopping%20Intents.pdf)
 - [Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation](Industry/Intent/Metapath-guided%20Heterogeneous%20Graph%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
 #### Representation
 - [[2020][Tencent][AETN] General-Purpose User Embeddings based on Mobile App Usage](Industry/Representation/%5B2020%5D%5BTencent%5D%5BAETN%5D%20General-Purpose%20User%20Embeddings%20based%20on%20Mobile%20App%20Usage.pdf)
@@ -497,6 +501,7 @@
 - [Adaptive Domain Interest Network for Multi-domain Recommendation](Multi-Scenario/Adaptive%20Domain%20Interest%20Network%20for%20Multi-domain%20Recommendation.pdf)
 - [Cross-domain recommendation via user interest alignment](Multi-Scenario/Cross-domain%20recommendation%20via%20user%20interest%20alignment.pdf)
 - [Cross-Domain Recommendation- Challenges, Progress, and Prospects](Multi-Scenario/Cross-Domain%20Recommendation-%20Challenges%2C%20Progress%2C%20and%20Prospects.pdf)
+- [Cross-domain Augmentation Networks for Click-Through Rate Prediction](Multi-Scenario/Cross-domain%20Augmentation%20Networks%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Cross Domain Recommendation via Bi-directional Transfer Graph Collaborative Filtering Networks](Multi-Scenario/Cross%20Domain%20Recommendation%20via%20Bi-directional%20Transfer%20Graph%20Collaborative%20Filtering%20Networks.pdf)
 - [Cross-Domain Recommendation - An Embedding and Mapping Approach](Multi-Scenario/Cross-Domain%20Recommendation%20-%20An%20Embedding%20and%20Mapping%20Approach.pdf)
 - [CoNet - Collaborative Cross Networks for Cross-Domain Recommendation](Multi-Scenario/CoNet%20-%20Collaborative%20Cross%20Networks%20for%20Cross-Domain%20Recommendation.pdf)
