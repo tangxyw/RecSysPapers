@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-05-15, **661** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-05-24, **662** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -235,6 +235,7 @@ I will remove it immediately after verification.
 - [[2020][Tencent][AETN] General-Purpose User Embeddings based on Mobile App Usage](Industry/Representation/%5B2020%5D%5BTencent%5D%5BAETN%5D%20General-Purpose%20User%20Embeddings%20based%20on%20Mobile%20App%20Usage.pdf)
 - [[2022][Pinterest][PinnerFormer] PinnerFormer - Sequence Modeling for User Representation at Pinterest](Industry/Representation/%5B2022%5D%5BPinterest%5D%5BPinnerFormer%5D%20PinnerFormer%20-%20Sequence%20Modeling%20for%20User%20Representation%20at%20Pinterest.pdf)
 #### FeatureHashing
+- [[2020][Twitter] Model Size Reduction Using Frequency Based Double Hashing for Recommender Systems](Industry/FeatureHashing/%5B2020%5D%5BTwitter%5D%20Model%20Size%20Reduction%20Using%20Frequency%20Based%20Double%20Hashing%20for%20Recommender%20Systems.pdf)
 - [[2021][Google][DHE] Learning to Embed Categorical Features without Embedding Tables for Recommendation](Industry/FeatureHashing/%5B2021%5D%5BGoogle%5D%5BDHE%5D%20Learning%20to%20Embed%20Categorical%20Features%20without%20Embedding%20Tables%20for%20Recommendation.pdf)
 - [Adaptive Low-Precision Training for Embeddings in Click-Through Rate Prediction](Industry/FeatureHashing/Adaptive%20Low-Precision%20Training%20for%20Embeddings%20in%20Click-Through%20Rate%20Prediction.pdf)
 - [Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems](Industry/FeatureHashing/Compositional%20Embeddings%20Using%20Complementary%20Partitions%20for%20Memory-Efficient%20Recommendation%20Systems.pdf)
@@ -243,7 +244,6 @@ I will remove it immediately after verification.
 - [Hash Embeddings for Efficient Word Representations](Industry/FeatureHashing/Hash%20Embeddings%20for%20Efficient%20Word%20Representations.pdf)
 - [Learning Effective and Efficient Embedding via an Adaptively-Masked Twins-based Layer](Industry/FeatureHashing/Learning%20Effective%20and%20Efficient%20Embedding%20via%20an%20Adaptively-Masked%20Twins-based%20Layer.pdf)
 - [Memory-efficient Embedding for Recommendations](Industry/FeatureHashing/Memory-efficient%20Embedding%20for%20Recommendations.pdf)
-- [Model Size Reduction Using Frequency Based Double Hashing for Recommender Systems](Industry/FeatureHashing/Model%20Size%20Reduction%20Using%20Frequency%20Based%20Double%20Hashing%20for%20Recommender%20Systems.pdf)
 #### Interactive
 - [Q&R - A Two-Stage Approach toward Interactive Recommendation](Industry/Interactive/Q%26R%20-%20A%20Two-Stage%20Approach%20toward%20Interactive%20Recommendation.pdf)
 #### Regression
@@ -293,6 +293,7 @@ I will remove it immediately after verification.
 - [Learning a Deep Listwise Context Model for Ranking Refinement](Re-Rank/Learning%20a%20Deep%20Listwise%20Context%20Model%20for%20Ranking%20Refinement.pdf)
 - [Neural Re-ranking in Multi-stage Recommender Systems - A Review](Re-Rank/Neural%20Re-ranking%20in%20Multi-stage%20Recommender%20Systems%20-%20A%20Review.pdf)
 - [Practical Diversified Recommendations on YouTube with Determinantal Point Processes](Re-Rank/Practical%20Diversified%20Recommendations%20on%20YouTube%20with%20Determinantal%20Point%20Processes.pdf)
+- [PIER - Permutation-Level Interest-Based End-to-End Re-ranking Framework in E-commerce](Re-Rank/PIER%20-%20Permutation-Level%20Interest-Based%20End-to-End%20Re-ranking%20Framework%20in%20E-commerce.pdf)
 - [Personalized Click Shaping through Lagrangian Duality for Online Recommendation](Re-Rank/Personalized%20Click%20Shaping%20through%20Lagrangian%20Duality%20for%20Online%20Recommendation.pdf)
 - [Personalized Re-ranking for Recommendation](Re-Rank/Personalized%20Re-ranking%20for%20Recommendation.pdf)
 - [Personalized Complementary Product Recommendation](Re-Rank/Personalized%20Complementary%20Product%20Recommendation.pdf)
