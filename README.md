@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-05-24，本仓库收集汇总了推荐系统领域相关论文共**662**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-05-30，本仓库收集汇总了推荐系统领域相关论文共**663**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -280,6 +280,7 @@
 - [[2020][LinkedIn] Ads Allocation in Feed via Constrained Optimization](Re-Rank/%5B2020%5D%5BLinkedIn%5D%20Ads%20Allocation%20in%20Feed%20via%20Constrained%20Optimization.pdf)
 - [Cross DQN - Cross Deep Q Network for Ads Allocation in Feed](Re-Rank/Cross%20DQN%20-%20Cross%20Deep%20Q%20Network%20for%20Ads%20Allocation%20in%20Feed.pdf)
 - [Coverage, Redundancy and Size-Awareness in Genre Diversity for Recommender Systems](Re-Rank/Coverage%2C%20Redundancy%20and%20Size-Awareness%20in%20Genre%20Diversity%20for%20Recommender%20Systems.pdf)
+- [DEAR - Deep Reinforcement Learning for Online Advertising Impression in Recommender Systems](Re-Rank/DEAR%20-%20Deep%20Reinforcement%20Learning%20for%20Online%20Advertising%20Impression%20in%20Recommender%20Systems.pdf)
 - [GenDeR - A Generic Diversified Ranking Algorithm](Re-Rank/GenDeR%20-%20A%20Generic%20Diversified%20Ranking%20Algorithm.pdf)
 - [GRN - Generative Rerank Network for Context-wise Recommendation](Re-Rank/GRN%20-%20Generative%20Rerank%20Network%20for%20Context-wise%20Recommendation.pdf)
 - [Globally Optimized Mutual Influence Aware Ranking in E-Commerce Search](Re-Rank/Globally%20Optimized%20Mutual%20Influence%20Aware%20Ranking%20in%20E-Commerce%20Search.pdf)
