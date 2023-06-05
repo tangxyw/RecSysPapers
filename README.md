@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-05-30，本仓库收集汇总了推荐系统领域相关论文共**663**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-06-05，本仓库收集汇总了推荐系统领域相关论文共**666**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -134,6 +134,7 @@
 - [Neural News Recommendation with Negative Feedback](Industry/Neural%20News%20Recommendation%20with%20Negative%20Feedback.pdf)
 - [News Recommendation with Candidate-aware User Modeling](Industry/News%20Recommendation%20with%20Candidate-aware%20User%20Modeling.pdf)
 - [Optimizing Feature Set for Click-Through Rate Prediction](Industry/Optimizing%20Feature%20Set%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [On the Factory Floor - ML Engineering for Industrial-Scale Ads Recommendation Models](Industry/On%20the%20Factory%20Floor%20-%20ML%20Engineering%20for%20Industrial-Scale%20Ads%20Recommendation%20Models.pdf)
 - [Product-based Neural Networks for User Response Prediction over Multi-field Categorical Data](Industry/Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction%20over%20Multi-field%20Categorical%20Data.pdf)
 - [PURS - Personalized Unexpected Recommender System for Improving User Satisfaction](Industry/PURS%20-%20Personalized%20Unexpected%20Recommender%20System%20for%20Improving%20User%20Satisfaction.pdf)
 - [Recommender Transformers with Behavior Pathways](Industry/Recommender%20Transformers%20with%20Behavior%20Pathways.pdf)
@@ -535,6 +536,8 @@
 - [A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data](Debias/A%20General%20Knowledge%20Distillation%20Framework%20for%20Counterfactual%20Recommendation%20via%20Uniform%20Data.pdf)
 - [AutoDebias - Learning to Debias for Recommendation](Debias/AutoDebias%20-%20Learning%20to%20Debias%20for%20Recommendation.pdf)
 - [Bias and Debias in Recommender System - A Survey and Future Directions](Debias/Bias%20and%20Debias%20in%20Recommender%20System%20-%20A%20Survey%20and%20Future%20Directions.pdf)
+- [Co-training Disentangled Domain Adaptation Network for Leveraging Popularity Bias in Recommenders](Debias/Co-training%20Disentangled%20Domain%20Adaptation%20Network%20for%20Leveraging%20Popularity%20Bias%20in%20Recommenders.pdf)
+- [Causal Intervention for Leveraging Popularity Bias in Recommendation](Debias/Causal%20Intervention%20for%20Leveraging%20Popularity%20Bias%20in%20Recommendation.pdf)
 - [Deep Position-wise Interaction Network for CTR Prediction](Debias/Deep%20Position-wise%20Interaction%20Network%20for%20CTR%20Prediction.pdf)
 - [Debiased Recommendation with User Feature Balancing](Debias/Debiased%20Recommendation%20with%20User%20Feature%20Balancing.pdf)
 - [Debiasing the Human-Recommender System Feedback Loop in Collaborative Filtering](Debias/Debiasing%20the%20Human-Recommender%20System%20Feedback%20Loop%20in%20Collaborative%20Filtering.pdf)

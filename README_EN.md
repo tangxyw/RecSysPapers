@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-05-30, **663** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-06-05, **666** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -141,6 +141,7 @@ I will remove it immediately after verification.
 - [Neural News Recommendation with Negative Feedback](Industry/Neural%20News%20Recommendation%20with%20Negative%20Feedback.pdf)
 - [News Recommendation with Candidate-aware User Modeling](Industry/News%20Recommendation%20with%20Candidate-aware%20User%20Modeling.pdf)
 - [Optimizing Feature Set for Click-Through Rate Prediction](Industry/Optimizing%20Feature%20Set%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [On the Factory Floor - ML Engineering for Industrial-Scale Ads Recommendation Models](Industry/On%20the%20Factory%20Floor%20-%20ML%20Engineering%20for%20Industrial-Scale%20Ads%20Recommendation%20Models.pdf)
 - [Product-based Neural Networks for User Response Prediction over Multi-field Categorical Data](Industry/Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction%20over%20Multi-field%20Categorical%20Data.pdf)
 - [PURS - Personalized Unexpected Recommender System for Improving User Satisfaction](Industry/PURS%20-%20Personalized%20Unexpected%20Recommender%20System%20for%20Improving%20User%20Satisfaction.pdf)
 - [Recommender Transformers with Behavior Pathways](Industry/Recommender%20Transformers%20with%20Behavior%20Pathways.pdf)
@@ -542,6 +543,8 @@ I will remove it immediately after verification.
 - [A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data](Debias/A%20General%20Knowledge%20Distillation%20Framework%20for%20Counterfactual%20Recommendation%20via%20Uniform%20Data.pdf)
 - [AutoDebias - Learning to Debias for Recommendation](Debias/AutoDebias%20-%20Learning%20to%20Debias%20for%20Recommendation.pdf)
 - [Bias and Debias in Recommender System - A Survey and Future Directions](Debias/Bias%20and%20Debias%20in%20Recommender%20System%20-%20A%20Survey%20and%20Future%20Directions.pdf)
+- [Co-training Disentangled Domain Adaptation Network for Leveraging Popularity Bias in Recommenders](Debias/Co-training%20Disentangled%20Domain%20Adaptation%20Network%20for%20Leveraging%20Popularity%20Bias%20in%20Recommenders.pdf)
+- [Causal Intervention for Leveraging Popularity Bias in Recommendation](Debias/Causal%20Intervention%20for%20Leveraging%20Popularity%20Bias%20in%20Recommendation.pdf)
 - [Deep Position-wise Interaction Network for CTR Prediction](Debias/Deep%20Position-wise%20Interaction%20Network%20for%20CTR%20Prediction.pdf)
 - [Debiased Recommendation with User Feature Balancing](Debias/Debiased%20Recommendation%20with%20User%20Feature%20Balancing.pdf)
 - [Debiasing the Human-Recommender System Feedback Loop in Collaborative Filtering](Debias/Debiasing%20the%20Human-Recommender%20System%20Feedback%20Loop%20in%20Collaborative%20Filtering.pdf)
