@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-06-05，本仓库收集汇总了推荐系统领域相关论文共**666**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-06-09，本仓库收集汇总了推荐系统领域相关论文共**667**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -145,6 +145,7 @@
 - [Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction](Industry/Sampling%20Is%20All%20You%20Need%20on%20Modeling%20Long-Term%20User%20Behaviors%20for%20CTR%20Prediction.pdf)
 - [Triangle Graph Interest Network for Click-through Rate Prediction](Industry/Triangle%20Graph%20Interest%20Network%20for%20Click-through%20Rate%20Prediction.pdf)
 - [TencentRec - Real-time Stream Recommendation in Practice](Industry/TencentRec%20-%20Real-time%20Stream%20Recommendation%20in%20Practice.pdf)
+- [TransAct - Transformer-based Realtime User Action Model for Recommendation at Pinterest](Industry/TransAct%20-%20Transformer-based%20Realtime%20User%20Action%20Model%20for%20Recommendation%20at%20Pinterest.pdf)
 - [TWIN - TWo-stage Interest Network for Lifelong User Behavior Modeling in CTR Prediction at Kuaishou](Industry/TWIN%20-%20TWo-stage%20Interest%20Network%20for%20Lifelong%20User%20Behavior%20Modeling%20in%20CTR%20Prediction%20at%20Kuaishou.pdf)
 - [TiSSA - A Time Slice Self-Attention Approach for Modeling Sequential User Behaviors](Industry/TiSSA%20-%20A%20Time%20Slice%20Self-Attention%20Approach%20for%20Modeling%20Sequential%20User%20Behaviors.pdf)
 - [User Behavior Retrieval for Click-Through Rate Prediction](Industry/User%20Behavior%20Retrieval%20for%20Click-Through%20Rate%20Prediction.pdf)

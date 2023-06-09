@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-06-05, **666** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-06-09, **667** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -152,6 +152,7 @@ I will remove it immediately after verification.
 - [Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction](Industry/Sampling%20Is%20All%20You%20Need%20on%20Modeling%20Long-Term%20User%20Behaviors%20for%20CTR%20Prediction.pdf)
 - [Triangle Graph Interest Network for Click-through Rate Prediction](Industry/Triangle%20Graph%20Interest%20Network%20for%20Click-through%20Rate%20Prediction.pdf)
 - [TencentRec - Real-time Stream Recommendation in Practice](Industry/TencentRec%20-%20Real-time%20Stream%20Recommendation%20in%20Practice.pdf)
+- [TransAct - Transformer-based Realtime User Action Model for Recommendation at Pinterest](Industry/TransAct%20-%20Transformer-based%20Realtime%20User%20Action%20Model%20for%20Recommendation%20at%20Pinterest.pdf)
 - [TWIN - TWo-stage Interest Network for Lifelong User Behavior Modeling in CTR Prediction at Kuaishou](Industry/TWIN%20-%20TWo-stage%20Interest%20Network%20for%20Lifelong%20User%20Behavior%20Modeling%20in%20CTR%20Prediction%20at%20Kuaishou.pdf)
 - [TiSSA - A Time Slice Self-Attention Approach for Modeling Sequential User Behaviors](Industry/TiSSA%20-%20A%20Time%20Slice%20Self-Attention%20Approach%20for%20Modeling%20Sequential%20User%20Behaviors.pdf)
 - [User Behavior Retrieval for Click-Through Rate Prediction](Industry/User%20Behavior%20Retrieval%20for%20Click-Through%20Rate%20Prediction.pdf)
