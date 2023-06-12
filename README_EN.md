@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-06-09, **667** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-06-12, **678** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -97,9 +97,11 @@ I will remove it immediately after verification.
 - [A Deep Behavior Path Matching Network for Click-Through Rate Prediction](Industry/A%20Deep%20Behavior%20Path%20Matching%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Attention Mixtures for Time-Aware Sequential Recommendation](Industry/Attention%20Mixtures%20for%20Time-Aware%20Sequential%20Recommendation.pdf)
 - [A Self-Correcting Sequential Recommender](Industry/A%20Self-Correcting%20Sequential%20Recommender.pdf)
+- [Breaking the Curse of Quality Saturation with User-Centric Ranking](Industry/Breaking%20the%20Curse%20of%20Quality%20Saturation%20with%20User-Centric%20Ranking.pdf)
 - [Category-Specific CNN for Visual-aware CTR Prediction at JD.com](Industry/Category-Specific%20CNN%20for%20Visual-aware%20CTR%20Prediction%20at%20JD.com.pdf)
 - [ConsRec - Learning Consensus Behind Interactions for Group Recommendation](Industry/ConsRec%20-%20Learning%20Consensus%20Behind%20Interactions%20for%20Group%20Recommendation.pdf)
 - [ContextNet - A Click-Through Rate Prediction Framework Using Contextual information to Refine Feature Embedding](Industry/ContextNet%20-%20A%20Click-Through%20Rate%20Prediction%20Framework%20Using%20Contextual%20information%20to%20Refine%20Feature%20Embedding.pdf)
+- [Capturing Conversion Rate Fluctuation during Sales Promotions- A Novel Historical Data Reuse Approach](Industry/Capturing%20Conversion%20Rate%20Fluctuation%20during%20Sales%20Promotions-%20A%20Novel%20Historical%20Data%20Reuse%20Approach.pdf)
 - [CAEN - A Hierarchically Attentive Evolution Network for Item-Attribute-Change-Aware Recommendation in the Growing E-commerce Environment](Industry/CAEN%20-%20A%20Hierarchically%20Attentive%20Evolution%20Network%20for%20Item-Attribute-Change-Aware%20Recommendation%20in%20the%20Growing%20E-commerce%20Environment.pdf)
 - [Decision-Making Context Interaction Network for Click-Through Rate Prediction](Industry/Decision-Making%20Context%20Interaction%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Dual Graph enhanced Embedding Neural Network for CTR Prediction](Industry/Dual%20Graph%20enhanced%20Embedding%20Neural%20Network%20for%20CTR%20Prediction.pdf)
@@ -110,9 +112,11 @@ I will remove it immediately after verification.
 - [Denoising Neural Network for News Recommendation with Positive and Negative Implicit Feedback](Industry/Denoising%20Neural%20Network%20for%20News%20Recommendation%20with%20Positive%20and%20Negative%20Implicit%20Feedback.pdf)
 - [Denoising User-aware Memory Network for Recommendation](Industry/Denoising%20User-aware%20Memory%20Network%20for%20Recommendation.pdf)
 - [Disentangling Long and Short-Term Interests for Recommendation](Industry/Disentangling%20Long%20and%20Short-Term%20Interests%20for%20Recommendation.pdf)
+- [Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN)](Industry/Empowering%20Long-tail%20Item%20Recommendation%20through%20Cross%20Decoupling%20Network%20%28CDN%29.pdf)
 - [E-Commerce Item Recommendation Based on Field-aware Factorization Machine](Industry/E-Commerce%20Item%20Recommendation%20Based%20on%20Field-aware%20Factorization%20Machine.pdf)
 - [EXTR - Click-Through Rate Prediction with Externalities in E-Commerce Sponsored Search](Industry/EXTR%20-%20Click-Through%20Rate%20Prediction%20with%20Externalities%20in%20E-Commerce%20Sponsored%20Search.pdf)
 - [End-to-End User Behavior Retrieval in Click-Through Rate Prediction Model](Industry/End-to-End%20User%20Behavior%20Retrieval%20in%20Click-Through%20Rate%20Prediction%20Model.pdf)
+- [Entire Space Learning Framework- Unbias Conversion Rate Prediction in Full Stages of Recommender System](Industry/Entire%20Space%20Learning%20Framework-%20Unbias%20Conversion%20Rate%20Prediction%20in%20Full%20Stages%20of%20Recommender%20System.pdf)
 - [FM2 - Field-matrixed Factorization Machines for Recommender Systems](Industry/FM2%20-%20Field-matrixed%20Factorization%20Machines%20for%20Recommender%20Systems.pdf)
 - [FeedRec - News Feed Recommendation with Various User Feedbacks](Industry/FeedRec%20-%20News%20Feed%20Recommendation%20with%20Various%20User%20Feedbacks.pdf)
 - [Fi-GNN - Modeling Feature Interactions via Graph Neural Networks for CTR Prediction](Industry/Fi-GNN%20-%20Modeling%20Feature%20Interactions%20via%20Graph%20Neural%20Networks%20for%20CTR%20Prediction.pdf)
@@ -120,6 +124,7 @@ I will remove it immediately after verification.
 - [FiBiNet++ - Improving FiBiNet by Greatly Reducing Model Size for CTR Prediction](Industry/FiBiNet%2B%2B%20-%20Improving%20FiBiNet%20by%20Greatly%20Reducing%20Model%20Size%20for%20CTR%20Prediction.pdf)
 - [FinalMLP - An Enhanced Two-Stream MLP Model for CTR Prediction](Industry/FinalMLP%20-%20An%20Enhanced%20Two-Stream%20MLP%20Model%20for%20CTR%20Prediction.pdf)
 - [GateNet - Gating-Enhanced Deep Network for Click-Through Rate Prediction](Industry/GateNet%20-%20Gating-Enhanced%20Deep%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [Generative Flow Network for Listwise Recommendation](Industry/Generative%20Flow%20Network%20for%20Listwise%20Recommendation.pdf)
 - [Hierarchically Fusing Long and Short-Term User Interests for Click-Through Rate Prediction in Product Search](Industry/Hierarchically%20Fusing%20Long%20and%20Short-Term%20User%20Interests%20for%20Click-Through%20Rate%20Prediction%20in%20Product%20Search.pdf)
 - [Hybrid Interest Modeling for Long-tailed Users](Industry/Hybrid%20Interest%20Modeling%20for%20Long-tailed%20Users.pdf)
 - [Hierarchical Gating Networks for Sequential Recommendation](Industry/Hierarchical%20Gating%20Networks%20for%20Sequential%20Recommendation.pdf)
@@ -134,6 +139,7 @@ I will remove it immediately after verification.
 - [Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction](Industry/Lifelong%20Sequential%20Modeling%20with%20Personalized%20Memorization%20for%20User%20Response%20Prediction.pdf)
 - [Learning Within-Session Budgets from Browsing Trajectories](Industry/Learning%20Within-Session%20Budgets%20from%20Browsing%20Trajectories.pdf)
 - [Modeling Users’ Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](Industry/Modeling%20Users%E2%80%99%20Contextualized%20Page-wise%20Feedback%20for%20Click-Through%20Rate%20Prediction%20in%20E-commerce%20Search.pdf)
+- [Multi-channel Integrated Recommendation with Exposure Constraints](Industry/Multi-channel%20Integrated%20Recommendation%20with%20Exposure%20Constraints.pdf)
 - [Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction](Industry/Multi-Interactive%20Attention%20Network%20for%20Fine-grained%20Feature%20Learning%20in%20CTR%20Prediction.pdf)
 - [Modeling Mobile User Actions for Purchase Recommendation using Deep Memory Networks](Industry/Modeling%20Mobile%20User%20Actions%20for%20Purchase%20Recommendation%20using%20Deep%20Memory%20Networks.pdf)
 - [MRIF - Multi-resolution Interest Fusion for Recommendation](Industry/MRIF%20-%20Multi-resolution%20Interest%20Fusion%20for%20Recommendation.pdf)
@@ -284,6 +290,7 @@ I will remove it immediately after verification.
 - [AutoFAS - Automatic Feature and Architecture Selection for Pre-Ranking System](Pre-Rank/AutoFAS%20-%20Automatic%20Feature%20and%20Architecture%20Selection%20for%20Pre-Ranking%20System.pdf)
 - [Cascade Ranking for Operational E-commerce Search](Pre-Rank/Cascade%20Ranking%20for%20Operational%20E-commerce%20Search.pdf)
 - [EENMF - An End-to-End Neural Matching Framework for E-Commerce Sponsored Search](Pre-Rank/EENMF%20-%20An%20End-to-End%20Neural%20Matching%20Framework%20for%20E-Commerce%20Sponsored%20Search.pdf)
+- [Rethinking the Role of Pre-ranking in Large-scale E-Commerce Searching System](Pre-Rank/Rethinking%20the%20Role%20of%20Pre-ranking%20in%20Large-scale%20E-Commerce%20Searching%20System.pdf)
 ## Re-Rank
 - [[2018][Hulu] Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity](Re-Rank/%5B2018%5D%5BHulu%5D%20Fast%20Greedy%20MAP%20Inference%20for%20Determinantal%20Point%20Process%20to%20Improve%20Recommendation%20Diversity.pdf)
 - [[2020][LinkedIn] Ads Allocation in Feed via Constrained Optimization](Re-Rank/%5B2020%5D%5BLinkedIn%5D%20Ads%20Allocation%20in%20Feed%20via%20Constrained%20Optimization.pdf)
@@ -364,6 +371,7 @@ I will remove it immediately after verification.
 - [Path-based Deep Network for Candidate Item Matching in Recommenders](Match/Path-based%20Deep%20Network%20for%20Candidate%20Item%20Matching%20in%20Recommenders.pdf)
 - [Que2Search - Fast and Accurate Query and Document Understanding for Search at Facebook](Match/Que2Search%20-%20Fast%20and%20Accurate%20Query%20and%20Document%20Understanding%20for%20Search%20at%20Facebook.pdf)
 - [Representing and Recommending Shopping Baskets with Complementarity, Compatibility, and Loyalty](Match/Representing%20and%20Recommending%20Shopping%20Baskets%20with%20Complementarity%2C%20Compatibility%2C%20and%20Loyalty.pdf)
+- [Revisiting Neural Retrieval on Accelerators](Match/Revisiting%20Neural%20Retrieval%20on%20Accelerators.pdf)
 - [Recommendation on Live - Streaming Platforms- Dynamic Availability and Repeat Consumption](Match/Recommendation%20on%20Live%20-%20Streaming%20Platforms-%20Dynamic%20Availability%20and%20Repeat%20Consumption.pdf)
 - [Sequential Recommender System based on Hierarchical Attention Network](Match/Sequential%20Recommender%20System%20based%20on%20Hierarchical%20Attention%20Network.pdf)
 - [Sequential Recommendation via Stochastic Self-Attention](Match/Sequential%20Recommendation%20via%20Stochastic%20Self-Attention.pdf)
@@ -430,6 +438,7 @@ I will remove it immediately after verification.
 - [Graph Neural Networks for Friend Ranking in Large-scale Social Platforms](Match/GNN/Graph%20Neural%20Networks%20for%20Friend%20Ranking%20in%20Large-scale%20Social%20Platforms.pdf)
 - [Graph Intention Network for Click-through Rate Prediction in Sponsored Search](Match/GNN/Graph%20Intention%20Network%20for%20Click-through%20Rate%20Prediction%20in%20Sponsored%20Search.pdf)
 - [Graph Neural Network for Tag Ranking in Tag-enhanced Video Recommendation](Match/GNN/Graph%20Neural%20Network%20for%20Tag%20Ranking%20in%20Tag-enhanced%20Video%20Recommendation.pdf)
+- [Graph-Based Model-Agnostic Data Subsampling for Recommendation Systems](Match/GNN/Graph-Based%20Model-Agnostic%20Data%20Subsampling%20for%20Recommendation%20Systems.pdf)
 - [Graph Neural Networks for Social Recommendation](Match/GNN/Graph%20Neural%20Networks%20for%20Social%20Recommendation.pdf)
 - [GraphSAIL - Graph Structure Aware Incremental Learning for Recommender Systems](Match/GNN/GraphSAIL%20-%20Graph%20Structure%20Aware%20Incremental%20Learning%20for%20Recommender%20Systems.pdf)
 - [Improving Accuracy and Diversity in Matching of Recommendation with Diversified Preference Network](Match/GNN/Improving%20Accuracy%20and%20Diversity%20in%20Matching%20of%20Recommendation%20with%20Diversified%20Preference%20Network.pdf)
@@ -638,6 +647,7 @@ I will remove it immediately after verification.
 - [A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps](Cold-Start/A%20Semi-Personalized%20System%20for%20User%20Cold%20Start%20Recommendation%20on%20Music%20Streaming%20Apps.pdf)
 - [Cold-start Sequential Recommendation via Meta Learner](Cold-Start/Cold-start%20Sequential%20Recommendation%20via%20Meta%20Learner.pdf)
 - [Contrastive Collaborative Filtering for Cold-Start Item Recommendation](Cold-Start/Contrastive%20Collaborative%20Filtering%20for%20Cold-Start%20Item%20Recommendation.pdf)
+- [Fresh Content Needs More Attention - Multi-funnel Fresh Content Recommendation](Cold-Start/Fresh%20Content%20Needs%20More%20Attention%20-%20Multi-funnel%20Fresh%20Content%20Recommendation.pdf)
 - [GIFT - Graph-guIded Feature Transfer for Cold-Start Video Click-Through Rate Prediction](Cold-Start/GIFT%20-%20Graph-guIded%20Feature%20Transfer%20for%20Cold-Start%20Video%20Click-Through%20Rate%20Prediction.pdf)
 - [Handling User Cold Start Problem in Recommender Systems Using Fuzzy Clustering](Cold-Start/Handling%20User%20Cold%20Start%20Problem%20in%20Recommender%20Systems%20Using%20Fuzzy%20Clustering.pdf)
 - [Improving Item Cold-start Recommendation via Model-agnostic Conditional Variational Autoencoder](Cold-Start/Improving%20Item%20Cold-start%20Recommendation%20via%20Model-agnostic%20Conditional%20Variational%20Autoencoder.pdf)
@@ -730,6 +740,7 @@ I will remove it immediately after verification.
 - [Feature-aware Diversified Re-ranking with Disentangled Representations for Relevant Recommendation](Diversity/Feature-aware%20Diversified%20Re-ranking%20with%20Disentangled%20Representations%20for%20Relevant%20Recommendation.pdf)
 - [Future-Aware Diverse Trends Framework for Recommendation](Diversity/Future-Aware%20Diverse%20Trends%20Framework%20for%20Recommendation.pdf)
 - [Improving Recommendation Lists Through Topic Diversification](Diversity/Improving%20Recommendation%20Lists%20Through%20Topic%20Diversification.pdf)
+- [Multi-factor Sequential Re-ranking with Perception-Aware Diversification](Diversity/Multi-factor%20Sequential%20Re-ranking%20with%20Perception-Aware%20Diversification.pdf)
 - [Managing Diversity in Airbnb Search](Diversity/Managing%20Diversity%20in%20Airbnb%20Search.pdf)
 - [Novelty and Diversity in Information Retrieval Evaluation](Diversity/Novelty%20and%20Diversity%20in%20Information%20Retrieval%20Evaluation.pdf)
 - [P-Companion - A Principled Framework for Diversified Complementary Product Recommendation](Diversity/P-Companion%20-%20A%20Principled%20Framework%20for%20Diversified%20Complementary%20Product%20Recommendation.pdf)
