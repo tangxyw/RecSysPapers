@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-06-12, **678** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-06-14, **679** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -444,6 +444,7 @@ I will remove it immediately after verification.
 - [Improving Accuracy and Diversity in Matching of Recommendation with Diversified Preference Network](Match/GNN/Improving%20Accuracy%20and%20Diversity%20in%20Matching%20of%20Recommendation%20with%20Diversified%20Preference%20Network.pdf)
 - [IntentGC - a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation](Match/GNN/IntentGC%20-%20a%20Scalable%20Graph%20Convolution%20Framework%20Fusing%20Heterogeneous%20Information%20for%20Recommendation.pdf)
 - [MultiSage - Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](Match/GNN/MultiSage%20-%20Empowering%20GCN%20with%20Contextualized%20Multi-Embeddings%20on%20Web-Scale%20Multipartite%20Networks.pdf)
+- [Modeling Dual Period-Varying Preferences for Takeaway Recommendation](Match/GNN/Modeling%20Dual%20Period-Varying%20Preferences%20for%20Takeaway%20Recommendation.pdf)
 - [MMGCN - Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video](Match/GNN/MMGCN%20-%20Multi-modal%20Graph%20Convolution%20Network%20for%20Personalized%20Recommendation%20of%20Micro-video.pdf)
 - [M2GRL - A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems](Match/GNN/M2GRL%20-%20A%20Multi-task%20Multi-view%20Graph%20Representation%20Learning%20Framework%20for%20Web-scale%20Recommender%20Systems.pdf)
 - [Network Embedding as Matrix Factorization - Unifying DeepWalk, LINE, PTE, and node2vec](Match/GNN/Network%20Embedding%20as%20Matrix%20Factorization%20-%20Unifying%20DeepWalk%2C%20LINE%2C%20PTE%2C%20and%20node2vec.pdf)
