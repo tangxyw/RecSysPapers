@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-06-14，本仓库收集汇总了推荐系统领域相关论文共**679**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-06-16，本仓库收集汇总了推荐系统领域相关论文共**681**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -174,6 +174,7 @@
 - [KuaiRand - An Unbiased Sequential Recommendation Dataset with Randomly Exposed Videos](Industry/Dataset/KuaiRand%20-%20An%20Unbiased%20Sequential%20Recommendation%20Dataset%20with%20Randomly%20Exposed%20Videos.pdf)
 - [KuaiRec - A Fully-observed Dataset and Insights for Evaluating Recommender Systems](Industry/Dataset/KuaiRec%20-%20A%20Fully-observed%20Dataset%20and%20Insights%20for%20Evaluating%20Recommender%20Systems.pdf)
 - [MobileRec - A Large-Scale Dataset for Mobile Apps Recommendation](Industry/Dataset/MobileRec%20-%20A%20Large-Scale%20Dataset%20for%20Mobile%20Apps%20Recommendation.pdf)
+- [REASONER - An Explainable Recommendation Dataset with Multi-aspect Real User Labeled Ground Truths](Industry/Dataset/REASONER%20-%20An%20Explainable%20Recommendation%20Dataset%20with%20Multi-aspect%20Real%20User%20Labeled%20Ground%20Truths.pdf)
 - [Tenrec - A Large-scale Multipurpose Benchmark Dataset for Recommender Systems](Industry/Dataset/Tenrec%20-%20A%20Large-scale%20Multipurpose%20Benchmark%20Dataset%20for%20Recommender%20Systems.pdf)
 - [U-NEED - A Fine-grained Dataset for User Needs-Centric E-commerce Conversational Recommendation](Industry/Dataset/U-NEED%20-%20A%20Fine-grained%20Dataset%20for%20User%20Needs-Centric%20E-commerce%20Conversational%20Recommendation.pdf)
 #### CreativeSelection
@@ -412,7 +413,7 @@
 - [[2018][Etsy] Learning Item-Interaction Embeddings for User Recommendations](Match/GNN/%5B2018%5D%5BEtsy%5D%20Learning%20Item-Interaction%20Embeddings%20for%20User%20Recommendations.pdf)
 - [[2018][Alibaba][EGES] Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](Match/GNN/%5B2018%5D%5BAlibaba%5D%5BEGES%5D%20Billion-scale%20Commodity%20Embedding%20for%20E-commerce%20Recommendation%20in%20Alibaba.pdf)
 - [[2019][SR-GNN] Session-based Recommendation with Graph Neural Networks](Match/GNN/%5B2019%5D%5BSR-GNN%5D%20Session-based%20Recommendation%20with%20Graph%20Neural%20Networks.pdf)
-- [[2019][NGCF]Neural Graph Collaborative Filtering](Match/GNN/%5B2019%5D%5BNGCF%5DNeural%20Graph%20Collaborative%20Filtering.pdf)
+- [[2019][NGCF] Neural Graph Collaborative Filtering](Match/GNN/%5B2019%5D%5BNGCF%5D%20Neural%20Graph%20Collaborative%20Filtering.pdf)
 - [[2020][LightGCN] LightGCN - Simplifying and Powering Graph Convolution Network for Recommendation](Match/GNN/%5B2020%5D%5BLightGCN%5D%20LightGCN%20-%20Simplifying%20and%20Powering%20Graph%20Convolution%20Network%20for%20Recommendation.pdf)
 - [ATBRG - Adaptive Target-Behavior Relational Graph Network for Effective Recommendation](Match/GNN/ATBRG%20-%20Adaptive%20Target-Behavior%20Relational%20Graph%20Network%20for%20Effective%20Recommendation.pdf)
 - [A Survey of Graph Neural Networks for Social Recommender Systems](Match/GNN/A%20Survey%20of%20Graph%20Neural%20Networks%20for%20Social%20Recommender%20Systems.pdf)
@@ -439,6 +440,7 @@
 - [MultiSage - Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](Match/GNN/MultiSage%20-%20Empowering%20GCN%20with%20Contextualized%20Multi-Embeddings%20on%20Web-Scale%20Multipartite%20Networks.pdf)
 - [Modeling Dual Period-Varying Preferences for Takeaway Recommendation](Match/GNN/Modeling%20Dual%20Period-Varying%20Preferences%20for%20Takeaway%20Recommendation.pdf)
 - [MMGCN - Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video](Match/GNN/MMGCN%20-%20Multi-modal%20Graph%20Convolution%20Network%20for%20Personalized%20Recommendation%20of%20Micro-video.pdf)
+- [MultiBiSage - A Web-Scale Recommendation System Using Multiple Bipartite Graphs at Pinterest](Match/GNN/MultiBiSage%20-%20A%20Web-Scale%20Recommendation%20System%20Using%20Multiple%20Bipartite%20Graphs%20at%20Pinterest.pdf)
 - [M2GRL - A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems](Match/GNN/M2GRL%20-%20A%20Multi-task%20Multi-view%20Graph%20Representation%20Learning%20Framework%20for%20Web-scale%20Recommender%20Systems.pdf)
 - [Network Embedding as Matrix Factorization - Unifying DeepWalk, LINE, PTE, and node2vec](Match/GNN/Network%20Embedding%20as%20Matrix%20Factorization%20-%20Unifying%20DeepWalk%2C%20LINE%2C%20PTE%2C%20and%20node2vec.pdf)
 - [Neighbor Interaction Aware Graph Convolution Networks for Recommendation](Match/GNN/Neighbor%20Interaction%20Aware%20Graph%20Convolution%20Networks%20for%20Recommendation.pdf)
