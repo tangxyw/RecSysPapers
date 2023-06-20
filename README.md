@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-06-16，本仓库收集汇总了推荐系统领域相关论文共**681**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-06-20，本仓库收集汇总了推荐系统领域相关论文共**682**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -579,6 +579,7 @@
 - [Crank up the volume - preference bias amplificationin collaborative recommendation](Calibration/Crank%20up%20the%20volume%20-%20preference%20bias%20amplificationin%20collaborative%20recommendation.pdf)
 - [Distribution-free calibration guarantees for histogram binning without sample splitting](Calibration/Distribution-free%20calibration%20guarantees%20for%20histogram%20binning%20without%20sample%20splitting.pdf)
 - [Field-aware Calibration - A Simple and Empirically Strong Method for Reliable Probabilistic Predictions](Calibration/Field-aware%20Calibration%20-%20A%20Simple%20and%20Empirically%20Strong%20Method%20for%20Reliable%20Probabilistic%20Predictions.pdf)
+- [Joint Optimization of Ranking and Calibration with Contextualized Hybrid Model](Calibration/Joint%20Optimization%20of%20Ranking%20and%20Calibration%20with%20Contextualized%20Hybrid%20Model.pdf)
 - [Mitigating Bias in Calibration Error Estimation](Calibration/Mitigating%20Bias%20in%20Calibration%20Error%20Estimation.pdf)
 - [Measuring Calibration in Deep Learning](Calibration/Measuring%20Calibration%20in%20Deep%20Learning.pdf)
 - [MBCT - Tree-Based Feature-Aware Binning for Individual Uncertainty Calibration](Calibration/MBCT%20-%20Tree-Based%20Feature-Aware%20Binning%20for%20Individual%20Uncertainty%20Calibration.pdf)

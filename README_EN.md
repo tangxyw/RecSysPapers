@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-06-16, **681** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-06-20, **682** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -586,6 +586,7 @@ I will remove it immediately after verification.
 - [Crank up the volume - preference bias amplificationin collaborative recommendation](Calibration/Crank%20up%20the%20volume%20-%20preference%20bias%20amplificationin%20collaborative%20recommendation.pdf)
 - [Distribution-free calibration guarantees for histogram binning without sample splitting](Calibration/Distribution-free%20calibration%20guarantees%20for%20histogram%20binning%20without%20sample%20splitting.pdf)
 - [Field-aware Calibration - A Simple and Empirically Strong Method for Reliable Probabilistic Predictions](Calibration/Field-aware%20Calibration%20-%20A%20Simple%20and%20Empirically%20Strong%20Method%20for%20Reliable%20Probabilistic%20Predictions.pdf)
+- [Joint Optimization of Ranking and Calibration with Contextualized Hybrid Model](Calibration/Joint%20Optimization%20of%20Ranking%20and%20Calibration%20with%20Contextualized%20Hybrid%20Model.pdf)
 - [Mitigating Bias in Calibration Error Estimation](Calibration/Mitigating%20Bias%20in%20Calibration%20Error%20Estimation.pdf)
 - [Measuring Calibration in Deep Learning](Calibration/Measuring%20Calibration%20in%20Deep%20Learning.pdf)
 - [MBCT - Tree-Based Feature-Aware Binning for Individual Uncertainty Calibration](Calibration/MBCT%20-%20Tree-Based%20Feature-Aware%20Binning%20for%20Individual%20Uncertainty%20Calibration.pdf)
