@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-06-20, **682** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-06-25, **683** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -482,6 +482,7 @@ I will remove it immediately after verification.
 - [AdaTask - A Task-aware Adaptive Learning Rate Approach to Multi-task Learning](Multi-Task/AdaTask%20-%20A%20Task-aware%20Adaptive%20Learning%20Rate%20Approach%20to%20Multi-task%20Learning.pdf)
 - [Can Small Heads Help Understanding and Improving Multi-Task Generalization](Multi-Task/Can%20Small%20Heads%20Help%20Understanding%20and%20Improving%20Multi-Task%20Generalization.pdf)
 - [Cross-stitch Networks for Multi-task Learning](Multi-Task/Cross-stitch%20Networks%20for%20Multi-task%20Learning.pdf)
+- [Conflict-Averse Gradient Descent for Multi-task Learning](Multi-Task/Conflict-Averse%20Gradient%20Descent%20for%20Multi-task%20Learning.pdf)
 - [Dynamic Task Prioritization for Multitask Learning](Multi-Task/Dynamic%20Task%20Prioritization%20for%20Multitask%20Learning.pdf)
 - [DSelect-k - Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning](Multi-Task/DSelect-k%20-%20Differentiable%20Selection%20in%20the%20Mixture%20of%20Experts%20with%20Applications%20to%20Multi-Task%20Learning.pdf)
 - [Entire Space Multi-Task Modeling via Post-Click Behavior Decomposition for Conversion Rate Prediction](Multi-Task/Entire%20Space%20Multi-Task%20Modeling%20via%20Post-Click%20Behavior%20Decomposition%20for%20Conversion%20Rate%20Prediction.pdf)
