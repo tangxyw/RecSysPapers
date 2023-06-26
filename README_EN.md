@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-06-25, **683** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-06-26, **685** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -362,6 +362,7 @@ I will remove it immediately after verification.
 - [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](Match/Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf)
 - [Locker - Locally Constrained Self-Attentive Sequential Recommendation](Match/Locker%20-%20Locally%20Constrained%20Self-Attentive%20Sequential%20Recommendation.pdf)
 - [Modeling Dynamic Missingness of Implicit Feedback for Recommendation](Match/Modeling%20Dynamic%20Missingness%20of%20Implicit%20Feedback%20for%20Recommendation.pdf)
+- [Neighborhood-based Hard Negative Mining for Sequential Recommendation](Match/Neighborhood-based%20Hard%20Negative%20Mining%20for%20Sequential%20Recommendation.pdf)
 - [NAIS - Neural Attentive Item Similarity Model for Recommendation](Match/NAIS%20-%20Neural%20Attentive%20Item%20Similarity%20Model%20for%20Recommendation.pdf)
 - [Neural Aentive Session-based Recommendation](Match/Neural%20A%1Dentive%20Session-based%20Recommendation.pdf)
 - [Octopus - Comprehensive and Elastic User Representation for the Generation of Recommendation Candidates](Match/Octopus%20-%20Comprehensive%20and%20Elastic%20User%20Representation%20for%20the%20Generation%20of%20Recommendation%20Candidates.pdf)
@@ -500,6 +501,7 @@ I will remove it immediately after verification.
 - [Perceive Your Users in Depth - Learning Universal User Representations from Multiple E-commerce Tasks](Multi-Task/Perceive%20Your%20Users%20in%20Depth%20-%20Learning%20Universal%20User%20Representations%20from%20Multiple%20E-commerce%20Tasks.pdf)
 - [Personalized Approximate Pareto-Efficient Recommendation](Multi-Task/Personalized%20Approximate%20Pareto-Efficient%20Recommendation.pdf)
 - [Pareto Multi-Task Learning](Multi-Task/Pareto%20Multi-Task%20Learning.pdf)
+- [STAN - Stage-Adaptive Network for Multi-Task Recommendation by Learning User Lifecycle-Based Representation](Multi-Task/STAN%20-%20Stage-Adaptive%20Network%20for%20Multi-Task%20Recommendation%20by%20Learning%20User%20Lifecycle-Based%20Representation.pdf)
 - [SNR - Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning](Multi-Task/SNR%20-%20Sub-Network%20Routing%20for%20Flexible%20Parameter%20Sharing%20in%20Multi-Task%20Learning.pdf)
 - [Understanding and Improving Fairness-Accuracy Trade-offs in Multi-Task Learning](Multi-Task/Understanding%20and%20Improving%20Fairness-Accuracy%20Trade-offs%20in%20Multi-Task%20Learning.pdf)
 - [Why I like it - multi-task learning for recommendation and explanation](Multi-Task/Why%20I%20like%20it%20-%20multi-task%20learning%20for%20recommendation%20and%20explanation.pdf)
