@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-06-26, **685** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-07-04, **688** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -88,6 +88,7 @@ I will remove it immediately after verification.
 - [[2021][Alibaba][DINMP] A Non-sequential Approach to Deep User Interest Model for Click-Through Rate Prediction](Industry/%5B2021%5D%5BAlibaba%5D%5BDINMP%5D%20A%20Non-sequential%20Approach%20to%20Deep%20User%20Interest%20Model%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2021][Google] Bootstrapping Recommendations at Chrome Web Store](Industry/%5B2021%5D%5BGoogle%5D%20Bootstrapping%20Recommendations%20at%20Chrome%20Web%20Store.pdf)
 - [[2022][Alibaba] Towards Understanding the Overfitting Phenomenon of Deep Click-Through Rate Prediction Models](Industry/%5B2022%5D%5BAlibaba%5D%20Towards%20Understanding%20the%20Overfitting%20Phenomenon%20of%20Deep%20Click-Through%20Rate%20Prediction%20Models.pdf)
+- [[2022][Google] On the Factory Floor - ML Engineering for Industrial-Scale Ads Recommendation Models](Industry/%5B2022%5D%5BGoogle%5D%20On%20the%20Factory%20Floor%20-%20ML%20Engineering%20for%20Industrial-Scale%20Ads%20Recommendation%20Models.pdf)
 - [Adversarial Mixture Of Experts with Category Hierarchy Soft Constraint](Industry/Adversarial%20Mixture%20Of%20Experts%20with%20Category%20Hierarchy%20Soft%20Constraint.pdf)
 - [Alternating Pointwise-Pairwise Learning for Personalized Item Ranking](Industry/Alternating%20Pointwise-Pairwise%20Learning%20for%20Personalized%20Item%20Ranking.pdf)
 - [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](Industry/Adversarial%20Filtering%20Modeling%20on%20Long-term%20User%20Behavior%20Sequences%20for%20Click-Through%20Rate%20Prediction.pdf)
@@ -147,7 +148,6 @@ I will remove it immediately after verification.
 - [Neural News Recommendation with Negative Feedback](Industry/Neural%20News%20Recommendation%20with%20Negative%20Feedback.pdf)
 - [News Recommendation with Candidate-aware User Modeling](Industry/News%20Recommendation%20with%20Candidate-aware%20User%20Modeling.pdf)
 - [Optimizing Feature Set for Click-Through Rate Prediction](Industry/Optimizing%20Feature%20Set%20for%20Click-Through%20Rate%20Prediction.pdf)
-- [On the Factory Floor - ML Engineering for Industrial-Scale Ads Recommendation Models](Industry/On%20the%20Factory%20Floor%20-%20ML%20Engineering%20for%20Industrial-Scale%20Ads%20Recommendation%20Models.pdf)
 - [Product-based Neural Networks for User Response Prediction over Multi-field Categorical Data](Industry/Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction%20over%20Multi-field%20Categorical%20Data.pdf)
 - [PURS - Personalized Unexpected Recommender System for Improving User Satisfaction](Industry/PURS%20-%20Personalized%20Unexpected%20Recommender%20System%20for%20Improving%20User%20Satisfaction.pdf)
 - [Recommender Transformers with Behavior Pathways](Industry/Recommender%20Transformers%20with%20Behavior%20Pathways.pdf)
@@ -175,6 +175,7 @@ I will remove it immediately after verification.
 - [Reciprocal Recommendation for Job Matching with Bidirectional Feedback](Industry/Reciprocal/Reciprocal%20Recommendation%20for%20Job%20Matching%20with%20Bidirectional%20Feedback.pdf)
 - [Reciprocal Recommendation System for Online Dating](Industry/Reciprocal/Reciprocal%20Recommendation%20System%20for%20Online%20Dating.pdf)
 - [RECON - A Reciprocal Recommender for Online Dating](Industry/Reciprocal/RECON%20-%20A%20Reciprocal%20Recommender%20for%20Online%20Dating.pdf)
+- [Reciprocal Sequential Recommendation](Industry/Reciprocal/Reciprocal%20Sequential%20Recommendation.pdf)
 - [Reciprocal Recommendation Algorithm for the Field of Recruitment](Industry/Reciprocal/Reciprocal%20Recommendation%20Algorithm%20for%20the%20Field%20of%20Recruitment.pdf)
 - [Supporting users in fnding successful matches in reciprocal recommender systems](Industry/Reciprocal/Supporting%20users%20in%20fnding%20successful%20matches%20in%20reciprocal%20recommender%20systems.pdf)
 #### Dataset
@@ -508,6 +509,7 @@ I will remove it immediately after verification.
 ## Multi-Modal
 - [Adversarial Multimodal Representation Learning for Click-Through Rate Prediction](Multi-Modal/Adversarial%20Multimodal%20Representation%20Learning%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Bootstrap Latent Representations for Multi-modal Recommendation](Multi-Modal/Bootstrap%20Latent%20Representations%20for%20Multi-modal%20Recommendation.pdf)
+- [ContentCTR - Frame-level Live Streaming Click-Through Rate Prediction with Multimodal Transformer](Multi-Modal/ContentCTR%20-%20Frame-level%20Live%20Streaming%20Click-Through%20Rate%20Prediction%20with%20Multimodal%20Transformer.pdf)
 - [Heterogeneous Attention Network for Effective and Efficient Cross-modal Retrieval](Multi-Modal/Heterogeneous%20Attention%20Network%20for%20Effective%20and%20Efficient%20Cross-modal%20Retrieval.pdf)
 - [Learning Joint Embedding with Multimodal Cues for Cross-Modal Video-Text Retrieva](Multi-Modal/Learning%20Joint%20Embedding%20with%20Multimodal%20Cues%20for%20Cross-Modal%20Video-Text%20Retrieva.pdf)
 - [Multimodal Recommender Systems - A Survey](Multi-Modal/Multimodal%20Recommender%20Systems%20-%20A%20Survey.pdf)
@@ -523,6 +525,7 @@ I will remove it immediately after verification.
 - [A Deep Framework for Cross-Domain and Cross-System Recommendations](Multi-Scenario/A%20Deep%20Framework%20for%20Cross-Domain%20and%20Cross-System%20Recommendations.pdf)
 - [APG - Adaptive Parameter Generation Network for Click-Through Rate Prediction](Multi-Scenario/APG%20-%20Adaptive%20Parameter%20Generation%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [AdaSparse - Learning Adaptively Sparse Structures for Multi-Domain Click-Through Rate Prediction](Multi-Scenario/AdaSparse%20-%20Learning%20Adaptively%20Sparse%20Structures%20for%20Multi-Domain%20Click-Through%20Rate%20Prediction.pdf)
+- [A Collaborative Transfer Learning Framework for Cross-domain Recommendation](Multi-Scenario/A%20Collaborative%20Transfer%20Learning%20Framework%20for%20Cross-domain%20Recommendation.pdf)
 - [A Survey on Cross-domain Recommendation - Taxonomies, Methods, and Future Directions](Multi-Scenario/A%20Survey%20on%20Cross-domain%20Recommendation%20-%20Taxonomies%2C%20Methods%2C%20and%20Future%20Directions.pdf)
 - [Adaptive Domain Interest Network for Multi-domain Recommendation](Multi-Scenario/Adaptive%20Domain%20Interest%20Network%20for%20Multi-domain%20Recommendation.pdf)
 - [Cross-domain recommendation via user interest alignment](Multi-Scenario/Cross-domain%20recommendation%20via%20user%20interest%20alignment.pdf)
