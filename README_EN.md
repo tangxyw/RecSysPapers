@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-07-04, **688** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-07-06, **689** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -549,6 +549,7 @@ I will remove it immediately after verification.
 - [KEEP - An Industrial Pre-Training Framework for Online Recommendation via Knowledge Extraction and Plugging](Multi-Scenario/KEEP%20-%20An%20Industrial%20Pre-Training%20Framework%20for%20Online%20Recommendation%20via%20Knowledge%20Extraction%20and%20Plugging.pdf)
 - [Leaving No One Behind - A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling](Multi-Scenario/Leaving%20No%20One%20Behind%20-%20A%20Multi-Scenario%20Multi-Task%20Meta%20Learning%20Approach%20for%20Advertiser%20Modeling.pdf)
 - [Multi-Graph based Multi-Scenario Recommendation in Large-scale Online Video Services](Multi-Scenario/Multi-Graph%20based%20Multi-Scenario%20Recommendation%20in%20Large-scale%20Online%20Video%20Services.pdf)
+- [Multi-Scenario Ranking with Adaptive Feature Learning](Multi-Scenario/Multi-Scenario%20Ranking%20with%20Adaptive%20Feature%20Learning.pdf)
 - [Personalized Transfer of User Preferences for Cross-domain Recommendation](Multi-Scenario/Personalized%20Transfer%20of%20User%20Preferences%20for%20Cross-domain%20Recommendation.pdf)
 - [SAR-Net - A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios](Multi-Scenario/SAR-Net%20-%20A%20Scenario-Aware%20Ranking%20Network%20for%20Personalized%20Fair%20Recommendation%20in%20Hundreds%20of%20Travel%20Scenarios.pdf)
 - [Semi-Supervised Learning for Cross-Domain Recommendation to Cold-Start Users](Multi-Scenario/Semi-Supervised%20Learning%20for%20Cross-Domain%20Recommendation%20to%20Cold-Start%20Users.pdf)

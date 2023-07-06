@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-07-04，本仓库收集汇总了推荐系统领域相关论文共**688**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-07-06，本仓库收集汇总了推荐系统领域相关论文共**689**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -542,6 +542,7 @@
 - [KEEP - An Industrial Pre-Training Framework for Online Recommendation via Knowledge Extraction and Plugging](Multi-Scenario/KEEP%20-%20An%20Industrial%20Pre-Training%20Framework%20for%20Online%20Recommendation%20via%20Knowledge%20Extraction%20and%20Plugging.pdf)
 - [Leaving No One Behind - A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling](Multi-Scenario/Leaving%20No%20One%20Behind%20-%20A%20Multi-Scenario%20Multi-Task%20Meta%20Learning%20Approach%20for%20Advertiser%20Modeling.pdf)
 - [Multi-Graph based Multi-Scenario Recommendation in Large-scale Online Video Services](Multi-Scenario/Multi-Graph%20based%20Multi-Scenario%20Recommendation%20in%20Large-scale%20Online%20Video%20Services.pdf)
+- [Multi-Scenario Ranking with Adaptive Feature Learning](Multi-Scenario/Multi-Scenario%20Ranking%20with%20Adaptive%20Feature%20Learning.pdf)
 - [Personalized Transfer of User Preferences for Cross-domain Recommendation](Multi-Scenario/Personalized%20Transfer%20of%20User%20Preferences%20for%20Cross-domain%20Recommendation.pdf)
 - [SAR-Net - A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios](Multi-Scenario/SAR-Net%20-%20A%20Scenario-Aware%20Ranking%20Network%20for%20Personalized%20Fair%20Recommendation%20in%20Hundreds%20of%20Travel%20Scenarios.pdf)
 - [Semi-Supervised Learning for Cross-Domain Recommendation to Cold-Start Users](Multi-Scenario/Semi-Supervised%20Learning%20for%20Cross-Domain%20Recommendation%20to%20Cold-Start%20Users.pdf)
