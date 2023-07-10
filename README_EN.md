@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-07-06, **689** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-07-10, **691** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -89,6 +89,7 @@ I will remove it immediately after verification.
 - [[2021][Google] Bootstrapping Recommendations at Chrome Web Store](Industry/%5B2021%5D%5BGoogle%5D%20Bootstrapping%20Recommendations%20at%20Chrome%20Web%20Store.pdf)
 - [[2022][Alibaba] Towards Understanding the Overfitting Phenomenon of Deep Click-Through Rate Prediction Models](Industry/%5B2022%5D%5BAlibaba%5D%20Towards%20Understanding%20the%20Overfitting%20Phenomenon%20of%20Deep%20Click-Through%20Rate%20Prediction%20Models.pdf)
 - [[2022][Google] On the Factory Floor - ML Engineering for Industrial-Scale Ads Recommendation Models](Industry/%5B2022%5D%5BGoogle%5D%20On%20the%20Factory%20Floor%20-%20ML%20Engineering%20for%20Industrial-Scale%20Ads%20Recommendation%20Models.pdf)
+- [[2023][Alibaba][JRC] Joint Optimization of Ranking and Calibration with Contextualized Hybrid Model](Industry/%5B2023%5D%5BAlibaba%5D%5BJRC%5D%20Joint%20Optimization%20of%20Ranking%20and%20Calibration%20with%20Contextualized%20Hybrid%20Model.pdf)
 - [Adversarial Mixture Of Experts with Category Hierarchy Soft Constraint](Industry/Adversarial%20Mixture%20Of%20Experts%20with%20Category%20Hierarchy%20Soft%20Constraint.pdf)
 - [Alternating Pointwise-Pairwise Learning for Personalized Item Ranking](Industry/Alternating%20Pointwise-Pairwise%20Learning%20for%20Personalized%20Item%20Ranking.pdf)
 - [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](Industry/Adversarial%20Filtering%20Modeling%20on%20Long-term%20User%20Behavior%20Sequences%20for%20Click-Through%20Rate%20Prediction.pdf)
@@ -102,7 +103,6 @@ I will remove it immediately after verification.
 - [Category-Specific CNN for Visual-aware CTR Prediction at JD.com](Industry/Category-Specific%20CNN%20for%20Visual-aware%20CTR%20Prediction%20at%20JD.com.pdf)
 - [ConsRec - Learning Consensus Behind Interactions for Group Recommendation](Industry/ConsRec%20-%20Learning%20Consensus%20Behind%20Interactions%20for%20Group%20Recommendation.pdf)
 - [ContextNet - A Click-Through Rate Prediction Framework Using Contextual information to Refine Feature Embedding](Industry/ContextNet%20-%20A%20Click-Through%20Rate%20Prediction%20Framework%20Using%20Contextual%20information%20to%20Refine%20Feature%20Embedding.pdf)
-- [Capturing Conversion Rate Fluctuation during Sales Promotions- A Novel Historical Data Reuse Approach](Industry/Capturing%20Conversion%20Rate%20Fluctuation%20during%20Sales%20Promotions-%20A%20Novel%20Historical%20Data%20Reuse%20Approach.pdf)
 - [CAEN - A Hierarchically Attentive Evolution Network for Item-Attribute-Change-Aware Recommendation in the Growing E-commerce Environment](Industry/CAEN%20-%20A%20Hierarchically%20Attentive%20Evolution%20Network%20for%20Item-Attribute-Change-Aware%20Recommendation%20in%20the%20Growing%20E-commerce%20Environment.pdf)
 - [Decision-Making Context Interaction Network for Click-Through Rate Prediction](Industry/Decision-Making%20Context%20Interaction%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Dual Graph enhanced Embedding Neural Network for CTR Prediction](Industry/Dual%20Graph%20enhanced%20Embedding%20Neural%20Network%20for%20CTR%20Prediction.pdf)
@@ -163,6 +163,7 @@ I will remove it immediately after verification.
 - [TiSSA - A Time Slice Self-Attention Approach for Modeling Sequential User Behaviors](Industry/TiSSA%20-%20A%20Time%20Slice%20Self-Attention%20Approach%20for%20Modeling%20Sequential%20User%20Behaviors.pdf)
 - [User Behavior Retrieval for Click-Through Rate Prediction](Industry/User%20Behavior%20Retrieval%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Visualizing and Understanding Deep Neural Networks in CTR Prediction](Industry/Visualizing%20and%20Understanding%20Deep%20Neural%20Networks%20in%20CTR%20Prediction.pdf)
+- [Variance Reduction Using In-Experiment Data- Efficient and Targeted Online Measurement for Sparse and Delayed Outcomes](Industry/Variance%20Reduction%20Using%20In-Experiment%20Data-%20Efficient%20and%20Targeted%20Online%20Measurement%20for%20Sparse%20and%20Delayed%20Outcomes.pdf)
 #### TriggerInduced
 - [[2021][Tencent][R3S] Real-time Relevant Recommendation Suggestion](Industry/TriggerInduced/%5B2021%5D%5BTencent%5D%5BR3S%5D%20Real-time%20Relevant%20Recommendation%20Suggestion.pdf)
 - [[2022][Alibaba][DIAN] Deep Intention-Aware Network for Click-Through Rate Prediction](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIAN%5D%20Deep%20Intention-Aware%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
@@ -192,6 +193,8 @@ I will remove it immediately after verification.
 - [CREATER - CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning](Industry/CreativeSelection/CREATER%20-%20CTR-driven%20Advertising%20Text%20Generation%20with%20Controlled%20Pre-Training%20and%20Contrastive%20Fine-Tuning.pdf)
 - [Efficient Optimal Selection for Composited Advertising Creatives with Tree Structure](Industry/CreativeSelection/Efficient%20Optimal%20Selection%20for%20Composited%20Advertising%20Creatives%20with%20Tree%20Structure.pdf)
 - [Learning to Create Better Ads- Generation and Ranking Approaches for Ad Creative Refinement](Industry/CreativeSelection/Learning%20to%20Create%20Better%20Ads-%20Generation%20and%20Ranking%20Approaches%20for%20Ad%20Creative%20Refinement.pdf)
+#### BigPromotion
+- [Capturing Conversion Rate Fluctuation during Sales Promotions- A Novel Historical Data Reuse Approach](Industry/BigPromotion/Capturing%20Conversion%20Rate%20Fluctuation%20during%20Sales%20Promotions-%20A%20Novel%20Historical%20Data%20Reuse%20Approach.pdf)
 #### Bundle
 - [Bundle Recommendation with Graph Convolutional Networks](Industry/Bundle/Bundle%20Recommendation%20with%20Graph%20Convolutional%20Networks.pdf)
 - [Bundle MCR - Towards Conversational Bundle Recommendation](Industry/Bundle/Bundle%20MCR%20-%20Towards%20Conversational%20Bundle%20Recommendation.pdf)
@@ -259,6 +262,7 @@ I will remove it immediately after verification.
 #### Regression
 - [[2014][Yahoo] Beyond Clicks - Dwell Time for Personalization](Industry/Regression/%5B2014%5D%5BYahoo%5D%20Beyond%20Clicks%20-%20Dwell%20Time%20for%20Personalization.pdf)
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation](Industry/Regression/Deconfounding%20Duration%20Bias%20in%20Watch-time%20Prediction%20for%20Video%20Recommendation.pdf)
+- [Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation](Industry/Regression/Tree%20based%20Progressive%20Regression%20Model%20for%20Watch-Time%20Prediction%20in%20Short-video%20Recommendation.pdf)
 #### AutomaticPlaylistContinuation
 - [A hybrid two-stage recommender system for automatic playlist continuation](Industry/AutomaticPlaylistContinuation/A%20hybrid%20two-stage%20recommender%20system%20for%20automatic%20playlist%20continuation.pdf)
 - [A Line in the Sandv- Recommendation or Ad-hoc Retrieval ](Industry/AutomaticPlaylistContinuation/A%20Line%20in%20the%20Sandv-%20Recommendation%20or%20Ad-hoc%20Retrieval%20.pdf)
@@ -593,7 +597,6 @@ I will remove it immediately after verification.
 - [Crank up the volume - preference bias amplificationin collaborative recommendation](Calibration/Crank%20up%20the%20volume%20-%20preference%20bias%20amplificationin%20collaborative%20recommendation.pdf)
 - [Distribution-free calibration guarantees for histogram binning without sample splitting](Calibration/Distribution-free%20calibration%20guarantees%20for%20histogram%20binning%20without%20sample%20splitting.pdf)
 - [Field-aware Calibration - A Simple and Empirically Strong Method for Reliable Probabilistic Predictions](Calibration/Field-aware%20Calibration%20-%20A%20Simple%20and%20Empirically%20Strong%20Method%20for%20Reliable%20Probabilistic%20Predictions.pdf)
-- [Joint Optimization of Ranking and Calibration with Contextualized Hybrid Model](Calibration/Joint%20Optimization%20of%20Ranking%20and%20Calibration%20with%20Contextualized%20Hybrid%20Model.pdf)
 - [Mitigating Bias in Calibration Error Estimation](Calibration/Mitigating%20Bias%20in%20Calibration%20Error%20Estimation.pdf)
 - [Measuring Calibration in Deep Learning](Calibration/Measuring%20Calibration%20in%20Deep%20Learning.pdf)
 - [MBCT - Tree-Based Feature-Aware Binning for Individual Uncertainty Calibration](Calibration/MBCT%20-%20Tree-Based%20Feature-Aware%20Binning%20for%20Individual%20Uncertainty%20Calibration.pdf)
