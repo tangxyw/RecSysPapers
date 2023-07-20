@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-07-17, **699** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-07-20, **700** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -296,6 +296,7 @@ I will remove it immediately after verification.
 - [AutoFAS - Automatic Feature and Architecture Selection for Pre-Ranking System](Pre-Rank/AutoFAS%20-%20Automatic%20Feature%20and%20Architecture%20Selection%20for%20Pre-Ranking%20System.pdf)
 - [Cascade Ranking for Operational E-commerce Search](Pre-Rank/Cascade%20Ranking%20for%20Operational%20E-commerce%20Search.pdf)
 - [EENMF - An End-to-End Neural Matching Framework for E-Commerce Sponsored Search](Pre-Rank/EENMF%20-%20An%20End-to-End%20Neural%20Matching%20Framework%20for%20E-Commerce%20Sponsored%20Search.pdf)
+- [IntTower - the Next Generation of Two-Tower Model for Pre-Ranking System](Pre-Rank/IntTower%20-%20the%20Next%20Generation%20of%20Two-Tower%20Model%20for%20Pre-Ranking%20System.pdf)
 - [Rethinking the Role of Pre-ranking in Large-scale E-Commerce Searching System](Pre-Rank/Rethinking%20the%20Role%20of%20Pre-ranking%20in%20Large-scale%20E-Commerce%20Searching%20System.pdf)
 ## Re-Rank
 - [[2018][Hulu] Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity](Re-Rank/%5B2018%5D%5BHulu%5D%20Fast%20Greedy%20MAP%20Inference%20for%20Determinantal%20Point%20Process%20to%20Improve%20Recommendation%20Diversity.pdf)

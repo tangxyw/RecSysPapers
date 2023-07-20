@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-07-17，本仓库收集汇总了推荐系统领域相关论文共**699**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-07-20，本仓库收集汇总了推荐系统领域相关论文共**700**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -289,6 +289,7 @@
 - [AutoFAS - Automatic Feature and Architecture Selection for Pre-Ranking System](Pre-Rank/AutoFAS%20-%20Automatic%20Feature%20and%20Architecture%20Selection%20for%20Pre-Ranking%20System.pdf)
 - [Cascade Ranking for Operational E-commerce Search](Pre-Rank/Cascade%20Ranking%20for%20Operational%20E-commerce%20Search.pdf)
 - [EENMF - An End-to-End Neural Matching Framework for E-Commerce Sponsored Search](Pre-Rank/EENMF%20-%20An%20End-to-End%20Neural%20Matching%20Framework%20for%20E-Commerce%20Sponsored%20Search.pdf)
+- [IntTower - the Next Generation of Two-Tower Model for Pre-Ranking System](Pre-Rank/IntTower%20-%20the%20Next%20Generation%20of%20Two-Tower%20Model%20for%20Pre-Ranking%20System.pdf)
 - [Rethinking the Role of Pre-ranking in Large-scale E-Commerce Searching System](Pre-Rank/Rethinking%20the%20Role%20of%20Pre-ranking%20in%20Large-scale%20E-Commerce%20Searching%20System.pdf)
 ## Re-Rank
 - [[2018][Hulu] Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity](Re-Rank/%5B2018%5D%5BHulu%5D%20Fast%20Greedy%20MAP%20Inference%20for%20Determinantal%20Point%20Process%20to%20Improve%20Recommendation%20Diversity.pdf)
