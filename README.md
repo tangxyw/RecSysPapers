@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-07-20，本仓库收集汇总了推荐系统领域相关论文共**700**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-07-20，本仓库收集汇总了推荐系统领域相关论文共**702**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -252,6 +252,9 @@
 - [Memory-efficient Embedding for Recommendations](Industry/FeatureHashing/Memory-efficient%20Embedding%20for%20Recommendations.pdf)
 #### Interactive
 - [Q&R - A Two-Stage Approach toward Interactive Recommendation](Industry/Interactive/Q%26R%20-%20A%20Two-Stage%20Approach%20toward%20Interactive%20Recommendation.pdf)
+#### IncrementalLearning
+- [ADER - Adaptively Distilled Exemplar Replay Towards Continual Learning for Session-based Recommendation](Industry/IncrementalLearning/ADER%20-%20Adaptively%20Distilled%20Exemplar%20Replay%20Towards%20Continual%20Learning%20for%20Session-based%20Recommendation.pdf)
+- [A Survey on Incremental Update for Neural Recommender Systems](Industry/IncrementalLearning/A%20Survey%20on%20Incremental%20Update%20for%20Neural%20Recommender%20Systems.pdf)
 #### Regression
 - [[2014][Yahoo] Beyond Clicks - Dwell Time for Personalization](Industry/Regression/%5B2014%5D%5BYahoo%5D%20Beyond%20Clicks%20-%20Dwell%20Time%20for%20Personalization.pdf)
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation](Industry/Regression/Deconfounding%20Duration%20Bias%20in%20Watch-time%20Prediction%20for%20Video%20Recommendation.pdf)

@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-07-20, **700** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-07-20, **702** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -259,6 +259,9 @@ I will remove it immediately after verification.
 - [Memory-efficient Embedding for Recommendations](Industry/FeatureHashing/Memory-efficient%20Embedding%20for%20Recommendations.pdf)
 #### Interactive
 - [Q&R - A Two-Stage Approach toward Interactive Recommendation](Industry/Interactive/Q%26R%20-%20A%20Two-Stage%20Approach%20toward%20Interactive%20Recommendation.pdf)
+#### IncrementalLearning
+- [ADER - Adaptively Distilled Exemplar Replay Towards Continual Learning for Session-based Recommendation](Industry/IncrementalLearning/ADER%20-%20Adaptively%20Distilled%20Exemplar%20Replay%20Towards%20Continual%20Learning%20for%20Session-based%20Recommendation.pdf)
+- [A Survey on Incremental Update for Neural Recommender Systems](Industry/IncrementalLearning/A%20Survey%20on%20Incremental%20Update%20for%20Neural%20Recommender%20Systems.pdf)
 #### Regression
 - [[2014][Yahoo] Beyond Clicks - Dwell Time for Personalization](Industry/Regression/%5B2014%5D%5BYahoo%5D%20Beyond%20Clicks%20-%20Dwell%20Time%20for%20Personalization.pdf)
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation](Industry/Regression/Deconfounding%20Duration%20Bias%20in%20Watch-time%20Prediction%20for%20Video%20Recommendation.pdf)
