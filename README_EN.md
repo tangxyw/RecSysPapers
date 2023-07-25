@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-07-20, **702** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-07-25, **705** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -180,6 +180,7 @@ I will remove it immediately after verification.
 - [Supporting users in fnding successful matches in reciprocal recommender systems](Industry/Reciprocal/Supporting%20users%20in%20fnding%20successful%20matches%20in%20reciprocal%20recommender%20systems.pdf)
 #### Dataset
 - [KuaiRand - An Unbiased Sequential Recommendation Dataset with Randomly Exposed Videos](Industry/Dataset/KuaiRand%20-%20An%20Unbiased%20Sequential%20Recommendation%20Dataset%20with%20Randomly%20Exposed%20Videos.pdf)
+- [KuaiSAR - A Unified Search And Recommendation Dataset](Industry/Dataset/KuaiSAR%20-%20A%20Unified%20Search%20And%20Recommendation%20Dataset.pdf)
 - [KuaiRec - A Fully-observed Dataset and Insights for Evaluating Recommender Systems](Industry/Dataset/KuaiRec%20-%20A%20Fully-observed%20Dataset%20and%20Insights%20for%20Evaluating%20Recommender%20Systems.pdf)
 - [MobileRec - A Large-Scale Dataset for Mobile Apps Recommendation](Industry/Dataset/MobileRec%20-%20A%20Large-Scale%20Dataset%20for%20Mobile%20Apps%20Recommendation.pdf)
 - [REASONER - An Explainable Recommendation Dataset with Multi-aspect Real User Labeled Ground Truths](Industry/Dataset/REASONER%20-%20An%20Explainable%20Recommendation%20Dataset%20with%20Multi-aspect%20Real%20User%20Labeled%20Ground%20Truths.pdf)
@@ -471,6 +472,7 @@ I will remove it immediately after verification.
 - [Revisiting Item Promotion in GNN-based Collaborative Filtering - A Masked Targeted Topological Attack Perspective](Match/GNN/Revisiting%20Item%20Promotion%20in%20GNN-based%20Collaborative%20Filtering%20-%20A%20Masked%20Targeted%20Topological%20Attack%20Perspective.pdf)
 - [Self-supervised Graph Learning for Recommendation](Match/GNN/Self-supervised%20Graph%20Learning%20for%20Recommendation.pdf)
 - [SVD-GCN - A Simplified Graph Convolution Paradigm for Recommendation](Match/GNN/SVD-GCN%20-%20A%20Simplified%20Graph%20Convolution%20Paradigm%20for%20Recommendation.pdf)
+- [Spherical Graph Embedding for Item Retrieval in Recommendation System](Match/GNN/Spherical%20Graph%20Embedding%20for%20Item%20Retrieval%20in%20Recommendation%20System.pdf)
 - [SimClusters - Community-Based Representations for Heterogeneous Recommendations at Twitter](Match/GNN/SimClusters%20-%20Community-Based%20Representations%20for%20Heterogeneous%20Recommendations%20at%20Twitter.pdf)
 - [Self-Supervised Hypergraph Transformer for Recommender Systems](Match/GNN/Self-Supervised%20Hypergraph%20Transformer%20for%20Recommender%20Systems.pdf)
 - [TwHIN - Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation](Match/GNN/TwHIN%20-%20Embedding%20the%20Twitter%20Heterogeneous%20Information%20Network%20for%20Personalized%20Recommendation.pdf)
@@ -669,6 +671,7 @@ I will remove it immediately after verification.
 - [Alleviating Cold-start Problem in CTR Prediction with A Variational Embedding Learning Framework](Cold-Start/Alleviating%20Cold-start%20Problem%20in%20CTR%20Prediction%20with%20A%20Variational%20Embedding%20Learning%20Framework.pdf)
 - [Addressing the Item Cold-start Problem by Attribute-driven Active Learning](Cold-Start/Addressing%20the%20Item%20Cold-start%20Problem%20by%20Attribute-driven%20Active%20Learning.pdf)
 - [A Practical Exploration System for Search Advertising](Cold-Start/A%20Practical%20Exploration%20System%20for%20Search%20Advertising.pdf)
+- [A Model of Two Tales - Dual Transfer Learning Framework for Improved Long-tail Item Recommendation](Cold-Start/A%20Model%20of%20Two%20Tales%20-%20Dual%20Transfer%20Learning%20Framework%20for%20Improved%20Long-tail%20Item%20Recommendation.pdf)
 - [A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps](Cold-Start/A%20Semi-Personalized%20System%20for%20User%20Cold%20Start%20Recommendation%20on%20Music%20Streaming%20Apps.pdf)
 - [Cold-start Sequential Recommendation via Meta Learner](Cold-Start/Cold-start%20Sequential%20Recommendation%20via%20Meta%20Learner.pdf)
 - [Contrastive Collaborative Filtering for Cold-Start Item Recommendation](Cold-Start/Contrastive%20Collaborative%20Filtering%20for%20Cold-Start%20Item%20Recommendation.pdf)
