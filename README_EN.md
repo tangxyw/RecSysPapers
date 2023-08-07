@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-07-25, **705** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-08-07, **710** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -93,6 +93,7 @@ I will remove it immediately after verification.
 - [Adversarial Mixture Of Experts with Category Hierarchy Soft Constraint](Industry/Adversarial%20Mixture%20Of%20Experts%20with%20Category%20Hierarchy%20Soft%20Constraint.pdf)
 - [Alternating Pointwise-Pairwise Learning for Personalized Item Ranking](Industry/Alternating%20Pointwise-Pairwise%20Learning%20for%20Personalized%20Item%20Ranking.pdf)
 - [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](Industry/Adversarial%20Filtering%20Modeling%20on%20Long-term%20User%20Behavior%20Sequences%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [Adaptive Collaborative Filtering with Personalized Time Decay Functions for Financial Product Recommendation](Industry/Adaptive%20Collaborative%20Filtering%20with%20Personalized%20Time%20Decay%20Functions%20for%20Financial%20Product%20Recommendation.pdf)
 - [A Large Scale Prediction Engine for App Install Clicks and Conversions](Industry/A%20Large%20Scale%20Prediction%20Engine%20for%20App%20Install%20Clicks%20and%20Conversions.pdf)
 - [AutoMLP - Automated MLP for Sequential Recommendations](Industry/AutoMLP%20-%20Automated%20MLP%20for%20Sequential%20Recommendations.pdf)
 - [AutoField - Automating Feature Selection in Deep Recommender Systems](Industry/AutoField%20-%20Automating%20Feature%20Selection%20in%20Deep%20Recommender%20Systems.pdf)
@@ -140,6 +141,7 @@ I will remove it immediately after verification.
 - [Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction](Industry/Lifelong%20Sequential%20Modeling%20with%20Personalized%20Memorization%20for%20User%20Response%20Prediction.pdf)
 - [Learning Within-Session Budgets from Browsing Trajectories](Industry/Learning%20Within-Session%20Budgets%20from%20Browsing%20Trajectories.pdf)
 - [Modeling Users’ Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](Industry/Modeling%20Users%E2%80%99%20Contextualized%20Page-wise%20Feedback%20for%20Click-Through%20Rate%20Prediction%20in%20E-commerce%20Search.pdf)
+- [Methodologies for Improving Modern Industrial Recommender Systems](Industry/Methodologies%20for%20Improving%20Modern%20Industrial%20Recommender%20Systems.pdf)
 - [Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction](Industry/Multi-Interactive%20Attention%20Network%20for%20Fine-grained%20Feature%20Learning%20in%20CTR%20Prediction.pdf)
 - [Modeling Mobile User Actions for Purchase Recommendation using Deep Memory Networks](Industry/Modeling%20Mobile%20User%20Actions%20for%20Purchase%20Recommendation%20using%20Deep%20Memory%20Networks.pdf)
 - [MRIF - Multi-resolution Interest Fusion for Recommendation](Industry/MRIF%20-%20Multi-resolution%20Interest%20Fusion%20for%20Recommendation.pdf)
@@ -210,6 +212,7 @@ I will remove it immediately after verification.
 - [On the Value of Reminders within E-Commerce Recommendations](Industry/RepeatConsumption/On%20the%20Value%20of%20Reminders%20within%20E-Commerce%20Recommendations.pdf)
 - [Predicting Consumption Patterns with Repeated and Novel Events](Industry/RepeatConsumption/Predicting%20Consumption%20Patterns%20with%20Repeated%20and%20Novel%20Events.pdf)
 - [Predicting Music Relistening Behavior Using the ACT-R Framework](Industry/RepeatConsumption/Predicting%20Music%20Relistening%20Behavior%20Using%20the%20ACT-R%20Framework.pdf)
+- [Personalized Category Frequency prediction for Buy It Again recommendations](Industry/RepeatConsumption/Personalized%20Category%20Frequency%20prediction%20for%20Buy%20It%20Again%20recommendations.pdf)
 - [Recommendation on Live-Streaming Platforms - Dynamic Availability and Repeat Consumption](Industry/RepeatConsumption/Recommendation%20on%20Live-Streaming%20Platforms%20-%20Dynamic%20Availability%20and%20Repeat%20Consumption.pdf)
 - [RepeatNet - A Repeat Aware Neural Recommendation Machine for Session-based Recommendation](Industry/RepeatConsumption/RepeatNet%20-%20A%20Repeat%20Aware%20Neural%20Recommendation%20Machine%20for%20Session-based%20Recommendation.pdf)
 - [Recommendation for Repeat Consumption from User Implicit Feedback](Industry/RepeatConsumption/Recommendation%20for%20Repeat%20Consumption%20from%20User%20Implicit%20Feedback.pdf)
@@ -416,6 +419,7 @@ I will remove it immediately after verification.
 #### Mulit-Interset
 - [[2019][Alibaba][MIND] Multi-Interest Network with Dynamic Routing for Recommendation at Tmall](Match/Mulit-Interset/%5B2019%5D%5BAlibaba%5D%5BMIND%5D%20Multi-Interest%20Network%20with%20Dynamic%20Routing%20for%20Recommendation%20at%20Tmall.pdf)
 - [[2020][Alibaba][ComiRec] Controllable Multi-Interest Framework for Recommendation](Match/Mulit-Interset/%5B2020%5D%5BAlibaba%5D%5BComiRec%5D%20Controllable%20Multi-Interest%20Framework%20for%20Recommendation.pdf)
+- [Density Weighting for Multi-Interest Personalized Recommendation](Match/Mulit-Interset/Density%20Weighting%20for%20Multi-Interest%20Personalized%20Recommendation.pdf)
 - [Every Preference Changes Differently - Neural Multi-Interest Preference Model with Temporal Dynamics for Recommendation](Match/Mulit-Interset/Every%20Preference%20Changes%20Differently%20-%20Neural%20Multi-Interest%20Preference%20Model%20with%20Temporal%20Dynamics%20for%20Recommendation.pdf)
 - [Improving Multi-Interest Network with Stable Learning](Match/Mulit-Interset/Improving%20Multi-Interest%20Network%20with%20Stable%20Learning.pdf)
 - [Multiple Interest and Fine Granularity Network for User Modeling](Match/Mulit-Interset/Multiple%20Interest%20and%20Fine%20Granularity%20Network%20for%20User%20Modeling.pdf)
@@ -788,6 +792,7 @@ I will remove it immediately after verification.
 - [Jointly Learning to Recommend and Advertise](ReinforcementLearning/Jointly%20Learning%20to%20Recommend%20and%20Advertise.pdf)
 - [Large-scale Interactive Recommendation with Tree-structured Policy Gradient](ReinforcementLearning/Large-scale%20Interactive%20Recommendation%20with%20Tree-structured%20Policy%20Gradient.pdf)
 - [Off-policy evaluation for slate recommendation](ReinforcementLearning/Off-policy%20evaluation%20for%20slate%20recommendation.pdf)
+- [Online Matching - A Real-time Bandit System for Large-scale Recommendations](ReinforcementLearning/Online%20Matching%20-%20A%20Real-time%20Bandit%20System%20for%20Large-scale%20Recommendations.pdf)
 - [Reinforcing User Retention in a Billion Scale Short Video Recommender System](ReinforcementLearning/Reinforcing%20User%20Retention%20in%20a%20Billion%20Scale%20Short%20Video%20Recommender%20System.pdf)
 - [Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning](ReinforcementLearning/Recommendations%20with%20Negative%20Feedback%20via%20Pairwise%20Deep%20Reinforcement%20Learning.pdf)
 - [Reinforcement Learning for Slate-based Recommender Systems - A Tractable Decomposition and Practical Methodology](ReinforcementLearning/Reinforcement%20Learning%20for%20Slate-based%20Recommender%20Systems%20-%20A%20Tractable%20Decomposition%20and%20Practical%20Methodology.pdf)
