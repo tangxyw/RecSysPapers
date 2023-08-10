@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-08-09, **710** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-08-10, **712** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -301,6 +301,7 @@ I will remove it immediately after verification.
 - [[2022] On Ranking Consistency of Pre-ranking Stage](Pre-Rank/%5B2022%5D%20On%20Ranking%20Consistency%20of%20Pre-ranking%20Stage.pdf)
 - [[2022][Meituan] Contrastive Information Transfer for Pre-Ranking Systems](Pre-Rank/%5B2022%5D%5BMeituan%5D%20Contrastive%20Information%20Transfer%20for%20Pre-Ranking%20Systems.pdf)
 - [AutoFAS - Automatic Feature and Architecture Selection for Pre-Ranking System](Pre-Rank/AutoFAS%20-%20Automatic%20Feature%20and%20Architecture%20Selection%20for%20Pre-Ranking%20System.pdf)
+- [COPR - Consistency-Oriented Pre-Ranking for Online Advertising](Pre-Rank/COPR%20-%20Consistency-Oriented%20Pre-Ranking%20for%20Online%20Advertising.pdf)
 - [Cascade Ranking for Operational E-commerce Search](Pre-Rank/Cascade%20Ranking%20for%20Operational%20E-commerce%20Search.pdf)
 - [EENMF - An End-to-End Neural Matching Framework for E-Commerce Sponsored Search](Pre-Rank/EENMF%20-%20An%20End-to-End%20Neural%20Matching%20Framework%20for%20E-Commerce%20Sponsored%20Search.pdf)
 - [IntTower - the Next Generation of Two-Tower Model for Pre-Ranking System](Pre-Rank/IntTower%20-%20the%20Next%20Generation%20of%20Two-Tower%20Model%20for%20Pre-Ranking%20System.pdf)
@@ -600,6 +601,7 @@ I will remove it immediately after verification.
 - [Learning to rank with selection bias in personal search](Debias/Learning%20to%20rank%20with%20selection%20bias%20in%20personal%20search.pdf)
 - [Predicting Counterfactuals from Large Historical Data and Small Randomized Trials](Debias/Predicting%20Counterfactuals%20from%20Large%20Historical%20Data%20and%20Small%20Randomized%20Trials.pdf)
 - [Recommendations as Treatments - Debiasing Learning and Evaluation](Debias/Recommendations%20as%20Treatments%20-%20Debiasing%20Learning%20and%20Evaluation.pdf)
+- [Rec4Ad - A Free Lunch to Mitigate Sample Selection Bias for Ads CTR Prediction in Taobao](Debias/Rec4Ad%20-%20A%20Free%20Lunch%20to%20Mitigate%20Sample%20Selection%20Bias%20for%20Ads%20CTR%20Prediction%20in%20Taobao.pdf)
 - [Should I Follow the Crowd? A Probabilistic Analysis of the Effectiveness of Popularity in Recommender Systems](Debias/Should%20I%20Follow%20the%20Crowd%3F%20A%20Probabilistic%20Analysis%20of%20the%20Effectiveness%20of%20Popularity%20in%20Recommender%20Systems.pdf)
 - [Training and Testing of Recommender Systems on Data Missing Not at Random](Debias/Training%20and%20Testing%20of%20Recommender%20Systems%20on%20Data%20Missing%20Not%20at%20Random.pdf)
 - [UKD - Debiasing Conversion Rate Estimation via Uncertainty-regularized Knowledge Distillation](Debias/UKD%20-%20Debiasing%20Conversion%20Rate%20Estimation%20via%20Uncertainty-regularized%20Knowledge%20Distillation.pdf)
