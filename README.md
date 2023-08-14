@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-08-10，本仓库收集汇总了推荐系统领域相关论文共**712**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-08-14，本仓库收集汇总了推荐系统领域相关论文共**716**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -189,7 +189,7 @@
 - [Efficient Optimal Selection for Composited Advertising Creatives with Tree Structure](Industry/CreativeSelection/Efficient%20Optimal%20Selection%20for%20Composited%20Advertising%20Creatives%20with%20Tree%20Structure.pdf)
 - [Learning to Create Better Ads- Generation and Ranking Approaches for Ad Creative Refinement](Industry/CreativeSelection/Learning%20to%20Create%20Better%20Ads-%20Generation%20and%20Ranking%20Approaches%20for%20Ad%20Creative%20Refinement.pdf)
 #### BigPromotion
-- [Capturing Conversion Rate Fluctuation during Sales Promotions- A Novel Historical Data Reuse Approach](Industry/BigPromotion/Capturing%20Conversion%20Rate%20Fluctuation%20during%20Sales%20Promotions-%20A%20Novel%20Historical%20Data%20Reuse%20Approach.pdf)
+- [Capturing Conversion Rate Fluctuation during Sales Promotions - A Novel Historical Data Reuse Approach](Industry/BigPromotion/Capturing%20Conversion%20Rate%20Fluctuation%20during%20Sales%20Promotions%20-%20A%20Novel%20Historical%20Data%20Reuse%20Approach.pdf)
 #### Bundle
 - [Bundle Recommendation with Graph Convolutional Networks](Industry/Bundle/Bundle%20Recommendation%20with%20Graph%20Convolutional%20Networks.pdf)
 - [Bundle MCR - Towards Conversational Bundle Recommendation](Industry/Bundle/Bundle%20MCR%20-%20Towards%20Conversational%20Bundle%20Recommendation.pdf)
@@ -240,6 +240,7 @@
 - [FINN - Feedback Interactive Neural Network for Intent Recommendation](Industry/Intent/FINN%20-%20Feedback%20Interactive%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
 - [Learning to Personalize Recommendations based on Customers’ Shopping Intents](Industry/Intent/Learning%20to%20Personalize%20Recommendations%20based%20on%20Customers%E2%80%99%20Shopping%20Intents.pdf)
 - [Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation](Industry/Intent/Metapath-guided%20Heterogeneous%20Graph%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
+- [NEON - Living Needs Prediction System in Meituan](Industry/Intent/NEON%20-%20Living%20Needs%20Prediction%20System%20in%20Meituan.pdf)
 #### Representation
 - [[2020][Tencent][AETN] General-Purpose User Embeddings based on Mobile App Usage](Industry/Representation/%5B2020%5D%5BTencent%5D%5BAETN%5D%20General-Purpose%20User%20Embeddings%20based%20on%20Mobile%20App%20Usage.pdf)
 - [[2022][Pinterest][PinnerFormer] PinnerFormer - Sequence Modeling for User Representation at Pinterest](Industry/Representation/%5B2022%5D%5BPinterest%5D%5BPinnerFormer%5D%20PinnerFormer%20-%20Sequence%20Modeling%20for%20User%20Representation%20at%20Pinterest.pdf)
@@ -539,6 +540,7 @@
 - [[2023][Kuaishou][PEPNet] PEPNet - Parameter and Embedding Personalized Network for Infusing with Personalized Prior Information](Multi-Scenario/%5B2023%5D%5BKuaishou%5D%5BPEPNet%5D%20PEPNet%20-%20Parameter%20and%20Embedding%20Personalized%20Network%20for%20Infusing%20with%20Personalized%20Prior%20Information.pdf)
 - [A Deep Framework for Cross-Domain and Cross-System Recommendations](Multi-Scenario/A%20Deep%20Framework%20for%20Cross-Domain%20and%20Cross-System%20Recommendations.pdf)
 - [APG - Adaptive Parameter Generation Network for Click-Through Rate Prediction](Multi-Scenario/APG%20-%20Adaptive%20Parameter%20Generation%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [ADL - Adaptive Distribution Learning Framework for Multi-Scenario CTR Prediction](Multi-Scenario/ADL%20-%20Adaptive%20Distribution%20Learning%20Framework%20for%20Multi-Scenario%20CTR%20Prediction.pdf)
 - [AdaSparse - Learning Adaptively Sparse Structures for Multi-Domain Click-Through Rate Prediction](Multi-Scenario/AdaSparse%20-%20Learning%20Adaptively%20Sparse%20Structures%20for%20Multi-Domain%20Click-Through%20Rate%20Prediction.pdf)
 - [A Collaborative Transfer Learning Framework for Cross-domain Recommendation](Multi-Scenario/A%20Collaborative%20Transfer%20Learning%20Framework%20for%20Cross-domain%20Recommendation.pdf)
 - [A Survey on Cross-domain Recommendation - Taxonomies, Methods, and Future Directions](Multi-Scenario/A%20Survey%20on%20Cross-domain%20Recommendation%20-%20Taxonomies%2C%20Methods%2C%20and%20Future%20Directions.pdf)
@@ -566,6 +568,7 @@
 - [Multi-Graph based Multi-Scenario Recommendation in Large-scale Online Video Services](Multi-Scenario/Multi-Graph%20based%20Multi-Scenario%20Recommendation%20in%20Large-scale%20Online%20Video%20Services.pdf)
 - [Multi-Scenario Ranking with Adaptive Feature Learning](Multi-Scenario/Multi-Scenario%20Ranking%20with%20Adaptive%20Feature%20Learning.pdf)
 - [Personalized Transfer of User Preferences for Cross-domain Recommendation](Multi-Scenario/Personalized%20Transfer%20of%20User%20Preferences%20for%20Cross-domain%20Recommendation.pdf)
+- [SAMD - An Industrial Framework for Heterogeneous Multi-Scenario Recommendation](Multi-Scenario/SAMD%20-%20An%20Industrial%20Framework%20for%20Heterogeneous%20Multi-Scenario%20Recommendation.pdf)
 - [SAR-Net - A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios](Multi-Scenario/SAR-Net%20-%20A%20Scenario-Aware%20Ranking%20Network%20for%20Personalized%20Fair%20Recommendation%20in%20Hundreds%20of%20Travel%20Scenarios.pdf)
 - [Semi-Supervised Learning for Cross-Domain Recommendation to Cold-Start Users](Multi-Scenario/Semi-Supervised%20Learning%20for%20Cross-Domain%20Recommendation%20to%20Cold-Start%20Users.pdf)
 - [Scenario-aware and Mutual-based approach for Multi-scenario Recommendation in E-Commerce](Multi-Scenario/Scenario-aware%20and%20Mutual-based%20approach%20for%20Multi-scenario%20Recommendation%20in%20E-Commerce.pdf)
@@ -645,6 +648,7 @@
 - [An Empirical Study of Training Self-Supervised Vision Transformers](ContrastiveLearning/An%20Empirical%20Study%20of%20Training%20Self-Supervised%20Vision%20Transformers.pdf)
 - [A Simple Framework for Contrastive Learning of Visual Representations](ContrastiveLearning/A%20Simple%20Framework%20for%20Contrastive%20Learning%20of%20Visual%20Representations.pdf)
 - [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](ContrastiveLearning/Bootstrap%20Your%20Own%20Latent%20A%20New%20Approach%20to%20Self-Supervised%20Learning.pdf)
+- [Contrastive Learning for Conversion Rate Prediction](ContrastiveLearning/Contrastive%20Learning%20for%20Conversion%20Rate%20Prediction.pdf)
 - [Contrastive Learning for Interactive Recommendation in Fashion](ContrastiveLearning/Contrastive%20Learning%20for%20Interactive%20Recommendation%20in%20Fashion.pdf)
 - [CL4CTR - A Contrastive Learning Framework for CTR Prediction](ContrastiveLearning/CL4CTR%20-%20A%20Contrastive%20Learning%20Framework%20for%20CTR%20Prediction.pdf)
 - [Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems](ContrastiveLearning/Contrastive%20Learning%20for%20Debiased%20Candidate%20Generation%20in%20Large-Scale%20Recommender%20Systems.pdf)
