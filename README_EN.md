@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-08-14, **716** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-08-15, **717** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -533,6 +533,7 @@ I will remove it immediately after verification.
 - [Adversarial Multimodal Representation Learning for Click-Through Rate Prediction](Multi-Modal/Adversarial%20Multimodal%20Representation%20Learning%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Bootstrap Latent Representations for Multi-modal Recommendation](Multi-Modal/Bootstrap%20Latent%20Representations%20for%20Multi-modal%20Recommendation.pdf)
 - [ContentCTR - Frame-level Live Streaming Click-Through Rate Prediction with Multimodal Transformer](Multi-Modal/ContentCTR%20-%20Frame-level%20Live%20Streaming%20Click-Through%20Rate%20Prediction%20with%20Multimodal%20Transformer.pdf)
+- [COURIER - Contrastive User Intention Reconstruction for Large-Scale Pre-Train of Image Features](Multi-Modal/COURIER%20-%20Contrastive%20User%20Intention%20Reconstruction%20for%20Large-Scale%20Pre-Train%20of%20Image%20Features.pdf)
 - [Heterogeneous Attention Network for Effective and Efficient Cross-modal Retrieval](Multi-Modal/Heterogeneous%20Attention%20Network%20for%20Effective%20and%20Efficient%20Cross-modal%20Retrieval.pdf)
 - [Learning Joint Embedding with Multimodal Cues for Cross-Modal Video-Text Retrieva](Multi-Modal/Learning%20Joint%20Embedding%20with%20Multimodal%20Cues%20for%20Cross-Modal%20Video-Text%20Retrieva.pdf)
 - [Multimodal Recommender Systems - A Survey](Multi-Modal/Multimodal%20Recommender%20Systems%20-%20A%20Survey.pdf)

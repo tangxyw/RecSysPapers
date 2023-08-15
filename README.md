@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-08-14，本仓库收集汇总了推荐系统领域相关论文共**716**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-08-15，本仓库收集汇总了推荐系统领域相关论文共**717**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -526,6 +526,7 @@
 - [Adversarial Multimodal Representation Learning for Click-Through Rate Prediction](Multi-Modal/Adversarial%20Multimodal%20Representation%20Learning%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Bootstrap Latent Representations for Multi-modal Recommendation](Multi-Modal/Bootstrap%20Latent%20Representations%20for%20Multi-modal%20Recommendation.pdf)
 - [ContentCTR - Frame-level Live Streaming Click-Through Rate Prediction with Multimodal Transformer](Multi-Modal/ContentCTR%20-%20Frame-level%20Live%20Streaming%20Click-Through%20Rate%20Prediction%20with%20Multimodal%20Transformer.pdf)
+- [COURIER - Contrastive User Intention Reconstruction for Large-Scale Pre-Train of Image Features](Multi-Modal/COURIER%20-%20Contrastive%20User%20Intention%20Reconstruction%20for%20Large-Scale%20Pre-Train%20of%20Image%20Features.pdf)
 - [Heterogeneous Attention Network for Effective and Efficient Cross-modal Retrieval](Multi-Modal/Heterogeneous%20Attention%20Network%20for%20Effective%20and%20Efficient%20Cross-modal%20Retrieval.pdf)
 - [Learning Joint Embedding with Multimodal Cues for Cross-Modal Video-Text Retrieva](Multi-Modal/Learning%20Joint%20Embedding%20with%20Multimodal%20Cues%20for%20Cross-Modal%20Video-Text%20Retrieva.pdf)
 - [Multimodal Recommender Systems - A Survey](Multi-Modal/Multimodal%20Recommender%20Systems%20-%20A%20Survey.pdf)
