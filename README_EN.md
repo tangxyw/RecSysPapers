@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-08-15, **717** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-08-16, **718** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -525,6 +525,7 @@ I will remove it immediately after verification.
 - [Perceive Your Users in Depth - Learning Universal User Representations from Multiple E-commerce Tasks](Multi-Task/Perceive%20Your%20Users%20in%20Depth%20-%20Learning%20Universal%20User%20Representations%20from%20Multiple%20E-commerce%20Tasks.pdf)
 - [Personalized Approximate Pareto-Efficient Recommendation](Multi-Task/Personalized%20Approximate%20Pareto-Efficient%20Recommendation.pdf)
 - [Pareto Multi-Task Learning](Multi-Task/Pareto%20Multi-Task%20Learning.pdf)
+- [Single-shot Feature Selection for Multi-task Recommendations](Multi-Task/Single-shot%20Feature%20Selection%20for%20Multi-task%20Recommendations.pdf)
 - [STAN - Stage-Adaptive Network for Multi-Task Recommendation by Learning User Lifecycle-Based Representation](Multi-Task/STAN%20-%20Stage-Adaptive%20Network%20for%20Multi-Task%20Recommendation%20by%20Learning%20User%20Lifecycle-Based%20Representation.pdf)
 - [SNR - Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning](Multi-Task/SNR%20-%20Sub-Network%20Routing%20for%20Flexible%20Parameter%20Sharing%20in%20Multi-Task%20Learning.pdf)
 - [Understanding and Improving Fairness-Accuracy Trade-offs in Multi-Task Learning](Multi-Task/Understanding%20and%20Improving%20Fairness-Accuracy%20Trade-offs%20in%20Multi-Task%20Learning.pdf)
