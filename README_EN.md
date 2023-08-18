@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-08-16, **718** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-08-18, **719** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -381,6 +381,7 @@ I will remove it immediately after verification.
 - [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](Match/Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf)
 - [Locker - Locally Constrained Self-Attentive Sequential Recommendation](Match/Locker%20-%20Locally%20Constrained%20Self-Attentive%20Sequential%20Recommendation.pdf)
 - [Modeling Dynamic Missingness of Implicit Feedback for Recommendation](Match/Modeling%20Dynamic%20Missingness%20of%20Implicit%20Feedback%20for%20Recommendation.pdf)
+- [MV-HAN - A Hybrid Attentive Networks based Multi-View Learning Model for Large-scale Contents Recommendation](Match/MV-HAN%20-%20A%20Hybrid%20Attentive%20Networks%20based%20Multi-View%20Learning%20Model%20for%20Large-scale%20Contents%20Recommendation.pdf)
 - [Neighborhood-based Hard Negative Mining for Sequential Recommendation](Match/Neighborhood-based%20Hard%20Negative%20Mining%20for%20Sequential%20Recommendation.pdf)
 - [NAIS - Neural Attentive Item Similarity Model for Recommendation](Match/NAIS%20-%20Neural%20Attentive%20Item%20Similarity%20Model%20for%20Recommendation.pdf)
 - [Neural Aentive Session-based Recommendation](Match/Neural%20A%1Dentive%20Session-based%20Recommendation.pdf)
