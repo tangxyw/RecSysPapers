@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-08-21, **733** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-08-24, **734** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -361,6 +361,7 @@ I will remove it immediately after verification.
 - [Attentive Collaborative Filtering - Multimedia Recommendation with Item- and Component-Level Aention](Match/Attentive%20Collaborative%20Filtering%20-%20Multimedia%20Recommendation%20with%20Item-%20and%20Component-Level%20A%C2%82ention.pdf)
 - [Attentive Sequential Models of Latent Intent for Next Item Recommendation](Match/Attentive%20Sequential%20Models%20of%20Latent%20Intent%20for%20Next%20Item%20Recommendation.pdf)
 - [A User-Centered Concept Mining System for Query and Document Understanding at Tencent](Match/A%20User-Centered%20Concept%20Mining%20System%20for%20Query%20and%20Document%20Understanding%20at%20Tencent.pdf)
+- [An Empirical Study of Selection Bias in Pinterest Ads Retrieval](Match/An%20Empirical%20Study%20of%20Selection%20Bias%20in%20Pinterest%20Ads%20Retrieval.pdf)
 - [AutoRec - Autoencoders Meet Collaborative Filtering](Match/AutoRec%20-%20Autoencoders%20Meet%20Collaborative%20Filtering.pdf)
 - [A Simple Convolutional Generative Network for Next Item Recommendation](Match/A%20Simple%20Convolutional%20Generative%20Network%20for%20Next%20Item%20Recommendation.pdf)
 - [A Dual Augmented Two-tower Model for Online Large-scale Recommendation](Match/A%20Dual%20Augmented%20Two-tower%20Model%20for%20Online%20Large-scale%20Recommendation.pdf)
