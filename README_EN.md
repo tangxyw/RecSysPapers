@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-08-24, **734** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-08-27, **741** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -160,6 +160,7 @@ I will remove it immediately after verification.
 - [Reweighting Clicks with Dwell Time in Recommendation](Industry/Reweighting%20Clicks%20with%20Dwell%20Time%20in%20Recommendation.pdf)
 - [Sequential Modeling with Multiple Attributes for Watchlist Recommendation in E-Commerce](Industry/Sequential%20Modeling%20with%20Multiple%20Attributes%20for%20Watchlist%20Recommendation%20in%20E-Commerce.pdf)
 - [Sparse Attentive Memory Network for Click-through Rate Prediction with Long Sequences](Industry/Sparse%20Attentive%20Memory%20Network%20for%20Click-through%20Rate%20Prediction%20with%20Long%20Sequences.pdf)
+- [Surrogate for Long-Term User Experience in Recommender Systems](Industry/Surrogate%20for%20Long-Term%20User%20Experience%20in%20Recommender%20Systems.pdf)
 - [Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction](Industry/Sampling%20Is%20All%20You%20Need%20on%20Modeling%20Long-Term%20User%20Behaviors%20for%20CTR%20Prediction.pdf)
 - [Triangle Graph Interest Network for Click-through Rate Prediction](Industry/Triangle%20Graph%20Interest%20Network%20for%20Click-through%20Rate%20Prediction.pdf)
 - [TencentRec - Real-time Stream Recommendation in Practice](Industry/TencentRec%20-%20Real-time%20Stream%20Recommendation%20in%20Practice.pdf)
@@ -668,6 +669,7 @@ I will remove it immediately after verification.
 - [Handling many conversions per click in modeling delayed feedback](Feedback-Delay/Handling%20many%20conversions%20per%20click%20in%20modeling%20delayed%20feedback.pdf)
 - [Modeling Delayed Feedback in Display Advertising](Feedback-Delay/Modeling%20Delayed%20Feedback%20in%20Display%20Advertising.pdf)
 ## ContrastiveLearning
+- [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation](ContrastiveLearning/Are%20Graph%20Augmentations%20Necessary%3F%20Simple%20Graph%20Contrastive%20Learning%20for%20Recommendation.pdf)
 - [An Empirical Study of Training Self-Supervised Vision Transformers](ContrastiveLearning/An%20Empirical%20Study%20of%20Training%20Self-Supervised%20Vision%20Transformers.pdf)
 - [A Simple Framework for Contrastive Learning of Visual Representations](ContrastiveLearning/A%20Simple%20Framework%20for%20Contrastive%20Learning%20of%20Visual%20Representations.pdf)
 - [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](ContrastiveLearning/Bootstrap%20Your%20Own%20Latent%20A%20New%20Approach%20to%20Self-Supervised%20Learning.pdf)
@@ -699,6 +701,8 @@ I will remove it immediately after verification.
 - [A Practical Exploration System for Search Advertising](Cold-Start/A%20Practical%20Exploration%20System%20for%20Search%20Advertising.pdf)
 - [A Model of Two Tales - Dual Transfer Learning Framework for Improved Long-tail Item Recommendation](Cold-Start/A%20Model%20of%20Two%20Tales%20-%20Dual%20Transfer%20Learning%20Framework%20for%20Improved%20Long-tail%20Item%20Recommendation.pdf)
 - [A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps](Cold-Start/A%20Semi-Personalized%20System%20for%20User%20Cold%20Start%20Recommendation%20on%20Music%20Streaming%20Apps.pdf)
+- [Bootstrapping Contrastive Learning Enhanced Music Cold-Start Matching](Cold-Start/Bootstrapping%20Contrastive%20Learning%20Enhanced%20Music%20Cold-Start%20Matching.pdf)
+- [CB2CF - A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations](Cold-Start/CB2CF%20-%20A%20Neural%20Multiview%20Content-to-Collaborative%20Filtering%20Model%20for%20Completely%20Cold%20Item%20Recommendations.pdf)
 - [Cold-start Sequential Recommendation via Meta Learner](Cold-Start/Cold-start%20Sequential%20Recommendation%20via%20Meta%20Learner.pdf)
 - [Contrastive Collaborative Filtering for Cold-Start Item Recommendation](Cold-Start/Contrastive%20Collaborative%20Filtering%20for%20Cold-Start%20Item%20Recommendation.pdf)
 - [Fresh Content Needs More Attention - Multi-funnel Fresh Content Recommendation](Cold-Start/Fresh%20Content%20Needs%20More%20Attention%20-%20Multi-funnel%20Fresh%20Content%20Recommendation.pdf)
@@ -713,6 +717,7 @@ I will remove it immediately after verification.
 - [Task-adaptive Neural Process for User Cold-Start Recommendation](Cold-Start/Task-adaptive%20Neural%20Process%20for%20User%20Cold-Start%20Recommendation.pdf)
 - [Transform Cold-Start Users into Warm via Fused Behaviors in Large-Scale Recommendation](Cold-Start/Transform%20Cold-Start%20Users%20into%20Warm%20via%20Fused%20Behaviors%20in%20Large-Scale%20Recommendation.pdf)
 - [Telepath - Understanding Users from a Human Vision Perspective in Large-Scale Recommender Systems](Cold-Start/Telepath%20-%20Understanding%20Users%20from%20a%20Human%20Vision%20Perspective%20in%20Large-Scale%20Recommender%20Systems.pdf)
+- [Value of Exploration - Measurements, Findings and Algorithms](Cold-Start/Value%20of%20Exploration%20-%20Measurements%2C%20Findings%20and%20Algorithms.pdf)
 - [What You Look Matters Offline Evaluation of Advertising Creatives for Cold-start Problem](Cold-Start/What%20You%20Look%20Matters%20Offline%20Evaluation%20of%20Advertising%20Creatives%20for%20Cold-start%20Problem.pdf)
 - [Warm Up Cold-start Advertisements - Improving CTR Predictions via Learning to Learn ID Embeddings](Cold-Start/Warm%20Up%20Cold-start%20Advertisements%20-%20Improving%20CTR%20Predictions%20via%20Learning%20to%20Learn%20ID%20Embeddings.pdf)
 #### Exploration&Exploitation
@@ -786,6 +791,7 @@ I will remove it immediately after verification.
 - [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](Diversity/A%20Framework%20for%20Recommending%20Accurate%20and%20Diverse%20Items%20Using%20Bayesian%20Graph%20Convolutional%20Neural%20Networks.pdf)
 - [A Survey of Diversification Techniques in Search and Recommendation](Diversity/A%20Survey%20of%20Diversification%20Techniques%20in%20Search%20and%20Recommendation.pdf)
 - [Adaptive, Personalized Diversity for Visual Discovery](Diversity/Adaptive%2C%20Personalized%20Diversity%20for%20Visual%20Discovery.pdf)
+- [Calibrated Recommendations](Diversity/Calibrated%20Recommendations.pdf)
 - [Diversity on the Go! Streaming Determinantal Point Processes under a Maximum Induced Cardinality Objective](Diversity/Diversity%20on%20the%20Go%21%20Streaming%20Determinantal%20Point%20Processes%20under%20a%20Maximum%20Induced%20Cardinality%20Objective.pdf)
 - [DGCN - Diversified Recommendation with Graph Convolutional Networks](Diversity/DGCN%20-%20Diversified%20Recommendation%20with%20Graph%20Convolutional%20Networks.pdf)
 - [DGRec - Graph Neural Network for Recommendation with Diversified Embedding Generation](Diversity/DGRec%20-%20Graph%20Neural%20Network%20for%20Recommendation%20with%20Diversified%20Embedding%20Generation.pdf)
@@ -800,6 +806,7 @@ I will remove it immediately after verification.
 - [Managing Diversity in Airbnb Search](Diversity/Managing%20Diversity%20in%20Airbnb%20Search.pdf)
 - [Novelty and Diversity in Information Retrieval Evaluation](Diversity/Novelty%20and%20Diversity%20in%20Information%20Retrieval%20Evaluation.pdf)
 - [P-Companion - A Principled Framework for Diversified Complementary Product Recommendation](Diversity/P-Companion%20-%20A%20Principled%20Framework%20for%20Diversified%20Complementary%20Product%20Recommendation.pdf)
+- [Sliding Spectrum Decomposition for Diversified Recommendation](Diversity/Sliding%20Spectrum%20Decomposition%20for%20Diversified%20Recommendation.pdf)
 - [User-controllable Recommendation Against Filter Bubbles](Diversity/User-controllable%20Recommendation%20Against%20Filter%20Bubbles.pdf)
 - [UNDERSTANDING DIVERSITY IN SESSION-BASED RECOMMENDATION](Diversity/UNDERSTANDING%20DIVERSITY%20IN%20SESSION-BASED%20RECOMMENDATION.pdf)
 ## ABTest
