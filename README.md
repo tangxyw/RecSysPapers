@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-08-27，本仓库收集汇总了推荐系统领域相关论文共**741**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-08-28，本仓库收集汇总了推荐系统领域相关论文共**743**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -54,7 +54,6 @@
 - [[2017][Huawei][DeepFM] A Factorization-Machine based Neural Network for CTR Prediction](Rank/%5B2017%5D%5BHuawei%5D%5BDeepFM%5D%20A%20Factorization-Machine%20based%20Neural%20Network%20for%20CTR%20Prediction.pdf)
 - [[2018][USTC][xDeepFM] xDeepFM - Combining Explicit and Implicit Feature Interactions for Recommender Systems](Rank/%5B2018%5D%5BUSTC%5D%5BxDeepFM%5D%20xDeepFM%20-%20Combining%20Explicit%20and%20Implicit%20Feature%20Interactions%20for%20Recommender%20Systems.pdf)
 - [[2019][AutoInt] AutoInt - Automatic Feature Interaction Learning via Self-Attentive Neural Networks](Rank/%5B2019%5D%5BAutoInt%5D%20AutoInt%20-%20Automatic%20Feature%20Interaction%20Learning%20via%20Self-Attentive%20Neural%20Networks.pdf)
-- [[2020][Tencent][DFN] Deep Feedback Network for Recommendation](Rank/%5B2020%5D%5BTencent%5D%5BDFN%5D%20Deep%20Feedback%20Network%20for%20Recommendation.pdf)
 - [DCN V2 - Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems](Rank/DCN%20V2%20-%20Improved%20Deep%20%26%20Cross%20Network%20and%20Practical%20Lessons%20for%20Web-scale%20Learning%20to%20Rank%20Systems.pdf)
 - [SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS](Rank/SESSION-BASED%20RECOMMENDATIONS%20WITH%20RECURRENT%20NEURAL%20NETWORKS.pdf)
 ## Industry
@@ -76,7 +75,6 @@
 - [[2020][Alibaba][DMR] Deep Match to Rank Model for Personalized Click-Through Rate Prediction](Industry/%5B2020%5D%5BAlibaba%5D%5BDMR%5D%20Deep%20Match%20to%20Rank%20Model%20for%20Personalized%20Click-Through%20Rate%20Prediction.pdf)
 - [[2021][Fliggy] [DMSN] Spatial-Temporal Deep Intention Destination Networks for Online Travel Planning](Industry/%5B2021%5D%5BFliggy%5D%20%5BDMSN%5D%20Spatial-Temporal%20Deep%20Intention%20Destination%20Networks%20for%20Online%20Travel%20Planning.pdf)
 - [[2021][Weibo][MaskNet] MaskNet - Introducing Feature-Wise Multiplication to CTR Ranking Models by Instance-Guided Mask](Industry/%5B2021%5D%5BWeibo%5D%5BMaskNet%5D%20MaskNet%20-%20Introducing%20Feature-Wise%20Multiplication%20to%20CTR%20Ranking%20Models%20by%20Instance-Guided%20Mask.pdf)
-- [[2021][Tencent][CDR] Curriculum Disentangled Recommendation with Noisy Multi-feedback](Industry/%5B2021%5D%5BTencent%5D%5BCDR%5D%20Curriculum%20Disentangled%20Recommendation%20with%20Noisy%20Multi-feedback.pdf)
 - [[2021][Huawei][AutoDis] An Embedding Learning Framework for Numerical Features in CTR Prediction](Industry/%5B2021%5D%5BHuawei%5D%5BAutoDis%5D%20An%20Embedding%20Learning%20Framework%20for%20Numerical%20Features%20in%20CTR%20Prediction.pdf)
 - [[2021][Alibaba][DINMP] A Non-sequential Approach to Deep User Interest Model for Click-Through Rate Prediction](Industry/%5B2021%5D%5BAlibaba%5D%5BDINMP%5D%20A%20Non-sequential%20Approach%20to%20Deep%20User%20Interest%20Model%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2021][Google] Bootstrapping Recommendations at Chrome Web Store](Industry/%5B2021%5D%5BGoogle%5D%20Bootstrapping%20Recommendations%20at%20Chrome%20Web%20Store.pdf)
@@ -91,7 +89,6 @@
 - [Adaptive Collaborative Filtering with Personalized Time Decay Functions for Financial Product Recommendation](Industry/Adaptive%20Collaborative%20Filtering%20with%20Personalized%20Time%20Decay%20Functions%20for%20Financial%20Product%20Recommendation.pdf)
 - [A Large Scale Prediction Engine for App Install Clicks and Conversions](Industry/A%20Large%20Scale%20Prediction%20Engine%20for%20App%20Install%20Clicks%20and%20Conversions.pdf)
 - [AutoMLP - Automated MLP for Sequential Recommendations](Industry/AutoMLP%20-%20Automated%20MLP%20for%20Sequential%20Recommendations.pdf)
-- [AutoField - Automating Feature Selection in Deep Recommender Systems](Industry/AutoField%20-%20Automating%20Feature%20Selection%20in%20Deep%20Recommender%20Systems.pdf)
 - [A Deep Behavior Path Matching Network for Click-Through Rate Prediction](Industry/A%20Deep%20Behavior%20Path%20Matching%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Attention Mixtures for Time-Aware Sequential Recommendation](Industry/Attention%20Mixtures%20for%20Time-Aware%20Sequential%20Recommendation.pdf)
 - [A Self-Correcting Sequential Recommender](Industry/A%20Self-Correcting%20Sequential%20Recommender.pdf)
@@ -168,6 +165,7 @@
 - [[2021][Tencent][R3S] Real-time Relevant Recommendation Suggestion](Industry/TriggerInduced/%5B2021%5D%5BTencent%5D%5BR3S%5D%20Real-time%20Relevant%20Recommendation%20Suggestion.pdf)
 - [[2022][Alibaba][DIAN] Deep Intention-Aware Network for Click-Through Rate Prediction](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIAN%5D%20Deep%20Intention-Aware%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2022][Alibaba][DIHN] Deep Interest Highlight Network for Click-Through Rate Prediction in Trigger-Induced Recommendation](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIHN%5D%20Deep%20Interest%20Highlight%20Network%20for%20Click-Through%20Rate%20Prediction%20in%20Trigger-Induced%20Recommendation.pdf)
+- [DPAN - Dynamic Preference-based and Attribute-aware Network for Relevant Recommendations](Industry/TriggerInduced/DPAN%20-%20Dynamic%20Preference-based%20and%20Attribute-aware%20Network%20for%20Relevant%20Recommendations.pdf)
 #### Reciprocal
 - [[2022][Boss][DPGNN] Modeling Two-Way Selection Preference for Person-Job Fit](Industry/Reciprocal/%5B2022%5D%5BBoss%5D%5BDPGNN%5D%20Modeling%20Two-Way%20Selection%20Preference%20for%20Person-Job%20Fit.pdf)
 - [Latent Factor Models and Aggregation Operators for Collaborative Filtering in Reciprocal Recommender Systems](Industry/Reciprocal/Latent%20Factor%20Models%20and%20Aggregation%20Operators%20for%20Collaborative%20Filtering%20in%20Reciprocal%20Recommender%20Systems.pdf)
@@ -194,6 +192,10 @@
 - [CREATER - CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning](Industry/CreativeSelection/CREATER%20-%20CTR-driven%20Advertising%20Text%20Generation%20with%20Controlled%20Pre-Training%20and%20Contrastive%20Fine-Tuning.pdf)
 - [Efficient Optimal Selection for Composited Advertising Creatives with Tree Structure](Industry/CreativeSelection/Efficient%20Optimal%20Selection%20for%20Composited%20Advertising%20Creatives%20with%20Tree%20Structure.pdf)
 - [Learning to Create Better Ads- Generation and Ranking Approaches for Ad Creative Refinement](Industry/CreativeSelection/Learning%20to%20Create%20Better%20Ads-%20Generation%20and%20Ranking%20Approaches%20for%20Ad%20Creative%20Refinement.pdf)
+#### NegativeFeedback
+- [[2020][Tencent][DFN] Deep Feedback Network for Recommendation](Industry/NegativeFeedback/%5B2020%5D%5BTencent%5D%5BDFN%5D%20Deep%20Feedback%20Network%20for%20Recommendation.pdf)
+- [[2021][Tencent][CDR] Curriculum Disentangled Recommendation with Noisy Multi-feedback](Industry/NegativeFeedback/%5B2021%5D%5BTencent%5D%5BCDR%5D%20Curriculum%20Disentangled%20Recommendation%20with%20Noisy%20Multi-feedback.pdf)
+- [Learning from Negative User Feedback and Measuring Responsiveness for Sequential Recommenders](Industry/NegativeFeedback/Learning%20from%20Negative%20User%20Feedback%20and%20Measuring%20Responsiveness%20for%20Sequential%20Recommenders.pdf)
 #### BigPromotion
 - [Capturing Conversion Rate Fluctuation during Sales Promotions - A Novel Historical Data Reuse Approach](Industry/BigPromotion/Capturing%20Conversion%20Rate%20Fluctuation%20during%20Sales%20Promotions%20-%20A%20Novel%20Historical%20Data%20Reuse%20Approach.pdf)
 #### Bundle
@@ -204,6 +206,9 @@
 - [POG - Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion](Industry/Bundle/POG%20-%20Personalized%20Outfit%20Generation%20for%20Fashion%20Recommendation%20at%20Alibaba%20iFashion.pdf)
 #### Edge
 - [Real-time Short Video Recommendation on Mobile Devices](Industry/Edge/Real-time%20Short%20Video%20Recommendation%20on%20Mobile%20Devices.pdf)
+#### FeatureSelection
+- [AutoField - Automating Feature Selection in Deep Recommender Systems](Industry/FeatureSelection/AutoField%20-%20Automating%20Feature%20Selection%20in%20Deep%20Recommender%20Systems.pdf)
+- [SHARK - A Lightweight Model Compression Approach for Large-scale Recommender Systems](Industry/FeatureSelection/SHARK%20-%20A%20Lightweight%20Model%20Compression%20Approach%20for%20Large-scale%20Recommender%20Systems.pdf)
 #### RepeatConsumption
 - [[2022][Tencent][NoveNet] Modeling User Repeat Consumption Behavior for Online Novel Recommendation](Industry/RepeatConsumption/%5B2022%5D%5BTencent%5D%5BNoveNet%5D%20Modeling%20User%20Repeat%20Consumption%20Behavior%20for%20Online%20Novel%20Recommendation.pdf)
 - [Buy It Again - Modeling Repeat Purchase Recommendations](Industry/RepeatConsumption/Buy%20It%20Again%20-%20Modeling%20Repeat%20Purchase%20Recommendations.pdf)
@@ -289,6 +294,7 @@
 - [Efficient K-NN for Playlist Continuation](Industry/AutomaticPlaylistContinuation/Efficient%20K-NN%20for%20Playlist%20Continuation.pdf)
 - [Effective Nearest-Neighbor Music Recommendations](Industry/AutomaticPlaylistContinuation/Effective%20Nearest-Neighbor%20Music%20Recommendations.pdf)
 - [MMCF - Multimodal Collaborative Filtering for Automatic Playlist Continuation](Industry/AutomaticPlaylistContinuation/MMCF%20-%20Multimodal%20Collaborative%20Filtering%20for%20Automatic%20Playlist%20Continuation.pdf)
+- [MUSE - Music Recommender System with Shuffle Play Recommendation Enhancement](Industry/AutomaticPlaylistContinuation/MUSE%20-%20Music%20Recommender%20System%20with%20Shuffle%20Play%20Recommendation%20Enhancement.pdf)
 - [Offline Evaluation to Make Decisions About Playlist Recommendation Algorithms](Industry/AutomaticPlaylistContinuation/Offline%20Evaluation%20to%20Make%20Decisions%20About%20Playlist%20Recommendation%20Algorithms.pdf)
 - [Random Walk with Restart for Automatic Playlist Continuation and Query-Specific Adaptations](Industry/AutomaticPlaylistContinuation/Random%20Walk%20with%20Restart%20for%20Automatic%20Playlist%20Continuation%20and%20Query-Specific%20Adaptations.pdf)
 - [Social Tags and Emotions as main Features for the Next Song To Play in Automatic Playlist Continuation](Industry/AutomaticPlaylistContinuation/Social%20Tags%20and%20Emotions%20as%20main%20Features%20for%20the%20Next%20Song%20To%20Play%20in%20Automatic%20Playlist%20Continuation.pdf)
@@ -332,7 +338,6 @@
 - [Revisit Recommender System in the Permutation Prospective](Re-Rank/Revisit%20Recommender%20System%20in%20the%20Permutation%20Prospective.pdf)
 - [SLATEQ - A Tractable Decomposition for Reinforcement Learning with Recommendation Sets](Re-Rank/SLATEQ%20-%20A%20Tractable%20Decomposition%20for%20Reinforcement%20Learning%20with%20Recommendation%20Sets.pdf)
 - [Seq2slate - Re-ranking and slate optimization with rnns](Re-Rank/Seq2slate%20-%20Re-ranking%20and%20slate%20optimization%20with%20rnns.pdf)
-- [Sliding Spectrum Decomposition for Diversified Recommendation](Re-Rank/Sliding%20Spectrum%20Decomposition%20for%20Diversified%20Recommendation.pdf)
 - [The Use of MMR, Diversity-Based Reranking for Reordering Documents and Producing Summaries](Re-Rank/The%20Use%20of%20MMR%2C%20Diversity-Based%20Reranking%20for%20Reordering%20Documents%20and%20Producing%20Summaries.pdf)
 - [User Response Models to Improve a REINFORCE Recommender System](Re-Rank/User%20Response%20Models%20to%20Improve%20a%20REINFORCE%20Recommender%20System.pdf)
 ## Match
@@ -624,7 +629,6 @@
 - [Beyond temperature scaling - Obtaining well-calibrated multiclass probabilities with Dirichlet calibration](Calibration/Beyond%20temperature%20scaling%20-%20Obtaining%20well-calibrated%20multiclass%20probabilities%20with%20Dirichlet%20calibration.pdf)
 - [Beta calibration - a well-founded and easily implemented improvement on logistic calibration for binary classifiers](Calibration/Beta%20calibration%20-%20a%20well-founded%20and%20easily%20implemented%20improvement%20on%20logistic%20calibration%20for%20binary%20classifiers.pdf)
 - [CALIBRATION OF NEURAL NETWORKS USING SPLINES](Calibration/CALIBRATION%20OF%20NEURAL%20NETWORKS%20USING%20SPLINES.pdf)
-- [Calibrated Recommendations](Calibration/Calibrated%20Recommendations.pdf)
 - [Calibrating User Response Predictions in Online Advertising](Calibration/Calibrating%20User%20Response%20Predictions%20in%20Online%20Advertising.pdf)
 - [Crank up the volume - preference bias amplificationin collaborative recommendation](Calibration/Crank%20up%20the%20volume%20-%20preference%20bias%20amplificationin%20collaborative%20recommendation.pdf)
 - [Distribution-free calibration guarantees for histogram binning without sample splitting](Calibration/Distribution-free%20calibration%20guarantees%20for%20histogram%20binning%20without%20sample%20splitting.pdf)
