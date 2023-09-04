@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-08-28，本仓库收集汇总了推荐系统领域相关论文共**743**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-09-04，本仓库收集汇总了推荐系统领域相关论文共**748**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -132,6 +132,7 @@
 - [Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation](Industry/Incorporating%20User%20Micro-behaviors%20and%20Item%20Knowledge%20into%20Multi-task%20Learning%20for%20Session-based%20Recommendation.pdf)
 - [Learning from All Sides - Diversified Positive Augmentation via Self-distillation in Recommendation](Industry/Learning%20from%20All%20Sides%20-%20Diversified%20Positive%20Augmentation%20via%20Self-distillation%20in%20Recommendation.pdf)
 - [Long Short-Term Temporal Meta-learning in Online Recommendation](Industry/Long%20Short-Term%20Temporal%20Meta-learning%20in%20Online%20Recommendation.pdf)
+- [Learning and Optimization of Implicit Negative Feedback for Industrial Short-video Recommender System](Industry/Learning%20and%20Optimization%20of%20Implicit%20Negative%20Feedback%20for%20Industrial%20Short-video%20Recommender%20System.pdf)
 - [LambdaFM - Learning Optimal Ranking with Factorization Machines Using Lambda Surrogates](Industry/LambdaFM%20-%20Learning%20Optimal%20Ranking%20with%20Factorization%20Machines%20Using%20Lambda%20Surrogates.pdf)
 - [Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction](Industry/Lifelong%20Sequential%20Modeling%20with%20Personalized%20Memorization%20for%20User%20Response%20Prediction.pdf)
 - [Learning Within-Session Budgets from Browsing Trajectories](Industry/Learning%20Within-Session%20Budgets%20from%20Browsing%20Trajectories.pdf)
@@ -400,6 +401,7 @@
 - [Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding](Match/Personalized%20Top-N%20Sequential%20Recommendation%20via%20Convolutional%20Sequence%20Embedding.pdf)
 - [Path-based Deep Network for Candidate Item Matching in Recommenders](Match/Path-based%20Deep%20Network%20for%20Candidate%20Item%20Matching%20in%20Recommenders.pdf)
 - [Que2Search - Fast and Accurate Query and Document Understanding for Search at Facebook](Match/Que2Search%20-%20Fast%20and%20Accurate%20Query%20and%20Document%20Understanding%20for%20Search%20at%20Facebook.pdf)
+- [Que2Engage - Embedding-based Retrieval for Relevant and Engaging Products at Facebook Marketplace](Match/Que2Engage%20-%20Embedding-based%20Retrieval%20for%20Relevant%20and%20Engaging%20Products%20at%20Facebook%20Marketplace.pdf)
 - [Representing and Recommending Shopping Baskets with Complementarity, Compatibility, and Loyalty](Match/Representing%20and%20Recommending%20Shopping%20Baskets%20with%20Complementarity%2C%20Compatibility%2C%20and%20Loyalty.pdf)
 - [Revisiting Neural Retrieval on Accelerators](Match/Revisiting%20Neural%20Retrieval%20on%20Accelerators.pdf)
 - [Recommendation on Live - Streaming Platforms- Dynamic Availability and Repeat Consumption](Match/Recommendation%20on%20Live%20-%20Streaming%20Platforms-%20Dynamic%20Availability%20and%20Repeat%20Consumption.pdf)
@@ -537,12 +539,14 @@
 - [Personalized Approximate Pareto-Efficient Recommendation](Multi-Task/Personalized%20Approximate%20Pareto-Efficient%20Recommendation.pdf)
 - [Pareto Multi-Task Learning](Multi-Task/Pareto%20Multi-Task%20Learning.pdf)
 - [Single-shot Feature Selection for Multi-task Recommendations](Multi-Task/Single-shot%20Feature%20Selection%20for%20Multi-task%20Recommendations.pdf)
+- [STEM - Unleashing the Power of Embeddings for Multi-task Recommendation](Multi-Task/STEM%20-%20Unleashing%20the%20Power%20of%20Embeddings%20for%20Multi-task%20Recommendation.pdf)
 - [STAN - Stage-Adaptive Network for Multi-Task Recommendation by Learning User Lifecycle-Based Representation](Multi-Task/STAN%20-%20Stage-Adaptive%20Network%20for%20Multi-Task%20Recommendation%20by%20Learning%20User%20Lifecycle-Based%20Representation.pdf)
 - [SNR - Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning](Multi-Task/SNR%20-%20Sub-Network%20Routing%20for%20Flexible%20Parameter%20Sharing%20in%20Multi-Task%20Learning.pdf)
 - [Understanding and Improving Fairness-Accuracy Trade-offs in Multi-Task Learning](Multi-Task/Understanding%20and%20Improving%20Fairness-Accuracy%20Trade-offs%20in%20Multi-Task%20Learning.pdf)
 - [Why I like it - multi-task learning for recommendation and explanation](Multi-Task/Why%20I%20like%20it%20-%20multi-task%20learning%20for%20recommendation%20and%20explanation.pdf)
 ## Multi-Modal
 - [Adversarial Multimodal Representation Learning for Click-Through Rate Prediction](Multi-Modal/Adversarial%20Multimodal%20Representation%20Learning%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems](Multi-Modal/Adaptive%20Multi-Modalities%20Fusion%20in%20Sequential%20Recommendation%20Systems.pdf)
 - [Bootstrap Latent Representations for Multi-modal Recommendation](Multi-Modal/Bootstrap%20Latent%20Representations%20for%20Multi-modal%20Recommendation.pdf)
 - [ContentCTR - Frame-level Live Streaming Click-Through Rate Prediction with Multimodal Transformer](Multi-Modal/ContentCTR%20-%20Frame-level%20Live%20Streaming%20Click-Through%20Rate%20Prediction%20with%20Multimodal%20Transformer.pdf)
 - [COURIER - Contrastive User Intention Reconstruction for Large-Scale Pre-Train of Image Features](Multi-Modal/COURIER%20-%20Contrastive%20User%20Intention%20Reconstruction%20for%20Large-Scale%20Pre-Train%20of%20Image%20Features.pdf)
@@ -819,6 +823,7 @@
 - [InTune - Reinforcement Learning-based Data Pipeline Optimization for Deep Recommendation Models](ReinforcementLearning/InTune%20-%20Reinforcement%20Learning-based%20Data%20Pipeline%20Optimization%20for%20Deep%20Recommendation%20Models.pdf)
 - [Jointly Learning to Recommend and Advertise](ReinforcementLearning/Jointly%20Learning%20to%20Recommend%20and%20Advertise.pdf)
 - [Large-scale Interactive Recommendation with Tree-structured Policy Gradient](ReinforcementLearning/Large-scale%20Interactive%20Recommendation%20with%20Tree-structured%20Policy%20Gradient.pdf)
+- [Model-free Reinforcement Learning with Stochastic Reward Stabilization for Recommender Systems](ReinforcementLearning/Model-free%20Reinforcement%20Learning%20with%20Stochastic%20Reward%20Stabilization%20for%20Recommender%20Systems.pdf)
 - [Off-policy evaluation for slate recommendation](ReinforcementLearning/Off-policy%20evaluation%20for%20slate%20recommendation.pdf)
 - [Online Matching - A Real-time Bandit System for Large-scale Recommendations](ReinforcementLearning/Online%20Matching%20-%20A%20Real-time%20Bandit%20System%20for%20Large-scale%20Recommendations.pdf)
 - [Reinforcing User Retention in a Billion Scale Short Video Recommender System](ReinforcementLearning/Reinforcing%20User%20Retention%20in%20a%20Billion%20Scale%20Short%20Video%20Recommender%20System.pdf)
