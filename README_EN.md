@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-09-04, **748** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-09-06, **753** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -124,6 +124,7 @@ I will remove it immediately after verification.
 - [FeedRec - News Feed Recommendation with Various User Feedbacks](Industry/FeedRec%20-%20News%20Feed%20Recommendation%20with%20Various%20User%20Feedbacks.pdf)
 - [Fi-GNN - Modeling Feature Interactions via Graph Neural Networks for CTR Prediction](Industry/Fi-GNN%20-%20Modeling%20Feature%20Interactions%20via%20Graph%20Neural%20Networks%20for%20CTR%20Prediction.pdf)
 - [FLEN - Leveraging Field for Scalable CTR Prediction](Industry/FLEN%20-%20Leveraging%20Field%20for%20Scalable%20CTR%20Prediction.pdf)
+- [FiBiNet++ - Reducing Model Size by Low Rank Feature Interaction Layer for CTR Prediction](Industry/FiBiNet%2B%2B%20-%20Reducing%20Model%20Size%20by%20Low%20Rank%20Feature%20Interaction%20Layer%20for%20CTR%20Prediction.pdf)
 - [FiBiNet++ - Improving FiBiNet by Greatly Reducing Model Size for CTR Prediction](Industry/FiBiNet%2B%2B%20-%20Improving%20FiBiNet%20by%20Greatly%20Reducing%20Model%20Size%20for%20CTR%20Prediction.pdf)
 - [FinalMLP - An Enhanced Two-Stream MLP Model for CTR Prediction](Industry/FinalMLP%20-%20An%20Enhanced%20Two-Stream%20MLP%20Model%20for%20CTR%20Prediction.pdf)
 - [GateNet - Gating-Enhanced Deep Network for Click-Through Rate Prediction](Industry/GateNet%20-%20Gating-Enhanced%20Deep%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
@@ -138,6 +139,7 @@ I will remove it immediately after verification.
 - [Implicit User Awareness Modeling via Candidate Items for CTR Prediction in Search Ads](Industry/Implicit%20User%20Awareness%20Modeling%20via%20Candidate%20Items%20for%20CTR%20Prediction%20in%20Search%20Ads.pdf)
 - [Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation](Industry/Incorporating%20User%20Micro-behaviors%20and%20Item%20Knowledge%20into%20Multi-task%20Learning%20for%20Session-based%20Recommendation.pdf)
 - [Learning from All Sides - Diversified Positive Augmentation via Self-distillation in Recommendation](Industry/Learning%20from%20All%20Sides%20-%20Diversified%20Positive%20Augmentation%20via%20Self-distillation%20in%20Recommendation.pdf)
+- [Leveraging Watch-time Feedback for Short-Video Recommendations - A Causal Labeling Framework](Industry/Leveraging%20Watch-time%20Feedback%20for%20Short-Video%20Recommendations%20-%20A%20Causal%20Labeling%20Framework.pdf)
 - [Long Short-Term Temporal Meta-learning in Online Recommendation](Industry/Long%20Short-Term%20Temporal%20Meta-learning%20in%20Online%20Recommendation.pdf)
 - [Learning and Optimization of Implicit Negative Feedback for Industrial Short-video Recommender System](Industry/Learning%20and%20Optimization%20of%20Implicit%20Negative%20Feedback%20for%20Industrial%20Short-video%20Recommender%20System.pdf)
 - [LambdaFM - Learning Optimal Ranking with Factorization Machines Using Lambda Surrogates](Industry/LambdaFM%20-%20Learning%20Optimal%20Ranking%20with%20Factorization%20Machines%20Using%20Lambda%20Surrogates.pdf)
@@ -194,6 +196,7 @@ I will remove it immediately after verification.
 - [Tenrec - A Large-scale Multipurpose Benchmark Dataset for Recommender Systems](Industry/Dataset/Tenrec%20-%20A%20Large-scale%20Multipurpose%20Benchmark%20Dataset%20for%20Recommender%20Systems.pdf)
 - [U-NEED - A Fine-grained Dataset for User Needs-Centric E-commerce Conversational Recommendation](Industry/Dataset/U-NEED%20-%20A%20Fine-grained%20Dataset%20for%20User%20Needs-Centric%20E-commerce%20Conversational%20Recommendation.pdf)
 #### CreativeSelection
+- [[2019][Bytedance] What You Look Matters? Offline Evaluation of Advertising Creatives for Cold-start Problem](Industry/CreativeSelection/%5B2019%5D%5BBytedance%5D%20What%20You%20Look%20Matters%3F%20Offline%20Evaluation%20of%20Advertising%20Creatives%20for%20Cold-start%20Problem.pdf)
 - [[2021][Baidu][GemNN] GemNN - Gating-Enhanced Multi-Task Neural Networks with Feature Interaction Learning for CTR Prediction](Industry/CreativeSelection/%5B2021%5D%5BBaidu%5D%5BGemNN%5D%20GemNN%20-%20Gating-Enhanced%20Multi-Task%20Neural%20Networks%20with%20Feature%20Interaction%20Learning%20for%20CTR%20Prediction.pdf)
 - [Automated Creative Optimization for E-Commerce Advertising](Industry/CreativeSelection/Automated%20Creative%20Optimization%20for%20E-Commerce%20Advertising.pdf)
 - [A Hybrid Bandit Model with Visual Priors for Creative Ranking in Display Advertising](Industry/CreativeSelection/A%20Hybrid%20Bandit%20Model%20with%20Visual%20Priors%20for%20Creative%20Ranking%20in%20Display%20Advertising.pdf)
@@ -673,6 +676,7 @@ I will remove it immediately after verification.
 - [Delayed Feedback Model with Negative Binomial Regression for Multiple Conversions](Feedback-Delay/Delayed%20Feedback%20Model%20with%20Negative%20Binomial%20Regression%20for%20Multiple%20Conversions.pdf)
 - [Delayed Feedback Modeling for the Entire Space Conversion Rate Prediction](Feedback-Delay/Delayed%20Feedback%20Modeling%20for%20the%20Entire%20Space%20Conversion%20Rate%20Prediction.pdf)
 - [Dual Learning Algorithm for Delayed Conversions](Feedback-Delay/Dual%20Learning%20Algorithm%20for%20Delayed%20Conversions.pdf)
+- [Entire Space Cascade Delayed Feedback Modeling for Effective Conversion Rate Prediction](Feedback-Delay/Entire%20Space%20Cascade%20Delayed%20Feedback%20Modeling%20for%20Effective%20Conversion%20Rate%20Prediction.pdf)
 - [Generalized Delayed Feedback Model with Post-Click Information in Recommender Systems](Feedback-Delay/Generalized%20Delayed%20Feedback%20Model%20with%20Post-Click%20Information%20in%20Recommender%20Systems.pdf)
 - [Handling many conversions per click in modeling delayed feedback](Feedback-Delay/Handling%20many%20conversions%20per%20click%20in%20modeling%20delayed%20feedback.pdf)
 - [Modeling Delayed Feedback in Display Advertising](Feedback-Delay/Modeling%20Delayed%20Feedback%20in%20Display%20Advertising.pdf)
@@ -726,7 +730,6 @@ I will remove it immediately after verification.
 - [Transform Cold-Start Users into Warm via Fused Behaviors in Large-Scale Recommendation](Cold-Start/Transform%20Cold-Start%20Users%20into%20Warm%20via%20Fused%20Behaviors%20in%20Large-Scale%20Recommendation.pdf)
 - [Telepath - Understanding Users from a Human Vision Perspective in Large-Scale Recommender Systems](Cold-Start/Telepath%20-%20Understanding%20Users%20from%20a%20Human%20Vision%20Perspective%20in%20Large-Scale%20Recommender%20Systems.pdf)
 - [Value of Exploration - Measurements, Findings and Algorithms](Cold-Start/Value%20of%20Exploration%20-%20Measurements%2C%20Findings%20and%20Algorithms.pdf)
-- [What You Look Matters Offline Evaluation of Advertising Creatives for Cold-start Problem](Cold-Start/What%20You%20Look%20Matters%20Offline%20Evaluation%20of%20Advertising%20Creatives%20for%20Cold-start%20Problem.pdf)
 - [Warm Up Cold-start Advertisements - Improving CTR Predictions via Learning to Learn ID Embeddings](Cold-Start/Warm%20Up%20Cold-start%20Advertisements%20-%20Improving%20CTR%20Predictions%20via%20Learning%20to%20Learn%20ID%20Embeddings.pdf)
 #### Exploration&Exploitation
 - [An Empirical Evaluation of Thompson Sampling](Cold-Start/Exploration%26Exploitation/An%20Empirical%20Evaluation%20of%20Thompson%20Sampling.pdf)
@@ -734,6 +737,7 @@ I will remove it immediately after verification.
 - [A Contextual-Bandit Approach to Personalized News Article Recommendation](Cold-Start/Exploration%26Exploitation/A%20Contextual-Bandit%20Approach%20to%20Personalized%20News%20Article%20Recommendation.pdf)
 - [Comparison-based Conversational Recommender System with Relative Bandit Feedback](Cold-Start/Exploration%26Exploitation/Comparison-based%20Conversational%20Recommender%20System%20with%20Relative%20Bandit%20Feedback.pdf)
 - [Efficient Sparse Linear Bandits under High Dimensional Data](Cold-Start/Exploration%26Exploitation/Efficient%20Sparse%20Linear%20Bandits%20under%20High%20Dimensional%20Data.pdf)
+- [Scalable Neural Contextual Bandit for Recommender Systems](Cold-Start/Exploration%26Exploitation/Scalable%20Neural%20Contextual%20Bandit%20for%20Recommender%20Systems.pdf)
 #### MetaLearning
 - [A Meta-Learning Perspective on Cold-Start Recommendations for Items](Cold-Start/MetaLearning/A%20Meta-Learning%20Perspective%20on%20Cold-Start%20Recommendations%20for%20Items.pdf)
 - [Learning Graph Meta Embeddings for Cold-Start Ads in Click-Through Rate Prediction](Cold-Start/MetaLearning/Learning%20Graph%20Meta%20Embeddings%20for%20Cold-Start%20Ads%20in%20Click-Through%20Rate%20Prediction.pdf)
@@ -818,6 +822,7 @@ I will remove it immediately after verification.
 - [User-controllable Recommendation Against Filter Bubbles](Diversity/User-controllable%20Recommendation%20Against%20Filter%20Bubbles.pdf)
 - [UNDERSTANDING DIVERSITY IN SESSION-BASED RECOMMENDATION](Diversity/UNDERSTANDING%20DIVERSITY%20IN%20SESSION-BASED%20RECOMMENDATION.pdf)
 ## ABTest
+- [All about Sample-Size Calculations for A:B Testing - Novel Extensions & Practical Guide](ABTest/All%20about%20Sample-Size%20Calculations%20for%20A%3AB%20Testing%20-%20Novel%20Extensions%20%26%20Practical%20Guide.pdf)
 - [Overlapping Experiment Infrastructure - More, Better, Faster Experimentation](ABTest/Overlapping%20Experiment%20Infrastructure%20-%20More%2C%20Better%2C%20Faster%20Experimentation.pdf)
 ## ReinforcementLearning
 - [A Reinforcement Learning Framework for Explainable Recommendation](ReinforcementLearning/A%20Reinforcement%20Learning%20Framework%20for%20Explainable%20Recommendation.pdf)
