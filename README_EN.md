@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-09-06, **753** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-09-10, **755** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -146,6 +146,7 @@ I will remove it immediately after verification.
 - [Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction](Industry/Lifelong%20Sequential%20Modeling%20with%20Personalized%20Memorization%20for%20User%20Response%20Prediction.pdf)
 - [Learning Within-Session Budgets from Browsing Trajectories](Industry/Learning%20Within-Session%20Budgets%20from%20Browsing%20Trajectories.pdf)
 - [Modeling Users’ Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](Industry/Modeling%20Users%E2%80%99%20Contextualized%20Page-wise%20Feedback%20for%20Click-Through%20Rate%20Prediction%20in%20E-commerce%20Search.pdf)
+- [MemoNet - Memorizing All Cross Features’ Representations Efficiently via Multi-Hash Codebook Network for CTR Prediction](Industry/MemoNet%20-%20Memorizing%20All%20Cross%20Features%E2%80%99%20Representations%20Efficiently%20via%20Multi-Hash%20Codebook%20Network%20for%20CTR%20Prediction.pdf)
 - [Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction](Industry/Multi-Interactive%20Attention%20Network%20for%20Fine-grained%20Feature%20Learning%20in%20CTR%20Prediction.pdf)
 - [Modeling Mobile User Actions for Purchase Recommendation using Deep Memory Networks](Industry/Modeling%20Mobile%20User%20Actions%20for%20Purchase%20Recommendation%20using%20Deep%20Memory%20Networks.pdf)
 - [MRIF - Multi-resolution Interest Fusion for Recommendation](Industry/MRIF%20-%20Multi-resolution%20Interest%20Fusion%20for%20Recommendation.pdf)
@@ -723,6 +724,7 @@ I will remove it immediately after verification.
 - [Is Meta-Learning the Right Approach for the Cold-Start Problem in Recommender Systems?](Cold-Start/Is%20Meta-Learning%20the%20Right%20Approach%20for%20the%20Cold-Start%20Problem%20in%20Recommender%20Systems%3F.pdf)
 - [Improving Item Cold-start Recommendation via Model-agnostic Conditional Variational Autoencoder](Cold-Start/Improving%20Item%20Cold-start%20Recommendation%20via%20Model-agnostic%20Conditional%20Variational%20Autoencoder.pdf)
 - [Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks](Cold-Start/Learning%20to%20Warm%20Up%20Cold%20Item%20Embeddings%20for%20Cold-start%20Recommendation%20with%20Meta%20Scaling%20and%20Shifting%20Networks.pdf)
+- [Long-Tail Learning via Logit Adjustment](Cold-Start/Long-Tail%20Learning%20via%20Logit%20Adjustment.pdf)
 - [LHRM - A LBS based Heterogeneous Relations Model for User Cold Start Recommendation in Online Travel Platform](Cold-Start/LHRM%20-%20A%20LBS%20based%20Heterogeneous%20Relations%20Model%20for%20User%20Cold%20Start%20Recommendation%20in%20Online%20Travel%20Platform.pdf)
 - [MAMO - Memory-Augmented Meta-Optimization for Cold-start Recommendation](Cold-Start/MAMO%20-%20Memory-Augmented%20Meta-Optimization%20for%20Cold-start%20Recommendation.pdf)
 - [SMINet - State-Aware Multi-Aspect Interests Representation Network for Cold-Start Users Recommendation](Cold-Start/SMINet%20-%20State-Aware%20Multi-Aspect%20Interests%20Representation%20Network%20for%20Cold-Start%20Users%20Recommendation.pdf)
