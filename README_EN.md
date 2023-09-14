@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-09-10, **755** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-09-14, **762** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -115,7 +115,6 @@ I will remove it immediately after verification.
 - [Denoising User-aware Memory Network for Recommendation](Industry/Denoising%20User-aware%20Memory%20Network%20for%20Recommendation.pdf)
 - [Deep Context Interest Network for Click-Through Rate Prediction](Industry/Deep%20Context%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Disentangling Long and Short-Term Interests for Recommendation](Industry/Disentangling%20Long%20and%20Short-Term%20Interests%20for%20Recommendation.pdf)
-- [Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN)](Industry/Empowering%20Long-tail%20Item%20Recommendation%20through%20Cross%20Decoupling%20Network%20%28CDN%29.pdf)
 - [E-Commerce Item Recommendation Based on Field-aware Factorization Machine](Industry/E-Commerce%20Item%20Recommendation%20Based%20on%20Field-aware%20Factorization%20Machine.pdf)
 - [EXTR - Click-Through Rate Prediction with Externalities in E-Commerce Sponsored Search](Industry/EXTR%20-%20Click-Through%20Rate%20Prediction%20with%20Externalities%20in%20E-Commerce%20Sponsored%20Search.pdf)
 - [End-to-End User Behavior Retrieval in Click-Through Rate Prediction Model](Industry/End-to-End%20User%20Behavior%20Retrieval%20in%20Click-Through%20Rate%20Prediction%20Model.pdf)
@@ -220,6 +219,7 @@ I will remove it immediately after verification.
 - [Real-time Short Video Recommendation on Mobile Devices](Industry/Edge/Real-time%20Short%20Video%20Recommendation%20on%20Mobile%20Devices.pdf)
 #### FeatureSelection
 - [AutoField - Automating Feature Selection in Deep Recommender Systems](Industry/FeatureSelection/AutoField%20-%20Automating%20Feature%20Selection%20in%20Deep%20Recommender%20Systems.pdf)
+- [MvFS - Multi-view Feature Selection for Recommender System](Industry/FeatureSelection/MvFS%20-%20Multi-view%20Feature%20Selection%20for%20Recommender%20System.pdf)
 - [SHARK - A Lightweight Model Compression Approach for Large-scale Recommender Systems](Industry/FeatureSelection/SHARK%20-%20A%20Lightweight%20Model%20Compression%20Approach%20for%20Large-scale%20Recommender%20Systems.pdf)
 #### RepeatConsumption
 - [[2022][Tencent][NoveNet] Modeling User Repeat Consumption Behavior for Online Novel Recommendation](Industry/RepeatConsumption/%5B2022%5D%5BTencent%5D%5BNoveNet%5D%20Modeling%20User%20Repeat%20Consumption%20Behavior%20for%20Online%20Novel%20Recommendation.pdf)
@@ -252,6 +252,7 @@ I will remove it immediately after verification.
 - [Point-of-Interest Recommender Systems based on Location-Based Social Networks - A Survey from an Experimental Perspective](Industry/POI/Point-of-Interest%20Recommender%20Systems%20based%20on%20Location-Based%20Social%20Networks%20-%20A%20Survey%20from%20an%20Experimental%20Perspective.pdf)
 - [POINTREC - A Test Collection for Narrative-driven Point of Interest Recommendation](Industry/POI/POINTREC%20-%20A%20Test%20Collection%20for%20Narrative-driven%20Point%20of%20Interest%20Recommendation.pdf)
 - [Personalized Long- and Short-term Preference Learning for Next POI Recommendation](Industry/POI/Personalized%20Long-%20and%20Short-term%20Preference%20Learning%20for%20Next%20POI%20Recommendation.pdf)
+- [STGIN - Spatial-Temporal Graph Interaction Network for Large-scale POI Recommendation](Industry/POI/STGIN%20-%20Spatial-Temporal%20Graph%20Interaction%20Network%20for%20Large-scale%20POI%20Recommendation.pdf)
 - [ST-PIL - Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation](Industry/POI/ST-PIL%20-%20Spatial-Temporal%20Periodic%20Interest%20Learning%20for%20Next%20Point-of-Interest%20Recommendation.pdf)
 - [TADSAM - A Time-Aware Dynamic Self-Attention Model for Next Point-of-Interest Recommendation](Industry/POI/TADSAM%20-%20A%20Time-Aware%20Dynamic%20Self-Attention%20Model%20for%20Next%20Point-of-Interest%20Recommendation.pdf)
 - [When Online Meets Offline - Exploring Periodicity for Travel Destination Prediction](Industry/POI/When%20Online%20Meets%20Offline%20-%20Exploring%20Periodicity%20for%20Travel%20Destination%20Prediction.pdf)
@@ -399,7 +400,9 @@ I will remove it immediately after verification.
 - [Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking](Match/Latent%20Relational%20Metric%20Learning%20via%20Memory-based%20Attention%20for%20Collaborative%20Ranking.pdf)
 - [Learning from History and Present - Next-item Recommendation via Discriminatively Exploiting User Behaviors](Match/Learning%20from%20History%20and%20Present%20-%20Next-item%20Recommendation%20via%20Discriminatively%20Exploiting%20User%20Behaviors.pdf)
 - [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](Match/Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf)
+- [Learning Multi-Stage Multi-Grained Semantic Embeddings for E-Commerce Search](Match/Learning%20Multi-Stage%20Multi-Grained%20Semantic%20Embeddings%20for%20E-Commerce%20Search.pdf)
 - [Locker - Locally Constrained Self-Attentive Sequential Recommendation](Match/Locker%20-%20Locally%20Constrained%20Self-Attentive%20Sequential%20Recommendation.pdf)
+- [Multi-Objective Personalized Product Retrieval in Taobao Search](Match/Multi-Objective%20Personalized%20Product%20Retrieval%20in%20Taobao%20Search.pdf)
 - [Modeling Dynamic Missingness of Implicit Feedback for Recommendation](Match/Modeling%20Dynamic%20Missingness%20of%20Implicit%20Feedback%20for%20Recommendation.pdf)
 - [MV-HAN - A Hybrid Attentive Networks based Multi-View Learning Model for Large-scale Contents Recommendation](Match/MV-HAN%20-%20A%20Hybrid%20Attentive%20Networks%20based%20Multi-View%20Learning%20Model%20for%20Large-scale%20Contents%20Recommendation.pdf)
 - [Neighborhood-based Hard Negative Mining for Sequential Recommendation](Match/Neighborhood-based%20Hard%20Negative%20Mining%20for%20Sequential%20Recommendation.pdf)
@@ -477,6 +480,7 @@ I will remove it immediately after verification.
 - [Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items](Match/GNN/Decoupled%20Graph%20Convolution%20Network%20for%20Inferring%20Substitutable%20and%20Complementary%20Items.pdf)
 - [Embedding-based News Recommendationfor Millions of Users](Match/GNN/Embedding-based%20News%20Recommendationfor%20Millions%20of%20Users.pdf)
 - [Explicit Semantic Cross Feature Learning via Pre-trained Graph Neural Networks for CTR Prediction](Match/GNN/Explicit%20Semantic%20Cross%20Feature%20Learning%20via%20Pre-trained%20Graph%20Neural%20Networks%20for%20CTR%20Prediction.pdf)
+- [E-commerce Search via Content Collaborative Graph Neural Network](Match/GNN/E-commerce%20Search%20via%20Content%20Collaborative%20Graph%20Neural%20Network.pdf)
 - [Friend Recommendations with Self-Rescaling Graph Neural Networks](Match/GNN/Friend%20Recommendations%20with%20Self-Rescaling%20Graph%20Neural%20Networks.pdf)
 - [FASTGCN - FAST LEARNING WITH GRAPH CONVOLUTIONAL NETWORKS VIA IMPORTANCE SAMPLING](Match/GNN/FASTGCN%20-%20FAST%20LEARNING%20WITH%20GRAPH%20CONVOLUTIONAL%20NETWORKS%20VIA%20IMPORTANCE%20SAMPLING.pdf)
 - [Graph Convolutional Matrix Completion](Match/GNN/Graph%20Convolutional%20Matrix%20Completion.pdf)
@@ -486,6 +490,7 @@ I will remove it immediately after verification.
 - [Graph-Based Model-Agnostic Data Subsampling for Recommendation Systems](Match/GNN/Graph-Based%20Model-Agnostic%20Data%20Subsampling%20for%20Recommendation%20Systems.pdf)
 - [Graph Neural Networks for Social Recommendation](Match/GNN/Graph%20Neural%20Networks%20for%20Social%20Recommendation.pdf)
 - [GraphSAIL - Graph Structure Aware Incremental Learning for Recommender Systems](Match/GNN/GraphSAIL%20-%20Graph%20Structure%20Aware%20Incremental%20Learning%20for%20Recommender%20Systems.pdf)
+- [Hessian-aware Quantized Node Embeddings for Recommendation](Match/GNN/Hessian-aware%20Quantized%20Node%20Embeddings%20for%20Recommendation.pdf)
 - [Improving Accuracy and Diversity in Matching of Recommendation with Diversified Preference Network](Match/GNN/Improving%20Accuracy%20and%20Diversity%20in%20Matching%20of%20Recommendation%20with%20Diversified%20Preference%20Network.pdf)
 - [IntentGC - a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation](Match/GNN/IntentGC%20-%20a%20Scalable%20Graph%20Convolution%20Framework%20Fusing%20Heterogeneous%20Information%20for%20Recommendation.pdf)
 - [MultiSage - Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](Match/GNN/MultiSage%20-%20Empowering%20GCN%20with%20Contextualized%20Multi-Embeddings%20on%20Web-Scale%20Multipartite%20Networks.pdf)
@@ -606,6 +611,7 @@ I will remove it immediately after verification.
 - [Personalized Transfer of User Preferences for Cross-domain Recommendation](Multi-Scenario/Personalized%20Transfer%20of%20User%20Preferences%20for%20Cross-domain%20Recommendation.pdf)
 - [SAMD - An Industrial Framework for Heterogeneous Multi-Scenario Recommendation](Multi-Scenario/SAMD%20-%20An%20Industrial%20Framework%20for%20Heterogeneous%20Multi-Scenario%20Recommendation.pdf)
 - [SAR-Net - A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios](Multi-Scenario/SAR-Net%20-%20A%20Scenario-Aware%20Ranking%20Network%20for%20Personalized%20Fair%20Recommendation%20in%20Hundreds%20of%20Travel%20Scenarios.pdf)
+- [Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation](Multi-Scenario/Scenario-Aware%20Hierarchical%20Dynamic%20Network%20for%20Multi-Scenario%20Recommendation.pdf)
 - [Semi-Supervised Learning for Cross-Domain Recommendation to Cold-Start Users](Multi-Scenario/Semi-Supervised%20Learning%20for%20Cross-Domain%20Recommendation%20to%20Cold-Start%20Users.pdf)
 - [Scenario-aware and Mutual-based approach for Multi-scenario Recommendation in E-Commerce](Multi-Scenario/Scenario-aware%20and%20Mutual-based%20approach%20for%20Multi-scenario%20Recommendation%20in%20E-Commerce.pdf)
 - [Self-Supervised Learning on Users’ Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce](Multi-Scenario/Self-Supervised%20Learning%20on%20Users%E2%80%99%20Spontaneous%20Behaviors%20for%20Multi-Scenario%20Ranking%20in%20E-commerce.pdf)
@@ -718,6 +724,7 @@ I will remove it immediately after verification.
 - [CB2CF - A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations](Cold-Start/CB2CF%20-%20A%20Neural%20Multiview%20Content-to-Collaborative%20Filtering%20Model%20for%20Completely%20Cold%20Item%20Recommendations.pdf)
 - [Cold-start Sequential Recommendation via Meta Learner](Cold-Start/Cold-start%20Sequential%20Recommendation%20via%20Meta%20Learner.pdf)
 - [Contrastive Collaborative Filtering for Cold-Start Item Recommendation](Cold-Start/Contrastive%20Collaborative%20Filtering%20for%20Cold-Start%20Item%20Recommendation.pdf)
+- [Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN)](Cold-Start/Empowering%20Long-tail%20Item%20Recommendation%20through%20Cross%20Decoupling%20Network%20%28CDN%29.pdf)
 - [Fresh Content Needs More Attention - Multi-funnel Fresh Content Recommendation](Cold-Start/Fresh%20Content%20Needs%20More%20Attention%20-%20Multi-funnel%20Fresh%20Content%20Recommendation.pdf)
 - [GIFT - Graph-guIded Feature Transfer for Cold-Start Video Click-Through Rate Prediction](Cold-Start/GIFT%20-%20Graph-guIded%20Feature%20Transfer%20for%20Cold-Start%20Video%20Click-Through%20Rate%20Prediction.pdf)
 - [Handling User Cold Start Problem in Recommender Systems Using Fuzzy Clustering](Cold-Start/Handling%20User%20Cold%20Start%20Problem%20in%20Recommender%20Systems%20Using%20Fuzzy%20Clustering.pdf)
