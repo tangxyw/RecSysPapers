@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-09-14, **762** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-09-17, **763** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -529,6 +529,7 @@ I will remove it immediately after verification.
 - [[2020][PCGrad] Gradient Surgery for Multi-Task Learning](Multi-Task/%5B2020%5D%5BPCGrad%5D%20Gradient%20Surgery%20for%20Multi-Task%20Learning.pdf)
 - [[2021][Meituan][AITM] Modeling the Sequential Dependence among Audience Multi-step Conversions with Multi-task Learning in Targeted Display Advertising](Multi-Task/%5B2021%5D%5BMeituan%5D%5BAITM%5D%20Modeling%20the%20Sequential%20Dependence%20among%20Audience%20Multi-step%20Conversions%20with%20Multi-task%20Learning%20in%20Targeted%20Display%20Advertising.pdf)
 - [[2022][Alibaba][ESCM2] ESCM2 - Entire Space Counterfactual Multi-Task Model for Post-Click Conversion Rate Estimation](Multi-Task/%5B2022%5D%5BAlibaba%5D%5BESCM2%5D%20ESCM2%20-%20Entire%20Space%20Counterfactual%20Multi-Task%20Model%20for%20Post-Click%20Conversion%20Rate%20Estimation.pdf)
+- [A CLOSER LOOK AT LOSS WEIGHTING IN MULTI-TASK LEARNING](Multi-Task/A%20CLOSER%20LOOK%20AT%20LOSS%20WEIGHTING%20IN%20MULTI-TASK%20LEARNING.pdf)
 - [AdaTask - A Task-aware Adaptive Learning Rate Approach to Multi-task Learning](Multi-Task/AdaTask%20-%20A%20Task-aware%20Adaptive%20Learning%20Rate%20Approach%20to%20Multi-task%20Learning.pdf)
 - [AdaTT - Adaptive Task-to-Task Fusion Network for Multitask Learning in Recommendations](Multi-Task/AdaTT%20-%20Adaptive%20Task-to-Task%20Fusion%20Network%20for%20Multitask%20Learning%20in%20Recommendations.pdf)
 - [Can Small Heads Help Understanding and Improving Multi-Task Generalization](Multi-Task/Can%20Small%20Heads%20Help%20Understanding%20and%20Improving%20Multi-Task%20Generalization.pdf)
