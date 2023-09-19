@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-09-17，本仓库收集汇总了推荐系统领域相关论文共**763**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-09-19，本仓库收集汇总了推荐系统领域相关论文共**766**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -266,7 +266,9 @@
 #### FeatureHashing
 - [[2020][Twitter] Model Size Reduction Using Frequency Based Double Hashing for Recommender Systems](Industry/FeatureHashing/%5B2020%5D%5BTwitter%5D%20Model%20Size%20Reduction%20Using%20Frequency%20Based%20Double%20Hashing%20for%20Recommender%20Systems.pdf)
 - [[2021][Google][DHE] Learning to Embed Categorical Features without Embedding Tables for Recommendation](Industry/FeatureHashing/%5B2021%5D%5BGoogle%5D%5BDHE%5D%20Learning%20to%20Embed%20Categorical%20Features%20without%20Embedding%20Tables%20for%20Recommendation.pdf)
+- [AutoEmb - Automated Embedding Dimensionality Search in Streaming Recommendations](Industry/FeatureHashing/AutoEmb%20-%20Automated%20Embedding%20Dimensionality%20Search%20in%20Streaming%20Recommendations.pdf)
 - [Adaptive Low-Precision Training for Embeddings in Click-Through Rate Prediction](Industry/FeatureHashing/Adaptive%20Low-Precision%20Training%20for%20Embeddings%20in%20Click-Through%20Rate%20Prediction.pdf)
+- [Binary Code based Hash Embedding for Web-scale Applications](Industry/FeatureHashing/Binary%20Code%20based%20Hash%20Embedding%20for%20Web-scale%20Applications.pdf)
 - [Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems](Industry/FeatureHashing/Compositional%20Embeddings%20Using%20Complementary%20Partitions%20for%20Memory-Efficient%20Recommendation%20Systems.pdf)
 - [Dynamic Embedding Size Search with Minimum Regret for Streaming Recommender System](Industry/FeatureHashing/Dynamic%20Embedding%20Size%20Search%20with%20Minimum%20Regret%20for%20Streaming%20Recommender%20System.pdf)
 - [Feature Hashing for Large Scale Multitask Learning](Industry/FeatureHashing/Feature%20Hashing%20for%20Large%20Scale%20Multitask%20Learning.pdf)
@@ -437,6 +439,7 @@
 - [Collaborative Filtering Recommender Systems](Match/Classic/Collaborative%20Filtering%20Recommender%20Systems.pdf)
 - [GroupLens - An open architecture for collaborative filtering of Netnews](Match/Classic/GroupLens%20-%20An%20open%20architecture%20for%20collaborative%20filtering%20of%20Netnews.pdf)
 - [Item-Based Collaborative Filtering Recommendation Algorithms](Match/Classic/Item-Based%20Collaborative%20Filtering%20Recommendation%20Algorithms.pdf)
+- [MatchSim - a novel similarity measure based on maximum neighborhood matching](Match/Classic/MatchSim%20-%20a%20novel%20similarity%20measure%20based%20on%20maximum%20neighborhood%20matching.pdf)
 #### Mulit-Interset
 - [[2019][Alibaba][MIND] Multi-Interest Network with Dynamic Routing for Recommendation at Tmall](Match/Mulit-Interset/%5B2019%5D%5BAlibaba%5D%5BMIND%5D%20Multi-Interest%20Network%20with%20Dynamic%20Routing%20for%20Recommendation%20at%20Tmall.pdf)
 - [[2020][Alibaba][ComiRec] Controllable Multi-Interest Framework for Recommendation](Match/Mulit-Interset/%5B2020%5D%5BAlibaba%5D%5BComiRec%5D%20Controllable%20Multi-Interest%20Framework%20for%20Recommendation.pdf)
