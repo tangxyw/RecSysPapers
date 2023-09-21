@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-09-19, **766** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-09-21, **766** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -717,6 +717,7 @@ I will remove it immediately after verification.
 - [[2017][MAML] Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](Cold-Start/%5B2017%5D%5BMAML%5D%20Model-Agnostic%20Meta-Learning%20for%20Fast%20Adaptation%20of%20Deep%20Networks.pdf)
 - [[2017][DropoutNet] DropoutNet - Addressing Cold Start in Recommender Systems](Cold-Start/%5B2017%5D%5BDropoutNet%5D%20DropoutNet%20-%20Addressing%20Cold%20Start%20in%20Recommender%20Systems.pdf)
 - [[2017][HIN] Heterogeneous Information Network Embedding for Recommendation](Cold-Start/%5B2017%5D%5BHIN%5D%20Heterogeneous%20Information%20Network%20Embedding%20for%20Recommendation.pdf)
+- [[2019][Microsoft][CB2CF] CB2CF - A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations](Cold-Start/%5B2019%5D%5BMicrosoft%5D%5BCB2CF%5D%20CB2CF%20-%20A%20Neural%20Multiview%20Content-to-Collaborative%20Filtering%20Model%20for%20Completely%20Cold%20Item%20Recommendations.pdf)
 - [[2020][Wechat][ICAN] Internal and Contextual Attention Network for Cold-start Multi-channel Matching in Recommendation](Cold-Start/%5B2020%5D%5BWechat%5D%5BICAN%5D%20Internal%20and%20Contextual%20Attention%20Network%20for%20Cold-start%20Multi-channel%20Matching%20in%20Recommendation.pdf)
 - [[2021][Kuaishou][POSO] POSO - Personalized Cold Start Modules for Large-scale Recommender Systems](Cold-Start/%5B2021%5D%5BKuaishou%5D%5BPOSO%5D%20POSO%20-%20Personalized%20Cold%20Start%20Modules%20for%20Large-scale%20Recommender%20Systems.pdf)
 - [Alleviating Cold-start Problem in CTR Prediction with A Variational Embedding Learning Framework](Cold-Start/Alleviating%20Cold-start%20Problem%20in%20CTR%20Prediction%20with%20A%20Variational%20Embedding%20Learning%20Framework.pdf)
@@ -725,7 +726,6 @@ I will remove it immediately after verification.
 - [A Model of Two Tales - Dual Transfer Learning Framework for Improved Long-tail Item Recommendation](Cold-Start/A%20Model%20of%20Two%20Tales%20-%20Dual%20Transfer%20Learning%20Framework%20for%20Improved%20Long-tail%20Item%20Recommendation.pdf)
 - [A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps](Cold-Start/A%20Semi-Personalized%20System%20for%20User%20Cold%20Start%20Recommendation%20on%20Music%20Streaming%20Apps.pdf)
 - [Bootstrapping Contrastive Learning Enhanced Music Cold-Start Matching](Cold-Start/Bootstrapping%20Contrastive%20Learning%20Enhanced%20Music%20Cold-Start%20Matching.pdf)
-- [CB2CF - A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations](Cold-Start/CB2CF%20-%20A%20Neural%20Multiview%20Content-to-Collaborative%20Filtering%20Model%20for%20Completely%20Cold%20Item%20Recommendations.pdf)
 - [Cold-start Sequential Recommendation via Meta Learner](Cold-Start/Cold-start%20Sequential%20Recommendation%20via%20Meta%20Learner.pdf)
 - [Contrastive Collaborative Filtering for Cold-Start Item Recommendation](Cold-Start/Contrastive%20Collaborative%20Filtering%20for%20Cold-Start%20Item%20Recommendation.pdf)
 - [Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN)](Cold-Start/Empowering%20Long-tail%20Item%20Recommendation%20through%20Cross%20Decoupling%20Network%20%28CDN%29.pdf)
