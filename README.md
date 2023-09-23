@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-09-21，本仓库收集汇总了推荐系统领域相关论文共**766**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-09-23，本仓库收集汇总了推荐系统领域相关论文共**767**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -170,13 +170,13 @@
 - [[2022][Alibaba][DIHN] Deep Interest Highlight Network for Click-Through Rate Prediction in Trigger-Induced Recommendation](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIHN%5D%20Deep%20Interest%20Highlight%20Network%20for%20Click-Through%20Rate%20Prediction%20in%20Trigger-Induced%20Recommendation.pdf)
 - [DPAN - Dynamic Preference-based and Attribute-aware Network for Relevant Recommendations](Industry/TriggerInduced/DPAN%20-%20Dynamic%20Preference-based%20and%20Attribute-aware%20Network%20for%20Relevant%20Recommendations.pdf)
 #### Reciprocal
+- [[2010] RECON - A Reciprocal Recommender for Online Dating](Industry/Reciprocal/%5B2010%5D%20RECON%20-%20A%20Reciprocal%20Recommender%20for%20Online%20Dating.pdf)
+- [[2022] MATCHING THEORY-BASED RECOMMENDER SYSTEMS IN ONLINE DATING](Industry/Reciprocal/%5B2022%5D%20MATCHING%20THEORY-BASED%20RECOMMENDER%20SYSTEMS%20IN%20ONLINE%20DATING.pdf)
 - [[2022][Boss][DPGNN] Modeling Two-Way Selection Preference for Person-Job Fit](Industry/Reciprocal/%5B2022%5D%5BBoss%5D%5BDPGNN%5D%20Modeling%20Two-Way%20Selection%20Preference%20for%20Person-Job%20Fit.pdf)
 - [Latent Factor Models and Aggregation Operators for Collaborative Filtering in Reciprocal Recommender Systems](Industry/Reciprocal/Latent%20Factor%20Models%20and%20Aggregation%20Operators%20for%20Collaborative%20Filtering%20in%20Reciprocal%20Recommender%20Systems.pdf)
-- [MATCHING THEORY-BASED RECOMMENDER SYSTEMS IN ONLINE DATING](Industry/Reciprocal/MATCHING%20THEORY-BASED%20RECOMMENDER%20SYSTEMS%20IN%20ONLINE%20DATING.pdf)
 - [Optimally balancing receiver and recommended users' importance in reciprocal recommender systems](Industry/Reciprocal/Optimally%20balancing%20receiver%20and%20recommended%20users%27%20importance%20in%20reciprocal%20recommender%20systems.pdf)
 - [Reciprocal Recommendation for Job Matching with Bidirectional Feedback](Industry/Reciprocal/Reciprocal%20Recommendation%20for%20Job%20Matching%20with%20Bidirectional%20Feedback.pdf)
 - [Reciprocal Recommendation System for Online Dating](Industry/Reciprocal/Reciprocal%20Recommendation%20System%20for%20Online%20Dating.pdf)
-- [RECON - A Reciprocal Recommender for Online Dating](Industry/Reciprocal/RECON%20-%20A%20Reciprocal%20Recommender%20for%20Online%20Dating.pdf)
 - [Reciprocal Sequential Recommendation](Industry/Reciprocal/Reciprocal%20Sequential%20Recommendation.pdf)
 - [Reciprocal Recommendation Algorithm for the Field of Recruitment](Industry/Reciprocal/Reciprocal%20Recommendation%20Algorithm%20for%20the%20Field%20of%20Recruitment.pdf)
 - [Supporting users in fnding successful matches in reciprocal recommender systems](Industry/Reciprocal/Supporting%20users%20in%20fnding%20successful%20matches%20in%20reciprocal%20recommender%20systems.pdf)
@@ -600,6 +600,7 @@
 - [DeepAPF - Deep Attentive Probabilistic Factorization for Multi-site Video Recommendation](Multi-Scenario/DeepAPF%20-%20Deep%20Attentive%20Probabilistic%20Factorization%20for%20Multi-site%20Video%20Recommendation.pdf)
 - [DisenCDR - Learning Disentangled Representations for Cross-Domain Recommendation](Multi-Scenario/DisenCDR%20-%20Learning%20Disentangled%20Representations%20for%20Cross-Domain%20Recommendation.pdf)
 - [Heterogeneous Graph Augmented Multi-Scenario Sharing Recommendation with Tree-Guided Expert Networks](Multi-Scenario/Heterogeneous%20Graph%20Augmented%20Multi-Scenario%20Sharing%20Recommendation%20with%20Tree-Guided%20Expert%20Networks.pdf)
+- [HAMUR - Hyper Adapter for Multi-Domain Recommendation](Multi-Scenario/HAMUR%20-%20Hyper%20Adapter%20for%20Multi-Domain%20Recommendation.pdf)
 - [Improving Multi-Scenario Learning to Rank in E-commerce by Exploiting Task Relationships in the Label Space](Multi-Scenario/Improving%20Multi-Scenario%20Learning%20to%20Rank%20in%20E-commerce%20by%20Exploiting%20Task%20Relationships%20in%20the%20Label%20Space.pdf)
 - [KEEP - An Industrial Pre-Training Framework for Online Recommendation via Knowledge Extraction and Plugging](Multi-Scenario/KEEP%20-%20An%20Industrial%20Pre-Training%20Framework%20for%20Online%20Recommendation%20via%20Knowledge%20Extraction%20and%20Plugging.pdf)
 - [Leaving No One Behind - A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling](Multi-Scenario/Leaving%20No%20One%20Behind%20-%20A%20Multi-Scenario%20Multi-Task%20Meta%20Learning%20Approach%20for%20Advertiser%20Modeling.pdf)
