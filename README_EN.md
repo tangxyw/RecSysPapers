@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-09-23, **767** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-09-24, **768** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -178,10 +178,11 @@ I will remove it immediately after verification.
 - [DPAN - Dynamic Preference-based and Attribute-aware Network for Relevant Recommendations](Industry/TriggerInduced/DPAN%20-%20Dynamic%20Preference-based%20and%20Attribute-aware%20Network%20for%20Relevant%20Recommendations.pdf)
 #### Reciprocal
 - [[2010] RECON - A Reciprocal Recommender for Online Dating](Industry/Reciprocal/%5B2010%5D%20RECON%20-%20A%20Reciprocal%20Recommender%20for%20Online%20Dating.pdf)
+- [[2019] Latent Factor Models and Aggregation Operators for Collaborative Filtering in Reciprocal Recommender Systems](Industry/Reciprocal/%5B2019%5D%20Latent%20Factor%20Models%20and%20Aggregation%20Operators%20for%20Collaborative%20Filtering%20in%20Reciprocal%20Recommender%20Systems.pdf)
 - [[2022] MATCHING THEORY-BASED RECOMMENDER SYSTEMS IN ONLINE DATING](Industry/Reciprocal/%5B2022%5D%20MATCHING%20THEORY-BASED%20RECOMMENDER%20SYSTEMS%20IN%20ONLINE%20DATING.pdf)
 - [[2022][Boss][DPGNN] Modeling Two-Way Selection Preference for Person-Job Fit](Industry/Reciprocal/%5B2022%5D%5BBoss%5D%5BDPGNN%5D%20Modeling%20Two-Way%20Selection%20Preference%20for%20Person-Job%20Fit.pdf)
-- [Latent Factor Models and Aggregation Operators for Collaborative Filtering in Reciprocal Recommender Systems](Industry/Reciprocal/Latent%20Factor%20Models%20and%20Aggregation%20Operators%20for%20Collaborative%20Filtering%20in%20Reciprocal%20Recommender%20Systems.pdf)
-- [Optimally balancing receiver and recommended users' importance in reciprocal recommender systems](Industry/Reciprocal/Optimally%20balancing%20receiver%20and%20recommended%20users%27%20importance%20in%20reciprocal%20recommender%20systems.pdf)
+- [Optimally Balancing Receiver and Recommended Users’ Importance in Reciprocal Recommender Systems](Industry/Reciprocal/Optimally%20Balancing%20Receiver%20and%20Recommended%20Users%E2%80%99%20Importance%20in%20Reciprocal%20Recommender%20Systems.pdf)
+- [Providing Explanations for Recommendations in Reciprocal Environments](Industry/Reciprocal/Providing%20Explanations%20for%20Recommendations%20in%20Reciprocal%20Environments.pdf)
 - [Reciprocal Recommendation for Job Matching with Bidirectional Feedback](Industry/Reciprocal/Reciprocal%20Recommendation%20for%20Job%20Matching%20with%20Bidirectional%20Feedback.pdf)
 - [Reciprocal Recommendation System for Online Dating](Industry/Reciprocal/Reciprocal%20Recommendation%20System%20for%20Online%20Dating.pdf)
 - [Reciprocal Sequential Recommendation](Industry/Reciprocal/Reciprocal%20Sequential%20Recommendation.pdf)
