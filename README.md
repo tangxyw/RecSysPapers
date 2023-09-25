@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-09-24，本仓库收集汇总了推荐系统领域相关论文共**768**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-09-25，本仓库收集汇总了推荐系统领域相关论文共**773**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -149,6 +149,7 @@
 - [Product-based Neural Networks for User Response Prediction over Multi-field Categorical Data](Industry/Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction%20over%20Multi-field%20Categorical%20Data.pdf)
 - [PURS - Personalized Unexpected Recommender System for Improving User Satisfaction](Industry/PURS%20-%20Personalized%20Unexpected%20Recommender%20System%20for%20Improving%20User%20Satisfaction.pdf)
 - [Recommender Transformers with Behavior Pathways](Industry/Recommender%20Transformers%20with%20Behavior%20Pathways.pdf)
+- [RUEL - Retrieval-Augmented User Representation with Edge Browser Logs for Sequential Recommendation](Industry/RUEL%20-%20Retrieval-Augmented%20User%20Representation%20with%20Edge%20Browser%20Logs%20for%20Sequential%20Recommendation.pdf)
 - [Res-embedding for Deep Learning Based Click-Through Rate Prediction Modeling](Industry/Res-embedding%20for%20Deep%20Learning%20Based%20Click-Through%20Rate%20Prediction%20Modeling.pdf)
 - [Reweighting Clicks with Dwell Time in Recommendation](Industry/Reweighting%20Clicks%20with%20Dwell%20Time%20in%20Recommendation.pdf)
 - [Sequential Modeling with Multiple Attributes for Watchlist Recommendation in E-Commerce](Industry/Sequential%20Modeling%20with%20Multiple%20Attributes%20for%20Watchlist%20Recommendation%20in%20E-Commerce.pdf)
@@ -533,6 +534,7 @@
 - [Cross-stitch Networks for Multi-task Learning](Multi-Task/Cross-stitch%20Networks%20for%20Multi-task%20Learning.pdf)
 - [Conflict-Averse Gradient Descent for Multi-task Learning](Multi-Task/Conflict-Averse%20Gradient%20Descent%20for%20Multi-task%20Learning.pdf)
 - [Dynamic Task Prioritization for Multitask Learning](Multi-Task/Dynamic%20Task%20Prioritization%20for%20Multitask%20Learning.pdf)
+- [Deep Mutual Learning across Task Towers for Effective Multi-Task Recommender Learning](Multi-Task/Deep%20Mutual%20Learning%20across%20Task%20Towers%20for%20Effective%20Multi-Task%20Recommender%20Learning.pdf)
 - [Deep Task-specific Bottom Representation Network for Multi-Task Recommendation](Multi-Task/Deep%20Task-specific%20Bottom%20Representation%20Network%20for%20Multi-Task%20Recommendation.pdf)
 - [DSelect-k - Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning](Multi-Task/DSelect-k%20-%20Differentiable%20Selection%20in%20the%20Mixture%20of%20Experts%20with%20Applications%20to%20Multi-Task%20Learning.pdf)
 - [Entire Space Multi-Task Modeling via Post-Click Behavior Decomposition for Conversion Rate Prediction](Multi-Task/Entire%20Space%20Multi-Task%20Modeling%20via%20Post-Click%20Behavior%20Decomposition%20for%20Conversion%20Rate%20Prediction.pdf)
@@ -716,11 +718,13 @@
 - [[2020][Wechat][ICAN] Internal and Contextual Attention Network for Cold-start Multi-channel Matching in Recommendation](Cold-Start/%5B2020%5D%5BWechat%5D%5BICAN%5D%20Internal%20and%20Contextual%20Attention%20Network%20for%20Cold-start%20Multi-channel%20Matching%20in%20Recommendation.pdf)
 - [[2021][Kuaishou][POSO] POSO - Personalized Cold Start Modules for Large-scale Recommender Systems](Cold-Start/%5B2021%5D%5BKuaishou%5D%5BPOSO%5D%20POSO%20-%20Personalized%20Cold%20Start%20Modules%20for%20Large-scale%20Recommender%20Systems.pdf)
 - [Alleviating Cold-start Problem in CTR Prediction with A Variational Embedding Learning Framework](Cold-Start/Alleviating%20Cold-start%20Problem%20in%20CTR%20Prediction%20with%20A%20Variational%20Embedding%20Learning%20Framework.pdf)
+- [An Unified Search and Recommendation Foundation Model for Cold-Start Scenario](Cold-Start/An%20Unified%20Search%20and%20Recommendation%20Foundation%20Model%20for%20Cold-Start%20Scenario.pdf)
 - [Addressing the Item Cold-start Problem by Attribute-driven Active Learning](Cold-Start/Addressing%20the%20Item%20Cold-start%20Problem%20by%20Attribute-driven%20Active%20Learning.pdf)
 - [A Practical Exploration System for Search Advertising](Cold-Start/A%20Practical%20Exploration%20System%20for%20Search%20Advertising.pdf)
 - [A Model of Two Tales - Dual Transfer Learning Framework for Improved Long-tail Item Recommendation](Cold-Start/A%20Model%20of%20Two%20Tales%20-%20Dual%20Transfer%20Learning%20Framework%20for%20Improved%20Long-tail%20Item%20Recommendation.pdf)
 - [A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps](Cold-Start/A%20Semi-Personalized%20System%20for%20User%20Cold%20Start%20Recommendation%20on%20Music%20Streaming%20Apps.pdf)
 - [Bootstrapping Contrastive Learning Enhanced Music Cold-Start Matching](Cold-Start/Bootstrapping%20Contrastive%20Learning%20Enhanced%20Music%20Cold-Start%20Matching.pdf)
+- [Contrastive Learning for Cold-Start Recommendation](Cold-Start/Contrastive%20Learning%20for%20Cold-Start%20Recommendation.pdf)
 - [Cold-start Sequential Recommendation via Meta Learner](Cold-Start/Cold-start%20Sequential%20Recommendation%20via%20Meta%20Learner.pdf)
 - [Contrastive Collaborative Filtering for Cold-Start Item Recommendation](Cold-Start/Contrastive%20Collaborative%20Filtering%20for%20Cold-Start%20Item%20Recommendation.pdf)
 - [Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN)](Cold-Start/Empowering%20Long-tail%20Item%20Recommendation%20through%20Cross%20Decoupling%20Network%20%28CDN%29.pdf)
@@ -729,6 +733,7 @@
 - [Handling User Cold Start Problem in Recommender Systems Using Fuzzy Clustering](Cold-Start/Handling%20User%20Cold%20Start%20Problem%20in%20Recommender%20Systems%20Using%20Fuzzy%20Clustering.pdf)
 - [Is Meta-Learning the Right Approach for the Cold-Start Problem in Recommender Systems?](Cold-Start/Is%20Meta-Learning%20the%20Right%20Approach%20for%20the%20Cold-Start%20Problem%20in%20Recommender%20Systems%3F.pdf)
 - [Improving Item Cold-start Recommendation via Model-agnostic Conditional Variational Autoencoder](Cold-Start/Improving%20Item%20Cold-start%20Recommendation%20via%20Model-agnostic%20Conditional%20Variational%20Autoencoder.pdf)
+- [Long-tail Augmented Graph Contrastive Learning for Recommendation](Cold-Start/Long-tail%20Augmented%20Graph%20Contrastive%20Learning%20for%20Recommendation.pdf)
 - [Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks](Cold-Start/Learning%20to%20Warm%20Up%20Cold%20Item%20Embeddings%20for%20Cold-start%20Recommendation%20with%20Meta%20Scaling%20and%20Shifting%20Networks.pdf)
 - [Long-Tail Learning via Logit Adjustment](Cold-Start/Long-Tail%20Learning%20via%20Logit%20Adjustment.pdf)
 - [LHRM - A LBS based Heterogeneous Relations Model for User Cold Start Recommendation in Online Travel Platform](Cold-Start/LHRM%20-%20A%20LBS%20based%20Heterogeneous%20Relations%20Model%20for%20User%20Cold%20Start%20Recommendation%20in%20Online%20Travel%20Platform.pdf)
