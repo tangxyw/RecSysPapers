@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-09-25, **773** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-09-26, **774** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -127,6 +127,7 @@ I will remove it immediately after verification.
 - [FiBiNet++ - Improving FiBiNet by Greatly Reducing Model Size for CTR Prediction](Industry/FiBiNet%2B%2B%20-%20Improving%20FiBiNet%20by%20Greatly%20Reducing%20Model%20Size%20for%20CTR%20Prediction.pdf)
 - [FinalMLP - An Enhanced Two-Stream MLP Model for CTR Prediction](Industry/FinalMLP%20-%20An%20Enhanced%20Two-Stream%20MLP%20Model%20for%20CTR%20Prediction.pdf)
 - [GateNet - Gating-Enhanced Deep Network for Click-Through Rate Prediction](Industry/GateNet%20-%20Gating-Enhanced%20Deep%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [Graph-Based Model-Agnostic Data Subsampling for Recommendation Systems](Industry/Graph-Based%20Model-Agnostic%20Data%20Subsampling%20for%20Recommendation%20Systems.pdf)
 - [Generative Flow Network for Listwise Recommendation](Industry/Generative%20Flow%20Network%20for%20Listwise%20Recommendation.pdf)
 - [Hierarchically Fusing Long and Short-Term User Interests for Click-Through Rate Prediction in Product Search](Industry/Hierarchically%20Fusing%20Long%20and%20Short-Term%20User%20Interests%20for%20Click-Through%20Rate%20Prediction%20in%20Product%20Search.pdf)
 - [Hybrid Interest Modeling for Long-tailed Users](Industry/Hybrid%20Interest%20Modeling%20for%20Long-tailed%20Users.pdf)
@@ -492,7 +493,6 @@ I will remove it immediately after verification.
 - [Graph Neural Networks for Friend Ranking in Large-scale Social Platforms](Match/GNN/Graph%20Neural%20Networks%20for%20Friend%20Ranking%20in%20Large-scale%20Social%20Platforms.pdf)
 - [Graph Intention Network for Click-through Rate Prediction in Sponsored Search](Match/GNN/Graph%20Intention%20Network%20for%20Click-through%20Rate%20Prediction%20in%20Sponsored%20Search.pdf)
 - [Graph Neural Network for Tag Ranking in Tag-enhanced Video Recommendation](Match/GNN/Graph%20Neural%20Network%20for%20Tag%20Ranking%20in%20Tag-enhanced%20Video%20Recommendation.pdf)
-- [Graph-Based Model-Agnostic Data Subsampling for Recommendation Systems](Match/GNN/Graph-Based%20Model-Agnostic%20Data%20Subsampling%20for%20Recommendation%20Systems.pdf)
 - [Graph Neural Networks for Social Recommendation](Match/GNN/Graph%20Neural%20Networks%20for%20Social%20Recommendation.pdf)
 - [GraphSAIL - Graph Structure Aware Incremental Learning for Recommender Systems](Match/GNN/GraphSAIL%20-%20Graph%20Structure%20Aware%20Incremental%20Learning%20for%20Recommender%20Systems.pdf)
 - [Hessian-aware Quantized Node Embeddings for Recommendation](Match/GNN/Hessian-aware%20Quantized%20Node%20Embeddings%20for%20Recommendation.pdf)
@@ -632,6 +632,7 @@ I will remove it immediately after verification.
 - [AutoDebias - Learning to Debias for Recommendation](Debias/AutoDebias%20-%20Learning%20to%20Debias%20for%20Recommendation.pdf)
 - [Bias and Debias in Recommender System - A Survey and Future Directions](Debias/Bias%20and%20Debias%20in%20Recommender%20System%20-%20A%20Survey%20and%20Future%20Directions.pdf)
 - [Co-training Disentangled Domain Adaptation Network for Leveraging Popularity Bias in Recommenders](Debias/Co-training%20Disentangled%20Domain%20Adaptation%20Network%20for%20Leveraging%20Popularity%20Bias%20in%20Recommenders.pdf)
+- [Counterfactual Video Recommendation for Duration Debiasing](Debias/Counterfactual%20Video%20Recommendation%20for%20Duration%20Debiasing.pdf)
 - [Causal Intervention for Leveraging Popularity Bias in Recommendation](Debias/Causal%20Intervention%20for%20Leveraging%20Popularity%20Bias%20in%20Recommendation.pdf)
 - [Deep Position-wise Interaction Network for CTR Prediction](Debias/Deep%20Position-wise%20Interaction%20Network%20for%20CTR%20Prediction.pdf)
 - [Debiased Recommendation with User Feature Balancing](Debias/Debiased%20Recommendation%20with%20User%20Feature%20Balancing.pdf)

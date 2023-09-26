@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-09-25，本仓库收集汇总了推荐系统领域相关论文共**773**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-09-26，本仓库收集汇总了推荐系统领域相关论文共**774**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -120,6 +120,7 @@
 - [FiBiNet++ - Improving FiBiNet by Greatly Reducing Model Size for CTR Prediction](Industry/FiBiNet%2B%2B%20-%20Improving%20FiBiNet%20by%20Greatly%20Reducing%20Model%20Size%20for%20CTR%20Prediction.pdf)
 - [FinalMLP - An Enhanced Two-Stream MLP Model for CTR Prediction](Industry/FinalMLP%20-%20An%20Enhanced%20Two-Stream%20MLP%20Model%20for%20CTR%20Prediction.pdf)
 - [GateNet - Gating-Enhanced Deep Network for Click-Through Rate Prediction](Industry/GateNet%20-%20Gating-Enhanced%20Deep%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [Graph-Based Model-Agnostic Data Subsampling for Recommendation Systems](Industry/Graph-Based%20Model-Agnostic%20Data%20Subsampling%20for%20Recommendation%20Systems.pdf)
 - [Generative Flow Network for Listwise Recommendation](Industry/Generative%20Flow%20Network%20for%20Listwise%20Recommendation.pdf)
 - [Hierarchically Fusing Long and Short-Term User Interests for Click-Through Rate Prediction in Product Search](Industry/Hierarchically%20Fusing%20Long%20and%20Short-Term%20User%20Interests%20for%20Click-Through%20Rate%20Prediction%20in%20Product%20Search.pdf)
 - [Hybrid Interest Modeling for Long-tailed Users](Industry/Hybrid%20Interest%20Modeling%20for%20Long-tailed%20Users.pdf)
@@ -485,7 +486,6 @@
 - [Graph Neural Networks for Friend Ranking in Large-scale Social Platforms](Match/GNN/Graph%20Neural%20Networks%20for%20Friend%20Ranking%20in%20Large-scale%20Social%20Platforms.pdf)
 - [Graph Intention Network for Click-through Rate Prediction in Sponsored Search](Match/GNN/Graph%20Intention%20Network%20for%20Click-through%20Rate%20Prediction%20in%20Sponsored%20Search.pdf)
 - [Graph Neural Network for Tag Ranking in Tag-enhanced Video Recommendation](Match/GNN/Graph%20Neural%20Network%20for%20Tag%20Ranking%20in%20Tag-enhanced%20Video%20Recommendation.pdf)
-- [Graph-Based Model-Agnostic Data Subsampling for Recommendation Systems](Match/GNN/Graph-Based%20Model-Agnostic%20Data%20Subsampling%20for%20Recommendation%20Systems.pdf)
 - [Graph Neural Networks for Social Recommendation](Match/GNN/Graph%20Neural%20Networks%20for%20Social%20Recommendation.pdf)
 - [GraphSAIL - Graph Structure Aware Incremental Learning for Recommender Systems](Match/GNN/GraphSAIL%20-%20Graph%20Structure%20Aware%20Incremental%20Learning%20for%20Recommender%20Systems.pdf)
 - [Hessian-aware Quantized Node Embeddings for Recommendation](Match/GNN/Hessian-aware%20Quantized%20Node%20Embeddings%20for%20Recommendation.pdf)
@@ -625,6 +625,7 @@
 - [AutoDebias - Learning to Debias for Recommendation](Debias/AutoDebias%20-%20Learning%20to%20Debias%20for%20Recommendation.pdf)
 - [Bias and Debias in Recommender System - A Survey and Future Directions](Debias/Bias%20and%20Debias%20in%20Recommender%20System%20-%20A%20Survey%20and%20Future%20Directions.pdf)
 - [Co-training Disentangled Domain Adaptation Network for Leveraging Popularity Bias in Recommenders](Debias/Co-training%20Disentangled%20Domain%20Adaptation%20Network%20for%20Leveraging%20Popularity%20Bias%20in%20Recommenders.pdf)
+- [Counterfactual Video Recommendation for Duration Debiasing](Debias/Counterfactual%20Video%20Recommendation%20for%20Duration%20Debiasing.pdf)
 - [Causal Intervention for Leveraging Popularity Bias in Recommendation](Debias/Causal%20Intervention%20for%20Leveraging%20Popularity%20Bias%20in%20Recommendation.pdf)
 - [Deep Position-wise Interaction Network for CTR Prediction](Debias/Deep%20Position-wise%20Interaction%20Network%20for%20CTR%20Prediction.pdf)
 - [Debiased Recommendation with User Feature Balancing](Debias/Debiased%20Recommendation%20with%20User%20Feature%20Balancing.pdf)
