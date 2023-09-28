@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-09-26, **774** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-09-28, **776** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -183,6 +183,7 @@ I will remove it immediately after verification.
 - [[2019] Latent Factor Models and Aggregation Operators for Collaborative Filtering in Reciprocal Recommender Systems](Industry/Reciprocal/%5B2019%5D%20Latent%20Factor%20Models%20and%20Aggregation%20Operators%20for%20Collaborative%20Filtering%20in%20Reciprocal%20Recommender%20Systems.pdf)
 - [[2022] MATCHING THEORY-BASED RECOMMENDER SYSTEMS IN ONLINE DATING](Industry/Reciprocal/%5B2022%5D%20MATCHING%20THEORY-BASED%20RECOMMENDER%20SYSTEMS%20IN%20ONLINE%20DATING.pdf)
 - [[2022][Boss][DPGNN] Modeling Two-Way Selection Preference for Person-Job Fit](Industry/Reciprocal/%5B2022%5D%5BBoss%5D%5BDPGNN%5D%20Modeling%20Two-Way%20Selection%20Preference%20for%20Person-Job%20Fit.pdf)
+- [BOSS - A Bilateral Occupational-Suitability-Aware Recommender System for Online Recruitment](Industry/Reciprocal/BOSS%20-%20A%20Bilateral%20Occupational-Suitability-Aware%20Recommender%20System%20for%20Online%20Recruitment.pdf)
 - [Optimally Balancing Receiver and Recommended Users’ Importance in Reciprocal Recommender Systems](Industry/Reciprocal/Optimally%20Balancing%20Receiver%20and%20Recommended%20Users%E2%80%99%20Importance%20in%20Reciprocal%20Recommender%20Systems.pdf)
 - [Providing Explanations for Recommendations in Reciprocal Environments](Industry/Reciprocal/Providing%20Explanations%20for%20Recommendations%20in%20Reciprocal%20Environments.pdf)
 - [Reciprocal Recommendation for Job Matching with Bidirectional Feedback](Industry/Reciprocal/Reciprocal%20Recommendation%20for%20Job%20Matching%20with%20Bidirectional%20Feedback.pdf)
@@ -735,6 +736,7 @@ I will remove it immediately after verification.
 - [Contrastive Learning for Cold-Start Recommendation](Cold-Start/Contrastive%20Learning%20for%20Cold-Start%20Recommendation.pdf)
 - [Cold-start Sequential Recommendation via Meta Learner](Cold-Start/Cold-start%20Sequential%20Recommendation%20via%20Meta%20Learner.pdf)
 - [Contrastive Collaborative Filtering for Cold-Start Item Recommendation](Cold-Start/Contrastive%20Collaborative%20Filtering%20for%20Cold-Start%20Item%20Recommendation.pdf)
+- [Cold & Warm Net - Addressing Cold-Start Users in Recommender Systems](Cold-Start/Cold%20%26%20Warm%20Net%20-%20Addressing%20Cold-Start%20Users%20in%20Recommender%20Systems.pdf)
 - [Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN)](Cold-Start/Empowering%20Long-tail%20Item%20Recommendation%20through%20Cross%20Decoupling%20Network%20%28CDN%29.pdf)
 - [Fresh Content Needs More Attention - Multi-funnel Fresh Content Recommendation](Cold-Start/Fresh%20Content%20Needs%20More%20Attention%20-%20Multi-funnel%20Fresh%20Content%20Recommendation.pdf)
 - [GIFT - Graph-guIded Feature Transfer for Cold-Start Video Click-Through Rate Prediction](Cold-Start/GIFT%20-%20Graph-guIded%20Feature%20Transfer%20for%20Cold-Start%20Video%20Click-Through%20Rate%20Prediction.pdf)
