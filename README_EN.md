@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-09-28, **776** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-10-02, **782** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -100,6 +100,7 @@ I will remove it immediately after verification.
 - [Attention Mixtures for Time-Aware Sequential Recommendation](Industry/Attention%20Mixtures%20for%20Time-Aware%20Sequential%20Recommendation.pdf)
 - [A Self-Correcting Sequential Recommender](Industry/A%20Self-Correcting%20Sequential%20Recommender.pdf)
 - [Breaking the Curse of Quality Saturation with User-Centric Ranking](Industry/Breaking%20the%20Curse%20of%20Quality%20Saturation%20with%20User-Centric%20Ranking.pdf)
+- [Click-aware Structure Transfer with Sample Weight Assignment for Post-Click Conversion Rate Estimation](Industry/Click-aware%20Structure%20Transfer%20with%20Sample%20Weight%20Assignment%20for%20Post-Click%20Conversion%20Rate%20Estimation.pdf)
 - [Category-Specific CNN for Visual-aware CTR Prediction at JD.com](Industry/Category-Specific%20CNN%20for%20Visual-aware%20CTR%20Prediction%20at%20JD.com.pdf)
 - [ConsRec - Learning Consensus Behind Interactions for Group Recommendation](Industry/ConsRec%20-%20Learning%20Consensus%20Behind%20Interactions%20for%20Group%20Recommendation.pdf)
 - [CSPM - A Contrastive Spatiotemporal Preference Model for CTR Prediction in On-Demand Food Delivery Services](Industry/CSPM%20-%20A%20Contrastive%20Spatiotemporal%20Preference%20Model%20for%20CTR%20Prediction%20in%20On-Demand%20Food%20Delivery%20Services.pdf)
@@ -135,6 +136,7 @@ I will remove it immediately after verification.
 - [HIEN - Hierarchical Intention Embedding Network for Click-Through Rate Prediction](Industry/HIEN%20-%20Hierarchical%20Intention%20Embedding%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Improving Pairwise Learning for Item Recommendation from Implicit Feedback](Industry/Improving%20Pairwise%20Learning%20for%20Item%20Recommendation%20from%20Implicit%20Feedback.pdf)
 - [Improving Recommendation Quality in Google Drive](Industry/Improving%20Recommendation%20Quality%20in%20Google%20Drive.pdf)
+- [Incorporating Social-aware User Preference for Video Recommendation](Industry/Incorporating%20Social-aware%20User%20Preference%20for%20Video%20Recommendation.pdf)
 - [Improving Deep Learning For Airbnb Search](Industry/Improving%20Deep%20Learning%20For%20Airbnb%20Search.pdf)
 - [Implicit User Awareness Modeling via Candidate Items for CTR Prediction in Search Ads](Industry/Implicit%20User%20Awareness%20Modeling%20via%20Candidate%20Items%20for%20CTR%20Prediction%20in%20Search%20Ads.pdf)
 - [Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation](Industry/Incorporating%20User%20Micro-behaviors%20and%20Item%20Knowledge%20into%20Multi-task%20Learning%20for%20Session-based%20Recommendation.pdf)
@@ -146,6 +148,8 @@ I will remove it immediately after verification.
 - [Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction](Industry/Lifelong%20Sequential%20Modeling%20with%20Personalized%20Memorization%20for%20User%20Response%20Prediction.pdf)
 - [Learning Within-Session Budgets from Browsing Trajectories](Industry/Learning%20Within-Session%20Budgets%20from%20Browsing%20Trajectories.pdf)
 - [Modeling Users’ Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](Industry/Modeling%20Users%E2%80%99%20Contextualized%20Page-wise%20Feedback%20for%20Click-Through%20Rate%20Prediction%20in%20E-commerce%20Search.pdf)
+- [Modeling Multi-aspect Preferences and Intents for Multi-behavioral Sequential Recommendation](Industry/Modeling%20Multi-aspect%20Preferences%20and%20Intents%20for%20Multi-behavioral%20Sequential%20Recommendation.pdf)
+- [Multi-Granularity Click Confidence Learning via Self-Distillation in Recommendation](Industry/Multi-Granularity%20Click%20Confidence%20Learning%20via%20Self-Distillation%20in%20Recommendation.pdf)
 - [MemoNet - Memorizing All Cross Features’ Representations Efficiently via Multi-Hash Codebook Network for CTR Prediction](Industry/MemoNet%20-%20Memorizing%20All%20Cross%20Features%E2%80%99%20Representations%20Efficiently%20via%20Multi-Hash%20Codebook%20Network%20for%20CTR%20Prediction.pdf)
 - [Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction](Industry/Multi-Interactive%20Attention%20Network%20for%20Fine-grained%20Feature%20Learning%20in%20CTR%20Prediction.pdf)
 - [Modeling Mobile User Actions for Purchase Recommendation using Deep Memory Networks](Industry/Modeling%20Mobile%20User%20Actions%20for%20Purchase%20Recommendation%20using%20Deep%20Memory%20Networks.pdf)
@@ -558,6 +562,7 @@ I will remove it immediately after verification.
 - [Multi-Task Learning for Dense Prediction Tasks - A Survey](Multi-Task/Multi-Task%20Learning%20for%20Dense%20Prediction%20Tasks%20-%20A%20Survey.pdf)
 - [Multi-Task Learning as Multi-Objective Optimization - slide](Multi-Task/Multi-Task%20Learning%20as%20Multi-Objective%20Optimization%20-%20slide.pdf)
 - [Multi-Task Deep Recommender Systems - A Survey](Multi-Task/Multi-Task%20Deep%20Recommender%20Systems%20-%20A%20Survey.pdf)
+- [NCS4CVR - Neuron-Connection Sharing for Multi-Task Learning in Video Conversion Rate Prediction](Multi-Task/NCS4CVR%20-%20Neuron-Connection%20Sharing%20for%20Multi-Task%20Learning%20in%20Video%20Conversion%20Rate%20Prediction.pdf)
 - [Optimizing Airbnb Search Journey with Multi-task Learning](Multi-Task/Optimizing%20Airbnb%20Search%20Journey%20with%20Multi-task%20Learning.pdf)
 - [Perceive Your Users in Depth - Learning Universal User Representations from Multiple E-commerce Tasks](Multi-Task/Perceive%20Your%20Users%20in%20Depth%20-%20Learning%20Universal%20User%20Representations%20from%20Multiple%20E-commerce%20Tasks.pdf)
 - [Personalized Approximate Pareto-Efficient Recommendation](Multi-Task/Personalized%20Approximate%20Pareto-Efficient%20Recommendation.pdf)
@@ -748,6 +753,7 @@ I will remove it immediately after verification.
 - [Long-Tail Learning via Logit Adjustment](Cold-Start/Long-Tail%20Learning%20via%20Logit%20Adjustment.pdf)
 - [LHRM - A LBS based Heterogeneous Relations Model for User Cold Start Recommendation in Online Travel Platform](Cold-Start/LHRM%20-%20A%20LBS%20based%20Heterogeneous%20Relations%20Model%20for%20User%20Cold%20Start%20Recommendation%20in%20Online%20Travel%20Platform.pdf)
 - [MAMO - Memory-Augmented Meta-Optimization for Cold-start Recommendation](Cold-Start/MAMO%20-%20Memory-Augmented%20Meta-Optimization%20for%20Cold-start%20Recommendation.pdf)
+- [Neighbor Based Enhancement for the Long-Tail Ranking Problem in Video Rank Models](Cold-Start/Neighbor%20Based%20Enhancement%20for%20the%20Long-Tail%20Ranking%20Problem%20in%20Video%20Rank%20Models.pdf)
 - [SMINet - State-Aware Multi-Aspect Interests Representation Network for Cold-Start Users Recommendation](Cold-Start/SMINet%20-%20State-Aware%20Multi-Aspect%20Interests%20Representation%20Network%20for%20Cold-Start%20Users%20Recommendation.pdf)
 - [Task-adaptive Neural Process for User Cold-Start Recommendation](Cold-Start/Task-adaptive%20Neural%20Process%20for%20User%20Cold-Start%20Recommendation.pdf)
 - [Transform Cold-Start Users into Warm via Fused Behaviors in Large-Scale Recommendation](Cold-Start/Transform%20Cold-Start%20Users%20into%20Warm%20via%20Fused%20Behaviors%20in%20Large-Scale%20Recommendation.pdf)
