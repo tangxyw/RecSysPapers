@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-10-02, **782** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-10-09, **783** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -790,6 +790,7 @@ I will remove it immediately after verification.
 - [From RankNet to LambdaRank to LambdaMART](Learning-to-Rank/List-wise/From%20RankNet%20to%20LambdaRank%20to%20LambdaMART.pdf)
 - [LambdaMART - Adapting Boosting for Information Retrieval Measures](Learning-to-Rank/List-wise/LambdaMART%20-%20Adapting%20Boosting%20for%20Information%20Retrieval%20Measures.pdf)
 - [ListNet - Learning to Rank - From Pairwise Approach to Listwise Approach](Learning-to-Rank/List-wise/ListNet%20-%20Learning%20to%20Rank%20-%20From%20Pairwise%20Approach%20to%20Listwise%20Approach.pdf)
+- [RankFormer - Listwise Learning-to-Rank Using Listwide Labels](Learning-to-Rank/List-wise/RankFormer%20-%20Listwise%20Learning-to-Rank%20Using%20Listwide%20Labels.pdf)
 ## Fairness
 - [[2020][FairCo] Controlling Fairness and Bias in Dynamic Learning-to-Rank](Fairness/%5B2020%5D%5BFairCo%5D%20Controlling%20Fairness%20and%20Bias%20in%20Dynamic%20Learning-to-Rank.pdf)
 - [Equity of Attention - Amortizing Individual Fairness in Rankings](Fairness/Equity%20of%20Attention%20-%20Amortizing%20Individual%20Fairness%20in%20Rankings.pdf)
