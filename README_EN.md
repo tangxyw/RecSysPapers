@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-10-09, **783** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-10-13, **784** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -138,6 +138,7 @@ I will remove it immediately after verification.
 - [Improving Recommendation Quality in Google Drive](Industry/Improving%20Recommendation%20Quality%20in%20Google%20Drive.pdf)
 - [Incorporating Social-aware User Preference for Video Recommendation](Industry/Incorporating%20Social-aware%20User%20Preference%20for%20Video%20Recommendation.pdf)
 - [Improving Deep Learning For Airbnb Search](Industry/Improving%20Deep%20Learning%20For%20Airbnb%20Search.pdf)
+- [Interpretable User Retention Modeling in Recommendation](Industry/Interpretable%20User%20Retention%20Modeling%20in%20Recommendation.pdf)
 - [Implicit User Awareness Modeling via Candidate Items for CTR Prediction in Search Ads](Industry/Implicit%20User%20Awareness%20Modeling%20via%20Candidate%20Items%20for%20CTR%20Prediction%20in%20Search%20Ads.pdf)
 - [Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation](Industry/Incorporating%20User%20Micro-behaviors%20and%20Item%20Knowledge%20into%20Multi-task%20Learning%20for%20Session-based%20Recommendation.pdf)
 - [Learning from All Sides - Diversified Positive Augmentation via Self-distillation in Recommendation](Industry/Learning%20from%20All%20Sides%20-%20Diversified%20Positive%20Augmentation%20via%20Self-distillation%20in%20Recommendation.pdf)
