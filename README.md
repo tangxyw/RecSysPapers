@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-10-13，本仓库收集汇总了推荐系统领域相关论文共**784**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-10-18，本仓库收集汇总了推荐系统领域相关论文共**786**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -80,6 +80,7 @@
 - [[2021][Google] Bootstrapping Recommendations at Chrome Web Store](Industry/%5B2021%5D%5BGoogle%5D%20Bootstrapping%20Recommendations%20at%20Chrome%20Web%20Store.pdf)
 - [[2022][Alibaba] Towards Understanding the Overfitting Phenomenon of Deep Click-Through Rate Prediction Models](Industry/%5B2022%5D%5BAlibaba%5D%20Towards%20Understanding%20the%20Overfitting%20Phenomenon%20of%20Deep%20Click-Through%20Rate%20Prediction%20Models.pdf)
 - [[2022][Google] On the Factory Floor - ML Engineering for Industrial-Scale Ads Recommendation Models](Industry/%5B2022%5D%5BGoogle%5D%20On%20the%20Factory%20Floor%20-%20ML%20Engineering%20for%20Industrial-Scale%20Ads%20Recommendation%20Models.pdf)
+- [[2023][Huawei] Ten Challenges in Industrial Recommender Systems](Industry/%5B2023%5D%5BHuawei%5D%20Ten%20Challenges%20in%20Industrial%20Recommender%20Systems.pdf)
 - [[2023][Alibaba][JRC] Joint Optimization of Ranking and Calibration with Contextualized Hybrid Model](Industry/%5B2023%5D%5BAlibaba%5D%5BJRC%5D%20Joint%20Optimization%20of%20Ranking%20and%20Calibration%20with%20Contextualized%20Hybrid%20Model.pdf)
 - [[2023] Methodologies for Improving Modern Industrial Recommender Systems](Industry/%5B2023%5D%20Methodologies%20for%20Improving%20Modern%20Industrial%20Recommender%20Systems.pdf)
 - [AutoSeqRec - Autoencoder for Efficient Sequential Recommendation](Industry/AutoSeqRec%20-%20Autoencoder%20for%20Efficient%20Sequential%20Recommendation.pdf)
@@ -144,6 +145,7 @@
 - [Modeling Users’ Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](Industry/Modeling%20Users%E2%80%99%20Contextualized%20Page-wise%20Feedback%20for%20Click-Through%20Rate%20Prediction%20in%20E-commerce%20Search.pdf)
 - [Modeling Multi-aspect Preferences and Intents for Multi-behavioral Sequential Recommendation](Industry/Modeling%20Multi-aspect%20Preferences%20and%20Intents%20for%20Multi-behavioral%20Sequential%20Recommendation.pdf)
 - [Multi-Granularity Click Confidence Learning via Self-Distillation in Recommendation](Industry/Multi-Granularity%20Click%20Confidence%20Learning%20via%20Self-Distillation%20in%20Recommendation.pdf)
+- [Making Users Indistinguishable - Attribute-wise Unlearning in Recommender Systems](Industry/Making%20Users%20Indistinguishable%20-%20Attribute-wise%20Unlearning%20in%20Recommender%20Systems.pdf)
 - [MemoNet - Memorizing All Cross Features’ Representations Efficiently via Multi-Hash Codebook Network for CTR Prediction](Industry/MemoNet%20-%20Memorizing%20All%20Cross%20Features%E2%80%99%20Representations%20Efficiently%20via%20Multi-Hash%20Codebook%20Network%20for%20CTR%20Prediction.pdf)
 - [Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction](Industry/Multi-Interactive%20Attention%20Network%20for%20Fine-grained%20Feature%20Learning%20in%20CTR%20Prediction.pdf)
 - [Modeling Mobile User Actions for Purchase Recommendation using Deep Memory Networks](Industry/Modeling%20Mobile%20User%20Actions%20for%20Purchase%20Recommendation%20using%20Deep%20Memory%20Networks.pdf)
