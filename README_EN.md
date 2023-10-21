@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-10-18, **786** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-10-21, **787** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -425,6 +425,7 @@ I will remove it immediately after verification.
 - [Outer Product-based Neural Collaborative Filtering](Match/Outer%20Product-based%20Neural%20Collaborative%20Filtering.pdf)
 - [On the Theories Behind Hard Negative Sampling for Recommendation](Match/On%20the%20Theories%20Behind%20Hard%20Negative%20Sampling%20for%20Recommendation.pdf)
 - [PinnerSage - Multi-Modal User Embedding Framework for Recommendations at Pinterest](Match/PinnerSage%20-%20Multi-Modal%20User%20Embedding%20Framework%20for%20Recommendations%20at%20Pinterest.pdf)
+- [Pre-training Tasks for User Intent Detection and Embedding Retrieval in E-commerce Search](Match/Pre-training%20Tasks%20for%20User%20Intent%20Detection%20and%20Embedding%20Retrieval%20in%20E-commerce%20Search.pdf)
 - [Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding](Match/Personalized%20Top-N%20Sequential%20Recommendation%20via%20Convolutional%20Sequence%20Embedding.pdf)
 - [Path-based Deep Network for Candidate Item Matching in Recommenders](Match/Path-based%20Deep%20Network%20for%20Candidate%20Item%20Matching%20in%20Recommenders.pdf)
 - [Que2Search - Fast and Accurate Query and Document Understanding for Search at Facebook](Match/Que2Search%20-%20Fast%20and%20Accurate%20Query%20and%20Document%20Understanding%20for%20Search%20at%20Facebook.pdf)
