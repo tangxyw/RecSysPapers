@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-10-21, **787** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-10-23, **787** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -383,6 +383,7 @@ I will remove it immediately after verification.
 - [[2021][Alibaba][MGDSPR] Embedding-based Product Retrieval in Taobao Search](Match/%5B2021%5D%5BAlibaba%5D%5BMGDSPR%5D%20Embedding-based%20Product%20Retrieval%20in%20Taobao%20Search.pdf)
 - [[2021][Alibaba][XDM] XDM - Improving Sequential Deep Matching with Unclicked User Behaviors for Recommender System](Match/%5B2021%5D%5BAlibaba%5D%5BXDM%5D%20XDM%20-%20Improving%20Sequential%20Deep%20Matching%20with%20Unclicked%20User%20Behaviors%20for%20Recommender%20System.pdf)
 - [[2023] Adap-tau - Adaptively Modulating Embedding Magnitude for Recommendation](Match/%5B2023%5D%20Adap-tau%20-%20Adaptively%20Modulating%20Embedding%20Magnitude%20for%20Recommendation.pdf)
+- [[2023][JD][MMSE] Learning Multi-Stage Multi-Grained Semantic Embeddings for E-Commerce Search](Match/%5B2023%5D%5BJD%5D%5BMMSE%5D%20Learning%20Multi-Stage%20Multi-Grained%20Semantic%20Embeddings%20for%20E-Commerce%20Search.pdf)
 - [Attentive Collaborative Filtering - Multimedia Recommendation with Item- and Component-Level Aention](Match/Attentive%20Collaborative%20Filtering%20-%20Multimedia%20Recommendation%20with%20Item-%20and%20Component-Level%20A%C2%82ention.pdf)
 - [Attentive Sequential Models of Latent Intent for Next Item Recommendation](Match/Attentive%20Sequential%20Models%20of%20Latent%20Intent%20for%20Next%20Item%20Recommendation.pdf)
 - [A User-Centered Concept Mining System for Query and Document Understanding at Tencent](Match/A%20User-Centered%20Concept%20Mining%20System%20for%20Query%20and%20Document%20Understanding%20at%20Tencent.pdf)
@@ -413,7 +414,6 @@ I will remove it immediately after verification.
 - [Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking](Match/Latent%20Relational%20Metric%20Learning%20via%20Memory-based%20Attention%20for%20Collaborative%20Ranking.pdf)
 - [Learning from History and Present - Next-item Recommendation via Discriminatively Exploiting User Behaviors](Match/Learning%20from%20History%20and%20Present%20-%20Next-item%20Recommendation%20via%20Discriminatively%20Exploiting%20User%20Behaviors.pdf)
 - [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](Match/Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf)
-- [Learning Multi-Stage Multi-Grained Semantic Embeddings for E-Commerce Search](Match/Learning%20Multi-Stage%20Multi-Grained%20Semantic%20Embeddings%20for%20E-Commerce%20Search.pdf)
 - [Locker - Locally Constrained Self-Attentive Sequential Recommendation](Match/Locker%20-%20Locally%20Constrained%20Self-Attentive%20Sequential%20Recommendation.pdf)
 - [Multi-Objective Personalized Product Retrieval in Taobao Search](Match/Multi-Objective%20Personalized%20Product%20Retrieval%20in%20Taobao%20Search.pdf)
 - [Modeling Dynamic Missingness of Implicit Feedback for Recommendation](Match/Modeling%20Dynamic%20Missingness%20of%20Implicit%20Feedback%20for%20Recommendation.pdf)
