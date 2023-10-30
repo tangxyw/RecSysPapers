@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-10-23，本仓库收集汇总了推荐系统领域相关论文共**787**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-10-30，本仓库收集汇总了推荐系统领域相关论文共**789**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -165,6 +165,7 @@
 - [Surrogate for Long-Term User Experience in Recommender Systems](Industry/Surrogate%20for%20Long-Term%20User%20Experience%20in%20Recommender%20Systems.pdf)
 - [Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction](Industry/Sampling%20Is%20All%20You%20Need%20on%20Modeling%20Long-Term%20User%20Behaviors%20for%20CTR%20Prediction.pdf)
 - [Triangle Graph Interest Network for Click-through Rate Prediction](Industry/Triangle%20Graph%20Interest%20Network%20for%20Click-through%20Rate%20Prediction.pdf)
+- [To Copy, or not to Copy; That is a Critical Issue of the Output Softmax Layer in Neural Sequential Recommenders](Industry/To%20Copy%2C%20or%20not%20to%20Copy%3B%20That%20is%20a%20Critical%20Issue%20of%20the%20Output%20Softmax%20Layer%20in%20Neural%20Sequential%20Recommenders.pdf)
 - [TencentRec - Real-time Stream Recommendation in Practice](Industry/TencentRec%20-%20Real-time%20Stream%20Recommendation%20in%20Practice.pdf)
 - [Temporal Interest Network for Click-Through Rate Prediction](Industry/Temporal%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [TransAct - Transformer-based Realtime User Action Model for Recommendation at Pinterest](Industry/TransAct%20-%20Transformer-based%20Realtime%20User%20Action%20Model%20for%20Recommendation%20at%20Pinterest.pdf)
@@ -424,6 +425,7 @@
 - [Que2Search - Fast and Accurate Query and Document Understanding for Search at Facebook](Match/Que2Search%20-%20Fast%20and%20Accurate%20Query%20and%20Document%20Understanding%20for%20Search%20at%20Facebook.pdf)
 - [Que2Engage - Embedding-based Retrieval for Relevant and Engaging Products at Facebook Marketplace](Match/Que2Engage%20-%20Embedding-based%20Retrieval%20for%20Relevant%20and%20Engaging%20Products%20at%20Facebook%20Marketplace.pdf)
 - [Representing and Recommending Shopping Baskets with Complementarity, Compatibility, and Loyalty](Match/Representing%20and%20Recommending%20Shopping%20Baskets%20with%20Complementarity%2C%20Compatibility%2C%20and%20Loyalty.pdf)
+- [Robust Representation Learning for Unified Online Top-K Recommendation](Match/Robust%20Representation%20Learning%20for%20Unified%20Online%20Top-K%20Recommendation.pdf)
 - [Revisiting Neural Retrieval on Accelerators](Match/Revisiting%20Neural%20Retrieval%20on%20Accelerators.pdf)
 - [Recommendation on Live - Streaming Platforms- Dynamic Availability and Repeat Consumption](Match/Recommendation%20on%20Live%20-%20Streaming%20Platforms-%20Dynamic%20Availability%20and%20Repeat%20Consumption.pdf)
 - [Sequential Recommender System based on Hierarchical Attention Network](Match/Sequential%20Recommender%20System%20based%20on%20Hierarchical%20Attention%20Network.pdf)
