@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-10-30，本仓库收集汇总了推荐系统领域相关论文共**789**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-11-02，本仓库收集汇总了推荐系统领域相关论文共**791**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -386,6 +386,7 @@
 - [A Simple Convolutional Generative Network for Next Item Recommendation](Match/A%20Simple%20Convolutional%20Generative%20Network%20for%20Next%20Item%20Recommendation.pdf)
 - [A Dual Augmented Two-tower Model for Online Large-scale Recommendation](Match/A%20Dual%20Augmented%20Two-tower%20Model%20for%20Online%20Large-scale%20Recommendation.pdf)
 - [Binary Embedding-based Retrieval at Tencent](Match/Binary%20Embedding-based%20Retrieval%20at%20Tencent.pdf)
+- [Beyond Two-Tower Matching - Learning Sparse Retrievable Cross-Interactions for Recommendation](Match/Beyond%20Two-Tower%20Matching%20-%20Learning%20Sparse%20Retrievable%20Cross-Interactions%20for%20Recommendation.pdf)
 - [CROLoss - Towards a Customizable Loss for Retrieval Models in Recommender Systems](Match/CROLoss%20-%20Towards%20a%20Customizable%20Loss%20for%20Retrieval%20Models%20in%20Recommender%20Systems.pdf)
 - [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](Match/Collaborative%20Denoising%20Auto-Encoders%20for%20Top-N%20Recommender%20Systems.pdf)
 - [Coarse-to-Fine Sparse Sequential Recommendation](Match/Coarse-to-Fine%20Sparse%20Sequential%20Recommendation.pdf)
@@ -598,6 +599,7 @@
 - [A Collaborative Transfer Learning Framework for Cross-domain Recommendation](Multi-Scenario/A%20Collaborative%20Transfer%20Learning%20Framework%20for%20Cross-domain%20Recommendation.pdf)
 - [A Survey on Cross-domain Recommendation - Taxonomies, Methods, and Future Directions](Multi-Scenario/A%20Survey%20on%20Cross-domain%20Recommendation%20-%20Taxonomies%2C%20Methods%2C%20and%20Future%20Directions.pdf)
 - [Adaptive Domain Interest Network for Multi-domain Recommendation](Multi-Scenario/Adaptive%20Domain%20Interest%20Network%20for%20Multi-domain%20Recommendation.pdf)
+- [BOMGraph - Boosting Multi-scenario E-commerce Search with a Unified Graph Neural Network](Multi-Scenario/BOMGraph%20-%20Boosting%20Multi-scenario%20E-commerce%20Search%20with%20a%20Unified%20Graph%20Neural%20Network.pdf)
 - [Cross-domain recommendation via user interest alignment](Multi-Scenario/Cross-domain%20recommendation%20via%20user%20interest%20alignment.pdf)
 - [Cross-Domain Recommendation- Challenges, Progress, and Prospects](Multi-Scenario/Cross-Domain%20Recommendation-%20Challenges%2C%20Progress%2C%20and%20Prospects.pdf)
 - [Cross-domain Augmentation Networks for Click-Through Rate Prediction](Multi-Scenario/Cross-domain%20Augmentation%20Networks%20for%20Click-Through%20Rate%20Prediction.pdf)
