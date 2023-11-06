@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-11-02, **791** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-11-06, **793** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -510,6 +510,7 @@ I will remove it immediately after verification.
 - [Hessian-aware Quantized Node Embeddings for Recommendation](Match/GNN/Hessian-aware%20Quantized%20Node%20Embeddings%20for%20Recommendation.pdf)
 - [Improving Accuracy and Diversity in Matching of Recommendation with Diversified Preference Network](Match/GNN/Improving%20Accuracy%20and%20Diversity%20in%20Matching%20of%20Recommendation%20with%20Diversified%20Preference%20Network.pdf)
 - [IntentGC - a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation](Match/GNN/IntentGC%20-%20a%20Scalable%20Graph%20Convolution%20Framework%20Fusing%20Heterogeneous%20Information%20for%20Recommendation.pdf)
+- [LightSAGE - Graph Neural Networks for Large Scale Item Retrieval in Shopee’s Advertisement Recommendation](Match/GNN/LightSAGE%20-%20Graph%20Neural%20Networks%20for%20Large%20Scale%20Item%20Retrieval%20in%20Shopee%E2%80%99s%20Advertisement%20Recommendation.pdf)
 - [MultiSage - Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](Match/GNN/MultiSage%20-%20Empowering%20GCN%20with%20Contextualized%20Multi-Embeddings%20on%20Web-Scale%20Multipartite%20Networks.pdf)
 - [Modeling Dual Period-Varying Preferences for Takeaway Recommendation](Match/GNN/Modeling%20Dual%20Period-Varying%20Preferences%20for%20Takeaway%20Recommendation.pdf)
 - [MMGCN - Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video](Match/GNN/MMGCN%20-%20Multi-modal%20Graph%20Convolution%20Network%20for%20Personalized%20Recommendation%20of%20Micro-video.pdf)
@@ -552,6 +553,7 @@ I will remove it immediately after verification.
 - [Can Small Heads Help Understanding and Improving Multi-Task Generalization](Multi-Task/Can%20Small%20Heads%20Help%20Understanding%20and%20Improving%20Multi-Task%20Generalization.pdf)
 - [Cross-stitch Networks for Multi-task Learning](Multi-Task/Cross-stitch%20Networks%20for%20Multi-task%20Learning.pdf)
 - [Conflict-Averse Gradient Descent for Multi-task Learning](Multi-Task/Conflict-Averse%20Gradient%20Descent%20for%20Multi-task%20Learning.pdf)
+- [CAM2 - Conformity-Aware Multi-Task Ranking Model for Large-Scale Recommender Systems](Multi-Task/CAM2%20-%20Conformity-Aware%20Multi-Task%20Ranking%20Model%20for%20Large-Scale%20Recommender%20Systems.pdf)
 - [Dynamic Task Prioritization for Multitask Learning](Multi-Task/Dynamic%20Task%20Prioritization%20for%20Multitask%20Learning.pdf)
 - [Deep Mutual Learning across Task Towers for Effective Multi-Task Recommender Learning](Multi-Task/Deep%20Mutual%20Learning%20across%20Task%20Towers%20for%20Effective%20Multi-Task%20Recommender%20Learning.pdf)
 - [Deep Task-specific Bottom Representation Network for Multi-Task Recommendation](Multi-Task/Deep%20Task-specific%20Bottom%20Representation%20Network%20for%20Multi-Task%20Recommendation.pdf)

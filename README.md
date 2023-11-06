@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-11-02，本仓库收集汇总了推荐系统领域相关论文共**791**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-11-06，本仓库收集汇总了推荐系统领域相关论文共**793**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -503,6 +503,7 @@
 - [Hessian-aware Quantized Node Embeddings for Recommendation](Match/GNN/Hessian-aware%20Quantized%20Node%20Embeddings%20for%20Recommendation.pdf)
 - [Improving Accuracy and Diversity in Matching of Recommendation with Diversified Preference Network](Match/GNN/Improving%20Accuracy%20and%20Diversity%20in%20Matching%20of%20Recommendation%20with%20Diversified%20Preference%20Network.pdf)
 - [IntentGC - a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation](Match/GNN/IntentGC%20-%20a%20Scalable%20Graph%20Convolution%20Framework%20Fusing%20Heterogeneous%20Information%20for%20Recommendation.pdf)
+- [LightSAGE - Graph Neural Networks for Large Scale Item Retrieval in Shopee’s Advertisement Recommendation](Match/GNN/LightSAGE%20-%20Graph%20Neural%20Networks%20for%20Large%20Scale%20Item%20Retrieval%20in%20Shopee%E2%80%99s%20Advertisement%20Recommendation.pdf)
 - [MultiSage - Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](Match/GNN/MultiSage%20-%20Empowering%20GCN%20with%20Contextualized%20Multi-Embeddings%20on%20Web-Scale%20Multipartite%20Networks.pdf)
 - [Modeling Dual Period-Varying Preferences for Takeaway Recommendation](Match/GNN/Modeling%20Dual%20Period-Varying%20Preferences%20for%20Takeaway%20Recommendation.pdf)
 - [MMGCN - Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video](Match/GNN/MMGCN%20-%20Multi-modal%20Graph%20Convolution%20Network%20for%20Personalized%20Recommendation%20of%20Micro-video.pdf)
@@ -545,6 +546,7 @@
 - [Can Small Heads Help Understanding and Improving Multi-Task Generalization](Multi-Task/Can%20Small%20Heads%20Help%20Understanding%20and%20Improving%20Multi-Task%20Generalization.pdf)
 - [Cross-stitch Networks for Multi-task Learning](Multi-Task/Cross-stitch%20Networks%20for%20Multi-task%20Learning.pdf)
 - [Conflict-Averse Gradient Descent for Multi-task Learning](Multi-Task/Conflict-Averse%20Gradient%20Descent%20for%20Multi-task%20Learning.pdf)
+- [CAM2 - Conformity-Aware Multi-Task Ranking Model for Large-Scale Recommender Systems](Multi-Task/CAM2%20-%20Conformity-Aware%20Multi-Task%20Ranking%20Model%20for%20Large-Scale%20Recommender%20Systems.pdf)
 - [Dynamic Task Prioritization for Multitask Learning](Multi-Task/Dynamic%20Task%20Prioritization%20for%20Multitask%20Learning.pdf)
 - [Deep Mutual Learning across Task Towers for Effective Multi-Task Recommender Learning](Multi-Task/Deep%20Mutual%20Learning%20across%20Task%20Towers%20for%20Effective%20Multi-Task%20Recommender%20Learning.pdf)
 - [Deep Task-specific Bottom Representation Network for Multi-Task Recommendation](Multi-Task/Deep%20Task-specific%20Bottom%20Representation%20Network%20for%20Multi-Task%20Recommendation.pdf)
