@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-11-06, **793** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-11-13, **801** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -90,6 +90,7 @@ I will remove it immediately after verification.
 - [[2023][Huawei] Ten Challenges in Industrial Recommender Systems](Industry/%5B2023%5D%5BHuawei%5D%20Ten%20Challenges%20in%20Industrial%20Recommender%20Systems.pdf)
 - [[2023][Alibaba][JRC] Joint Optimization of Ranking and Calibration with Contextualized Hybrid Model](Industry/%5B2023%5D%5BAlibaba%5D%5BJRC%5D%20Joint%20Optimization%20of%20Ranking%20and%20Calibration%20with%20Contextualized%20Hybrid%20Model.pdf)
 - [[2023] Methodologies for Improving Modern Industrial Recommender Systems](Industry/%5B2023%5D%20Methodologies%20for%20Improving%20Modern%20Industrial%20Recommender%20Systems.pdf)
+- [A Comprehensive Summarization and Evaluation of Feature Refinement Modules for CTR Prediction](Industry/A%20Comprehensive%20Summarization%20and%20Evaluation%20of%20Feature%20Refinement%20Modules%20for%20CTR%20Prediction.pdf)
 - [AutoSeqRec - Autoencoder for Efficient Sequential Recommendation](Industry/AutoSeqRec%20-%20Autoencoder%20for%20Efficient%20Sequential%20Recommendation.pdf)
 - [Adversarial Mixture Of Experts with Category Hierarchy Soft Constraint](Industry/Adversarial%20Mixture%20Of%20Experts%20with%20Category%20Hierarchy%20Soft%20Constraint.pdf)
 - [Alternating Pointwise-Pairwise Learning for Personalized Item Ranking](Industry/Alternating%20Pointwise-Pairwise%20Learning%20for%20Personalized%20Item%20Ranking.pdf)
@@ -221,6 +222,7 @@ I will remove it immediately after verification.
 - [Learning from Negative User Feedback and Measuring Responsiveness for Sequential Recommenders](Industry/NegativeFeedback/Learning%20from%20Negative%20User%20Feedback%20and%20Measuring%20Responsiveness%20for%20Sequential%20Recommenders.pdf)
 #### BigPromotion
 - [Capturing Conversion Rate Fluctuation during Sales Promotions - A Novel Historical Data Reuse Approach](Industry/BigPromotion/Capturing%20Conversion%20Rate%20Fluctuation%20during%20Sales%20Promotions%20-%20A%20Novel%20Historical%20Data%20Reuse%20Approach.pdf)
+- [Multi-task based Sales Predictions for Online Promotions](Industry/BigPromotion/Multi-task%20based%20Sales%20Predictions%20for%20Online%20Promotions.pdf)
 #### Bundle
 - [Bundle Recommendation with Graph Convolutional Networks](Industry/Bundle/Bundle%20Recommendation%20with%20Graph%20Convolutional%20Networks.pdf)
 - [Bundle MCR - Towards Conversational Bundle Recommendation](Industry/Bundle/Bundle%20MCR%20-%20Towards%20Conversational%20Bundle%20Recommendation.pdf)
@@ -432,6 +434,7 @@ I will remove it immediately after verification.
 - [Path-based Deep Network for Candidate Item Matching in Recommenders](Match/Path-based%20Deep%20Network%20for%20Candidate%20Item%20Matching%20in%20Recommenders.pdf)
 - [Que2Search - Fast and Accurate Query and Document Understanding for Search at Facebook](Match/Que2Search%20-%20Fast%20and%20Accurate%20Query%20and%20Document%20Understanding%20for%20Search%20at%20Facebook.pdf)
 - [Que2Engage - Embedding-based Retrieval for Relevant and Engaging Products at Facebook Marketplace](Match/Que2Engage%20-%20Embedding-based%20Retrieval%20for%20Relevant%20and%20Engaging%20Products%20at%20Facebook%20Marketplace.pdf)
+- [Recommender Systems with Generative Retrieval](Match/Recommender%20Systems%20with%20Generative%20Retrieval.pdf)
 - [Representing and Recommending Shopping Baskets with Complementarity, Compatibility, and Loyalty](Match/Representing%20and%20Recommending%20Shopping%20Baskets%20with%20Complementarity%2C%20Compatibility%2C%20and%20Loyalty.pdf)
 - [Robust Representation Learning for Unified Online Top-K Recommendation](Match/Robust%20Representation%20Learning%20for%20Unified%20Online%20Top-K%20Recommendation.pdf)
 - [Revisiting Neural Retrieval on Accelerators](Match/Revisiting%20Neural%20Retrieval%20on%20Accelerators.pdf)
@@ -443,6 +446,7 @@ I will remove it immediately after verification.
 - [Self-Attentive Sequential Recommendation](Match/Self-Attentive%20Sequential%20Recommendation.pdf)
 - [StarSpace - Embed All The Things!](Match/StarSpace%20-%20Embed%20All%20The%20Things%21.pdf)
 - [SimpleX - A Simple and Strong Baseline for Collaborative Filtering](Match/SimpleX%20-%20A%20Simple%20and%20Strong%20Baseline%20for%20Collaborative%20Filtering.pdf)
+- [Towards Automated Negative Sampling in Implicit Recommendation](Match/Towards%20Automated%20Negative%20Sampling%20in%20Implicit%20Recommendation.pdf)
 - [Towards Personalized and Semantic Retrieval - An End-to-End Solution for E-commerce Search via Embedding Learning](Match/Towards%20Personalized%20and%20Semantic%20Retrieval%20-%20An%20End-to-End%20Solution%20for%20E-commerce%20Search%20via%20Embedding%20Learning.pdf)
 - [Uni-Retriever - Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search](Match/Uni-Retriever%20-%20Towards%20Learning%20The%20Unified%20Embedding%20Based%20Retriever%20in%20Bing%20Sponsored%20Search.pdf)
 - [Variational Autoencoders for Collaborative Filtering](Match/Variational%20Autoencoders%20for%20Collaborative%20Filtering.pdf)
@@ -594,6 +598,7 @@ I will remove it immediately after verification.
 - [Multi-Modal Self-Supervised Learning for Recommendation](Multi-Modal/Multi-Modal%20Self-Supervised%20Learning%20for%20Recommendation.pdf)
 - [MM-GEF - Multi-modal representation meet collaborative filtering](Multi-Modal/MM-GEF%20-%20Multi-modal%20representation%20meet%20collaborative%20filtering.pdf)
 - [Pretraining Representations of Multi-modal Multi-query E-commerce Search](Multi-Modal/Pretraining%20Representations%20of%20Multi-modal%20Multi-query%20E-commerce%20Search.pdf)
+- [Universal Multi-modal Multi-domain Pre-trained Recommendation](Multi-Modal/Universal%20Multi-modal%20Multi-domain%20Pre-trained%20Recommendation.pdf)
 ## Multi-Scenario
 - [[2020][JD][DADNN] DADNN - Multi-Scene CTR Prediction via Domain-Aware Deep Neural Network](Multi-Scenario/%5B2020%5D%5BJD%5D%5BDADNN%5D%20DADNN%20-%20Multi-Scene%20CTR%20Prediction%20via%20Domain-Aware%20Deep%20Neural%20Network.pdf)
 - [[2021][Alibaba][STAR] One Model to Serve All - Star Topology Adaptive Recommenderfor Multi-Domain CTR Prediction](Multi-Scenario/%5B2021%5D%5BAlibaba%5D%5BSTAR%5D%20One%20Model%20to%20Serve%20All%20-%20Star%20Topology%20Adaptive%20Recommenderfor%20Multi-Domain%20CTR%20Prediction.pdf)
@@ -613,6 +618,7 @@ I will remove it immediately after verification.
 - [Cross-Domain Recommendation- Challenges, Progress, and Prospects](Multi-Scenario/Cross-Domain%20Recommendation-%20Challenges%2C%20Progress%2C%20and%20Prospects.pdf)
 - [Cross-domain Augmentation Networks for Click-Through Rate Prediction](Multi-Scenario/Cross-domain%20Augmentation%20Networks%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Cross Domain Recommendation via Bi-directional Transfer Graph Collaborative Filtering Networks](Multi-Scenario/Cross%20Domain%20Recommendation%20via%20Bi-directional%20Transfer%20Graph%20Collaborative%20Filtering%20Networks.pdf)
+- [CDR-Adapter - Learning Adapters to Dig Out More Transferring Ability for Cross-Domain Recommendation Models](Multi-Scenario/CDR-Adapter%20-%20Learning%20Adapters%20to%20Dig%20Out%20More%20Transferring%20Ability%20for%20Cross-Domain%20Recommendation%20Models.pdf)
 - [Cross-Domain Recommendation - An Embedding and Mapping Approach](Multi-Scenario/Cross-Domain%20Recommendation%20-%20An%20Embedding%20and%20Mapping%20Approach.pdf)
 - [CoNet - Collaborative Cross Networks for Cross-Domain Recommendation](Multi-Scenario/CoNet%20-%20Collaborative%20Cross%20Networks%20for%20Cross-Domain%20Recommendation.pdf)
 - [Cross domain recommendation based on multi-type media fusion](Multi-Scenario/Cross%20domain%20recommendation%20based%20on%20multi-type%20media%20fusion.pdf)
@@ -633,6 +639,7 @@ I will remove it immediately after verification.
 - [Multi-Graph based Multi-Scenario Recommendation in Large-scale Online Video Services](Multi-Scenario/Multi-Graph%20based%20Multi-Scenario%20Recommendation%20in%20Large-scale%20Online%20Video%20Services.pdf)
 - [Multi-Scenario Ranking with Adaptive Feature Learning](Multi-Scenario/Multi-Scenario%20Ranking%20with%20Adaptive%20Feature%20Learning.pdf)
 - [Personalized Transfer of User Preferences for Cross-domain Recommendation](Multi-Scenario/Personalized%20Transfer%20of%20User%20Preferences%20for%20Cross-domain%20Recommendation.pdf)
+- [Rethinking Cross-Domain Sequential Recommendation under Open-World Assumptions](Multi-Scenario/Rethinking%20Cross-Domain%20Sequential%20Recommendation%20under%20Open-World%20Assumptions.pdf)
 - [SAMD - An Industrial Framework for Heterogeneous Multi-Scenario Recommendation](Multi-Scenario/SAMD%20-%20An%20Industrial%20Framework%20for%20Heterogeneous%20Multi-Scenario%20Recommendation.pdf)
 - [SAR-Net - A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios](Multi-Scenario/SAR-Net%20-%20A%20Scenario-Aware%20Ranking%20Network%20for%20Personalized%20Fair%20Recommendation%20in%20Hundreds%20of%20Travel%20Scenarios.pdf)
 - [Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation](Multi-Scenario/Scenario-Aware%20Hierarchical%20Dynamic%20Network%20for%20Multi-Scenario%20Recommendation.pdf)
@@ -774,6 +781,7 @@ I will remove it immediately after verification.
 - [An Empirical Evaluation of Thompson Sampling](Cold-Start/Exploration%26Exploitation/An%20Empirical%20Evaluation%20of%20Thompson%20Sampling.pdf)
 - [Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction](Cold-Start/Exploration%26Exploitation/Adversarial%20Gradient%20Driven%20Exploration%20for%20Deep%20Click-Through%20Rate%20Prediction.pdf)
 - [A Contextual-Bandit Approach to Personalized News Article Recommendation](Cold-Start/Exploration%26Exploitation/A%20Contextual-Bandit%20Approach%20to%20Personalized%20News%20Article%20Recommendation.pdf)
+- [Blocked Collaborative Bandits - Online Collaborative Filtering with Per-Item Budget Constraints](Cold-Start/Exploration%26Exploitation/Blocked%20Collaborative%20Bandits%20-%20Online%20Collaborative%20Filtering%20with%20Per-Item%20Budget%20Constraints.pdf)
 - [Comparison-based Conversational Recommender System with Relative Bandit Feedback](Cold-Start/Exploration%26Exploitation/Comparison-based%20Conversational%20Recommender%20System%20with%20Relative%20Bandit%20Feedback.pdf)
 - [Efficient Sparse Linear Bandits under High Dimensional Data](Cold-Start/Exploration%26Exploitation/Efficient%20Sparse%20Linear%20Bandits%20under%20High%20Dimensional%20Data.pdf)
 - [Scalable Neural Contextual Bandit for Recommender Systems](Cold-Start/Exploration%26Exploitation/Scalable%20Neural%20Contextual%20Bandit%20for%20Recommender%20Systems.pdf)
