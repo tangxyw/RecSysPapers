@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-11-20，本仓库收集汇总了推荐系统领域相关论文共**805**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-11-28，本仓库收集汇总了推荐系统领域相关论文共**807**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -149,6 +149,7 @@
 - [Modeling Multi-aspect Preferences and Intents for Multi-behavioral Sequential Recommendation](Industry/Modeling%20Multi-aspect%20Preferences%20and%20Intents%20for%20Multi-behavioral%20Sequential%20Recommendation.pdf)
 - [Multi-Granularity Click Confidence Learning via Self-Distillation in Recommendation](Industry/Multi-Granularity%20Click%20Confidence%20Learning%20via%20Self-Distillation%20in%20Recommendation.pdf)
 - [Making Users Indistinguishable - Attribute-wise Unlearning in Recommender Systems](Industry/Making%20Users%20Indistinguishable%20-%20Attribute-wise%20Unlearning%20in%20Recommender%20Systems.pdf)
+- [Multi-Epoch Learning for Deep Click-Through Rate Prediction Models](Industry/Multi-Epoch%20Learning%20for%20Deep%20Click-Through%20Rate%20Prediction%20Models.pdf)
 - [MemoNet - Memorizing All Cross Features’ Representations Efficiently via Multi-Hash Codebook Network for CTR Prediction](Industry/MemoNet%20-%20Memorizing%20All%20Cross%20Features%E2%80%99%20Representations%20Efficiently%20via%20Multi-Hash%20Codebook%20Network%20for%20CTR%20Prediction.pdf)
 - [Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction](Industry/Multi-Interactive%20Attention%20Network%20for%20Fine-grained%20Feature%20Learning%20in%20CTR%20Prediction.pdf)
 - [Modeling Mobile User Actions for Purchase Recommendation using Deep Memory Networks](Industry/Modeling%20Mobile%20User%20Actions%20for%20Purchase%20Recommendation%20using%20Deep%20Memory%20Networks.pdf)
@@ -170,6 +171,7 @@
 - [Triangle Graph Interest Network for Click-through Rate Prediction](Industry/Triangle%20Graph%20Interest%20Network%20for%20Click-through%20Rate%20Prediction.pdf)
 - [To Copy, or not to Copy; That is a Critical Issue of the Output Softmax Layer in Neural Sequential Recommenders](Industry/To%20Copy%2C%20or%20not%20to%20Copy%3B%20That%20is%20a%20Critical%20Issue%20of%20the%20Output%20Softmax%20Layer%20in%20Neural%20Sequential%20Recommenders.pdf)
 - [TencentRec - Real-time Stream Recommendation in Practice](Industry/TencentRec%20-%20Real-time%20Stream%20Recommendation%20in%20Practice.pdf)
+- [Towards Deeper, Lighter and Interpretable Cross Network for CTR Prediction](Industry/Towards%20Deeper%2C%20Lighter%20and%20Interpretable%20Cross%20Network%20for%20CTR%20Prediction.pdf)
 - [Temporal Interest Network for Click-Through Rate Prediction](Industry/Temporal%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [TransAct - Transformer-based Realtime User Action Model for Recommendation at Pinterest](Industry/TransAct%20-%20Transformer-based%20Realtime%20User%20Action%20Model%20for%20Recommendation%20at%20Pinterest.pdf)
 - [TWIN - TWo-stage Interest Network for Lifelong User Behavior Modeling in CTR Prediction at Kuaishou](Industry/TWIN%20-%20TWo-stage%20Interest%20Network%20for%20Lifelong%20User%20Behavior%20Modeling%20in%20CTR%20Prediction%20at%20Kuaishou.pdf)
