@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2023-12-09，本仓库收集汇总了推荐系统领域相关论文共**826**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2023-12-30，本仓库收集汇总了推荐系统领域相关论文共**827**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -203,6 +203,7 @@
 - [Reciprocal Recommendation Algorithm for the Field of Recruitment](Industry/Reciprocal/Reciprocal%20Recommendation%20Algorithm%20for%20the%20Field%20of%20Recruitment.pdf)
 - [Supporting users in fnding successful matches in reciprocal recommender systems](Industry/Reciprocal/Supporting%20users%20in%20fnding%20successful%20matches%20in%20reciprocal%20recommender%20systems.pdf)
 #### Dataset
+- [A Content-Driven Micro-Video Recommendation Dataset at Scale](Industry/Dataset/A%20Content-Driven%20Micro-Video%20Recommendation%20Dataset%20at%20Scale.pdf)
 - [KuaiRand - An Unbiased Sequential Recommendation Dataset with Randomly Exposed Videos](Industry/Dataset/KuaiRand%20-%20An%20Unbiased%20Sequential%20Recommendation%20Dataset%20with%20Randomly%20Exposed%20Videos.pdf)
 - [KuaiSAR - A Unified Search And Recommendation Dataset](Industry/Dataset/KuaiSAR%20-%20A%20Unified%20Search%20And%20Recommendation%20Dataset.pdf)
 - [KuaiRec - A Fully-observed Dataset and Insights for Evaluating Recommender Systems](Industry/Dataset/KuaiRec%20-%20A%20Fully-observed%20Dataset%20and%20Insights%20for%20Evaluating%20Recommender%20Systems.pdf)

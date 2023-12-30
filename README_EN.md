@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2023-12-09, **826** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2023-12-30, **827** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -210,6 +210,7 @@ I will remove it immediately after verification.
 - [Reciprocal Recommendation Algorithm for the Field of Recruitment](Industry/Reciprocal/Reciprocal%20Recommendation%20Algorithm%20for%20the%20Field%20of%20Recruitment.pdf)
 - [Supporting users in fnding successful matches in reciprocal recommender systems](Industry/Reciprocal/Supporting%20users%20in%20fnding%20successful%20matches%20in%20reciprocal%20recommender%20systems.pdf)
 #### Dataset
+- [A Content-Driven Micro-Video Recommendation Dataset at Scale](Industry/Dataset/A%20Content-Driven%20Micro-Video%20Recommendation%20Dataset%20at%20Scale.pdf)
 - [KuaiRand - An Unbiased Sequential Recommendation Dataset with Randomly Exposed Videos](Industry/Dataset/KuaiRand%20-%20An%20Unbiased%20Sequential%20Recommendation%20Dataset%20with%20Randomly%20Exposed%20Videos.pdf)
 - [KuaiSAR - A Unified Search And Recommendation Dataset](Industry/Dataset/KuaiSAR%20-%20A%20Unified%20Search%20And%20Recommendation%20Dataset.pdf)
 - [KuaiRec - A Fully-observed Dataset and Insights for Evaluating Recommender Systems](Industry/Dataset/KuaiRec%20-%20A%20Fully-observed%20Dataset%20and%20Insights%20for%20Evaluating%20Recommender%20Systems.pdf)
