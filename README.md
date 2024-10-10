@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2024-08-30，本仓库收集汇总了推荐系统领域相关论文共**828**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2024-10-10，本仓库收集汇总了推荐系统领域相关论文共**837**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -148,6 +148,7 @@
 - [Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction](Industry/Lifelong%20Sequential%20Modeling%20with%20Personalized%20Memorization%20for%20User%20Response%20Prediction.pdf)
 - [Learning Within-Session Budgets from Browsing Trajectories](Industry/Learning%20Within-Session%20Budgets%20from%20Browsing%20Trajectories.pdf)
 - [Modeling Users’ Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](Industry/Modeling%20Users%E2%80%99%20Contextualized%20Page-wise%20Feedback%20for%20Click-Through%20Rate%20Prediction%20in%20E-commerce%20Search.pdf)
+- [Modeling User Retention through Generative Flow Networks](Industry/Modeling%20User%20Retention%20through%20Generative%20Flow%20Networks.pdf)
 - [Modeling Multi-aspect Preferences and Intents for Multi-behavioral Sequential Recommendation](Industry/Modeling%20Multi-aspect%20Preferences%20and%20Intents%20for%20Multi-behavioral%20Sequential%20Recommendation.pdf)
 - [Multi-Granularity Click Confidence Learning via Self-Distillation in Recommendation](Industry/Multi-Granularity%20Click%20Confidence%20Learning%20via%20Self-Distillation%20in%20Recommendation.pdf)
 - [Making Users Indistinguishable - Attribute-wise Unlearning in Recommender Systems](Industry/Making%20Users%20Indistinguishable%20-%20Attribute-wise%20Unlearning%20in%20Recommender%20Systems.pdf)
@@ -160,6 +161,7 @@
 - [Neural News Recommendation with Negative Feedback](Industry/Neural%20News%20Recommendation%20with%20Negative%20Feedback.pdf)
 - [News Recommendation with Candidate-aware User Modeling](Industry/News%20Recommendation%20with%20Candidate-aware%20User%20Modeling.pdf)
 - [Out of the Box Thinking - Improving Customer Lifetime Value Modelling via Expert Routing and Game Whale Detection](Industry/Out%20of%20the%20Box%20Thinking%20-%20Improving%20Customer%20Lifetime%20Value%20Modelling%20via%20Expert%20Routing%20and%20Game%20Whale%20Detection.pdf)
+- [OptDist - Learning Optimal Distribution for Customer Lifetime Value Prediction](Industry/OptDist%20-%20Learning%20Optimal%20Distribution%20for%20Customer%20Lifetime%20Value%20Prediction.pdf)
 - [Optimizing Feature Set for Click-Through Rate Prediction](Industry/Optimizing%20Feature%20Set%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Product-based Neural Networks for User Response Prediction over Multi-field Categorical Data](Industry/Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction%20over%20Multi-field%20Categorical%20Data.pdf)
 - [PURS - Personalized Unexpected Recommender System for Improving User Satisfaction](Industry/PURS%20-%20Personalized%20Unexpected%20Recommender%20System%20for%20Improving%20User%20Satisfaction.pdf)
@@ -307,6 +309,7 @@
 - [A Survey on Incremental Update for Neural Recommender Systems](Industry/IncrementalLearning/A%20Survey%20on%20Incremental%20Update%20for%20Neural%20Recommender%20Systems.pdf)
 #### Regression
 - [[2014][Yahoo] Beyond Clicks - Dwell Time for Personalization](Industry/Regression/%5B2014%5D%5BYahoo%5D%20Beyond%20Clicks%20-%20Dwell%20Time%20for%20Personalization.pdf)
+- [Conditional Quantile Estimation for Uncertain Watch Time in Short-Video Recommendation](Industry/Regression/Conditional%20Quantile%20Estimation%20for%20Uncertain%20Watch%20Time%20in%20Short-Video%20Recommendation.pdf)
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation](Industry/Regression/Deconfounding%20Duration%20Bias%20in%20Watch-time%20Prediction%20for%20Video%20Recommendation.pdf)
 - [Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation](Industry/Regression/Tree%20based%20Progressive%20Regression%20Model%20for%20Watch-Time%20Prediction%20in%20Short-video%20Recommendation.pdf)
 #### AutomaticPlaylistContinuation
@@ -573,6 +576,7 @@
 - [Dynamic Task Prioritization for Multitask Learning](Multi-Task/Dynamic%20Task%20Prioritization%20for%20Multitask%20Learning.pdf)
 - [Deep Mutual Learning across Task Towers for Effective Multi-Task Recommender Learning](Multi-Task/Deep%20Mutual%20Learning%20across%20Task%20Towers%20for%20Effective%20Multi-Task%20Recommender%20Learning.pdf)
 - [Deep Task-specific Bottom Representation Network for Multi-Task Recommendation](Multi-Task/Deep%20Task-specific%20Bottom%20Representation%20Network%20for%20Multi-Task%20Recommendation.pdf)
+- [DTN - Deep Multiple Task-specific Feature Interactions Network for Multi-Task Recommendation](Multi-Task/DTN%20-%20Deep%20Multiple%20Task-specific%20Feature%20Interactions%20Network%20for%20Multi-Task%20Recommendation.pdf)
 - [DSelect-k - Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning](Multi-Task/DSelect-k%20-%20Differentiable%20Selection%20in%20the%20Mixture%20of%20Experts%20with%20Applications%20to%20Multi-Task%20Learning.pdf)
 - [Entire Space Multi-Task Modeling via Post-Click Behavior Decomposition for Conversion Rate Prediction](Multi-Task/Entire%20Space%20Multi-Task%20Modeling%20via%20Post-Click%20Behavior%20Decomposition%20for%20Conversion%20Rate%20Prediction.pdf)
 - [Feature Decomposition for Reducing Negative Transfer - A Novel Multi-task Learning Method for Recommender System](Multi-Task/Feature%20Decomposition%20for%20Reducing%20Negative%20Transfer%20-%20A%20Novel%20Multi-task%20Learning%20Method%20for%20Recommender%20System.pdf)
@@ -582,6 +586,7 @@
 - [Learning to Recommend with Multiple Cascading Behaviors](Multi-Task/Learning%20to%20Recommend%20with%20Multiple%20Cascading%20Behaviors.pdf)
 - [MetaBalance - Improving Multi-Task Recommendations via Adapting Gradient Magnitudes of Auxiliary Tasks](Multi-Task/MetaBalance%20-%20Improving%20Multi-Task%20Recommendations%20via%20Adapting%20Gradient%20Magnitudes%20of%20Auxiliary%20Tasks.pdf)
 - [MSSM - A Multiple-level Sparse Sharing Model for Efficient Multi-Task Learning](Multi-Task/MSSM%20-%20A%20Multiple-level%20Sparse%20Sharing%20Model%20for%20Efficient%20Multi-Task%20Learning.pdf)
+- [Multi-objective Learning to Rank by Model Distillation](Multi-Task/Multi-objective%20Learning%20to%20Rank%20by%20Model%20Distillation.pdf)
 - [Mixture of Virtual-Kernel Experts for Multi-Objective User Profile Modeling](Multi-Task/Mixture%20of%20Virtual-Kernel%20Experts%20for%20Multi-Objective%20User%20Profile%20Modeling.pdf)
 - [Multitask Ranking System for Immersive Feed and No More Clicks - A Case Study of Short-Form Video Recommendation](Multi-Task/Multitask%20Ranking%20System%20for%20Immersive%20Feed%20and%20No%20More%20Clicks%20-%20A%20Case%20Study%20of%20Short-Form%20Video%20Recommendation.pdf)
 - [Multi-Objective Ranking Optimization for Product Search Using Stochastic Label Aggregation](Multi-Task/Multi-Objective%20Ranking%20Optimization%20for%20Product%20Search%20Using%20Stochastic%20Label%20Aggregation.pdf)
@@ -651,6 +656,7 @@
 - [Improving Multi-Scenario Learning to Rank in E-commerce by Exploiting Task Relationships in the Label Space](Multi-Scenario/Improving%20Multi-Scenario%20Learning%20to%20Rank%20in%20E-commerce%20by%20Exploiting%20Task%20Relationships%20in%20the%20Label%20Space.pdf)
 - [KEEP - An Industrial Pre-Training Framework for Online Recommendation via Knowledge Extraction and Plugging](Multi-Scenario/KEEP%20-%20An%20Industrial%20Pre-Training%20Framework%20for%20Online%20Recommendation%20via%20Knowledge%20Extraction%20and%20Plugging.pdf)
 - [Leaving No One Behind - A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling](Multi-Scenario/Leaving%20No%20One%20Behind%20-%20A%20Multi-Scenario%20Multi-Task%20Meta%20Learning%20Approach%20for%20Advertiser%20Modeling.pdf)
+- [Moment&Cross - Next-Generation Real-Time Cross-Domain CTR Prediction for Live-Streaming Recommendation at Kuaishou](Multi-Scenario/Moment%26Cross%20-%20Next-Generation%20Real-Time%20Cross-Domain%20CTR%20Prediction%20for%20Live-Streaming%20Recommendation%20at%20Kuaishou.pdf)
 - [Mixed Attention Network for Cross-domain Sequential Recommendation](Multi-Scenario/Mixed%20Attention%20Network%20for%20Cross-domain%20Sequential%20Recommendation.pdf)
 - [Multi-Graph based Multi-Scenario Recommendation in Large-scale Online Video Services](Multi-Scenario/Multi-Graph%20based%20Multi-Scenario%20Recommendation%20in%20Large-scale%20Online%20Video%20Services.pdf)
 - [Multi-Scenario Ranking with Adaptive Feature Learning](Multi-Scenario/Multi-Scenario%20Ranking%20with%20Adaptive%20Feature%20Learning.pdf)
@@ -794,6 +800,7 @@
 - [Transform Cold-Start Users into Warm via Fused Behaviors in Large-Scale Recommendation](Cold-Start/Transform%20Cold-Start%20Users%20into%20Warm%20via%20Fused%20Behaviors%20in%20Large-Scale%20Recommendation.pdf)
 - [Telepath - Understanding Users from a Human Vision Perspective in Large-Scale Recommender Systems](Cold-Start/Telepath%20-%20Understanding%20Users%20from%20a%20Human%20Vision%20Perspective%20in%20Large-Scale%20Recommender%20Systems.pdf)
 - [Value of Exploration - Measurements, Findings and Algorithms](Cold-Start/Value%20of%20Exploration%20-%20Measurements%2C%20Findings%20and%20Algorithms.pdf)
+- [Warming Up Cold-Start CTR Prediction by Learning Item-Specific Feature Interactions](Cold-Start/Warming%20Up%20Cold-Start%20CTR%20Prediction%20by%20Learning%20Item-Specific%20Feature%20Interactions.pdf)
 - [Warm Up Cold-start Advertisements - Improving CTR Predictions via Learning to Learn ID Embeddings](Cold-Start/Warm%20Up%20Cold-start%20Advertisements%20-%20Improving%20CTR%20Predictions%20via%20Learning%20to%20Learn%20ID%20Embeddings.pdf)
 #### Exploration&Exploitation
 - [An Empirical Evaluation of Thompson Sampling](Cold-Start/Exploration%26Exploitation/An%20Empirical%20Evaluation%20of%20Thompson%20Sampling.pdf)
@@ -858,12 +865,14 @@
 - [Doubly Robust Joint Learning for Recommendation on Data Missing Not at Random](CausalInference/Doubly%20Robust%20Joint%20Learning%20for%20Recommendation%20on%20Data%20Missing%20Not%20at%20Random.pdf)
 - [Deconfounded Recommendation for Alleviating Bias Amplification](CausalInference/Deconfounded%20Recommendation%20for%20Alleviating%20Bias%20Amplification.pdf)
 - [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](CausalInference/Model-Agnostic%20Counterfactual%20Reasoning%20for%20Eliminating%20Popularity%20Bias%20in%20Recommender%20System.pdf)
+- [Multi-Treatment Multi-Task Uplift Modeling for Enhancing User Growth](CausalInference/Multi-Treatment%20Multi-Task%20Uplift%20Modeling%20for%20Enhancing%20User%20Growth.pdf)
 - [Mitigating Hidden Confounding Effects for Causal Recommendation](CausalInference/Mitigating%20Hidden%20Confounding%20Effects%20for%20Causal%20Recommendation.pdf)
 - [On the Opportunity of Causal Learning in Recommendation Systems - Foundation, Estimation, Prediction and Challenges](CausalInference/On%20the%20Opportunity%20of%20Causal%20Learning%20in%20Recommendation%20Systems%20-%20Foundation%2C%20Estimation%2C%20Prediction%20and%20Challenges.pdf)
 - [Practical Counterfactual Policy Learning for Top-K Recommendations](CausalInference/Practical%20Counterfactual%20Policy%20Learning%20for%20Top-K%20Recommendations.pdf)
 - [Recommending the Most Effective Intervention to Improve Employment for Job Seekers with Disability](CausalInference/Recommending%20the%20Most%20Effective%20Intervention%20to%20Improve%20Employment%20for%20Job%20Seekers%20with%20Disability.pdf)
 - [Towards Unbiased and Robust Causal Ranking for Recommender Systems](CausalInference/Towards%20Unbiased%20and%20Robust%20Causal%20Ranking%20for%20Recommender%20Systems.pdf)
 - [Top-N Recommendation with Counterfactual User Preference Simulation](CausalInference/Top-N%20Recommendation%20with%20Counterfactual%20User%20Preference%20Simulation.pdf)
+- [Treatment Effect Estimation for User Interest Exploration on Recommender Systems](CausalInference/Treatment%20Effect%20Estimation%20for%20User%20Interest%20Exploration%20on%20Recommender%20Systems.pdf)
 ## Diversity
 - [[2020][Huawei][pDPP] Personalized Re-ranking for Improving Diversity in Live Recommender Systems](Diversity/%5B2020%5D%5BHuawei%5D%5BpDPP%5D%20Personalized%20Re-ranking%20for%20Improving%20Diversity%20in%20Live%20Recommender%20Systems.pdf)
 - [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](Diversity/A%20Framework%20for%20Recommending%20Accurate%20and%20Diverse%20Items%20Using%20Bayesian%20Graph%20Convolutional%20Neural%20Networks.pdf)
