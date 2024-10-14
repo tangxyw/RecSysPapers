@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2024-10-10, **837** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2024-10-14, **839** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -609,6 +609,7 @@ I will remove it immediately after verification.
 - [STEM - Unleashing the Power of Embeddings for Multi-task Recommendation](Multi-Task/STEM%20-%20Unleashing%20the%20Power%20of%20Embeddings%20for%20Multi-task%20Recommendation.pdf)
 - [STAN - Stage-Adaptive Network for Multi-Task Recommendation by Learning User Lifecycle-Based Representation](Multi-Task/STAN%20-%20Stage-Adaptive%20Network%20for%20Multi-Task%20Recommendation%20by%20Learning%20User%20Lifecycle-Based%20Representation.pdf)
 - [SNR - Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning](Multi-Task/SNR%20-%20Sub-Network%20Routing%20for%20Flexible%20Parameter%20Sharing%20in%20Multi-Task%20Learning.pdf)
+- [Utilizing Non-click Samples via Semi-supervised Learning for Conversion Rate Prediction](Multi-Task/Utilizing%20Non-click%20Samples%20via%20Semi-supervised%20Learning%20for%20Conversion%20Rate%20Prediction.pdf)
 - [Understanding and Improving Fairness-Accuracy Trade-offs in Multi-Task Learning](Multi-Task/Understanding%20and%20Improving%20Fairness-Accuracy%20Trade-offs%20in%20Multi-Task%20Learning.pdf)
 - [Why I like it - multi-task learning for recommendation and explanation](Multi-Task/Why%20I%20like%20it%20-%20multi-task%20learning%20for%20recommendation%20and%20explanation.pdf)
 ## Multi-Modal
@@ -617,6 +618,7 @@ I will remove it immediately after verification.
 - [Bootstrap Latent Representations for Multi-modal Recommendation](Multi-Modal/Bootstrap%20Latent%20Representations%20for%20Multi-modal%20Recommendation.pdf)
 - [ContentCTR - Frame-level Live Streaming Click-Through Rate Prediction with Multimodal Transformer](Multi-Modal/ContentCTR%20-%20Frame-level%20Live%20Streaming%20Click-Through%20Rate%20Prediction%20with%20Multimodal%20Transformer.pdf)
 - [COURIER - Contrastive User Intention Reconstruction for Large-Scale Pre-Train of Image Features](Multi-Modal/COURIER%20-%20Contrastive%20User%20Intention%20Reconstruction%20for%20Large-Scale%20Pre-Train%20of%20Image%20Features.pdf)
+- [End-to-end training of Multimodal Model and ranking Model](Multi-Modal/End-to-end%20training%20of%20Multimodal%20Model%20and%20ranking%20Model.pdf)
 - [Heterogeneous Attention Network for Effective and Efficient Cross-modal Retrieval](Multi-Modal/Heterogeneous%20Attention%20Network%20for%20Effective%20and%20Efficient%20Cross-modal%20Retrieval.pdf)
 - [Learning Joint Embedding with Multimodal Cues for Cross-Modal Video-Text Retrieva](Multi-Modal/Learning%20Joint%20Embedding%20with%20Multimodal%20Cues%20for%20Cross-Modal%20Video-Text%20Retrieva.pdf)
 - [Multimodal Recommender Systems - A Survey](Multi-Modal/Multimodal%20Recommender%20Systems%20-%20A%20Survey.pdf)
