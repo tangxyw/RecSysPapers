@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2024-10-15，本仓库收集汇总了推荐系统领域相关论文共**840**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2024-10-16，本仓库收集汇总了推荐系统领域相关论文共**842**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -92,6 +92,7 @@
 - [A Large Scale Prediction Engine for App Install Clicks and Conversions](Industry/A%20Large%20Scale%20Prediction%20Engine%20for%20App%20Install%20Clicks%20and%20Conversions.pdf)
 - [AutoMLP - Automated MLP for Sequential Recommendations](Industry/AutoMLP%20-%20Automated%20MLP%20for%20Sequential%20Recommendations.pdf)
 - [A Deep Behavior Path Matching Network for Click-Through Rate Prediction](Industry/A%20Deep%20Behavior%20Path%20Matching%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [Aligned Side Information Fusion Method for Sequential Recommendation](Industry/Aligned%20Side%20Information%20Fusion%20Method%20for%20Sequential%20Recommendation.pdf)
 - [Attention Mixtures for Time-Aware Sequential Recommendation](Industry/Attention%20Mixtures%20for%20Time-Aware%20Sequential%20Recommendation.pdf)
 - [A Self-Correcting Sequential Recommender](Industry/A%20Self-Correcting%20Sequential%20Recommender.pdf)
 - [Breaking the Curse of Quality Saturation with User-Centric Ranking](Industry/Breaking%20the%20Curse%20of%20Quality%20Saturation%20with%20User-Centric%20Ranking.pdf)
@@ -603,6 +604,7 @@
 - [STEM - Unleashing the Power of Embeddings for Multi-task Recommendation](Multi-Task/STEM%20-%20Unleashing%20the%20Power%20of%20Embeddings%20for%20Multi-task%20Recommendation.pdf)
 - [STAN - Stage-Adaptive Network for Multi-Task Recommendation by Learning User Lifecycle-Based Representation](Multi-Task/STAN%20-%20Stage-Adaptive%20Network%20for%20Multi-Task%20Recommendation%20by%20Learning%20User%20Lifecycle-Based%20Representation.pdf)
 - [SNR - Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning](Multi-Task/SNR%20-%20Sub-Network%20Routing%20for%20Flexible%20Parameter%20Sharing%20in%20Multi-Task%20Learning.pdf)
+- [Touch the Core - Exploring Task Dependence Among Hybrid Targets for Recommendation](Multi-Task/Touch%20the%20Core%20-%20Exploring%20Task%20Dependence%20Among%20Hybrid%20Targets%20for%20Recommendation.pdf)
 - [Utilizing Non-click Samples via Semi-supervised Learning for Conversion Rate Prediction](Multi-Task/Utilizing%20Non-click%20Samples%20via%20Semi-supervised%20Learning%20for%20Conversion%20Rate%20Prediction.pdf)
 - [Understanding and Improving Fairness-Accuracy Trade-offs in Multi-Task Learning](Multi-Task/Understanding%20and%20Improving%20Fairness-Accuracy%20Trade-offs%20in%20Multi-Task%20Learning.pdf)
 - [Why I like it - multi-task learning for recommendation and explanation](Multi-Task/Why%20I%20like%20it%20-%20multi-task%20learning%20for%20recommendation%20and%20explanation.pdf)
