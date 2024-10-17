@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2024-10-16，本仓库收集汇总了推荐系统领域相关论文共**842**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2024-10-17，本仓库收集汇总了推荐系统领域相关论文共**843**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -583,6 +583,7 @@
 - [Entire Space Multi-Task Modeling via Post-Click Behavior Decomposition for Conversion Rate Prediction](Multi-Task/Entire%20Space%20Multi-Task%20Modeling%20via%20Post-Click%20Behavior%20Decomposition%20for%20Conversion%20Rate%20Prediction.pdf)
 - [Feature Decomposition for Reducing Negative Transfer - A Novel Multi-task Learning Method for Recommender System](Multi-Task/Feature%20Decomposition%20for%20Reducing%20Negative%20Transfer%20-%20A%20Novel%20Multi-task%20Learning%20Method%20for%20Recommender%20System.pdf)
 - [Hierarchically Modeling Micro and Macro Behaviors via Multi-Task Learning for Conversion Rate Prediction](Multi-Task/Hierarchically%20Modeling%20Micro%20and%20Macro%20Behaviors%20via%20Multi-Task%20Learning%20for%20Conversion%20Rate%20Prediction.pdf)
+- [HoME - Hierarchy of Multi-Gate Experts for Multi-Task Learning at Kuaishou](Multi-Task/HoME%20-%20Hierarchy%20of%20Multi-Gate%20Experts%20for%20Multi-Task%20Learning%20at%20Kuaishou.pdf)
 - [HyperGrid Transformers - Towards A Single Model for Multiple Tasks](Multi-Task/HyperGrid%20Transformers%20-%20Towards%20A%20Single%20Model%20for%20Multiple%20Tasks.pdf)
 - [Improving Training Stability for Multitask Ranking Models in Recommender Systems](Multi-Task/Improving%20Training%20Stability%20for%20Multitask%20Ranking%20Models%20in%20Recommender%20Systems.pdf)
 - [Learning to Recommend with Multiple Cascading Behaviors](Multi-Task/Learning%20to%20Recommend%20with%20Multiple%20Cascading%20Behaviors.pdf)
