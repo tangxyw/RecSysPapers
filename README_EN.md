@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2024-10-17, **843** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2024-10-17, **844** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -168,8 +168,6 @@ I will remove it immediately after verification.
 - [Micro-Behavior Encoding for Session-based Recommendation](Industry/Micro-Behavior%20Encoding%20for%20Session-based%20Recommendation.pdf)
 - [Neural News Recommendation with Negative Feedback](Industry/Neural%20News%20Recommendation%20with%20Negative%20Feedback.pdf)
 - [News Recommendation with Candidate-aware User Modeling](Industry/News%20Recommendation%20with%20Candidate-aware%20User%20Modeling.pdf)
-- [Out of the Box Thinking - Improving Customer Lifetime Value Modelling via Expert Routing and Game Whale Detection](Industry/Out%20of%20the%20Box%20Thinking%20-%20Improving%20Customer%20Lifetime%20Value%20Modelling%20via%20Expert%20Routing%20and%20Game%20Whale%20Detection.pdf)
-- [OptDist - Learning Optimal Distribution for Customer Lifetime Value Prediction](Industry/OptDist%20-%20Learning%20Optimal%20Distribution%20for%20Customer%20Lifetime%20Value%20Prediction.pdf)
 - [Optimizing Feature Set for Click-Through Rate Prediction](Industry/Optimizing%20Feature%20Set%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Product-based Neural Networks for User Response Prediction over Multi-field Categorical Data](Industry/Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction%20over%20Multi-field%20Categorical%20Data.pdf)
 - [PURS - Personalized Unexpected Recommender System for Improving User Satisfaction](Industry/PURS%20-%20Personalized%20Unexpected%20Recommender%20System%20for%20Improving%20User%20Satisfaction.pdf)
@@ -236,6 +234,10 @@ I will remove it immediately after verification.
 #### BigPromotion
 - [Capturing Conversion Rate Fluctuation during Sales Promotions - A Novel Historical Data Reuse Approach](Industry/BigPromotion/Capturing%20Conversion%20Rate%20Fluctuation%20during%20Sales%20Promotions%20-%20A%20Novel%20Historical%20Data%20Reuse%20Approach.pdf)
 - [Multi-task based Sales Predictions for Online Promotions](Industry/BigPromotion/Multi-task%20based%20Sales%20Predictions%20for%20Online%20Promotions.pdf)
+#### LifetimeValue
+- [ADSNet - Cross-Domain LTV Prediction with an Adaptive Siamese Network in Advertising](Industry/LifetimeValue/ADSNet%20-%20Cross-Domain%20LTV%20Prediction%20with%20an%20Adaptive%20Siamese%20Network%20in%20Advertising.pdf)
+- [Out of the Box Thinking - Improving Customer Lifetime Value Modelling via Expert Routing and Game Whale Detection](Industry/LifetimeValue/Out%20of%20the%20Box%20Thinking%20-%20Improving%20Customer%20Lifetime%20Value%20Modelling%20via%20Expert%20Routing%20and%20Game%20Whale%20Detection.pdf)
+- [OptDist - Learning Optimal Distribution for Customer Lifetime Value Prediction](Industry/LifetimeValue/OptDist%20-%20Learning%20Optimal%20Distribution%20for%20Customer%20Lifetime%20Value%20Prediction.pdf)
 #### Bundle
 - [Bundle Recommendation with Graph Convolutional Networks](Industry/Bundle/Bundle%20Recommendation%20with%20Graph%20Convolutional%20Networks.pdf)
 - [Bundle MCR - Towards Conversational Bundle Recommendation](Industry/Bundle/Bundle%20MCR%20-%20Towards%20Conversational%20Bundle%20Recommendation.pdf)
