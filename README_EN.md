@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2024-10-18, **845** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2024-10-20, **846** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -666,6 +666,7 @@ I will remove it immediately after verification.
 - [DDTCDR - Deep Dual Transfer Cross Domain Recommendation](Multi-Scenario/DDTCDR%20-%20Deep%20Dual%20Transfer%20Cross%20Domain%20Recommendation.pdf)
 - [DeepAPF - Deep Attentive Probabilistic Factorization for Multi-site Video Recommendation](Multi-Scenario/DeepAPF%20-%20Deep%20Attentive%20Probabilistic%20Factorization%20for%20Multi-site%20Video%20Recommendation.pdf)
 - [DisenCDR - Learning Disentangled Representations for Cross-Domain Recommendation](Multi-Scenario/DisenCDR%20-%20Learning%20Disentangled%20Representations%20for%20Cross-Domain%20Recommendation.pdf)
+- [DIIT - A Domain-Invariant Information Transfer Method for Industrial Cross-Domain Recommendation](Multi-Scenario/DIIT%20-%20A%20Domain-Invariant%20Information%20Transfer%20Method%20for%20Industrial%20Cross-Domain%20Recommendation.pdf)
 - [Heterogeneous Graph Augmented Multi-Scenario Sharing Recommendation with Tree-Guided Expert Networks](Multi-Scenario/Heterogeneous%20Graph%20Augmented%20Multi-Scenario%20Sharing%20Recommendation%20with%20Tree-Guided%20Expert%20Networks.pdf)
 - [Hybrid Contrastive Constraints for Multi-Scenario Ad Ranking](Multi-Scenario/Hybrid%20Contrastive%20Constraints%20for%20Multi-Scenario%20Ad%20Ranking.pdf)
 - [HAMUR - Hyper Adapter for Multi-Domain Recommendation](Multi-Scenario/HAMUR%20-%20Hyper%20Adapter%20for%20Multi-Domain%20Recommendation.pdf)
