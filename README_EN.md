@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2024-10-20, **846** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2024-10-22, **847** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -631,6 +631,7 @@ I will remove it immediately after verification.
 - [Multimodal Recommender Systems - A Survey](Multi-Modal/Multimodal%20Recommender%20Systems%20-%20A%20Survey.pdf)
 - [Multi-Modal Self-Supervised Learning for Recommendation](Multi-Modal/Multi-Modal%20Self-Supervised%20Learning%20for%20Recommendation.pdf)
 - [MM-GEF - Multi-modal representation meet collaborative filtering](Multi-Modal/MM-GEF%20-%20Multi-modal%20representation%20meet%20collaborative%20filtering.pdf)
+- [MMBee - Live Streaming Gift-Sending Recommendations via Multi-Modal Fusion and Behaviour Expansion](Multi-Modal/MMBee%20-%20Live%20Streaming%20Gift-Sending%20Recommendations%20via%20Multi-Modal%20Fusion%20and%20Behaviour%20Expansion.pdf)
 - [Pretraining Representations of Multi-modal Multi-query E-commerce Search](Multi-Modal/Pretraining%20Representations%20of%20Multi-modal%20Multi-query%20E-commerce%20Search.pdf)
 - [Universal Multi-modal Multi-domain Pre-trained Recommendation](Multi-Modal/Universal%20Multi-modal%20Multi-domain%20Pre-trained%20Recommendation.pdf)
 - [Unsupervised Multi-Modal Representation Learning for High Quality Retrieval of Similar Products at E-commerce Scale](Multi-Modal/Unsupervised%20Multi-Modal%20Representation%20Learning%20for%20High%20Quality%20Retrieval%20of%20Similar%20Products%20at%20E-commerce%20Scale.pdf)

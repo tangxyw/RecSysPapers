@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2024-10-20，本仓库收集汇总了推荐系统领域相关论文共**846**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2024-10-22，本仓库收集汇总了推荐系统领域相关论文共**847**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -624,6 +624,7 @@
 - [Multimodal Recommender Systems - A Survey](Multi-Modal/Multimodal%20Recommender%20Systems%20-%20A%20Survey.pdf)
 - [Multi-Modal Self-Supervised Learning for Recommendation](Multi-Modal/Multi-Modal%20Self-Supervised%20Learning%20for%20Recommendation.pdf)
 - [MM-GEF - Multi-modal representation meet collaborative filtering](Multi-Modal/MM-GEF%20-%20Multi-modal%20representation%20meet%20collaborative%20filtering.pdf)
+- [MMBee - Live Streaming Gift-Sending Recommendations via Multi-Modal Fusion and Behaviour Expansion](Multi-Modal/MMBee%20-%20Live%20Streaming%20Gift-Sending%20Recommendations%20via%20Multi-Modal%20Fusion%20and%20Behaviour%20Expansion.pdf)
 - [Pretraining Representations of Multi-modal Multi-query E-commerce Search](Multi-Modal/Pretraining%20Representations%20of%20Multi-modal%20Multi-query%20E-commerce%20Search.pdf)
 - [Universal Multi-modal Multi-domain Pre-trained Recommendation](Multi-Modal/Universal%20Multi-modal%20Multi-domain%20Pre-trained%20Recommendation.pdf)
 - [Unsupervised Multi-Modal Representation Learning for High Quality Retrieval of Similar Products at E-commerce Scale](Multi-Modal/Unsupervised%20Multi-Modal%20Representation%20Learning%20for%20High%20Quality%20Retrieval%20of%20Similar%20Products%20at%20E-commerce%20Scale.pdf)
