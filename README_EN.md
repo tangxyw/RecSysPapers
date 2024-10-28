@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2024-10-22, **847** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2024-10-28, **849** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -204,6 +204,7 @@ I will remove it immediately after verification.
 - [[2022] MATCHING THEORY-BASED RECOMMENDER SYSTEMS IN ONLINE DATING](Industry/Reciprocal/%5B2022%5D%20MATCHING%20THEORY-BASED%20RECOMMENDER%20SYSTEMS%20IN%20ONLINE%20DATING.pdf)
 - [[2022][Boss][DPGNN] Modeling Two-Way Selection Preference for Person-Job Fit](Industry/Reciprocal/%5B2022%5D%5BBoss%5D%5BDPGNN%5D%20Modeling%20Two-Way%20Selection%20Preference%20for%20Person-Job%20Fit.pdf)
 - [BOSS - A Bilateral Occupational-Suitability-Aware Recommender System for Online Recruitment](Industry/Reciprocal/BOSS%20-%20A%20Bilateral%20Occupational-Suitability-Aware%20Recommender%20System%20for%20Online%20Recruitment.pdf)
+- [CUPID - A Real-Time Session-Based Reciprocal Recommendation System for a One-on-One Social Discovery Platform](Industry/Reciprocal/CUPID%20-%20A%20Real-Time%20Session-Based%20Reciprocal%20Recommendation%20System%20for%20a%20One-on-One%20Social%20Discovery%20Platform.pdf)
 - [Optimally Balancing Receiver and Recommended Users’ Importance in Reciprocal Recommender Systems](Industry/Reciprocal/Optimally%20Balancing%20Receiver%20and%20Recommended%20Users%E2%80%99%20Importance%20in%20Reciprocal%20Recommender%20Systems.pdf)
 - [Providing Explanations for Recommendations in Reciprocal Environments](Industry/Reciprocal/Providing%20Explanations%20for%20Recommendations%20in%20Reciprocal%20Environments.pdf)
 - [Reciprocal Recommendation for Job Matching with Bidirectional Feedback](Industry/Reciprocal/Reciprocal%20Recommendation%20for%20Job%20Matching%20with%20Bidirectional%20Feedback.pdf)
@@ -875,6 +876,7 @@ I will remove it immediately after verification.
 - [A Model-Agnostic Causal Learning Framework for Recommendation using Search Data](CausalInference/A%20Model-Agnostic%20Causal%20Learning%20Framework%20for%20Recommendation%20using%20Search%20Data.pdf)
 - [Addressing Confounding Feature Issue for Causal Recommendation](CausalInference/Addressing%20Confounding%20Feature%20Issue%20for%20Causal%20Recommendation.pdf)
 - [CausCF - Causal Collaborative Filtering for Recommendation Effect Estimation](CausalInference/CausCF%20-%20Causal%20Collaborative%20Filtering%20for%20Recommendation%20Effect%20Estimation.pdf)
+- [Coarse-to-fine Dynamic Uplift Modeling for Real-time Video Recommendation](CausalInference/Coarse-to-fine%20Dynamic%20Uplift%20Modeling%20for%20Real-time%20Video%20Recommendation.pdf)
 - [Causal Inference in Recommender Systems - A Survey of Strategies for Bias  Mitigation, Explanation, and Generalization](CausalInference/Causal%20Inference%20in%20Recommender%20Systems%20-%20A%20Survey%20of%20Strategies%20for%20Bias%20%20Mitigation%2C%20Explanation%2C%20and%20Generalization.pdf)
 - [CauseRec - Counterfactual User Sequence Synthesis for Sequential Recommendation](CausalInference/CauseRec%20-%20Counterfactual%20User%20Sequence%20Synthesis%20for%20Sequential%20Recommendation.pdf)
 - [Counterfactual Data-Augmented Sequential Recommendation](CausalInference/Counterfactual%20Data-Augmented%20Sequential%20Recommendation.pdf)
