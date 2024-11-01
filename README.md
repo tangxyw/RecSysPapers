@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2024-11-01，本仓库收集汇总了推荐系统领域相关论文共**850**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2024-11-01，本仓库收集汇总了推荐系统领域相关论文共**854**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -102,6 +102,7 @@
 - [CSPM - A Contrastive Spatiotemporal Preference Model for CTR Prediction in On-Demand Food Delivery Services](Industry/CSPM%20-%20A%20Contrastive%20Spatiotemporal%20Preference%20Model%20for%20CTR%20Prediction%20in%20On-Demand%20Food%20Delivery%20Services.pdf)
 - [ContextNet - A Click-Through Rate Prediction Framework Using Contextual information to Refine Feature Embedding](Industry/ContextNet%20-%20A%20Click-Through%20Rate%20Prediction%20Framework%20Using%20Contextual%20information%20to%20Refine%20Feature%20Embedding.pdf)
 - [CAEN - A Hierarchically Attentive Evolution Network for Item-Attribute-Change-Aware Recommendation in the Growing E-commerce Environment](Industry/CAEN%20-%20A%20Hierarchically%20Attentive%20Evolution%20Network%20for%20Item-Attribute-Change-Aware%20Recommendation%20in%20the%20Growing%20E-commerce%20Environment.pdf)
+- [Deep Group Interest Network on Full Lifelong User Behaviors for CTR Prediction](Industry/Deep%20Group%20Interest%20Network%20on%20Full%20Lifelong%20User%20Behaviors%20for%20CTR%20Prediction.pdf)
 - [Decision-Making Context Interaction Network for Click-Through Rate Prediction](Industry/Decision-Making%20Context%20Interaction%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Dual Graph enhanced Embedding Neural Network for CTR Prediction](Industry/Dual%20Graph%20enhanced%20Embedding%20Neural%20Network%20for%20CTR%20Prediction.pdf)
 - [Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction](Industry/Deep%20Interest%20with%20Hierarchical%20Attention%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
@@ -114,6 +115,7 @@
 - [Disentangling Long and Short-Term Interests for Recommendation](Industry/Disentangling%20Long%20and%20Short-Term%20Interests%20for%20Recommendation.pdf)
 - [E-Commerce Item Recommendation Based on Field-aware Factorization Machine](Industry/E-Commerce%20Item%20Recommendation%20Based%20on%20Field-aware%20Factorization%20Machine.pdf)
 - [Enhancing E-commerce Product Search through Reinforcement Learning-Powered Query Reformulation](Industry/Enhancing%20E-commerce%20Product%20Search%20through%20Reinforcement%20Learning-Powered%20Query%20Reformulation.pdf)
+- [Enhancing CTR prediction in Recommendation Domain with Search Query Representation](Industry/Enhancing%20CTR%20prediction%20in%20Recommendation%20Domain%20with%20Search%20Query%20Representation.pdf)
 - [EXTR - Click-Through Rate Prediction with Externalities in E-Commerce Sponsored Search](Industry/EXTR%20-%20Click-Through%20Rate%20Prediction%20with%20Externalities%20in%20E-Commerce%20Sponsored%20Search.pdf)
 - [End-to-End User Behavior Retrieval in Click-Through Rate Prediction Model](Industry/End-to-End%20User%20Behavior%20Retrieval%20in%20Click-Through%20Rate%20Prediction%20Model.pdf)
 - [Entire Space Learning Framework- Unbias Conversion Rate Prediction in Full Stages of Recommender System](Industry/Entire%20Space%20Learning%20Framework-%20Unbias%20Conversion%20Rate%20Prediction%20in%20Full%20Stages%20of%20Recommender%20System.pdf)
@@ -211,6 +213,7 @@
 - [KuaiSAR - A Unified Search And Recommendation Dataset](Industry/Dataset/KuaiSAR%20-%20A%20Unified%20Search%20And%20Recommendation%20Dataset.pdf)
 - [KuaiRec - A Fully-observed Dataset and Insights for Evaluating Recommender Systems](Industry/Dataset/KuaiRec%20-%20A%20Fully-observed%20Dataset%20and%20Insights%20for%20Evaluating%20Recommender%20Systems.pdf)
 - [MobileRec - A Large-Scale Dataset for Mobile Apps Recommendation](Industry/Dataset/MobileRec%20-%20A%20Large-Scale%20Dataset%20for%20Mobile%20Apps%20Recommendation.pdf)
+- [RECFLOW - AN INDUSTRIAL FULL FLOW RECOMMENDATION DATASET](Industry/Dataset/RECFLOW%20-%20AN%20INDUSTRIAL%20FULL%20FLOW%20RECOMMENDATION%20DATASET.pdf)
 - [REASONER - An Explainable Recommendation Dataset with Multi-aspect Real User Labeled Ground Truths](Industry/Dataset/REASONER%20-%20An%20Explainable%20Recommendation%20Dataset%20with%20Multi-aspect%20Real%20User%20Labeled%20Ground%20Truths.pdf)
 - [Tenrec - A Large-scale Multipurpose Benchmark Dataset for Recommender Systems](Industry/Dataset/Tenrec%20-%20A%20Large-scale%20Multipurpose%20Benchmark%20Dataset%20for%20Recommender%20Systems.pdf)
 - [U-NEED - A Fine-grained Dataset for User Needs-Centric E-commerce Conversational Recommendation](Industry/Dataset/U-NEED%20-%20A%20Fine-grained%20Dataset%20for%20User%20Needs-Centric%20E-commerce%20Conversational%20Recommendation.pdf)
@@ -808,6 +811,7 @@
 - [LHRM - A LBS based Heterogeneous Relations Model for User Cold Start Recommendation in Online Travel Platform](Cold-Start/LHRM%20-%20A%20LBS%20based%20Heterogeneous%20Relations%20Model%20for%20User%20Cold%20Start%20Recommendation%20in%20Online%20Travel%20Platform.pdf)
 - [MAMO - Memory-Augmented Meta-Optimization for Cold-start Recommendation](Cold-Start/MAMO%20-%20Memory-Augmented%20Meta-Optimization%20for%20Cold-start%20Recommendation.pdf)
 - [Neighbor Based Enhancement for the Long-Tail Ranking Problem in Video Rank Models](Cold-Start/Neighbor%20Based%20Enhancement%20for%20the%20Long-Tail%20Ranking%20Problem%20in%20Video%20Rank%20Models.pdf)
+- [SimRec - Mitigating the Cold-Start Problem in Sequential Recommendation by Integrating Item Similarity](Cold-Start/SimRec%20-%20Mitigating%20the%20Cold-Start%20Problem%20in%20Sequential%20Recommendation%20by%20Integrating%20Item%20Similarity.pdf)
 - [SMINet - State-Aware Multi-Aspect Interests Representation Network for Cold-Start Users Recommendation](Cold-Start/SMINet%20-%20State-Aware%20Multi-Aspect%20Interests%20Representation%20Network%20for%20Cold-Start%20Users%20Recommendation.pdf)
 - [Task-adaptive Neural Process for User Cold-Start Recommendation](Cold-Start/Task-adaptive%20Neural%20Process%20for%20User%20Cold-Start%20Recommendation.pdf)
 - [Transform Cold-Start Users into Warm via Fused Behaviors in Large-Scale Recommendation](Cold-Start/Transform%20Cold-Start%20Users%20into%20Warm%20via%20Fused%20Behaviors%20in%20Large-Scale%20Recommendation.pdf)
