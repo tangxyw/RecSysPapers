@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2024-10-28, **849** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2024-11-01, **850** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -369,6 +369,7 @@ I will remove it immediately after verification.
 - [Coverage, Redundancy and Size-Awareness in Genre Diversity for Recommender Systems](Re-Rank/Coverage%2C%20Redundancy%20and%20Size-Awareness%20in%20Genre%20Diversity%20for%20Recommender%20Systems.pdf)
 - [Discrete Conditional Diffusion for Reranking in Recommendation](Re-Rank/Discrete%20Conditional%20Diffusion%20for%20Reranking%20in%20Recommendation.pdf)
 - [DEAR - Deep Reinforcement Learning for Online Advertising Impression in Recommender Systems](Re-Rank/DEAR%20-%20Deep%20Reinforcement%20Learning%20for%20Online%20Advertising%20Impression%20in%20Recommender%20Systems.pdf)
+- [Do Not Wait - Learning Re-Ranking Model Without User Feedback At Serving Time in E-Commerce](Re-Rank/Do%20Not%20Wait%20-%20Learning%20Re-Ranking%20Model%20Without%20User%20Feedback%20At%20Serving%20Time%20in%20E-Commerce.pdf)
 - [GenDeR - A Generic Diversified Ranking Algorithm](Re-Rank/GenDeR%20-%20A%20Generic%20Diversified%20Ranking%20Algorithm.pdf)
 - [GRN - Generative Rerank Network for Context-wise Recommendation](Re-Rank/GRN%20-%20Generative%20Rerank%20Network%20for%20Context-wise%20Recommendation.pdf)
 - [Globally Optimized Mutual Influence Aware Ranking in E-Commerce Search](Re-Rank/Globally%20Optimized%20Mutual%20Influence%20Aware%20Ranking%20in%20E-Commerce%20Search.pdf)
