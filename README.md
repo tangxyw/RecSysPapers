@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2024-11-07，本仓库收集汇总了推荐系统领域相关论文共**858**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2024-11-07，本仓库收集汇总了推荐系统领域相关论文共**863**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -113,6 +113,7 @@
 - [Denoising User-aware Memory Network for Recommendation](Industry/Denoising%20User-aware%20Memory%20Network%20for%20Recommendation.pdf)
 - [Deep Context Interest Network for Click-Through Rate Prediction](Industry/Deep%20Context%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Disentangling Long and Short-Term Interests for Recommendation](Industry/Disentangling%20Long%20and%20Short-Term%20Interests%20for%20Recommendation.pdf)
+- [Enhancing CTR Prediction through Sequential Recommendation Pre-training- Introducing the SRP4CTR Framework](Industry/Enhancing%20CTR%20Prediction%20through%20Sequential%20Recommendation%20Pre-training-%20Introducing%20the%20SRP4CTR%20Framework.pdf)
 - [E-Commerce Item Recommendation Based on Field-aware Factorization Machine](Industry/E-Commerce%20Item%20Recommendation%20Based%20on%20Field-aware%20Factorization%20Machine.pdf)
 - [Enhancing E-commerce Product Search through Reinforcement Learning-Powered Query Reformulation](Industry/Enhancing%20E-commerce%20Product%20Search%20through%20Reinforcement%20Learning-Powered%20Query%20Reformulation.pdf)
 - [Enhancing CTR prediction in Recommendation Domain with Search Query Representation](Industry/Enhancing%20CTR%20prediction%20in%20Recommendation%20Domain%20with%20Search%20Query%20Representation.pdf)
@@ -473,6 +474,7 @@
 - [Towards Personalized and Semantic Retrieval - An End-to-End Solution for E-commerce Search via Embedding Learning](Match/Towards%20Personalized%20and%20Semantic%20Retrieval%20-%20An%20End-to-End%20Solution%20for%20E-commerce%20Search%20via%20Embedding%20Learning.pdf)
 - [Unified Generative & Dense Retrieval for Query Rewriting in Sponsored Search](Match/Unified%20Generative%20%26%20Dense%20Retrieval%20for%20Query%20Rewriting%20in%20Sponsored%20Search.pdf)
 - [Uni-Retriever - Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search](Match/Uni-Retriever%20-%20Towards%20Learning%20The%20Unified%20Embedding%20Based%20Retriever%20in%20Bing%20Sponsored%20Search.pdf)
+- [VIER - Visual Imagination Enhanced Retrieval in Sponsored Search](Match/VIER%20-%20Visual%20Imagination%20Enhanced%20Retrieval%20in%20Sponsored%20Search.pdf)
 - [Variational Autoencoders for Collaborative Filtering](Match/Variational%20Autoencoders%20for%20Collaborative%20Filtering.pdf)
 - [gSASRec - Reducing Overconfidence in Sequential Recommendation Trained with Negative Sampling](Match/gSASRec%20-%20Reducing%20Overconfidence%20in%20Sequential%20Recommendation%20Trained%20with%20Negative%20Sampling.pdf)
 #### Tree-Based
@@ -662,12 +664,14 @@
 - [Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation](Multi-Scenario/Correlative%20Preference%20Transfer%20with%20Hierarchical%20Hypergraph%20Network%20for%20Multi-Domain%20Recommendation.pdf)
 - [Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck](Multi-Scenario/Cross-Domain%20Recommendation%20to%20Cold-Start%20Users%20via%20Variational%20Information%20Bottleneck.pdf)
 - [Continual Transfer Learning for Cross-Domain Click-Through Rate Prediction at Taobao](Multi-Scenario/Continual%20Transfer%20Learning%20for%20Cross-Domain%20Click-Through%20Rate%20Prediction%20at%20Taobao.pdf)
+- [Cross-Domain Sequential Recommendation via Neural Process](Multi-Scenario/Cross-Domain%20Sequential%20Recommendation%20via%20Neural%20Process.pdf)
 - [DTCDR - A Framework for Dual-Target Cross-Domain Recommendation](Multi-Scenario/DTCDR%20-%20A%20Framework%20for%20Dual-Target%20Cross-Domain%20Recommendation.pdf)
 - [Dynamic collaborative filtering Thompson Sampling for cross-domain advertisements recommendation](Multi-Scenario/Dynamic%20collaborative%20filtering%20Thompson%20Sampling%20for%20cross-domain%20advertisements%20recommendation.pdf)
 - [DDTCDR - Deep Dual Transfer Cross Domain Recommendation](Multi-Scenario/DDTCDR%20-%20Deep%20Dual%20Transfer%20Cross%20Domain%20Recommendation.pdf)
 - [DeepAPF - Deep Attentive Probabilistic Factorization for Multi-site Video Recommendation](Multi-Scenario/DeepAPF%20-%20Deep%20Attentive%20Probabilistic%20Factorization%20for%20Multi-site%20Video%20Recommendation.pdf)
 - [DisenCDR - Learning Disentangled Representations for Cross-Domain Recommendation](Multi-Scenario/DisenCDR%20-%20Learning%20Disentangled%20Representations%20for%20Cross-Domain%20Recommendation.pdf)
 - [DIIT - A Domain-Invariant Information Transfer Method for Industrial Cross-Domain Recommendation](Multi-Scenario/DIIT%20-%20A%20Domain-Invariant%20Information%20Transfer%20Method%20for%20Industrial%20Cross-Domain%20Recommendation.pdf)
+- [EXIT - An EXplicit Interest Transfer Framework for Cross-Domain Recommendation](Multi-Scenario/EXIT%20-%20An%20EXplicit%20Interest%20Transfer%20Framework%20for%20Cross-Domain%20Recommendation.pdf)
 - [Heterogeneous Graph Augmented Multi-Scenario Sharing Recommendation with Tree-Guided Expert Networks](Multi-Scenario/Heterogeneous%20Graph%20Augmented%20Multi-Scenario%20Sharing%20Recommendation%20with%20Tree-Guided%20Expert%20Networks.pdf)
 - [Hybrid Contrastive Constraints for Multi-Scenario Ad Ranking](Multi-Scenario/Hybrid%20Contrastive%20Constraints%20for%20Multi-Scenario%20Ad%20Ranking.pdf)
 - [HAMUR - Hyper Adapter for Multi-Domain Recommendation](Multi-Scenario/HAMUR%20-%20Hyper%20Adapter%20for%20Multi-Domain%20Recommendation.pdf)
@@ -890,6 +894,7 @@
 - [Mitigating Hidden Confounding Effects for Causal Recommendation](CausalInference/Mitigating%20Hidden%20Confounding%20Effects%20for%20Causal%20Recommendation.pdf)
 - [On the Opportunity of Causal Learning in Recommendation Systems - Foundation, Estimation, Prediction and Challenges](CausalInference/On%20the%20Opportunity%20of%20Causal%20Learning%20in%20Recommendation%20Systems%20-%20Foundation%2C%20Estimation%2C%20Prediction%20and%20Challenges.pdf)
 - [Practical Counterfactual Policy Learning for Top-K Recommendations](CausalInference/Practical%20Counterfactual%20Policy%20Learning%20for%20Top-K%20Recommendations.pdf)
+- [Relative Contrastive Learning for Sequential Recommendation with Similarity-based Positive Pair Selection](CausalInference/Relative%20Contrastive%20Learning%20for%20Sequential%20Recommendation%20with%20Similarity-based%20Positive%20Pair%20Selection.pdf)
 - [Recommending the Most Effective Intervention to Improve Employment for Job Seekers with Disability](CausalInference/Recommending%20the%20Most%20Effective%20Intervention%20to%20Improve%20Employment%20for%20Job%20Seekers%20with%20Disability.pdf)
 - [Towards Unbiased and Robust Causal Ranking for Recommender Systems](CausalInference/Towards%20Unbiased%20and%20Robust%20Causal%20Ranking%20for%20Recommender%20Systems.pdf)
 - [Top-N Recommendation with Counterfactual User Preference Simulation](CausalInference/Top-N%20Recommendation%20with%20Counterfactual%20User%20Preference%20Simulation.pdf)
