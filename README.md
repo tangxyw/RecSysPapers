@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2024-11-01，本仓库收集汇总了推荐系统领域相关论文共**854**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2024-11-07，本仓库收集汇总了推荐系统领域相关论文共**858**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -193,6 +193,8 @@
 - [[2022][Alibaba][DIAN] Deep Intention-Aware Network for Click-Through Rate Prediction](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIAN%5D%20Deep%20Intention-Aware%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2022][Alibaba][DIHN] Deep Interest Highlight Network for Click-Through Rate Prediction in Trigger-Induced Recommendation](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIHN%5D%20Deep%20Interest%20Highlight%20Network%20for%20Click-Through%20Rate%20Prediction%20in%20Trigger-Induced%20Recommendation.pdf)
 - [DPAN - Dynamic Preference-based and Attribute-aware Network for Relevant Recommendations](Industry/TriggerInduced/DPAN%20-%20Dynamic%20Preference-based%20and%20Attribute-aware%20Network%20for%20Relevant%20Recommendations.pdf)
+- [Deep Evolutional Instant Interest Network for CTR Prediction in Trigger-Induced Recommendation](Industry/TriggerInduced/Deep%20Evolutional%20Instant%20Interest%20Network%20for%20CTR%20Prediction%20in%20Trigger-Induced%20Recommendation.pdf)
+- [Modeling User Intent Beyond Trigger - Incorporating Uncertainty for Trigger-Induced Recommendation](Industry/TriggerInduced/Modeling%20User%20Intent%20Beyond%20Trigger%20-%20Incorporating%20Uncertainty%20for%20Trigger-Induced%20Recommendation.pdf)
 #### Reciprocal
 - [[2010] RECON - A Reciprocal Recommender for Online Dating](Industry/Reciprocal/%5B2010%5D%20RECON%20-%20A%20Reciprocal%20Recommender%20for%20Online%20Dating.pdf)
 - [[2019] Latent Factor Models and Aggregation Operators for Collaborative Filtering in Reciprocal Recommender Systems](Industry/Reciprocal/%5B2019%5D%20Latent%20Factor%20Models%20and%20Aggregation%20Operators%20for%20Collaborative%20Filtering%20in%20Reciprocal%20Recommender%20Systems.pdf)
@@ -794,6 +796,7 @@
 - [A Practical Exploration System for Search Advertising](Cold-Start/A%20Practical%20Exploration%20System%20for%20Search%20Advertising.pdf)
 - [A Model of Two Tales - Dual Transfer Learning Framework for Improved Long-tail Item Recommendation](Cold-Start/A%20Model%20of%20Two%20Tales%20-%20Dual%20Transfer%20Learning%20Framework%20for%20Improved%20Long-tail%20Item%20Recommendation.pdf)
 - [A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps](Cold-Start/A%20Semi-Personalized%20System%20for%20User%20Cold%20Start%20Recommendation%20on%20Music%20Streaming%20Apps.pdf)
+- [A Multi-modal Modeling Framework for Cold-start Short-video Recommendation](Cold-Start/A%20Multi-modal%20Modeling%20Framework%20for%20Cold-start%20Short-video%20Recommendation.pdf)
 - [Bootstrapping Contrastive Learning Enhanced Music Cold-Start Matching](Cold-Start/Bootstrapping%20Contrastive%20Learning%20Enhanced%20Music%20Cold-Start%20Matching.pdf)
 - [Contrastive Learning for Cold-Start Recommendation](Cold-Start/Contrastive%20Learning%20for%20Cold-Start%20Recommendation.pdf)
 - [Cold-start Sequential Recommendation via Meta Learner](Cold-Start/Cold-start%20Sequential%20Recommendation%20via%20Meta%20Learner.pdf)
@@ -896,6 +899,7 @@
 - [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](Diversity/A%20Framework%20for%20Recommending%20Accurate%20and%20Diverse%20Items%20Using%20Bayesian%20Graph%20Convolutional%20Neural%20Networks.pdf)
 - [A Survey of Diversification Techniques in Search and Recommendation](Diversity/A%20Survey%20of%20Diversification%20Techniques%20in%20Search%20and%20Recommendation.pdf)
 - [Adaptive, Personalized Diversity for Visual Discovery](Diversity/Adaptive%2C%20Personalized%20Diversity%20for%20Visual%20Discovery.pdf)
+- [Contextual Distillation Model for Diversified Recommendation](Diversity/Contextual%20Distillation%20Model%20for%20Diversified%20Recommendation.pdf)
 - [Calibrated Recommendations](Diversity/Calibrated%20Recommendations.pdf)
 - [Diversity on the Go! Streaming Determinantal Point Processes under a Maximum Induced Cardinality Objective](Diversity/Diversity%20on%20the%20Go%21%20Streaming%20Determinantal%20Point%20Processes%20under%20a%20Maximum%20Induced%20Cardinality%20Objective.pdf)
 - [DGCN - Diversified Recommendation with Graph Convolutional Networks](Diversity/DGCN%20-%20Diversified%20Recommendation%20with%20Graph%20Convolutional%20Networks.pdf)
