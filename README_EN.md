@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2024-11-07, **863** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2024-11-13, **864** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -657,6 +657,7 @@ I will remove it immediately after verification.
 - [AdaSparse - Learning Adaptively Sparse Structures for Multi-Domain Click-Through Rate Prediction](Multi-Scenario/AdaSparse%20-%20Learning%20Adaptively%20Sparse%20Structures%20for%20Multi-Domain%20Click-Through%20Rate%20Prediction.pdf)
 - [A Collaborative Transfer Learning Framework for Cross-domain Recommendation](Multi-Scenario/A%20Collaborative%20Transfer%20Learning%20Framework%20for%20Cross-domain%20Recommendation.pdf)
 - [A Survey on Cross-domain Recommendation - Taxonomies, Methods, and Future Directions](Multi-Scenario/A%20Survey%20on%20Cross-domain%20Recommendation%20-%20Taxonomies%2C%20Methods%2C%20and%20Future%20Directions.pdf)
+- [Adaptive Conditional Expert Selection Network for Multi-domain Recommendation](Multi-Scenario/Adaptive%20Conditional%20Expert%20Selection%20Network%20for%20Multi-domain%20Recommendation.pdf)
 - [Adaptive Domain Interest Network for Multi-domain Recommendation](Multi-Scenario/Adaptive%20Domain%20Interest%20Network%20for%20Multi-domain%20Recommendation.pdf)
 - [BOMGraph - Boosting Multi-scenario E-commerce Search with a Unified Graph Neural Network](Multi-Scenario/BOMGraph%20-%20Boosting%20Multi-scenario%20E-commerce%20Search%20with%20a%20Unified%20Graph%20Neural%20Network.pdf)
 - [Cross-domain recommendation via user interest alignment](Multi-Scenario/Cross-domain%20recommendation%20via%20user%20interest%20alignment.pdf)
