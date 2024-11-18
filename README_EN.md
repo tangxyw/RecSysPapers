@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2024-11-13, **864** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2024-11-18, **869** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -168,6 +168,7 @@ I will remove it immediately after verification.
 - [Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction](Industry/Multi-Interactive%20Attention%20Network%20for%20Fine-grained%20Feature%20Learning%20in%20CTR%20Prediction.pdf)
 - [Modeling Mobile User Actions for Purchase Recommendation using Deep Memory Networks](Industry/Modeling%20Mobile%20User%20Actions%20for%20Purchase%20Recommendation%20using%20Deep%20Memory%20Networks.pdf)
 - [MRIF - Multi-resolution Interest Fusion for Recommendation](Industry/MRIF%20-%20Multi-resolution%20Interest%20Fusion%20for%20Recommendation.pdf)
+- [MARM - Unlocking the Future of Recommendation Systems through Memory Augmentation and Scalable Complexity](Industry/MARM%20-%20Unlocking%20the%20Future%20of%20Recommendation%20Systems%20through%20Memory%20Augmentation%20and%20Scalable%20Complexity.pdf)
 - [Micro-Behavior Encoding for Session-based Recommendation](Industry/Micro-Behavior%20Encoding%20for%20Session-based%20Recommendation.pdf)
 - [Neural News Recommendation with Negative Feedback](Industry/Neural%20News%20Recommendation%20with%20Negative%20Feedback.pdf)
 - [News Recommendation with Candidate-aware User Modeling](Industry/News%20Recommendation%20with%20Candidate-aware%20User%20Modeling.pdf)
@@ -310,6 +311,7 @@ I will remove it immediately after verification.
 #### FeatureHashing
 - [[2020][Twitter] Model Size Reduction Using Frequency Based Double Hashing for Recommender Systems](Industry/FeatureHashing/%5B2020%5D%5BTwitter%5D%20Model%20Size%20Reduction%20Using%20Frequency%20Based%20Double%20Hashing%20for%20Recommender%20Systems.pdf)
 - [[2021][Google][DHE] Learning to Embed Categorical Features without Embedding Tables for Recommendation](Industry/FeatureHashing/%5B2021%5D%5BGoogle%5D%5BDHE%5D%20Learning%20to%20Embed%20Categorical%20Features%20without%20Embedding%20Tables%20for%20Recommendation.pdf)
+- [AdaS&S - a One-Shot Supernet Approach for Automatic Embedding Size Search in Deep Recommender System](Industry/FeatureHashing/AdaS%26S%20-%20a%20One-Shot%20Supernet%20Approach%20for%20Automatic%20Embedding%20Size%20Search%20in%20Deep%20Recommender%20System.pdf)
 - [AutoEmb - Automated Embedding Dimensionality Search in Streaming Recommendations](Industry/FeatureHashing/AutoEmb%20-%20Automated%20Embedding%20Dimensionality%20Search%20in%20Streaming%20Recommendations.pdf)
 - [Adaptive Low-Precision Training for Embeddings in Click-Through Rate Prediction](Industry/FeatureHashing/Adaptive%20Low-Precision%20Training%20for%20Embeddings%20in%20Click-Through%20Rate%20Prediction.pdf)
 - [Binary Code based Hash Embedding for Web-scale Applications](Industry/FeatureHashing/Binary%20Code%20based%20Hash%20Embedding%20for%20Web-scale%20Applications.pdf)
@@ -381,6 +383,7 @@ I will remove it immediately after verification.
 - [Globally Optimized Mutual Influence Aware Ranking in E-Commerce Search](Re-Rank/Globally%20Optimized%20Mutual%20Influence%20Aware%20Ranking%20in%20E-Commerce%20Search.pdf)
 - [Learning a Deep Listwise Context Model for Ranking Refinement](Re-Rank/Learning%20a%20Deep%20Listwise%20Context%20Model%20for%20Ranking%20Refinement.pdf)
 - [Multi-channel Integrated Recommendation with Exposure Constraints](Re-Rank/Multi-channel%20Integrated%20Recommendation%20with%20Exposure%20Constraints.pdf)
+- [Non-autoregressive Generative Models for Reranking Recommendation](Re-Rank/Non-autoregressive%20Generative%20Models%20for%20Reranking%20Recommendation.pdf)
 - [Neural Re-ranking in Multi-stage Recommender Systems - A Review](Re-Rank/Neural%20Re-ranking%20in%20Multi-stage%20Recommender%20Systems%20-%20A%20Review.pdf)
 - [Practical Diversified Recommendations on YouTube with Determinantal Point Processes](Re-Rank/Practical%20Diversified%20Recommendations%20on%20YouTube%20with%20Determinantal%20Point%20Processes.pdf)
 - [PIER - Permutation-Level Interest-Based End-to-End Re-ranking Framework in E-commerce](Re-Rank/PIER%20-%20Permutation-Level%20Interest-Based%20End-to-End%20Re-ranking%20Framework%20in%20E-commerce.pdf)
@@ -732,11 +735,13 @@ I will remove it immediately after verification.
 - [Unbiased Learning-to-Rank with Biased Feedback](Debias/Unbiased%20Learning-to-Rank%20with%20Biased%20Feedback.pdf)
 ## Calibration
 - [Attended Temperature Scaling - A Practical Approach for Calibrating Deep Neural Networks](Calibration/Attended%20Temperature%20Scaling%20-%20A%20Practical%20Approach%20for%20Calibrating%20Deep%20Neural%20Networks.pdf)
+- [A Self-boosted Framework for Calibrated Ranking](Calibration/A%20Self-boosted%20Framework%20for%20Calibrated%20Ranking.pdf)
 - [Beyond temperature scaling - Obtaining well-calibrated multiclass probabilities with Dirichlet calibration](Calibration/Beyond%20temperature%20scaling%20-%20Obtaining%20well-calibrated%20multiclass%20probabilities%20with%20Dirichlet%20calibration.pdf)
 - [Beta calibration - a well-founded and easily implemented improvement on logistic calibration for binary classifiers](Calibration/Beta%20calibration%20-%20a%20well-founded%20and%20easily%20implemented%20improvement%20on%20logistic%20calibration%20for%20binary%20classifiers.pdf)
 - [CALIBRATION OF NEURAL NETWORKS USING SPLINES](Calibration/CALIBRATION%20OF%20NEURAL%20NETWORKS%20USING%20SPLINES.pdf)
 - [Calibrating User Response Predictions in Online Advertising](Calibration/Calibrating%20User%20Response%20Predictions%20in%20Online%20Advertising.pdf)
 - [Crank up the volume - preference bias amplificationin collaborative recommendation](Calibration/Crank%20up%20the%20volume%20-%20preference%20bias%20amplificationin%20collaborative%20recommendation.pdf)
+- [Deep Ensemble Shape Calibration - Multi-Field Post-hoc Calibration in Online Advertising](Calibration/Deep%20Ensemble%20Shape%20Calibration%20-%20Multi-Field%20Post-hoc%20Calibration%20in%20Online%20Advertising.pdf)
 - [Distribution-free calibration guarantees for histogram binning without sample splitting](Calibration/Distribution-free%20calibration%20guarantees%20for%20histogram%20binning%20without%20sample%20splitting.pdf)
 - [Field-aware Calibration - A Simple and Empirically Strong Method for Reliable Probabilistic Predictions](Calibration/Field-aware%20Calibration%20-%20A%20Simple%20and%20Empirically%20Strong%20Method%20for%20Reliable%20Probabilistic%20Predictions.pdf)
 - [Mitigating Bias in Calibration Error Estimation](Calibration/Mitigating%20Bias%20in%20Calibration%20Error%20Estimation.pdf)
