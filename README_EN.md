@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2024-11-18, **869** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2024-11-20, **873** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -93,6 +93,7 @@ I will remove it immediately after verification.
 - [A Comprehensive Summarization and Evaluation of Feature Refinement Modules for CTR Prediction](Industry/A%20Comprehensive%20Summarization%20and%20Evaluation%20of%20Feature%20Refinement%20Modules%20for%20CTR%20Prediction.pdf)
 - [AutoSeqRec - Autoencoder for Efficient Sequential Recommendation](Industry/AutoSeqRec%20-%20Autoencoder%20for%20Efficient%20Sequential%20Recommendation.pdf)
 - [Adversarial Mixture Of Experts with Category Hierarchy Soft Constraint](Industry/Adversarial%20Mixture%20Of%20Experts%20with%20Category%20Hierarchy%20Soft%20Constraint.pdf)
+- [All-domain Moveline Evolution Network for Click-Through Rate Prediction](Industry/All-domain%20Moveline%20Evolution%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Alternating Pointwise-Pairwise Learning for Personalized Item Ranking](Industry/Alternating%20Pointwise-Pairwise%20Learning%20for%20Personalized%20Item%20Ranking.pdf)
 - [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](Industry/Adversarial%20Filtering%20Modeling%20on%20Long-term%20User%20Behavior%20Sequences%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Adaptive Collaborative Filtering with Personalized Time Decay Functions for Financial Product Recommendation](Industry/Adaptive%20Collaborative%20Filtering%20with%20Personalized%20Time%20Decay%20Functions%20for%20Financial%20Product%20Recommendation.pdf)
@@ -201,6 +202,7 @@ I will remove it immediately after verification.
 - [[2021][Tencent][R3S] Real-time Relevant Recommendation Suggestion](Industry/TriggerInduced/%5B2021%5D%5BTencent%5D%5BR3S%5D%20Real-time%20Relevant%20Recommendation%20Suggestion.pdf)
 - [[2022][Alibaba][DIAN] Deep Intention-Aware Network for Click-Through Rate Prediction](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIAN%5D%20Deep%20Intention-Aware%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2022][Alibaba][DIHN] Deep Interest Highlight Network for Click-Through Rate Prediction in Trigger-Induced Recommendation](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIHN%5D%20Deep%20Interest%20Highlight%20Network%20for%20Click-Through%20Rate%20Prediction%20in%20Trigger-Induced%20Recommendation.pdf)
+- [Collaborative Contrastive Network for Click-Through Rate Prediction](Industry/TriggerInduced/Collaborative%20Contrastive%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [DPAN - Dynamic Preference-based and Attribute-aware Network for Relevant Recommendations](Industry/TriggerInduced/DPAN%20-%20Dynamic%20Preference-based%20and%20Attribute-aware%20Network%20for%20Relevant%20Recommendations.pdf)
 - [Deep Evolutional Instant Interest Network for CTR Prediction in Trigger-Induced Recommendation](Industry/TriggerInduced/Deep%20Evolutional%20Instant%20Interest%20Network%20for%20CTR%20Prediction%20in%20Trigger-Induced%20Recommendation.pdf)
 - [Modeling User Intent Beyond Trigger - Incorporating Uncertainty for Trigger-Induced Recommendation](Industry/TriggerInduced/Modeling%20User%20Intent%20Beyond%20Trigger%20-%20Incorporating%20Uncertainty%20for%20Trigger-Induced%20Recommendation.pdf)
@@ -645,6 +647,7 @@ I will remove it immediately after verification.
 - [MM-GEF - Multi-modal representation meet collaborative filtering](Multi-Modal/MM-GEF%20-%20Multi-modal%20representation%20meet%20collaborative%20filtering.pdf)
 - [MMBee - Live Streaming Gift-Sending Recommendations via Multi-Modal Fusion and Behaviour Expansion](Multi-Modal/MMBee%20-%20Live%20Streaming%20Gift-Sending%20Recommendations%20via%20Multi-Modal%20Fusion%20and%20Behaviour%20Expansion.pdf)
 - [Pretraining Representations of Multi-modal Multi-query E-commerce Search](Multi-Modal/Pretraining%20Representations%20of%20Multi-modal%20Multi-query%20E-commerce%20Search.pdf)
+- [QARM - Quantitative Alignment Multi-Modal Recommendation at Kuaishou](Multi-Modal/QARM%20-%20Quantitative%20Alignment%20Multi-Modal%20Recommendation%20at%20Kuaishou.pdf)
 - [Universal Multi-modal Multi-domain Pre-trained Recommendation](Multi-Modal/Universal%20Multi-modal%20Multi-domain%20Pre-trained%20Recommendation.pdf)
 - [Unsupervised Multi-Modal Representation Learning for High Quality Retrieval of Similar Products at E-commerce Scale](Multi-Modal/Unsupervised%20Multi-Modal%20Representation%20Learning%20for%20High%20Quality%20Retrieval%20of%20Similar%20Products%20at%20E-commerce%20Scale.pdf)
 ## Multi-Scenario
@@ -831,6 +834,7 @@ I will remove it immediately after verification.
 - [LHRM - A LBS based Heterogeneous Relations Model for User Cold Start Recommendation in Online Travel Platform](Cold-Start/LHRM%20-%20A%20LBS%20based%20Heterogeneous%20Relations%20Model%20for%20User%20Cold%20Start%20Recommendation%20in%20Online%20Travel%20Platform.pdf)
 - [MAMO - Memory-Augmented Meta-Optimization for Cold-start Recommendation](Cold-Start/MAMO%20-%20Memory-Augmented%20Meta-Optimization%20for%20Cold-start%20Recommendation.pdf)
 - [Neighbor Based Enhancement for the Long-Tail Ranking Problem in Video Rank Models](Cold-Start/Neighbor%20Based%20Enhancement%20for%20the%20Long-Tail%20Ranking%20Problem%20in%20Video%20Rank%20Models.pdf)
+- [Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning](Cold-Start/Online%20Item%20Cold-Start%20Recommendation%20with%20Popularity-Aware%20Meta-Learning.pdf)
 - [SimRec - Mitigating the Cold-Start Problem in Sequential Recommendation by Integrating Item Similarity](Cold-Start/SimRec%20-%20Mitigating%20the%20Cold-Start%20Problem%20in%20Sequential%20Recommendation%20by%20Integrating%20Item%20Similarity.pdf)
 - [SMINet - State-Aware Multi-Aspect Interests Representation Network for Cold-Start Users Recommendation](Cold-Start/SMINet%20-%20State-Aware%20Multi-Aspect%20Interests%20Representation%20Network%20for%20Cold-Start%20Users%20Recommendation.pdf)
 - [Task-adaptive Neural Process for User Cold-Start Recommendation](Cold-Start/Task-adaptive%20Neural%20Process%20for%20User%20Cold-Start%20Recommendation.pdf)
