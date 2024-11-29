@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2024-11-20，本仓库收集汇总了推荐系统领域相关论文共**873**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2024-11-29，本仓库收集汇总了推荐系统领域相关论文共**875**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -441,6 +441,7 @@
 - [I^3 Retriever- Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval](Match/I%5E3%20Retriever-%20Incorporating%20Implicit%20Interaction%20in%20Pre-trained%20Language%20Models%20for%20Passage%20Retrieval.pdf)
 - [Improving Recommendation Accuracy using Networks of Substitutable and Complementary Products](Match/Improving%20Recommendation%20Accuracy%20using%20Networks%20of%20Substitutable%20and%20Complementary%20Products.pdf)
 - [ItemSage - Learning Product Embeddings for Shopping Recommendations at Pinterest](Match/ItemSage%20-%20Learning%20Product%20Embeddings%20for%20Shopping%20Recommendations%20at%20Pinterest.pdf)
+- [KuaiFormer - Transformer-Based Retrieval at Kuaishou](Match/KuaiFormer%20-%20Transformer-Based%20Retrieval%20at%20Kuaishou.pdf)
 - [Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking](Match/Latent%20Relational%20Metric%20Learning%20via%20Memory-based%20Attention%20for%20Collaborative%20Ranking.pdf)
 - [Learning from History and Present - Next-item Recommendation via Discriminatively Exploiting User Behaviors](Match/Learning%20from%20History%20and%20Present%20-%20Next-item%20Recommendation%20via%20Discriminatively%20Exploiting%20User%20Behaviors.pdf)
 - [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](Match/Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf)
@@ -607,6 +608,7 @@
 - [MetaBalance - Improving Multi-Task Recommendations via Adapting Gradient Magnitudes of Auxiliary Tasks](Multi-Task/MetaBalance%20-%20Improving%20Multi-Task%20Recommendations%20via%20Adapting%20Gradient%20Magnitudes%20of%20Auxiliary%20Tasks.pdf)
 - [MSSM - A Multiple-level Sparse Sharing Model for Efficient Multi-Task Learning](Multi-Task/MSSM%20-%20A%20Multiple-level%20Sparse%20Sharing%20Model%20for%20Efficient%20Multi-Task%20Learning.pdf)
 - [Multi-objective Learning to Rank by Model Distillation](Multi-Task/Multi-objective%20Learning%20to%20Rank%20by%20Model%20Distillation.pdf)
+- [MultiBalance - Multi-Objective Gradient Balancing in Industrial-Scale Multi-Task Recommendation System](Multi-Task/MultiBalance%20-%20Multi-Objective%20Gradient%20Balancing%20in%20Industrial-Scale%20Multi-Task%20Recommendation%20System.pdf)
 - [Mixture of Virtual-Kernel Experts for Multi-Objective User Profile Modeling](Multi-Task/Mixture%20of%20Virtual-Kernel%20Experts%20for%20Multi-Objective%20User%20Profile%20Modeling.pdf)
 - [Multitask Ranking System for Immersive Feed and No More Clicks - A Case Study of Short-Form Video Recommendation](Multi-Task/Multitask%20Ranking%20System%20for%20Immersive%20Feed%20and%20No%20More%20Clicks%20-%20A%20Case%20Study%20of%20Short-Form%20Video%20Recommendation.pdf)
 - [Multi-Objective Ranking Optimization for Product Search Using Stochastic Label Aggregation](Multi-Task/Multi-Objective%20Ranking%20Optimization%20for%20Product%20Search%20Using%20Stochastic%20Label%20Aggregation.pdf)
