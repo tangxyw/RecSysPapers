@@ -457,9 +457,9 @@ I will remove it immediately after verification.
 - [M5 - Multi-Modal Multi-Interest Multi-Scenario Matching for Over-the-Top Recommendation](Match/M5%20-%20Multi-Modal%20Multi-Interest%20Multi-Scenario%20Matching%20for%20Over-the-Top%20Recommendation.pdf)
 - [Modeling Dynamic Missingness of Implicit Feedback for Recommendation](Match/Modeling%20Dynamic%20Missingness%20of%20Implicit%20Feedback%20for%20Recommendation.pdf)
 - [MV-HAN - A Hybrid Attentive Networks based Multi-View Learning Model for Large-scale Contents Recommendation](Match/MV-HAN%20-%20A%20Hybrid%20Attentive%20Networks%20based%20Multi-View%20Learning%20Model%20for%20Large-scale%20Contents%20Recommendation.pdf)
+- [Neural Attentive Session-based Recommendation](Match/Neural%20Attentive%20Session-based%20Recommendation.pdf)
 - [Neighborhood-based Hard Negative Mining for Sequential Recommendation](Match/Neighborhood-based%20Hard%20Negative%20Mining%20for%20Sequential%20Recommendation.pdf)
 - [NAIS - Neural Attentive Item Similarity Model for Recommendation](Match/NAIS%20-%20Neural%20Attentive%20Item%20Similarity%20Model%20for%20Recommendation.pdf)
-- [Neural Aentive Session-based Recommendation](Match/Neural%20A%1Dentive%20Session-based%20Recommendation.pdf)
 - [Octopus - Comprehensive and Elastic User Representation for the Generation of Recommendation Candidates](Match/Octopus%20-%20Comprehensive%20and%20Elastic%20User%20Representation%20for%20the%20Generation%20of%20Recommendation%20Candidates.pdf)
 - [Outer Product-based Neural Collaborative Filtering](Match/Outer%20Product-based%20Neural%20Collaborative%20Filtering.pdf)
 - [On the Theories Behind Hard Negative Sampling for Recommendation](Match/On%20the%20Theories%20Behind%20Hard%20Negative%20Sampling%20for%20Recommendation.pdf)
@@ -491,6 +491,14 @@ I will remove it immediately after verification.
 - [VIER - Visual Imagination Enhanced Retrieval in Sponsored Search](Match/VIER%20-%20Visual%20Imagination%20Enhanced%20Retrieval%20in%20Sponsored%20Search.pdf)
 - [Variational Autoencoders for Collaborative Filtering](Match/Variational%20Autoencoders%20for%20Collaborative%20Filtering.pdf)
 - [gSASRec - Reducing Overconfidence in Sequential Recommendation Trained with Negative Sampling](Match/gSASRec%20-%20Reducing%20Overconfidence%20in%20Sequential%20Recommendation%20Trained%20with%20Negative%20Sampling.pdf)
+#### Mulit-Interest
+- [[2019][Alibaba][MIND] Multi-Interest Network with Dynamic Routing for Recommendation at Tmall](Match/Mulit-Interest/%5B2019%5D%5BAlibaba%5D%5BMIND%5D%20Multi-Interest%20Network%20with%20Dynamic%20Routing%20for%20Recommendation%20at%20Tmall.pdf)
+- [[2020][Alibaba][ComiRec] Controllable Multi-Interest Framework for Recommendation](Match/Mulit-Interest/%5B2020%5D%5BAlibaba%5D%5BComiRec%5D%20Controllable%20Multi-Interest%20Framework%20for%20Recommendation.pdf)
+- [Attribute Simulation for Item Embedding Enhancement in Multi-interest Recommendation](Match/Mulit-Interest/Attribute%20Simulation%20for%20Item%20Embedding%20Enhancement%20in%20Multi-interest%20Recommendation.pdf)
+- [Density Weighting for Multi-Interest Personalized Recommendation](Match/Mulit-Interest/Density%20Weighting%20for%20Multi-Interest%20Personalized%20Recommendation.pdf)
+- [Every Preference Changes Differently - Neural Multi-Interest Preference Model with Temporal Dynamics for Recommendation](Match/Mulit-Interest/Every%20Preference%20Changes%20Differently%20-%20Neural%20Multi-Interest%20Preference%20Model%20with%20Temporal%20Dynamics%20for%20Recommendation.pdf)
+- [Improving Multi-Interest Network with Stable Learning](Match/Mulit-Interest/Improving%20Multi-Interest%20Network%20with%20Stable%20Learning.pdf)
+- [Multiple Interest and Fine Granularity Network for User Modeling](Match/Mulit-Interest/Multiple%20Interest%20and%20Fine%20Granularity%20Network%20for%20User%20Modeling.pdf)
 #### Tree-Based
 - [Deep Retrieval - Learning A Retrievable Structure for Large-Scale Recommendations](Match/Tree-Based/Deep%20Retrieval%20-%20Learning%20A%20Retrievable%20Structure%20for%20Large-Scale%20Recommendations.pdf)
 - [Joint Optimization of Tree-based Index and Deep Model for Recommender Systems](Match/Tree-Based/Joint%20Optimization%20of%20Tree-based%20Index%20and%20Deep%20Model%20for%20Recommender%20Systems.pdf)
@@ -506,14 +514,6 @@ I will remove it immediately after verification.
 - [GroupLens - An open architecture for collaborative filtering of Netnews](Match/Classic/GroupLens%20-%20An%20open%20architecture%20for%20collaborative%20filtering%20of%20Netnews.pdf)
 - [Item-Based Collaborative Filtering Recommendation Algorithms](Match/Classic/Item-Based%20Collaborative%20Filtering%20Recommendation%20Algorithms.pdf)
 - [MatchSim - a novel similarity measure based on maximum neighborhood matching](Match/Classic/MatchSim%20-%20a%20novel%20similarity%20measure%20based%20on%20maximum%20neighborhood%20matching.pdf)
-#### Mulit-Interset
-- [[2019][Alibaba][MIND] Multi-Interest Network with Dynamic Routing for Recommendation at Tmall](Match/Mulit-Interset/%5B2019%5D%5BAlibaba%5D%5BMIND%5D%20Multi-Interest%20Network%20with%20Dynamic%20Routing%20for%20Recommendation%20at%20Tmall.pdf)
-- [[2020][Alibaba][ComiRec] Controllable Multi-Interest Framework for Recommendation](Match/Mulit-Interset/%5B2020%5D%5BAlibaba%5D%5BComiRec%5D%20Controllable%20Multi-Interest%20Framework%20for%20Recommendation.pdf)
-- [Attribute Simulation for Item Embedding Enhancement in Multi-interest Recommendation](Match/Mulit-Interset/Attribute%20Simulation%20for%20Item%20Embedding%20Enhancement%20in%20Multi-interest%20Recommendation.pdf)
-- [Density Weighting for Multi-Interest Personalized Recommendation](Match/Mulit-Interset/Density%20Weighting%20for%20Multi-Interest%20Personalized%20Recommendation.pdf)
-- [Every Preference Changes Differently - Neural Multi-Interest Preference Model with Temporal Dynamics for Recommendation](Match/Mulit-Interset/Every%20Preference%20Changes%20Differently%20-%20Neural%20Multi-Interest%20Preference%20Model%20with%20Temporal%20Dynamics%20for%20Recommendation.pdf)
-- [Improving Multi-Interest Network with Stable Learning](Match/Mulit-Interset/Improving%20Multi-Interest%20Network%20with%20Stable%20Learning.pdf)
-- [Multiple Interest and Fine Granularity Network for User Modeling](Match/Mulit-Interset/Multiple%20Interest%20and%20Fine%20Granularity%20Network%20for%20User%20Modeling.pdf)
 #### GNN
 - [[2014][word2vec] Negative-Sampling Word-Embedding Method](Match/GNN/%5B2014%5D%5Bword2vec%5D%20Negative-Sampling%20Word-Embedding%20Method.pdf)
 - [[2014][DeepWalk] DeepWalk - Online Learning of Social Representations](Match/GNN/%5B2014%5D%5BDeepWalk%5D%20DeepWalk%20-%20Online%20Learning%20of%20Social%20Representations.pdf)
