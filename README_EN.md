@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2024-11-29, **875** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2024-12-03, **877** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -487,6 +487,7 @@ I will remove it immediately after verification.
 - [Towards Personalized and Semantic Retrieval - An End-to-End Solution for E-commerce Search via Embedding Learning](Match/Towards%20Personalized%20and%20Semantic%20Retrieval%20-%20An%20End-to-End%20Solution%20for%20E-commerce%20Search%20via%20Embedding%20Learning.pdf)
 - [Unified Generative & Dense Retrieval for Query Rewriting in Sponsored Search](Match/Unified%20Generative%20%26%20Dense%20Retrieval%20for%20Query%20Rewriting%20in%20Sponsored%20Search.pdf)
 - [Uni-Retriever - Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search](Match/Uni-Retriever%20-%20Towards%20Learning%20The%20Unified%20Embedding%20Based%20Retriever%20in%20Bing%20Sponsored%20Search.pdf)
+- [Unifying Generative and Dense Retrieval for Sequential Recommendation](Match/Unifying%20Generative%20and%20Dense%20Retrieval%20for%20Sequential%20Recommendation.pdf)
 - [VIER - Visual Imagination Enhanced Retrieval in Sponsored Search](Match/VIER%20-%20Visual%20Imagination%20Enhanced%20Retrieval%20in%20Sponsored%20Search.pdf)
 - [Variational Autoencoders for Collaborative Filtering](Match/Variational%20Autoencoders%20for%20Collaborative%20Filtering.pdf)
 - [gSASRec - Reducing Overconfidence in Sequential Recommendation Trained with Negative Sampling](Match/gSASRec%20-%20Reducing%20Overconfidence%20in%20Sequential%20Recommendation%20Trained%20with%20Negative%20Sampling.pdf)
@@ -905,6 +906,7 @@ I will remove it immediately after verification.
 - [CauseRec - Counterfactual User Sequence Synthesis for Sequential Recommendation](CausalInference/CauseRec%20-%20Counterfactual%20User%20Sequence%20Synthesis%20for%20Sequential%20Recommendation.pdf)
 - [Counterfactual Data-Augmented Sequential Recommendation](CausalInference/Counterfactual%20Data-Augmented%20Sequential%20Recommendation.pdf)
 - [Clicks can be Cheating - Counterfactual Recommendation for Mitigating Clickbait Issue](CausalInference/Clicks%20can%20be%20Cheating%20-%20Counterfactual%20Recommendation%20for%20Mitigating%20Clickbait%20Issue.pdf)
+- [Counterfactual Learning-Driven Representation Disentanglement for Search-Enhanced Recommendation](CausalInference/Counterfactual%20Learning-Driven%20Representation%20Disentanglement%20for%20Search-Enhanced%20Recommendation.pdf)
 - [Causal Inference in Recommender Systems - A Survey and Future Directions](CausalInference/Causal%20Inference%20in%20Recommender%20Systems%20-%20A%20Survey%20and%20Future%20Directions.pdf)
 - [Doubly Robust Joint Learning for Recommendation on Data Missing Not at Random](CausalInference/Doubly%20Robust%20Joint%20Learning%20for%20Recommendation%20on%20Data%20Missing%20Not%20at%20Random.pdf)
 - [Deconfounded Recommendation for Alleviating Bias Amplification](CausalInference/Deconfounded%20Recommendation%20for%20Alleviating%20Bias%20Amplification.pdf)
