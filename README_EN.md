@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2024-12-03, **877** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2024-12-09, **880** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -145,16 +145,19 @@ I will remove it immediately after verification.
 - [Hierarchical Gating Networks for Sequential Recommendation](Industry/Hierarchical%20Gating%20Networks%20for%20Sequential%20Recommendation.pdf)
 - [HIEN - Hierarchical Intention Embedding Network for Click-Through Rate Prediction](Industry/HIEN%20-%20Hierarchical%20Intention%20Embedding%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Inverse Learning with Extremely Sparse Feedback for Recommendation](Industry/Inverse%20Learning%20with%20Extremely%20Sparse%20Feedback%20for%20Recommendation.pdf)
+- [Improving Sequential Recommender Systems with Online and In-store User Behavior](Industry/Improving%20Sequential%20Recommender%20Systems%20with%20Online%20and%20In-store%20User%20Behavior.pdf)
 - [Improving Pairwise Learning for Item Recommendation from Implicit Feedback](Industry/Improving%20Pairwise%20Learning%20for%20Item%20Recommendation%20from%20Implicit%20Feedback.pdf)
 - [Improving Recommendation Quality in Google Drive](Industry/Improving%20Recommendation%20Quality%20in%20Google%20Drive.pdf)
 - [Incorporating Social-aware User Preference for Video Recommendation](Industry/Incorporating%20Social-aware%20User%20Preference%20for%20Video%20Recommendation.pdf)
 - [Improving Deep Learning For Airbnb Search](Industry/Improving%20Deep%20Learning%20For%20Airbnb%20Search.pdf)
 - [Interpretable User Retention Modeling in Recommendation](Industry/Interpretable%20User%20Retention%20Modeling%20in%20Recommendation.pdf)
+- [Improving feature interactions at Pinterest under industry constraints](Industry/Improving%20feature%20interactions%20at%20Pinterest%20under%20industry%20constraints.pdf)
 - [Implicit User Awareness Modeling via Candidate Items for CTR Prediction in Search Ads](Industry/Implicit%20User%20Awareness%20Modeling%20via%20Candidate%20Items%20for%20CTR%20Prediction%20in%20Search%20Ads.pdf)
 - [Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation](Industry/Incorporating%20User%20Micro-behaviors%20and%20Item%20Knowledge%20into%20Multi-task%20Learning%20for%20Session-based%20Recommendation.pdf)
 - [Learning from All Sides - Diversified Positive Augmentation via Self-distillation in Recommendation](Industry/Learning%20from%20All%20Sides%20-%20Diversified%20Positive%20Augmentation%20via%20Self-distillation%20in%20Recommendation.pdf)
 - [Leveraging Watch-time Feedback for Short-Video Recommendations - A Causal Labeling Framework](Industry/Leveraging%20Watch-time%20Feedback%20for%20Short-Video%20Recommendations%20-%20A%20Causal%20Labeling%20Framework.pdf)
 - [Long Short-Term Temporal Meta-learning in Online Recommendation](Industry/Long%20Short-Term%20Temporal%20Meta-learning%20in%20Online%20Recommendation.pdf)
+- [LONG-SEQUENCE RECOMMENDATION MODELS NEED DECOUPLED EMBEDDINGS](Industry/LONG-SEQUENCE%20RECOMMENDATION%20MODELS%20NEED%20DECOUPLED%20EMBEDDINGS.pdf)
 - [Learning and Optimization of Implicit Negative Feedback for Industrial Short-video Recommender System](Industry/Learning%20and%20Optimization%20of%20Implicit%20Negative%20Feedback%20for%20Industrial%20Short-video%20Recommender%20System.pdf)
 - [LambdaFM - Learning Optimal Ranking with Factorization Machines Using Lambda Surrogates](Industry/LambdaFM%20-%20Learning%20Optimal%20Ranking%20with%20Factorization%20Machines%20Using%20Lambda%20Surrogates.pdf)
 - [Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction](Industry/Lifelong%20Sequential%20Modeling%20with%20Personalized%20Memorization%20for%20User%20Response%20Prediction.pdf)
