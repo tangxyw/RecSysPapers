@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2024-12-09，本仓库收集汇总了推荐系统领域相关论文共**880**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2024-12-24，本仓库收集汇总了推荐系统领域相关论文共**884**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -133,6 +133,7 @@
 - [Graph-Based Model-Agnostic Data Subsampling for Recommendation Systems](Industry/Graph-Based%20Model-Agnostic%20Data%20Subsampling%20for%20Recommendation%20Systems.pdf)
 - [Group-Aware Interest Disentangled Dual-Training for Personalized Recommendation](Industry/Group-Aware%20Interest%20Disentangled%20Dual-Training%20for%20Personalized%20Recommendation.pdf)
 - [Generative Flow Network for Listwise Recommendation](Industry/Generative%20Flow%20Network%20for%20Listwise%20Recommendation.pdf)
+- [Hesitation and Tolerance in Recommender Systems](Industry/Hesitation%20and%20Tolerance%20in%20Recommender%20Systems.pdf)
 - [Hierarchically Fusing Long and Short-Term User Interests for Click-Through Rate Prediction in Product Search](Industry/Hierarchically%20Fusing%20Long%20and%20Short-Term%20User%20Interests%20for%20Click-Through%20Rate%20Prediction%20in%20Product%20Search.pdf)
 - [Hybrid Interest Modeling for Long-tailed Users](Industry/Hybrid%20Interest%20Modeling%20for%20Long-tailed%20Users.pdf)
 - [Hierarchical Gating Networks for Sequential Recommendation](Industry/Hierarchical%20Gating%20Networks%20for%20Sequential%20Recommendation.pdf)
@@ -429,6 +430,7 @@
 - [Coarse-to-Fine Sparse Sequential Recommendation](Match/Coarse-to-Fine%20Sparse%20Sequential%20Recommendation.pdf)
 - [Cross-Batch Negative Sampling for Training Two-Tower Recommenders](Match/Cross-Batch%20Negative%20Sampling%20for%20Training%20Two-Tower%20Recommenders.pdf)
 - [Collaborative Deep Learning for Recommender Systems](Match/Collaborative%20Deep%20Learning%20for%20Recommender%20Systems.pdf)
+- [CRM - Retrieval Model with Controllable Condition](Match/CRM%20-%20Retrieval%20Model%20with%20Controllable%20Condition.pdf)
 - [Deep Matrix Factorization Models for Recommender Systems](Match/Deep%20Matrix%20Factorization%20Models%20for%20Recommender%20Systems.pdf)
 - [Divide and Conquer - Towards Better Embedding-based Retrieval for Recommender Systems from a Multi-task Perspective](Match/Divide%20and%20Conquer%20-%20Towards%20Better%20Embedding-based%20Retrieval%20for%20Recommender%20Systems%20from%20a%20Multi-task%20Perspective.pdf)
 - [Disentangled Self-Supervision in Sequential Recommenders](Match/Disentangled%20Self-Supervision%20in%20Sequential%20Recommenders.pdf)
@@ -620,6 +622,7 @@
 - [Multi-Task Learning as Multi-Objective Optimization - slide](Multi-Task/Multi-Task%20Learning%20as%20Multi-Objective%20Optimization%20-%20slide.pdf)
 - [Multi-Task Deep Recommender Systems - A Survey](Multi-Task/Multi-Task%20Deep%20Recommender%20Systems%20-%20A%20Survey.pdf)
 - [NCS4CVR - Neuron-Connection Sharing for Multi-Task Learning in Video Conversion Rate Prediction](Multi-Task/NCS4CVR%20-%20Neuron-Connection%20Sharing%20for%20Multi-Task%20Learning%20in%20Video%20Conversion%20Rate%20Prediction.pdf)
+- [No More Tuning - Prioritized Multi-Task Learning with Lagrangian Differential Multiplier Methods](Multi-Task/No%20More%20Tuning%20-%20Prioritized%20Multi-Task%20Learning%20with%20Lagrangian%20Differential%20Multiplier%20Methods.pdf)
 - [Optimizing Airbnb Search Journey with Multi-task Learning](Multi-Task/Optimizing%20Airbnb%20Search%20Journey%20with%20Multi-task%20Learning.pdf)
 - [Perceive Your Users in Depth - Learning Universal User Representations from Multiple E-commerce Tasks](Multi-Task/Perceive%20Your%20Users%20in%20Depth%20-%20Learning%20Universal%20User%20Representations%20from%20Multiple%20E-commerce%20Tasks.pdf)
 - [Personalized Approximate Pareto-Efficient Recommendation](Multi-Task/Personalized%20Approximate%20Pareto-Efficient%20Recommendation.pdf)
@@ -962,6 +965,7 @@
 - [Reinforcing User Retention in a Billion Scale Short Video Recommender System](ReinforcementLearning/Reinforcing%20User%20Retention%20in%20a%20Billion%20Scale%20Short%20Video%20Recommender%20System.pdf)
 - [Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning](ReinforcementLearning/Recommendations%20with%20Negative%20Feedback%20via%20Pairwise%20Deep%20Reinforcement%20Learning.pdf)
 - [Reinforcement Learning for Slate-based Recommender Systems - A Tractable Decomposition and Practical Methodology](ReinforcementLearning/Reinforcement%20Learning%20for%20Slate-based%20Recommender%20Systems%20-%20A%20Tractable%20Decomposition%20and%20Practical%20Methodology.pdf)
+- [Supervised Learning-enhanced Multi-Group Actor Critic for Live-stream Recommendation](ReinforcementLearning/Supervised%20Learning-enhanced%20Multi-Group%20Actor%20Critic%20for%20Live-stream%20Recommendation.pdf)
 - [Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation](ReinforcementLearning/Stabilizing%20Reinforcement%20Learning%20in%20Dynamic%20Environment%20with%20Application%20to%20Online%20Recommendation.pdf)
 - [Top-K Off-Policy Correctionfor a REINFORCE Recommender System](ReinforcementLearning/Top-K%20Off-Policy%20Correctionfor%20a%20REINFORCE%20Recommender%20System.pdf)
 - [Two-Stage Constrained Actor-Critic for Short Video Recommendation](ReinforcementLearning/Two-Stage%20Constrained%20Actor-Critic%20for%20Short%20Video%20Recommendation.pdf)
