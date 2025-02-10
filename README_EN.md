@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-02-10, **885** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-02-10, **891** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -675,6 +675,7 @@ I will remove it immediately after verification.
 - [A Survey on Cross-domain Recommendation - Taxonomies, Methods, and Future Directions](Multi-Scenario/A%20Survey%20on%20Cross-domain%20Recommendation%20-%20Taxonomies%2C%20Methods%2C%20and%20Future%20Directions.pdf)
 - [Adaptive Conditional Expert Selection Network for Multi-domain Recommendation](Multi-Scenario/Adaptive%20Conditional%20Expert%20Selection%20Network%20for%20Multi-domain%20Recommendation.pdf)
 - [Adaptive Domain Interest Network for Multi-domain Recommendation](Multi-Scenario/Adaptive%20Domain%20Interest%20Network%20for%20Multi-domain%20Recommendation.pdf)
+- [A Unified Search and Recommendation Framework Based on Multi-Scenario Learning for Ranking in E-commerce](Multi-Scenario/A%20Unified%20Search%20and%20Recommendation%20Framework%20Based%20on%20Multi-Scenario%20Learning%20for%20Ranking%20in%20E-commerce.pdf)
 - [BOMGraph - Boosting Multi-scenario E-commerce Search with a Unified Graph Neural Network](Multi-Scenario/BOMGraph%20-%20Boosting%20Multi-scenario%20E-commerce%20Search%20with%20a%20Unified%20Graph%20Neural%20Network.pdf)
 - [Cross-domain recommendation via user interest alignment](Multi-Scenario/Cross-domain%20recommendation%20via%20user%20interest%20alignment.pdf)
 - [Cross-Domain Recommendation- Challenges, Progress, and Prospects](Multi-Scenario/Cross-Domain%20Recommendation-%20Challenges%2C%20Progress%2C%20and%20Prospects.pdf)
@@ -699,12 +700,16 @@ I will remove it immediately after verification.
 - [Heterogeneous Graph Augmented Multi-Scenario Sharing Recommendation with Tree-Guided Expert Networks](Multi-Scenario/Heterogeneous%20Graph%20Augmented%20Multi-Scenario%20Sharing%20Recommendation%20with%20Tree-Guided%20Expert%20Networks.pdf)
 - [Hybrid Contrastive Constraints for Multi-Scenario Ad Ranking](Multi-Scenario/Hybrid%20Contrastive%20Constraints%20for%20Multi-Scenario%20Ad%20Ranking.pdf)
 - [HAMUR - Hyper Adapter for Multi-Domain Recommendation](Multi-Scenario/HAMUR%20-%20Hyper%20Adapter%20for%20Multi-Domain%20Recommendation.pdf)
+- [IncMSR - An Incremental Learning Approach for Multi-Scenario Recommendation](Multi-Scenario/IncMSR%20-%20An%20Incremental%20Learning%20Approach%20for%20Multi-Scenario%20Recommendation.pdf)
 - [Improving Multi-Scenario Learning to Rank in E-commerce by Exploiting Task Relationships in the Label Space](Multi-Scenario/Improving%20Multi-Scenario%20Learning%20to%20Rank%20in%20E-commerce%20by%20Exploiting%20Task%20Relationships%20in%20the%20Label%20Space.pdf)
 - [KEEP - An Industrial Pre-Training Framework for Online Recommendation via Knowledge Extraction and Plugging](Multi-Scenario/KEEP%20-%20An%20Industrial%20Pre-Training%20Framework%20for%20Online%20Recommendation%20via%20Knowledge%20Extraction%20and%20Plugging.pdf)
 - [Leaving No One Behind - A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling](Multi-Scenario/Leaving%20No%20One%20Behind%20-%20A%20Multi-Scenario%20Multi-Task%20Meta%20Learning%20Approach%20for%20Advertiser%20Modeling.pdf)
+- [M3oE - Multi-Domain Multi-Task Mixture-of-Experts Recommendation Framework](Multi-Scenario/M3oE%20-%20Multi-Domain%20Multi-Task%20Mixture-of-Experts%20Recommendation%20Framework.pdf)
 - [Moment&Cross - Next-Generation Real-Time Cross-Domain CTR Prediction for Live-Streaming Recommendation at Kuaishou](Multi-Scenario/Moment%26Cross%20-%20Next-Generation%20Real-Time%20Cross-Domain%20CTR%20Prediction%20for%20Live-Streaming%20Recommendation%20at%20Kuaishou.pdf)
 - [Mixed Attention Network for Cross-domain Sequential Recommendation](Multi-Scenario/Mixed%20Attention%20Network%20for%20Cross-domain%20Sequential%20Recommendation.pdf)
 - [Multi-Graph based Multi-Scenario Recommendation in Large-scale Online Video Services](Multi-Scenario/Multi-Graph%20based%20Multi-Scenario%20Recommendation%20in%20Large-scale%20Online%20Video%20Services.pdf)
+- [M-scan - A Multi-Scenario Causal-driven Adaptive Network for Recommendation](Multi-Scenario/M-scan%20-%20A%20Multi-Scenario%20Causal-driven%20Adaptive%20Network%20for%20Recommendation.pdf)
+- [MLoRA - Multi-Domain Low-Rank Adaptive Network for Click-Through Rate Prediction](Multi-Scenario/MLoRA%20-%20Multi-Domain%20Low-Rank%20Adaptive%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Multi-Scenario Ranking with Adaptive Feature Learning](Multi-Scenario/Multi-Scenario%20Ranking%20with%20Adaptive%20Feature%20Learning.pdf)
 - [Personalized Transfer of User Preferences for Cross-domain Recommendation](Multi-Scenario/Personalized%20Transfer%20of%20User%20Preferences%20for%20Cross-domain%20Recommendation.pdf)
 - [Rethinking Cross-Domain Sequential Recommendation under Open-World Assumptions](Multi-Scenario/Rethinking%20Cross-Domain%20Sequential%20Recommendation%20under%20Open-World%20Assumptions.pdf)
@@ -714,6 +719,7 @@ I will remove it immediately after verification.
 - [Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation](Multi-Scenario/Scenario-Aware%20Hierarchical%20Dynamic%20Network%20for%20Multi-Scenario%20Recommendation.pdf)
 - [Semi-Supervised Learning for Cross-Domain Recommendation to Cold-Start Users](Multi-Scenario/Semi-Supervised%20Learning%20for%20Cross-Domain%20Recommendation%20to%20Cold-Start%20Users.pdf)
 - [Scenario-aware and Mutual-based approach for Multi-scenario Recommendation in E-Commerce](Multi-Scenario/Scenario-aware%20and%20Mutual-based%20approach%20for%20Multi-scenario%20Recommendation%20in%20E-Commerce.pdf)
+- [Scenario-Adaptive Fine-Grained Personalization Network- Tailoring User Behavior Representation to the Scenario Context](Multi-Scenario/Scenario-Adaptive%20Fine-Grained%20Personalization%20Network-%20Tailoring%20User%20Behavior%20Representation%20to%20the%20Scenario%20Context.pdf)
 - [Self-Supervised Learning on Users’ Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce](Multi-Scenario/Self-Supervised%20Learning%20on%20Users%E2%80%99%20Spontaneous%20Behaviors%20for%20Multi-Scenario%20Ranking%20in%20E-commerce.pdf)
 - [Scenario-Adaptive and Self-Supervised Model for Multi-Scenario Personalized Recommendation](Multi-Scenario/Scenario-Adaptive%20and%20Self-Supervised%20Model%20for%20Multi-Scenario%20Personalized%20Recommendation.pdf)
 ## Debias
