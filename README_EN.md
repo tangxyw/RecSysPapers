@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2024-12-24, **884** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-02-10, **885** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -160,6 +160,7 @@ I will remove it immediately after verification.
 - [Long Short-Term Temporal Meta-learning in Online Recommendation](Industry/Long%20Short-Term%20Temporal%20Meta-learning%20in%20Online%20Recommendation.pdf)
 - [LONG-SEQUENCE RECOMMENDATION MODELS NEED DECOUPLED EMBEDDINGS](Industry/LONG-SEQUENCE%20RECOMMENDATION%20MODELS%20NEED%20DECOUPLED%20EMBEDDINGS.pdf)
 - [Learning and Optimization of Implicit Negative Feedback for Industrial Short-video Recommender System](Industry/Learning%20and%20Optimization%20of%20Implicit%20Negative%20Feedback%20for%20Industrial%20Short-video%20Recommender%20System.pdf)
+- [Long-Term Interest Clock - Fine-Grained Time Perception in Streaming Recommendation System](Industry/Long-Term%20Interest%20Clock%20-%20Fine-Grained%20Time%20Perception%20in%20Streaming%20Recommendation%20System.pdf)
 - [LambdaFM - Learning Optimal Ranking with Factorization Machines Using Lambda Surrogates](Industry/LambdaFM%20-%20Learning%20Optimal%20Ranking%20with%20Factorization%20Machines%20Using%20Lambda%20Surrogates.pdf)
 - [Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction](Industry/Lifelong%20Sequential%20Modeling%20with%20Personalized%20Memorization%20for%20User%20Response%20Prediction.pdf)
 - [Learning Within-Session Budgets from Browsing Trajectories](Industry/Learning%20Within-Session%20Budgets%20from%20Browsing%20Trajectories.pdf)

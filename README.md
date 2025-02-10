@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2024-12-24，本仓库收集汇总了推荐系统领域相关论文共**884**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2025-02-10，本仓库收集汇总了推荐系统领域相关论文共**885**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -153,6 +153,7 @@
 - [Long Short-Term Temporal Meta-learning in Online Recommendation](Industry/Long%20Short-Term%20Temporal%20Meta-learning%20in%20Online%20Recommendation.pdf)
 - [LONG-SEQUENCE RECOMMENDATION MODELS NEED DECOUPLED EMBEDDINGS](Industry/LONG-SEQUENCE%20RECOMMENDATION%20MODELS%20NEED%20DECOUPLED%20EMBEDDINGS.pdf)
 - [Learning and Optimization of Implicit Negative Feedback for Industrial Short-video Recommender System](Industry/Learning%20and%20Optimization%20of%20Implicit%20Negative%20Feedback%20for%20Industrial%20Short-video%20Recommender%20System.pdf)
+- [Long-Term Interest Clock - Fine-Grained Time Perception in Streaming Recommendation System](Industry/Long-Term%20Interest%20Clock%20-%20Fine-Grained%20Time%20Perception%20in%20Streaming%20Recommendation%20System.pdf)
 - [LambdaFM - Learning Optimal Ranking with Factorization Machines Using Lambda Surrogates](Industry/LambdaFM%20-%20Learning%20Optimal%20Ranking%20with%20Factorization%20Machines%20Using%20Lambda%20Surrogates.pdf)
 - [Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction](Industry/Lifelong%20Sequential%20Modeling%20with%20Personalized%20Memorization%20for%20User%20Response%20Prediction.pdf)
 - [Learning Within-Session Budgets from Browsing Trajectories](Industry/Learning%20Within-Session%20Budgets%20from%20Browsing%20Trajectories.pdf)
