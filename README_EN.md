@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-02-10, **891** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-03-20, **892** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -128,6 +128,7 @@ I will remove it immediately after verification.
 - [EXTR - Click-Through Rate Prediction with Externalities in E-Commerce Sponsored Search](Industry/EXTR%20-%20Click-Through%20Rate%20Prediction%20with%20Externalities%20in%20E-Commerce%20Sponsored%20Search.pdf)
 - [End-to-End User Behavior Retrieval in Click-Through Rate Prediction Model](Industry/End-to-End%20User%20Behavior%20Retrieval%20in%20Click-Through%20Rate%20Prediction%20Model.pdf)
 - [Entire Space Learning Framework- Unbias Conversion Rate Prediction in Full Stages of Recommender System](Industry/Entire%20Space%20Learning%20Framework-%20Unbias%20Conversion%20Rate%20Prediction%20in%20Full%20Stages%20of%20Recommender%20System.pdf)
+- [Efficient Long Sequential Low-rank Adaptive Attention for Click-through rate Prediction](Industry/Efficient%20Long%20Sequential%20Low-rank%20Adaptive%20Attention%20for%20Click-through%20rate%20Prediction.pdf)
 - [FM2 - Field-matrixed Factorization Machines for Recommender Systems](Industry/FM2%20-%20Field-matrixed%20Factorization%20Machines%20for%20Recommender%20Systems.pdf)
 - [FeedRec - News Feed Recommendation with Various User Feedbacks](Industry/FeedRec%20-%20News%20Feed%20Recommendation%20with%20Various%20User%20Feedbacks.pdf)
 - [Fi-GNN - Modeling Feature Interactions via Graph Neural Networks for CTR Prediction](Industry/Fi-GNN%20-%20Modeling%20Feature%20Interactions%20via%20Graph%20Neural%20Networks%20for%20CTR%20Prediction.pdf)
