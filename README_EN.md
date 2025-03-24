@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-03-20, **892** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-03-24, **894** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -338,6 +338,7 @@ I will remove it immediately after verification.
 #### Regression
 - [[2014][Yahoo] Beyond Clicks - Dwell Time for Personalization](Industry/Regression/%5B2014%5D%5BYahoo%5D%20Beyond%20Clicks%20-%20Dwell%20Time%20for%20Personalization.pdf)
 - [Conditional Quantile Estimation for Uncertain Watch Time in Short-Video Recommendation](Industry/Regression/Conditional%20Quantile%20Estimation%20for%20Uncertain%20Watch%20Time%20in%20Short-Video%20Recommendation.pdf)
+- [CREAD - A Classification-Restoration Framework with Error Adaptive Discretization for Watch Time Prediction in Video Recommender Systems](Industry/Regression/CREAD%20-%20A%20Classification-Restoration%20Framework%20with%20Error%20Adaptive%20Discretization%20for%20Watch%20Time%20Prediction%20in%20Video%20Recommender%20Systems.pdf)
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation](Industry/Regression/Deconfounding%20Duration%20Bias%20in%20Watch-time%20Prediction%20for%20Video%20Recommendation.pdf)
 - [Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation](Industry/Regression/Tree%20based%20Progressive%20Regression%20Model%20for%20Watch-Time%20Prediction%20in%20Short-video%20Recommendation.pdf)
 #### AutomaticPlaylistContinuation
@@ -371,6 +372,7 @@ I will remove it immediately after verification.
 - [[2021][Alibaba] Towards a Better Tradeoff between Effectiveness and Efficiency in Pre-Ranking - A Learnable Feature Selection based Approach](Pre-Rank/%5B2021%5D%5BAlibaba%5D%20Towards%20a%20Better%20Tradeoff%20between%20Effectiveness%20and%20Efficiency%20in%20Pre-Ranking%20-%20A%20Learnable%20Feature%20Selection%20based%20Approach.pdf)
 - [[2022] On Ranking Consistency of Pre-ranking Stage](Pre-Rank/%5B2022%5D%20On%20Ranking%20Consistency%20of%20Pre-ranking%20Stage.pdf)
 - [[2022][Meituan] Contrastive Information Transfer for Pre-Ranking Systems](Pre-Rank/%5B2022%5D%5BMeituan%5D%20Contrastive%20Information%20Transfer%20for%20Pre-Ranking%20Systems.pdf)
+- [A Hybrid Cross-Stage Coordination Pre-ranking Model for Online Recommendation Systems](Pre-Rank/A%20Hybrid%20Cross-Stage%20Coordination%20Pre-ranking%20Model%20for%20Online%20Recommendation%20Systems.pdf)
 - [AutoFAS - Automatic Feature and Architecture Selection for Pre-Ranking System](Pre-Rank/AutoFAS%20-%20Automatic%20Feature%20and%20Architecture%20Selection%20for%20Pre-Ranking%20System.pdf)
 - [COPR - Consistency-Oriented Pre-Ranking for Online Advertising](Pre-Rank/COPR%20-%20Consistency-Oriented%20Pre-Ranking%20for%20Online%20Advertising.pdf)
 - [Cascade Ranking for Operational E-commerce Search](Pre-Rank/Cascade%20Ranking%20for%20Operational%20E-commerce%20Search.pdf)

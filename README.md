@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2025-03-20，本仓库收集汇总了推荐系统领域相关论文共**892**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2025-03-24，本仓库收集汇总了推荐系统领域相关论文共**894**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -331,6 +331,7 @@
 #### Regression
 - [[2014][Yahoo] Beyond Clicks - Dwell Time for Personalization](Industry/Regression/%5B2014%5D%5BYahoo%5D%20Beyond%20Clicks%20-%20Dwell%20Time%20for%20Personalization.pdf)
 - [Conditional Quantile Estimation for Uncertain Watch Time in Short-Video Recommendation](Industry/Regression/Conditional%20Quantile%20Estimation%20for%20Uncertain%20Watch%20Time%20in%20Short-Video%20Recommendation.pdf)
+- [CREAD - A Classification-Restoration Framework with Error Adaptive Discretization for Watch Time Prediction in Video Recommender Systems](Industry/Regression/CREAD%20-%20A%20Classification-Restoration%20Framework%20with%20Error%20Adaptive%20Discretization%20for%20Watch%20Time%20Prediction%20in%20Video%20Recommender%20Systems.pdf)
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation](Industry/Regression/Deconfounding%20Duration%20Bias%20in%20Watch-time%20Prediction%20for%20Video%20Recommendation.pdf)
 - [Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation](Industry/Regression/Tree%20based%20Progressive%20Regression%20Model%20for%20Watch-Time%20Prediction%20in%20Short-video%20Recommendation.pdf)
 #### AutomaticPlaylistContinuation
@@ -364,6 +365,7 @@
 - [[2021][Alibaba] Towards a Better Tradeoff between Effectiveness and Efficiency in Pre-Ranking - A Learnable Feature Selection based Approach](Pre-Rank/%5B2021%5D%5BAlibaba%5D%20Towards%20a%20Better%20Tradeoff%20between%20Effectiveness%20and%20Efficiency%20in%20Pre-Ranking%20-%20A%20Learnable%20Feature%20Selection%20based%20Approach.pdf)
 - [[2022] On Ranking Consistency of Pre-ranking Stage](Pre-Rank/%5B2022%5D%20On%20Ranking%20Consistency%20of%20Pre-ranking%20Stage.pdf)
 - [[2022][Meituan] Contrastive Information Transfer for Pre-Ranking Systems](Pre-Rank/%5B2022%5D%5BMeituan%5D%20Contrastive%20Information%20Transfer%20for%20Pre-Ranking%20Systems.pdf)
+- [A Hybrid Cross-Stage Coordination Pre-ranking Model for Online Recommendation Systems](Pre-Rank/A%20Hybrid%20Cross-Stage%20Coordination%20Pre-ranking%20Model%20for%20Online%20Recommendation%20Systems.pdf)
 - [AutoFAS - Automatic Feature and Architecture Selection for Pre-Ranking System](Pre-Rank/AutoFAS%20-%20Automatic%20Feature%20and%20Architecture%20Selection%20for%20Pre-Ranking%20System.pdf)
 - [COPR - Consistency-Oriented Pre-Ranking for Online Advertising](Pre-Rank/COPR%20-%20Consistency-Oriented%20Pre-Ranking%20for%20Online%20Advertising.pdf)
 - [Cascade Ranking for Operational E-commerce Search](Pre-Rank/Cascade%20Ranking%20for%20Operational%20E-commerce%20Search.pdf)
