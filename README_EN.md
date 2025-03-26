@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-03-25, **895** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-03-26, **896** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -482,6 +482,7 @@ I will remove it immediately after verification.
 - [Recommender Systems with Generative Retrieval](Match/Recommender%20Systems%20with%20Generative%20Retrieval.pdf)
 - [Representing and Recommending Shopping Baskets with Complementarity, Compatibility, and Loyalty](Match/Representing%20and%20Recommending%20Shopping%20Baskets%20with%20Complementarity%2C%20Compatibility%2C%20and%20Loyalty.pdf)
 - [Robust Representation Learning for Unified Online Top-K Recommendation](Match/Robust%20Representation%20Learning%20for%20Unified%20Online%20Top-K%20Recommendation.pdf)
+- [Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever](Match/Real-time%20Indexing%20for%20Large-scale%20Recommendation%20by%20Streaming%20Vector%20Quantization%20Retriever.pdf)
 - [Revisiting Neural Retrieval on Accelerators](Match/Revisiting%20Neural%20Retrieval%20on%20Accelerators.pdf)
 - [Retrieval with Learned Similarities](Match/Retrieval%20with%20Learned%20Similarities.pdf)
 - [Recommendation on Live - Streaming Platforms- Dynamic Availability and Repeat Consumption](Match/Recommendation%20on%20Live%20-%20Streaming%20Platforms-%20Dynamic%20Availability%20and%20Repeat%20Consumption.pdf)
