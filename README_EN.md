@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-03-26, **896** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-03-28, **897** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -447,6 +447,7 @@ I will remove it immediately after verification.
 - [Disentangled Self-Supervision in Sequential Recommenders](Match/Disentangled%20Self-Supervision%20in%20Sequential%20Recommenders.pdf)
 - [Deep Collaborative Filtering via Marginalized Denoising Auto-encoder](Match/Deep%20Collaborative%20Filtering%20via%20Marginalized%20Denoising%20Auto-encoder.pdf)
 - [Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation](Match/Dynamic%20Multi-Behavior%20Sequence%20Modeling%20for%20Next%20Item%20Recommendation.pdf)
+- [ESANS - Effective and Semantic-Aware Negative Sampling for Large-Scale Retrieval Systems](Match/ESANS%20-%20Effective%20and%20Semantic-Aware%20Negative%20Sampling%20for%20Large-Scale%20Retrieval%20Systems.pdf)
 - [Efficient Training on Very Large Corpora via Gramian Estimation](Match/Efficient%20Training%20on%20Very%20Large%20Corpora%20via%20Gramian%20Estimation.pdf)
 - [Extreme Multi-label Learning for Semantic Matching in Product Search](Match/Extreme%20Multi-label%20Learning%20for%20Semantic%20Matching%20in%20Product%20Search.pdf)
 - [Factorization Meets the Neighborhood - a Multifaceted Collaborative Filtering Model](Match/Factorization%20Meets%20the%20Neighborhood%20-%20a%20Multifaceted%20Collaborative%20Filtering%20Model.pdf)

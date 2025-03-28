@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2025-03-26，本仓库收集汇总了推荐系统领域相关论文共**896**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2025-03-28，本仓库收集汇总了推荐系统领域相关论文共**897**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -440,6 +440,7 @@
 - [Disentangled Self-Supervision in Sequential Recommenders](Match/Disentangled%20Self-Supervision%20in%20Sequential%20Recommenders.pdf)
 - [Deep Collaborative Filtering via Marginalized Denoising Auto-encoder](Match/Deep%20Collaborative%20Filtering%20via%20Marginalized%20Denoising%20Auto-encoder.pdf)
 - [Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation](Match/Dynamic%20Multi-Behavior%20Sequence%20Modeling%20for%20Next%20Item%20Recommendation.pdf)
+- [ESANS - Effective and Semantic-Aware Negative Sampling for Large-Scale Retrieval Systems](Match/ESANS%20-%20Effective%20and%20Semantic-Aware%20Negative%20Sampling%20for%20Large-Scale%20Retrieval%20Systems.pdf)
 - [Efficient Training on Very Large Corpora via Gramian Estimation](Match/Efficient%20Training%20on%20Very%20Large%20Corpora%20via%20Gramian%20Estimation.pdf)
 - [Extreme Multi-label Learning for Semantic Matching in Product Search](Match/Extreme%20Multi-label%20Learning%20for%20Semantic%20Matching%20in%20Product%20Search.pdf)
 - [Factorization Meets the Neighborhood - a Multifaceted Collaborative Filtering Model](Match/Factorization%20Meets%20the%20Neighborhood%20-%20a%20Multifaceted%20Collaborative%20Filtering%20Model.pdf)
