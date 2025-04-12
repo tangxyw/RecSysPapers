@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-03-28, **897** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-04-12, **900** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -378,6 +378,7 @@ I will remove it immediately after verification.
 - [Cascade Ranking for Operational E-commerce Search](Pre-Rank/Cascade%20Ranking%20for%20Operational%20E-commerce%20Search.pdf)
 - [EENMF - An End-to-End Neural Matching Framework for E-Commerce Sponsored Search](Pre-Rank/EENMF%20-%20An%20End-to-End%20Neural%20Matching%20Framework%20for%20E-Commerce%20Sponsored%20Search.pdf)
 - [IntTower - the Next Generation of Two-Tower Model for Pre-Ranking System](Pre-Rank/IntTower%20-%20the%20Next%20Generation%20of%20Two-Tower%20Model%20for%20Pre-Ranking%20System.pdf)
+- [InteractRank - Personalized Web-Scale Search Pre-Ranking with Cross Interaction Features](Pre-Rank/InteractRank%20-%20Personalized%20Web-Scale%20Search%20Pre-Ranking%20with%20Cross%20Interaction%20Features.pdf)
 - [Rethinking the Role of Pre-ranking in Large-scale E-Commerce Searching System](Pre-Rank/Rethinking%20the%20Role%20of%20Pre-ranking%20in%20Large-scale%20E-Commerce%20Searching%20System.pdf)
 ## Re-Rank
 - [[2018][Hulu] Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity](Re-Rank/%5B2018%5D%5BHulu%5D%20Fast%20Greedy%20MAP%20Inference%20for%20Determinantal%20Point%20Process%20to%20Improve%20Recommendation%20Diversity.pdf)
@@ -406,6 +407,7 @@ I will remove it immediately after verification.
 - [SLATEQ - A Tractable Decomposition for Reinforcement Learning with Recommendation Sets](Re-Rank/SLATEQ%20-%20A%20Tractable%20Decomposition%20for%20Reinforcement%20Learning%20with%20Recommendation%20Sets.pdf)
 - [Seq2slate - Re-ranking and slate optimization with rnns](Re-Rank/Seq2slate%20-%20Re-ranking%20and%20slate%20optimization%20with%20rnns.pdf)
 - [The Use of MMR, Diversity-Based Reranking for Reordering Documents and Producing Summaries](Re-Rank/The%20Use%20of%20MMR%2C%20Diversity-Based%20Reranking%20for%20Reordering%20Documents%20and%20Producing%20Summaries.pdf)
+- [Towards Principled Learning for Re-ranking in Recommender Systems](Re-Rank/Towards%20Principled%20Learning%20for%20Re-ranking%20in%20Recommender%20Systems.pdf)
 - [User Response Models to Improve a REINFORCE Recommender System](Re-Rank/User%20Response%20Models%20to%20Improve%20a%20REINFORCE%20Recommender%20System.pdf)
 ## Match
 - [[2015][Microsoft][DSSM in Recsys] A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems](Match/%5B2015%5D%5BMicrosoft%5D%5BDSSM%20in%20Recsys%5D%20A%20Multi-View%20Deep%20Learning%20Approach%20for%20Cross%20Domain%20User%20Modeling%20in%20Recommendation%20Systems.pdf)
@@ -649,6 +651,7 @@ I will remove it immediately after verification.
 - [Utilizing Non-click Samples via Semi-supervised Learning for Conversion Rate Prediction](Multi-Task/Utilizing%20Non-click%20Samples%20via%20Semi-supervised%20Learning%20for%20Conversion%20Rate%20Prediction.pdf)
 - [Understanding and Improving Fairness-Accuracy Trade-offs in Multi-Task Learning](Multi-Task/Understanding%20and%20Improving%20Fairness-Accuracy%20Trade-offs%20in%20Multi-Task%20Learning.pdf)
 - [Why I like it - multi-task learning for recommendation and explanation](Multi-Task/Why%20I%20like%20it%20-%20multi-task%20learning%20for%20recommendation%20and%20explanation.pdf)
+- [xMTF - A Formula-Free Model for Reinforcement-Learning-Based Multi-Task Fusion in Recommender Systems](Multi-Task/xMTF%20-%20A%20Formula-Free%20Model%20for%20Reinforcement-Learning-Based%20Multi-Task%20Fusion%20in%20Recommender%20Systems.pdf)
 ## Multi-Modal
 - [Adversarial Multimodal Representation Learning for Click-Through Rate Prediction](Multi-Modal/Adversarial%20Multimodal%20Representation%20Learning%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems](Multi-Modal/Adaptive%20Multi-Modalities%20Fusion%20in%20Sequential%20Recommendation%20Systems.pdf)
