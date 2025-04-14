@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-04-12, **900** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-04-14, **901** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -340,6 +340,7 @@ I will remove it immediately after verification.
 - [Conditional Quantile Estimation for Uncertain Watch Time in Short-Video Recommendation](Industry/Regression/Conditional%20Quantile%20Estimation%20for%20Uncertain%20Watch%20Time%20in%20Short-Video%20Recommendation.pdf)
 - [CREAD - A Classification-Restoration Framework with Error Adaptive Discretization for Watch Time Prediction in Video Recommender Systems](Industry/Regression/CREAD%20-%20A%20Classification-Restoration%20Framework%20with%20Error%20Adaptive%20Discretization%20for%20Watch%20Time%20Prediction%20in%20Video%20Recommender%20Systems.pdf)
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation](Industry/Regression/Deconfounding%20Duration%20Bias%20in%20Watch-time%20Prediction%20for%20Video%20Recommendation.pdf)
+- [Explicit Uncertainty Modeling for Video Watch Time Prediction](Industry/Regression/Explicit%20Uncertainty%20Modeling%20for%20Video%20Watch%20Time%20Prediction.pdf)
 - [Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation](Industry/Regression/Tree%20based%20Progressive%20Regression%20Model%20for%20Watch-Time%20Prediction%20in%20Short-video%20Recommendation.pdf)
 #### AutomaticPlaylistContinuation
 - [A hybrid two-stage recommender system for automatic playlist continuation](Industry/AutomaticPlaylistContinuation/A%20hybrid%20two-stage%20recommender%20system%20for%20automatic%20playlist%20continuation.pdf)
