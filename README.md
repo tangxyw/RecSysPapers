@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2025-04-14，本仓库收集汇总了推荐系统领域相关论文共**901**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2025-04-29，本仓库收集汇总了推荐系统领域相关论文共**903**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -263,6 +263,7 @@
 #### RepeatConsumption
 - [[2022][Tencent][NoveNet] Modeling User Repeat Consumption Behavior for Online Novel Recommendation](Industry/RepeatConsumption/%5B2022%5D%5BTencent%5D%5BNoveNet%5D%20Modeling%20User%20Repeat%20Consumption%20Behavior%20for%20Online%20Novel%20Recommendation.pdf)
 - [Buy It Again - Modeling Repeat Purchase Recommendations](Industry/RepeatConsumption/Buy%20It%20Again%20-%20Modeling%20Repeat%20Purchase%20Recommendations.pdf)
+- [FIM - Frequency-Aware Multi-View Interest Modeling for Local-Life Service Recommendation](Industry/RepeatConsumption/FIM%20-%20Frequency-Aware%20Multi-View%20Interest%20Modeling%20for%20Local-Life%20Service%20Recommendation.pdf)
 - [Modeling Item-Specific Temporal Dynamics of Repeat Consumption for Recommender Systems](Industry/RepeatConsumption/Modeling%20Item-Specific%20Temporal%20Dynamics%20of%20Repeat%20Consumption%20for%20Recommender%20Systems.pdf)
 - [On the Value of Reminders within E-Commerce Recommendations](Industry/RepeatConsumption/On%20the%20Value%20of%20Reminders%20within%20E-Commerce%20Recommendations.pdf)
 - [Predicting Consumption Patterns with Repeated and Novel Events](Industry/RepeatConsumption/Predicting%20Consumption%20Patterns%20with%20Repeated%20and%20Novel%20Events.pdf)
@@ -572,6 +573,7 @@
 - [M2GRL - A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems](Match/GNN/M2GRL%20-%20A%20Multi-task%20Multi-view%20Graph%20Representation%20Learning%20Framework%20for%20Web-scale%20Recommender%20Systems.pdf)
 - [Network Embedding as Matrix Factorization - Unifying DeepWalk, LINE, PTE, and node2vec](Match/GNN/Network%20Embedding%20as%20Matrix%20Factorization%20-%20Unifying%20DeepWalk%2C%20LINE%2C%20PTE%2C%20and%20node2vec.pdf)
 - [Neighbor Interaction Aware Graph Convolution Networks for Recommendation](Match/GNN/Neighbor%20Interaction%20Aware%20Graph%20Convolution%20Networks%20for%20Recommendation.pdf)
+- [OmniSage - Large Scale, Multi-Entity Heterogeneous Graph Representation Learning](Match/GNN/OmniSage%20-%20Large%20Scale%2C%20Multi-Entity%20Heterogeneous%20Graph%20Representation%20Learning.pdf)
 - [Package Recommendation with Intra- and Inter-Package Attention Networks](Match/GNN/Package%20Recommendation%20with%20Intra-%20and%20Inter-Package%20Attention%20Networks.pdf)
 - [ProNE - Fast and Scalable Network Representation Learning](Match/GNN/ProNE%20-%20Fast%20and%20Scalable%20Network%20Representation%20Learning.pdf)
 - [Representation Learning for Attributed Multiplex Heterogeneous Network](Match/GNN/Representation%20Learning%20for%20Attributed%20Multiplex%20Heterogeneous%20Network.pdf)

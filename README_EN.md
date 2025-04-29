@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-04-14, **901** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-04-29, **903** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -270,6 +270,7 @@ I will remove it immediately after verification.
 #### RepeatConsumption
 - [[2022][Tencent][NoveNet] Modeling User Repeat Consumption Behavior for Online Novel Recommendation](Industry/RepeatConsumption/%5B2022%5D%5BTencent%5D%5BNoveNet%5D%20Modeling%20User%20Repeat%20Consumption%20Behavior%20for%20Online%20Novel%20Recommendation.pdf)
 - [Buy It Again - Modeling Repeat Purchase Recommendations](Industry/RepeatConsumption/Buy%20It%20Again%20-%20Modeling%20Repeat%20Purchase%20Recommendations.pdf)
+- [FIM - Frequency-Aware Multi-View Interest Modeling for Local-Life Service Recommendation](Industry/RepeatConsumption/FIM%20-%20Frequency-Aware%20Multi-View%20Interest%20Modeling%20for%20Local-Life%20Service%20Recommendation.pdf)
 - [Modeling Item-Specific Temporal Dynamics of Repeat Consumption for Recommender Systems](Industry/RepeatConsumption/Modeling%20Item-Specific%20Temporal%20Dynamics%20of%20Repeat%20Consumption%20for%20Recommender%20Systems.pdf)
 - [On the Value of Reminders within E-Commerce Recommendations](Industry/RepeatConsumption/On%20the%20Value%20of%20Reminders%20within%20E-Commerce%20Recommendations.pdf)
 - [Predicting Consumption Patterns with Repeated and Novel Events](Industry/RepeatConsumption/Predicting%20Consumption%20Patterns%20with%20Repeated%20and%20Novel%20Events.pdf)
@@ -579,6 +580,7 @@ I will remove it immediately after verification.
 - [M2GRL - A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems](Match/GNN/M2GRL%20-%20A%20Multi-task%20Multi-view%20Graph%20Representation%20Learning%20Framework%20for%20Web-scale%20Recommender%20Systems.pdf)
 - [Network Embedding as Matrix Factorization - Unifying DeepWalk, LINE, PTE, and node2vec](Match/GNN/Network%20Embedding%20as%20Matrix%20Factorization%20-%20Unifying%20DeepWalk%2C%20LINE%2C%20PTE%2C%20and%20node2vec.pdf)
 - [Neighbor Interaction Aware Graph Convolution Networks for Recommendation](Match/GNN/Neighbor%20Interaction%20Aware%20Graph%20Convolution%20Networks%20for%20Recommendation.pdf)
+- [OmniSage - Large Scale, Multi-Entity Heterogeneous Graph Representation Learning](Match/GNN/OmniSage%20-%20Large%20Scale%2C%20Multi-Entity%20Heterogeneous%20Graph%20Representation%20Learning.pdf)
 - [Package Recommendation with Intra- and Inter-Package Attention Networks](Match/GNN/Package%20Recommendation%20with%20Intra-%20and%20Inter-Package%20Attention%20Networks.pdf)
 - [ProNE - Fast and Scalable Network Representation Learning](Match/GNN/ProNE%20-%20Fast%20and%20Scalable%20Network%20Representation%20Learning.pdf)
 - [Representation Learning for Attributed Multiplex Heterogeneous Network](Match/GNN/Representation%20Learning%20for%20Attributed%20Multiplex%20Heterogeneous%20Network.pdf)
