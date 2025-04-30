@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-04-29, **903** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-04-30, **905** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -444,6 +444,7 @@ I will remove it immediately after verification.
 - [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](Match/Collaborative%20Denoising%20Auto-Encoders%20for%20Top-N%20Recommender%20Systems.pdf)
 - [Coarse-to-Fine Sparse Sequential Recommendation](Match/Coarse-to-Fine%20Sparse%20Sequential%20Recommendation.pdf)
 - [Cross-Batch Negative Sampling for Training Two-Tower Recommenders](Match/Cross-Batch%20Negative%20Sampling%20for%20Training%20Two-Tower%20Recommenders.pdf)
+- [CSMF - Cascaded Selective Mask Fine-Tuning for Multi-Objective Embedding-Based Retrieval](Match/CSMF%20-%20Cascaded%20Selective%20Mask%20Fine-Tuning%20for%20Multi-Objective%20Embedding-Based%20Retrieval.pdf)
 - [Collaborative Deep Learning for Recommender Systems](Match/Collaborative%20Deep%20Learning%20for%20Recommender%20Systems.pdf)
 - [CRM - Retrieval Model with Controllable Condition](Match/CRM%20-%20Retrieval%20Model%20with%20Controllable%20Condition.pdf)
 - [Deep Matrix Factorization Models for Recommender Systems](Match/Deep%20Matrix%20Factorization%20Models%20for%20Recommender%20Systems.pdf)
@@ -785,6 +786,7 @@ I will remove it immediately after verification.
 - [Posterior Probability Matters - Doubly-Adaptive Calibration for Neural Predictions in Online Advertising](Calibration/Posterior%20Probability%20Matters%20-%20Doubly-Adaptive%20Calibration%20for%20Neural%20Predictions%20in%20Online%20Advertising.pdf)
 - [Regression Compatible Listwise Objectives for Calibrated Ranking with Binary Relevance](Calibration/Regression%20Compatible%20Listwise%20Objectives%20for%20Calibrated%20Ranking%20with%20Binary%20Relevance.pdf)
 - [Transforming Classifier Scores into Accurate Multiclass Probability Estimates](Calibration/Transforming%20Classifier%20Scores%20into%20Accurate%20Multiclass%20Probability%20Estimates.pdf)
+- [Unconstrained Monotonic Calibration of Predictions in Deep Ranking Systems](Calibration/Unconstrained%20Monotonic%20Calibration%20of%20Predictions%20in%20Deep%20Ranking%20Systems.pdf)
 ## Distillation
 - [[2021][Tencent][DMTL] Distillation based Multi-task Learning - A Candidate Generation Model for Improving Reading Duration](Distillation/%5B2021%5D%5BTencent%5D%5BDMTL%5D%20Distillation%20based%20Multi-task%20Learning%20-%20A%20Candidate%20Generation%20Model%20for%20Improving%20Reading%20Duration.pdf)
 - [Ensembled CTR Prediction via Knowledge Distillation](Distillation/Ensembled%20CTR%20Prediction%20via%20Knowledge%20Distillation.pdf)
