@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-04-30, **905** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-05-13, **906** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -164,6 +164,7 @@ I will remove it immediately after verification.
 - [Long-Term Interest Clock - Fine-Grained Time Perception in Streaming Recommendation System](Industry/Long-Term%20Interest%20Clock%20-%20Fine-Grained%20Time%20Perception%20in%20Streaming%20Recommendation%20System.pdf)
 - [LambdaFM - Learning Optimal Ranking with Factorization Machines Using Lambda Surrogates](Industry/LambdaFM%20-%20Learning%20Optimal%20Ranking%20with%20Factorization%20Machines%20Using%20Lambda%20Surrogates.pdf)
 - [Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction](Industry/Lifelong%20Sequential%20Modeling%20with%20Personalized%20Memorization%20for%20User%20Response%20Prediction.pdf)
+- [LONGER - Scaling Up Long Sequence Modeling in Industrial Recommenders](Industry/LONGER%20-%20Scaling%20Up%20Long%20Sequence%20Modeling%20in%20Industrial%20Recommenders.pdf)
 - [Learning Within-Session Budgets from Browsing Trajectories](Industry/Learning%20Within-Session%20Budgets%20from%20Browsing%20Trajectories.pdf)
 - [Modeling Users’ Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](Industry/Modeling%20Users%E2%80%99%20Contextualized%20Page-wise%20Feedback%20for%20Click-Through%20Rate%20Prediction%20in%20E-commerce%20Search.pdf)
 - [Modeling User Retention through Generative Flow Networks](Industry/Modeling%20User%20Retention%20through%20Generative%20Flow%20Networks.pdf)
