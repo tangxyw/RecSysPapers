@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2025-05-20，本仓库收集汇总了推荐系统领域相关论文共**907**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2025-05-26，本仓库收集汇总了推荐系统领域相关论文共**908**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -336,6 +336,7 @@
 - [CREAD - A Classification-Restoration Framework with Error Adaptive Discretization for Watch Time Prediction in Video Recommender Systems](Industry/Regression/CREAD%20-%20A%20Classification-Restoration%20Framework%20with%20Error%20Adaptive%20Discretization%20for%20Watch%20Time%20Prediction%20in%20Video%20Recommender%20Systems.pdf)
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation](Industry/Regression/Deconfounding%20Duration%20Bias%20in%20Watch-time%20Prediction%20for%20Video%20Recommendation.pdf)
 - [Explicit Uncertainty Modeling for Video Watch Time Prediction](Industry/Regression/Explicit%20Uncertainty%20Modeling%20for%20Video%20Watch%20Time%20Prediction.pdf)
+- [TranSUN - A Preemptive Paradigm to Eradicate Retransformation Bias Intrinsically from Regression Models in Recommender Systems](Industry/Regression/TranSUN%20-%20A%20Preemptive%20Paradigm%20to%20Eradicate%20Retransformation%20Bias%20Intrinsically%20from%20Regression%20Models%20in%20Recommender%20Systems.pdf)
 - [Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation](Industry/Regression/Tree%20based%20Progressive%20Regression%20Model%20for%20Watch-Time%20Prediction%20in%20Short-video%20Recommendation.pdf)
 #### AutomaticPlaylistContinuation
 - [A hybrid two-stage recommender system for automatic playlist continuation](Industry/AutomaticPlaylistContinuation/A%20hybrid%20two-stage%20recommender%20system%20for%20automatic%20playlist%20continuation.pdf)
