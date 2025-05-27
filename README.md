@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2025-05-26，本仓库收集汇总了推荐系统领域相关论文共**908**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2025-05-27，本仓库收集汇总了推荐系统领域相关论文共**909**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -96,6 +96,7 @@
 - [Aligned Side Information Fusion Method for Sequential Recommendation](Industry/Aligned%20Side%20Information%20Fusion%20Method%20for%20Sequential%20Recommendation.pdf)
 - [Attention Mixtures for Time-Aware Sequential Recommendation](Industry/Attention%20Mixtures%20for%20Time-Aware%20Sequential%20Recommendation.pdf)
 - [A Self-Correcting Sequential Recommender](Industry/A%20Self-Correcting%20Sequential%20Recommender.pdf)
+- [Beyond Cascaded Architectures - An End-to-end Generative Framework for Industrial Advertising](Industry/Beyond%20Cascaded%20Architectures%20-%20An%20End-to-end%20Generative%20Framework%20for%20Industrial%20Advertising.pdf)
 - [Breaking the Curse of Quality Saturation with User-Centric Ranking](Industry/Breaking%20the%20Curse%20of%20Quality%20Saturation%20with%20User-Centric%20Ranking.pdf)
 - [Click-aware Structure Transfer with Sample Weight Assignment for Post-Click Conversion Rate Estimation](Industry/Click-aware%20Structure%20Transfer%20with%20Sample%20Weight%20Assignment%20for%20Post-Click%20Conversion%20Rate%20Estimation.pdf)
 - [Category-Specific CNN for Visual-aware CTR Prediction at JD.com](Industry/Category-Specific%20CNN%20for%20Visual-aware%20CTR%20Prediction%20at%20JD.com.pdf)

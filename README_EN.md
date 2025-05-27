@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-05-26, **908** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-05-27, **909** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -103,6 +103,7 @@ I will remove it immediately after verification.
 - [Aligned Side Information Fusion Method for Sequential Recommendation](Industry/Aligned%20Side%20Information%20Fusion%20Method%20for%20Sequential%20Recommendation.pdf)
 - [Attention Mixtures for Time-Aware Sequential Recommendation](Industry/Attention%20Mixtures%20for%20Time-Aware%20Sequential%20Recommendation.pdf)
 - [A Self-Correcting Sequential Recommender](Industry/A%20Self-Correcting%20Sequential%20Recommender.pdf)
+- [Beyond Cascaded Architectures - An End-to-end Generative Framework for Industrial Advertising](Industry/Beyond%20Cascaded%20Architectures%20-%20An%20End-to-end%20Generative%20Framework%20for%20Industrial%20Advertising.pdf)
 - [Breaking the Curse of Quality Saturation with User-Centric Ranking](Industry/Breaking%20the%20Curse%20of%20Quality%20Saturation%20with%20User-Centric%20Ranking.pdf)
 - [Click-aware Structure Transfer with Sample Weight Assignment for Post-Click Conversion Rate Estimation](Industry/Click-aware%20Structure%20Transfer%20with%20Sample%20Weight%20Assignment%20for%20Post-Click%20Conversion%20Rate%20Estimation.pdf)
 - [Category-Specific CNN for Visual-aware CTR Prediction at JD.com](Industry/Category-Specific%20CNN%20for%20Visual-aware%20CTR%20Prediction%20at%20JD.com.pdf)
