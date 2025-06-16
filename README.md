@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2025-05-27，本仓库收集汇总了推荐系统领域相关论文共**909**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2025-06-16，本仓库收集汇总了推荐系统领域相关论文共**913**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -122,7 +122,9 @@
 - [EXTR - Click-Through Rate Prediction with Externalities in E-Commerce Sponsored Search](Industry/EXTR%20-%20Click-Through%20Rate%20Prediction%20with%20Externalities%20in%20E-Commerce%20Sponsored%20Search.pdf)
 - [End-to-End User Behavior Retrieval in Click-Through Rate Prediction Model](Industry/End-to-End%20User%20Behavior%20Retrieval%20in%20Click-Through%20Rate%20Prediction%20Model.pdf)
 - [Entire Space Learning Framework- Unbias Conversion Rate Prediction in Full Stages of Recommender System](Industry/Entire%20Space%20Learning%20Framework-%20Unbias%20Conversion%20Rate%20Prediction%20in%20Full%20Stages%20of%20Recommender%20System.pdf)
+- [EGA-V1 - Unifying Online Advertising with End-to-End Learning](Industry/EGA-V1%20-%20Unifying%20Online%20Advertising%20with%20End-to-End%20Learning.pdf)
 - [Efficient Long Sequential Low-rank Adaptive Attention for Click-through rate Prediction](Industry/Efficient%20Long%20Sequential%20Low-rank%20Adaptive%20Attention%20for%20Click-through%20rate%20Prediction.pdf)
+- [EGA-V2 - An End-to-end Generative Framework for Industrial Advertising](Industry/EGA-V2%20-%20An%20End-to-end%20Generative%20Framework%20for%20Industrial%20Advertising.pdf)
 - [FM2 - Field-matrixed Factorization Machines for Recommender Systems](Industry/FM2%20-%20Field-matrixed%20Factorization%20Machines%20for%20Recommender%20Systems.pdf)
 - [FeedRec - News Feed Recommendation with Various User Feedbacks](Industry/FeedRec%20-%20News%20Feed%20Recommendation%20with%20Various%20User%20Feedbacks.pdf)
 - [Fi-GNN - Modeling Feature Interactions via Graph Neural Networks for CTR Prediction](Industry/Fi-GNN%20-%20Modeling%20Feature%20Interactions%20via%20Graph%20Neural%20Networks%20for%20CTR%20Prediction.pdf)
@@ -375,6 +377,7 @@
 - [COPR - Consistency-Oriented Pre-Ranking for Online Advertising](Pre-Rank/COPR%20-%20Consistency-Oriented%20Pre-Ranking%20for%20Online%20Advertising.pdf)
 - [Cascade Ranking for Operational E-commerce Search](Pre-Rank/Cascade%20Ranking%20for%20Operational%20E-commerce%20Search.pdf)
 - [EENMF - An End-to-End Neural Matching Framework for E-Commerce Sponsored Search](Pre-Rank/EENMF%20-%20An%20End-to-End%20Neural%20Matching%20Framework%20for%20E-Commerce%20Sponsored%20Search.pdf)
+- [HIT Model - A Hierarchical Interaction-Enhanced Two-Tower Model for Pre-Ranking Systems](Pre-Rank/HIT%20Model%20-%20A%20Hierarchical%20Interaction-Enhanced%20Two-Tower%20Model%20for%20Pre-Ranking%20Systems.pdf)
 - [IntTower - the Next Generation of Two-Tower Model for Pre-Ranking System](Pre-Rank/IntTower%20-%20the%20Next%20Generation%20of%20Two-Tower%20Model%20for%20Pre-Ranking%20System.pdf)
 - [InteractRank - Personalized Web-Scale Search Pre-Ranking with Cross Interaction Features](Pre-Rank/InteractRank%20-%20Personalized%20Web-Scale%20Search%20Pre-Ranking%20with%20Cross%20Interaction%20Features.pdf)
 - [Rethinking the Role of Pre-ranking in Large-scale E-Commerce Searching System](Pre-Rank/Rethinking%20the%20Role%20of%20Pre-ranking%20in%20Large-scale%20E-Commerce%20Searching%20System.pdf)
@@ -456,6 +459,7 @@
 - [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](Match/Fast%20Matrix%20Factorization%20for%20Online%20Recommendation%20with%20Implicit%20Feedback.pdf)
 - [Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems](Match/Hierarchical%20Temporal%20Convolutional%20Networks%20for%20Dynamic%20Recommender%20Systems.pdf)
 - [Heterogeneous Graph Neural Networks for Large-Scale Bid Keyword Matching](Match/Heterogeneous%20Graph%20Neural%20Networks%20for%20Large-Scale%20Bid%20Keyword%20Matching.pdf)
+- [Improving Ad matching via Cluster-Adaptive Keyword Expansion and Relevance tuning](Match/Improving%20Ad%20matching%20via%20Cluster-Adaptive%20Keyword%20Expansion%20and%20Relevance%20tuning.pdf)
 - [Itinerary-aware Personalized Deep Matching at Fliggy](Match/Itinerary-aware%20Personalized%20Deep%20Matching%20at%20Fliggy.pdf)
 - [I^3 Retriever- Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval](Match/I%5E3%20Retriever-%20Incorporating%20Implicit%20Interaction%20in%20Pre-trained%20Language%20Models%20for%20Passage%20Retrieval.pdf)
 - [Improving Recommendation Accuracy using Networks of Substitutable and Complementary Products](Match/Improving%20Recommendation%20Accuracy%20using%20Networks%20of%20Substitutable%20and%20Complementary%20Products.pdf)
