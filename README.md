@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2025-06-16，本仓库收集汇总了推荐系统领域相关论文共**913**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2025-06-23，本仓库收集汇总了推荐系统领域相关论文共**914**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -490,6 +490,7 @@
 - [Representing and Recommending Shopping Baskets with Complementarity, Compatibility, and Loyalty](Match/Representing%20and%20Recommending%20Shopping%20Baskets%20with%20Complementarity%2C%20Compatibility%2C%20and%20Loyalty.pdf)
 - [Robust Representation Learning for Unified Online Top-K Recommendation](Match/Robust%20Representation%20Learning%20for%20Unified%20Online%20Top-K%20Recommendation.pdf)
 - [Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever](Match/Real-time%20Indexing%20for%20Large-scale%20Recommendation%20by%20Streaming%20Vector%20Quantization%20Retriever.pdf)
+- [RADAR - Recall Augmentation through Deferred Asynchronous Retrieval](Match/RADAR%20-%20Recall%20Augmentation%20through%20Deferred%20Asynchronous%20Retrieval.pdf)
 - [Revisiting Neural Retrieval on Accelerators](Match/Revisiting%20Neural%20Retrieval%20on%20Accelerators.pdf)
 - [Retrieval with Learned Similarities](Match/Retrieval%20with%20Learned%20Similarities.pdf)
 - [Recommendation on Live - Streaming Platforms- Dynamic Availability and Repeat Consumption](Match/Recommendation%20on%20Live%20-%20Streaming%20Platforms-%20Dynamic%20Availability%20and%20Repeat%20Consumption.pdf)
