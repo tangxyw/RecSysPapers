@@ -995,7 +995,7 @@
 - [Reinforcing User Retention in a Billion Scale Short Video Recommender System](ReinforcementLearning/Reinforcing%20User%20Retention%20in%20a%20Billion%20Scale%20Short%20Video%20Recommender%20System.pdf)
 - [Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning](ReinforcementLearning/Recommendations%20with%20Negative%20Feedback%20via%20Pairwise%20Deep%20Reinforcement%20Learning.pdf)
 - [Reinforcement Learning for Slate-based Recommender Systems - A Tractable Decomposition and Practical Methodology](ReinforcementLearning/Reinforcement%20Learning%20for%20Slate-based%20Recommender%20Systems%20-%20A%20Tractable%20Decomposition%20and%20Practical%20Methodology.pdf)
-- [Supervised Learning-enhanced Multi-Group Actor Critic for Live-stream Recommendation](ReinforcementLearning/Supervised%20Learning-enhanced%20Multi-Group%20Actor%20Critic%20for%20Live-stream%20Recommendation.pdf)
+- [Supervised Learning-enhanced Multi-Group Actor Critic for Live-stream Allocation in Feed](ReinforcementLearning/Supervised%20Learning-enhanced%20Multi-Group%20Actor%20Critic%20for%20Live%20Stream%20Allocation%20in%20Feed.pdf)
 - [Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation](ReinforcementLearning/Stabilizing%20Reinforcement%20Learning%20in%20Dynamic%20Environment%20with%20Application%20to%20Online%20Recommendation.pdf)
 - [Top-K Off-Policy Correctionfor a REINFORCE Recommender System](ReinforcementLearning/Top-K%20Off-Policy%20Correctionfor%20a%20REINFORCE%20Recommender%20System.pdf)
 - [Two-Stage Constrained Actor-Critic for Short Video Recommendation](ReinforcementLearning/Two-Stage%20Constrained%20Actor-Critic%20for%20Short%20Video%20Recommendation.pdf)
