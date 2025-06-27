@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-06-23, **914** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-06-27, **916** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -484,6 +484,7 @@ I will remove it immediately after verification.
 - [Neighborhood-based Hard Negative Mining for Sequential Recommendation](Match/Neighborhood-based%20Hard%20Negative%20Mining%20for%20Sequential%20Recommendation.pdf)
 - [NAIS - Neural Attentive Item Similarity Model for Recommendation](Match/NAIS%20-%20Neural%20Attentive%20Item%20Similarity%20Model%20for%20Recommendation.pdf)
 - [Octopus - Comprehensive and Elastic User Representation for the Generation of Recommendation Candidates](Match/Octopus%20-%20Comprehensive%20and%20Elastic%20User%20Representation%20for%20the%20Generation%20of%20Recommendation%20Candidates.pdf)
+- [Optimizing Recall or Relevance? A Multi-Task Multi-Head Approach for Item-to-Item Retrieval in Recommendation](Match/Optimizing%20Recall%20or%20Relevance%3F%20A%20Multi-Task%20Multi-Head%20Approach%20for%20Item-to-Item%20Retrieval%20in%20Recommendation.pdf)
 - [Outer Product-based Neural Collaborative Filtering](Match/Outer%20Product-based%20Neural%20Collaborative%20Filtering.pdf)
 - [On the Theories Behind Hard Negative Sampling for Recommendation](Match/On%20the%20Theories%20Behind%20Hard%20Negative%20Sampling%20for%20Recommendation.pdf)
 - [On Sampling Strategies for Neural Network-based Collaborative Filtering](Match/On%20Sampling%20Strategies%20for%20Neural%20Network-based%20Collaborative%20Filtering.pdf)
@@ -872,6 +873,7 @@ I will remove it immediately after verification.
 - [Long-Tail Learning via Logit Adjustment](Cold-Start/Long-Tail%20Learning%20via%20Logit%20Adjustment.pdf)
 - [LHRM - A LBS based Heterogeneous Relations Model for User Cold Start Recommendation in Online Travel Platform](Cold-Start/LHRM%20-%20A%20LBS%20based%20Heterogeneous%20Relations%20Model%20for%20User%20Cold%20Start%20Recommendation%20in%20Online%20Travel%20Platform.pdf)
 - [MAMO - Memory-Augmented Meta-Optimization for Cold-start Recommendation](Cold-Start/MAMO%20-%20Memory-Augmented%20Meta-Optimization%20for%20Cold-start%20Recommendation.pdf)
+- [Next-User Retrieva l- Enhancing Cold-Start Recommendations via Generative Next-User Modeling](Cold-Start/Next-User%20Retrieva%20l-%20Enhancing%20Cold-Start%20Recommendations%20via%20Generative%20Next-User%20Modeling.pdf)
 - [Neighbor Based Enhancement for the Long-Tail Ranking Problem in Video Rank Models](Cold-Start/Neighbor%20Based%20Enhancement%20for%20the%20Long-Tail%20Ranking%20Problem%20in%20Video%20Rank%20Models.pdf)
 - [Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning](Cold-Start/Online%20Item%20Cold-Start%20Recommendation%20with%20Popularity-Aware%20Meta-Learning.pdf)
 - [SimRec - Mitigating the Cold-Start Problem in Sequential Recommendation by Integrating Item Similarity](Cold-Start/SimRec%20-%20Mitigating%20the%20Cold-Start%20Problem%20in%20Sequential%20Recommendation%20by%20Integrating%20Item%20Similarity.pdf)
