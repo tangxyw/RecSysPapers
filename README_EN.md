@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-06-27, **916** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-06-30, **917** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -123,6 +123,7 @@ I will remove it immediately after verification.
 - [Deep Context Interest Network for Click-Through Rate Prediction](Industry/Deep%20Context%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Disentangling Long and Short-Term Interests for Recommendation](Industry/Disentangling%20Long%20and%20Short-Term%20Interests%20for%20Recommendation.pdf)
 - [Enhancing CTR Prediction through Sequential Recommendation Pre-training- Introducing the SRP4CTR Framework](Industry/Enhancing%20CTR%20Prediction%20through%20Sequential%20Recommendation%20Pre-training-%20Introducing%20the%20SRP4CTR%20Framework.pdf)
+- [Ensure Timeliness and Accuracy - A Novel Sliding Window Data Stream Paradigm for Live Streaming Recommendation](Industry/Ensure%20Timeliness%20and%20Accuracy%20-%20A%20Novel%20Sliding%20Window%20Data%20Stream%20Paradigm%20for%20Live%20Streaming%20Recommendation.pdf)
 - [E-Commerce Item Recommendation Based on Field-aware Factorization Machine](Industry/E-Commerce%20Item%20Recommendation%20Based%20on%20Field-aware%20Factorization%20Machine.pdf)
 - [Enhancing E-commerce Product Search through Reinforcement Learning-Powered Query Reformulation](Industry/Enhancing%20E-commerce%20Product%20Search%20through%20Reinforcement%20Learning-Powered%20Query%20Reformulation.pdf)
 - [Enhancing CTR prediction in Recommendation Domain with Search Query Representation](Industry/Enhancing%20CTR%20prediction%20in%20Recommendation%20Domain%20with%20Search%20Query%20Representation.pdf)
