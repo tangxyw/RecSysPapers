@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-06-30, **917** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-07-08, **918** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -507,6 +507,7 @@ I will remove it immediately after verification.
 - [Sequential Recommendation via Stochastic Self-Attention](Match/Sequential%20Recommendation%20via%20Stochastic%20Self-Attention.pdf)
 - [Semi-supervised Adversarial Learning for Complementary Item Recommendation](Match/Semi-supervised%20Adversarial%20Learning%20for%20Complementary%20Item%20Recommendation.pdf)
 - [Sparse-Interest Network for Sequential Recommendation](Match/Sparse-Interest%20Network%20for%20Sequential%20Recommendation.pdf)
+- [Synergizing Implicit and Explicit User Interests - A Multi-Embedding Retrieval Framework at Pinterest](Match/Synergizing%20Implicit%20and%20Explicit%20User%20Interests%20-%20A%20Multi-Embedding%20Retrieval%20Framework%20at%20Pinterest.pdf)
 - [Self-Attentive Sequential Recommendation](Match/Self-Attentive%20Sequential%20Recommendation.pdf)
 - [StarSpace - Embed All The Things!](Match/StarSpace%20-%20Embed%20All%20The%20Things%21.pdf)
 - [SPM - Structured Pretraining and Matching Architectures for Relevance Modeling in Meituan Search](Match/SPM%20-%20Structured%20Pretraining%20and%20Matching%20Architectures%20for%20Relevance%20Modeling%20in%20Meituan%20Search.pdf)
