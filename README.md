@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2025-07-08，本仓库收集汇总了推荐系统领域相关论文共**918**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2025-07-09，本仓库收集汇总了推荐系统领域相关论文共**919**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -456,6 +456,7 @@
 - [ESANS - Effective and Semantic-Aware Negative Sampling for Large-Scale Retrieval Systems](Match/ESANS%20-%20Effective%20and%20Semantic-Aware%20Negative%20Sampling%20for%20Large-Scale%20Retrieval%20Systems.pdf)
 - [Efficient Training on Very Large Corpora via Gramian Estimation](Match/Efficient%20Training%20on%20Very%20Large%20Corpora%20via%20Gramian%20Estimation.pdf)
 - [Extreme Multi-label Learning for Semantic Matching in Product Search](Match/Extreme%20Multi-label%20Learning%20for%20Semantic%20Matching%20in%20Product%20Search.pdf)
+- [Embedding-based Retrieval in Multimodal Content Moderation](Match/Embedding-based%20Retrieval%20in%20Multimodal%20Content%20Moderation.pdf)
 - [Factorization Meets the Neighborhood - a Multifaceted Collaborative Filtering Model](Match/Factorization%20Meets%20the%20Neighborhood%20-%20a%20Multifaceted%20Collaborative%20Filtering%20Model.pdf)
 - [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](Match/Fast%20Matrix%20Factorization%20for%20Online%20Recommendation%20with%20Implicit%20Feedback.pdf)
 - [Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems](Match/Hierarchical%20Temporal%20Convolutional%20Networks%20for%20Dynamic%20Recommender%20Systems.pdf)
