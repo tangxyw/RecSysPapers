@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2025-07-09，本仓库收集汇总了推荐系统领域相关论文共**919**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2025-07-10，本仓库收集汇总了推荐系统领域相关论文共**920**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -651,6 +651,7 @@
 - [No More Tuning - Prioritized Multi-Task Learning with Lagrangian Differential Multiplier Methods](Multi-Task/No%20More%20Tuning%20-%20Prioritized%20Multi-Task%20Learning%20with%20Lagrangian%20Differential%20Multiplier%20Methods.pdf)
 - [Optimizing Airbnb Search Journey with Multi-task Learning](Multi-Task/Optimizing%20Airbnb%20Search%20Journey%20with%20Multi-task%20Learning.pdf)
 - [Perceive Your Users in Depth - Learning Universal User Representations from Multiple E-commerce Tasks](Multi-Task/Perceive%20Your%20Users%20in%20Depth%20-%20Learning%20Universal%20User%20Representations%20from%20Multiple%20E-commerce%20Tasks.pdf)
+- [Pantheon - Personalized Multi-objective Ensemble Sort via Iterative Pareto Policy Optimization](Multi-Task/Pantheon%20-%20Personalized%20Multi-objective%20Ensemble%20Sort%20via%20Iterative%20Pareto%20Policy%20Optimization.pdf)
 - [Personalized Approximate Pareto-Efficient Recommendation](Multi-Task/Personalized%20Approximate%20Pareto-Efficient%20Recommendation.pdf)
 - [Pareto Multi-Task Learning](Multi-Task/Pareto%20Multi-Task%20Learning.pdf)
 - [Single-shot Feature Selection for Multi-task Recommendations](Multi-Task/Single-shot%20Feature%20Selection%20for%20Multi-task%20Recommendations.pdf)

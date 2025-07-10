@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-07-09, **919** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-07-10, **920** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -658,6 +658,7 @@ I will remove it immediately after verification.
 - [No More Tuning - Prioritized Multi-Task Learning with Lagrangian Differential Multiplier Methods](Multi-Task/No%20More%20Tuning%20-%20Prioritized%20Multi-Task%20Learning%20with%20Lagrangian%20Differential%20Multiplier%20Methods.pdf)
 - [Optimizing Airbnb Search Journey with Multi-task Learning](Multi-Task/Optimizing%20Airbnb%20Search%20Journey%20with%20Multi-task%20Learning.pdf)
 - [Perceive Your Users in Depth - Learning Universal User Representations from Multiple E-commerce Tasks](Multi-Task/Perceive%20Your%20Users%20in%20Depth%20-%20Learning%20Universal%20User%20Representations%20from%20Multiple%20E-commerce%20Tasks.pdf)
+- [Pantheon - Personalized Multi-objective Ensemble Sort via Iterative Pareto Policy Optimization](Multi-Task/Pantheon%20-%20Personalized%20Multi-objective%20Ensemble%20Sort%20via%20Iterative%20Pareto%20Policy%20Optimization.pdf)
 - [Personalized Approximate Pareto-Efficient Recommendation](Multi-Task/Personalized%20Approximate%20Pareto-Efficient%20Recommendation.pdf)
 - [Pareto Multi-Task Learning](Multi-Task/Pareto%20Multi-Task%20Learning.pdf)
 - [Single-shot Feature Selection for Multi-task Recommendations](Multi-Task/Single-shot%20Feature%20Selection%20for%20Multi-task%20Recommendations.pdf)
