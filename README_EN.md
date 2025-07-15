@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-07-10, **920** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-07-15, **921** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -318,6 +318,7 @@ I will remove it immediately after verification.
 - [Learning to Personalize Recommendations based on Customers’ Shopping Intents](Industry/Intent/Learning%20to%20Personalize%20Recommendations%20based%20on%20Customers%E2%80%99%20Shopping%20Intents.pdf)
 - [Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation](Industry/Intent/Metapath-guided%20Heterogeneous%20Graph%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
 - [NEON - Living Needs Prediction System in Meituan](Industry/Intent/NEON%20-%20Living%20Needs%20Prediction%20System%20in%20Meituan.pdf)
+- [USD - A User-Intent-Driven Sampling and Dual-Debiasing Framework for Large-Scale Homepage Recommendations](Industry/Intent/USD%20-%20A%20User-Intent-Driven%20Sampling%20and%20Dual-Debiasing%20Framework%20for%20Large-Scale%20Homepage%20Recommendations.pdf)
 #### Representation
 - [[2020][Tencent][AETN] General-Purpose User Embeddings based on Mobile App Usage](Industry/Representation/%5B2020%5D%5BTencent%5D%5BAETN%5D%20General-Purpose%20User%20Embeddings%20based%20on%20Mobile%20App%20Usage.pdf)
 - [[2022][Pinterest][PinnerFormer] PinnerFormer - Sequence Modeling for User Representation at Pinterest](Industry/Representation/%5B2022%5D%5BPinterest%5D%5BPinnerFormer%5D%20PinnerFormer%20-%20Sequence%20Modeling%20for%20User%20Representation%20at%20Pinterest.pdf)

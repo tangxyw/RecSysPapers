@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2025-07-10，本仓库收集汇总了推荐系统领域相关论文共**920**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2025-07-15，本仓库收集汇总了推荐系统领域相关论文共**921**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -311,6 +311,7 @@
 - [Learning to Personalize Recommendations based on Customers’ Shopping Intents](Industry/Intent/Learning%20to%20Personalize%20Recommendations%20based%20on%20Customers%E2%80%99%20Shopping%20Intents.pdf)
 - [Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation](Industry/Intent/Metapath-guided%20Heterogeneous%20Graph%20Neural%20Network%20for%20Intent%20Recommendation.pdf)
 - [NEON - Living Needs Prediction System in Meituan](Industry/Intent/NEON%20-%20Living%20Needs%20Prediction%20System%20in%20Meituan.pdf)
+- [USD - A User-Intent-Driven Sampling and Dual-Debiasing Framework for Large-Scale Homepage Recommendations](Industry/Intent/USD%20-%20A%20User-Intent-Driven%20Sampling%20and%20Dual-Debiasing%20Framework%20for%20Large-Scale%20Homepage%20Recommendations.pdf)
 #### Representation
 - [[2020][Tencent][AETN] General-Purpose User Embeddings based on Mobile App Usage](Industry/Representation/%5B2020%5D%5BTencent%5D%5BAETN%5D%20General-Purpose%20User%20Embeddings%20based%20on%20Mobile%20App%20Usage.pdf)
 - [[2022][Pinterest][PinnerFormer] PinnerFormer - Sequence Modeling for User Representation at Pinterest](Industry/Representation/%5B2022%5D%5BPinterest%5D%5BPinnerFormer%5D%20PinnerFormer%20-%20Sequence%20Modeling%20for%20User%20Representation%20at%20Pinterest.pdf)
