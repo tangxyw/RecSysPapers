@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-07-15, **921** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-07-17, **923** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -449,6 +449,7 @@ I will remove it immediately after verification.
 - [Beyond Two-Tower Matching - Learning Sparse Retrievable Cross-Interactions for Recommendation](Match/Beyond%20Two-Tower%20Matching%20-%20Learning%20Sparse%20Retrievable%20Cross-Interactions%20for%20Recommendation.pdf)
 - [Build Faster with Less - A Journey to Accelerate Sparse Model Building for Semantic Matching in Product Search](Match/Build%20Faster%20with%20Less%20-%20A%20Journey%20to%20Accelerate%20Sparse%20Model%20Building%20for%20Semantic%20Matching%20in%20Product%20Search.pdf)
 - [Beyond Semantics - Learning a Behavior Augmented Relevance Model with Self-supervised Learning](Match/Beyond%20Semantics%20-%20Learning%20a%20Behavior%20Augmented%20Relevance%20Model%20with%20Self-supervised%20Learning.pdf)
+- [Balancing Semantic Relevance and Engagement in Related Video Recommendations](Match/Balancing%20Semantic%20Relevance%20and%20Engagement%20in%20Related%20Video%20Recommendations.pdf)
 - [CROLoss - Towards a Customizable Loss for Retrieval Models in Recommender Systems](Match/CROLoss%20-%20Towards%20a%20Customizable%20Loss%20for%20Retrieval%20Models%20in%20Recommender%20Systems.pdf)
 - [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](Match/Collaborative%20Denoising%20Auto-Encoders%20for%20Top-N%20Recommender%20Systems.pdf)
 - [Coarse-to-Fine Sparse Sequential Recommendation](Match/Coarse-to-Fine%20Sparse%20Sequential%20Recommendation.pdf)
@@ -518,6 +519,7 @@ I will remove it immediately after verification.
 - [Towards Personalized and Semantic Retrieval - An End-to-End Solution for E-commerce Search via Embedding Learning](Match/Towards%20Personalized%20and%20Semantic%20Retrieval%20-%20An%20End-to-End%20Solution%20for%20E-commerce%20Search%20via%20Embedding%20Learning.pdf)
 - [Unified Generative & Dense Retrieval for Query Rewriting in Sponsored Search](Match/Unified%20Generative%20%26%20Dense%20Retrieval%20for%20Query%20Rewriting%20in%20Sponsored%20Search.pdf)
 - [Uni-Retriever - Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search](Match/Uni-Retriever%20-%20Towards%20Learning%20The%20Unified%20Embedding%20Based%20Retriever%20in%20Bing%20Sponsored%20Search.pdf)
+- [User Long-Term Multi-Interest Retrieval Model for Recommendation](Match/User%20Long-Term%20Multi-Interest%20Retrieval%20Model%20for%20Recommendation.pdf)
 - [Unifying Generative and Dense Retrieval for Sequential Recommendation](Match/Unifying%20Generative%20and%20Dense%20Retrieval%20for%20Sequential%20Recommendation.pdf)
 - [VIER - Visual Imagination Enhanced Retrieval in Sponsored Search](Match/VIER%20-%20Visual%20Imagination%20Enhanced%20Retrieval%20in%20Sponsored%20Search.pdf)
 - [Variational Autoencoders for Collaborative Filtering](Match/Variational%20Autoencoders%20for%20Collaborative%20Filtering.pdf)
