@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-07-17, **923** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-07-31, **927** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -118,6 +118,7 @@ I will remove it immediately after verification.
 - [Disentangling Past-Future Modeling in Sequential Recommendation via Dual Networks](Industry/Disentangling%20Past-Future%20Modeling%20in%20Sequential%20Recommendation%20via%20Dual%20Networks.pdf)
 - [Deep Learning Recommendation Model for Personalization and Recommendation System](Industry/Deep%20Learning%20Recommendation%20Model%20for%20Personalization%20and%20Recommendation%20System.pdf)
 - [Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction](Industry/Deep%20Spatio-Temporal%20Neural%20Networks%20for%20Click-Through%20Rate%20Prediction.pdf)
+- [DV365 - Extremely Long User History Modeling at Instagram](Industry/DV365%20-%20Extremely%20Long%20User%20History%20Modeling%20at%20Instagram.pdf)
 - [Denoising Neural Network for News Recommendation with Positive and Negative Implicit Feedback](Industry/Denoising%20Neural%20Network%20for%20News%20Recommendation%20with%20Positive%20and%20Negative%20Implicit%20Feedback.pdf)
 - [Denoising User-aware Memory Network for Recommendation](Industry/Denoising%20User-aware%20Memory%20Network%20for%20Recommendation.pdf)
 - [Deep Context Interest Network for Click-Through Rate Prediction](Industry/Deep%20Context%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
@@ -203,6 +204,7 @@ I will remove it immediately after verification.
 - [Towards Deeper, Lighter and Interpretable Cross Network for CTR Prediction](Industry/Towards%20Deeper%2C%20Lighter%20and%20Interpretable%20Cross%20Network%20for%20CTR%20Prediction.pdf)
 - [Temporal Interest Network for Click-Through Rate Prediction](Industry/Temporal%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [TransAct - Transformer-based Realtime User Action Model for Recommendation at Pinterest](Industry/TransAct%20-%20Transformer-based%20Realtime%20User%20Action%20Model%20for%20Recommendation%20at%20Pinterest.pdf)
+- [TransAct V2 - Lifelong User Action Sequence Modeling on Pinterest Recommendation](Industry/TransAct%20V2%20-%20Lifelong%20User%20Action%20Sequence%20Modeling%20on%20Pinterest%20Recommendation.pdf)
 - [TWIN - TWo-stage Interest Network for Lifelong User Behavior Modeling in CTR Prediction at Kuaishou](Industry/TWIN%20-%20TWo-stage%20Interest%20Network%20for%20Lifelong%20User%20Behavior%20Modeling%20in%20CTR%20Prediction%20at%20Kuaishou.pdf)
 - [TWIN V2 - Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced CTR Prediction at Kuaishou](Industry/TWIN%20V2%20-%20Scaling%20Ultra-Long%20User%20Behavior%20Sequence%20Modeling%20for%20Enhanced%20CTR%20Prediction%20at%20Kuaishou.pdf)
 - [TiSSA - A Time Slice Self-Attention Approach for Modeling Sequential User Behaviors](Industry/TiSSA%20-%20A%20Time%20Slice%20Self-Attention%20Approach%20for%20Modeling%20Sequential%20User%20Behaviors.pdf)
@@ -213,6 +215,7 @@ I will remove it immediately after verification.
 - [[2021][Tencent][R3S] Real-time Relevant Recommendation Suggestion](Industry/TriggerInduced/%5B2021%5D%5BTencent%5D%5BR3S%5D%20Real-time%20Relevant%20Recommendation%20Suggestion.pdf)
 - [[2022][Alibaba][DIAN] Deep Intention-Aware Network for Click-Through Rate Prediction](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIAN%5D%20Deep%20Intention-Aware%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [[2022][Alibaba][DIHN] Deep Interest Highlight Network for Click-Through Rate Prediction in Trigger-Induced Recommendation](Industry/TriggerInduced/%5B2022%5D%5BAlibaba%5D%5BDIHN%5D%20Deep%20Interest%20Highlight%20Network%20for%20Click-Through%20Rate%20Prediction%20in%20Trigger-Induced%20Recommendation.pdf)
+- [Click A, Buy B - Rethinking Conversion Attribution in ECommerce Recommendations](Industry/TriggerInduced/Click%20A%2C%20Buy%20B%20-%20Rethinking%20Conversion%20Attribution%20in%20ECommerce%20Recommendations.pdf)
 - [Collaborative Contrastive Network for Click-Through Rate Prediction](Industry/TriggerInduced/Collaborative%20Contrastive%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [DPAN - Dynamic Preference-based and Attribute-aware Network for Relevant Recommendations](Industry/TriggerInduced/DPAN%20-%20Dynamic%20Preference-based%20and%20Attribute-aware%20Network%20for%20Relevant%20Recommendations.pdf)
 - [Deep Evolutional Instant Interest Network for CTR Prediction in Trigger-Induced Recommendation](Industry/TriggerInduced/Deep%20Evolutional%20Instant%20Interest%20Network%20for%20CTR%20Prediction%20in%20Trigger-Induced%20Recommendation.pdf)
@@ -468,6 +471,7 @@ I will remove it immediately after verification.
 - [Embedding-based Retrieval in Multimodal Content Moderation](Match/Embedding-based%20Retrieval%20in%20Multimodal%20Content%20Moderation.pdf)
 - [Factorization Meets the Neighborhood - a Multifaceted Collaborative Filtering Model](Match/Factorization%20Meets%20the%20Neighborhood%20-%20a%20Multifaceted%20Collaborative%20Filtering%20Model.pdf)
 - [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](Match/Fast%20Matrix%20Factorization%20for%20Online%20Recommendation%20with%20Implicit%20Feedback.pdf)
+- [HeterRec - Heterogeneous Information Transformer for Scalable Sequential Recommendation](Match/HeterRec%20-%20Heterogeneous%20Information%20Transformer%20for%20Scalable%20Sequential%20Recommendation.pdf)
 - [Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems](Match/Hierarchical%20Temporal%20Convolutional%20Networks%20for%20Dynamic%20Recommender%20Systems.pdf)
 - [Heterogeneous Graph Neural Networks for Large-Scale Bid Keyword Matching](Match/Heterogeneous%20Graph%20Neural%20Networks%20for%20Large-Scale%20Bid%20Keyword%20Matching.pdf)
 - [Improving Ad matching via Cluster-Adaptive Keyword Expansion and Relevance tuning](Match/Improving%20Ad%20matching%20via%20Cluster-Adaptive%20Keyword%20Expansion%20and%20Relevance%20tuning.pdf)
