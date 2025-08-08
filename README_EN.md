@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-07-31, **927** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-08-08, **928** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -887,6 +887,7 @@ I will remove it immediately after verification.
 - [Next-User Retrieva l- Enhancing Cold-Start Recommendations via Generative Next-User Modeling](Cold-Start/Next-User%20Retrieva%20l-%20Enhancing%20Cold-Start%20Recommendations%20via%20Generative%20Next-User%20Modeling.pdf)
 - [Neighbor Based Enhancement for the Long-Tail Ranking Problem in Video Rank Models](Cold-Start/Neighbor%20Based%20Enhancement%20for%20the%20Long-Tail%20Ranking%20Problem%20in%20Video%20Rank%20Models.pdf)
 - [Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning](Cold-Start/Online%20Item%20Cold-Start%20Recommendation%20with%20Popularity-Aware%20Meta-Learning.pdf)
+- [SaviorRec - Semantic-Behavior Alignment for Cold-Start Recommendation](Cold-Start/SaviorRec%20-%20Semantic-Behavior%20Alignment%20for%20Cold-Start%20Recommendation.pdf)
 - [SimRec - Mitigating the Cold-Start Problem in Sequential Recommendation by Integrating Item Similarity](Cold-Start/SimRec%20-%20Mitigating%20the%20Cold-Start%20Problem%20in%20Sequential%20Recommendation%20by%20Integrating%20Item%20Similarity.pdf)
 - [SMINet - State-Aware Multi-Aspect Interests Representation Network for Cold-Start Users Recommendation](Cold-Start/SMINet%20-%20State-Aware%20Multi-Aspect%20Interests%20Representation%20Network%20for%20Cold-Start%20Users%20Recommendation.pdf)
 - [Task-adaptive Neural Process for User Cold-Start Recommendation](Cold-Start/Task-adaptive%20Neural%20Process%20for%20User%20Cold-Start%20Recommendation.pdf)
