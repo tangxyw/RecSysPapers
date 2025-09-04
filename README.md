@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2025-08-08，本仓库收集汇总了推荐系统领域相关论文共**928**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2025-09-04，本仓库收集汇总了推荐系统领域相关论文共**934**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -150,6 +150,7 @@
 - [Improving Recommendation Quality in Google Drive](Industry/Improving%20Recommendation%20Quality%20in%20Google%20Drive.pdf)
 - [Incorporating Social-aware User Preference for Video Recommendation](Industry/Incorporating%20Social-aware%20User%20Preference%20for%20Video%20Recommendation.pdf)
 - [Improving Deep Learning For Airbnb Search](Industry/Improving%20Deep%20Learning%20For%20Airbnb%20Search.pdf)
+- [Improving Long-tail User CTR Prediction via Hierarchical Distribution Alignment](Industry/Improving%20Long-tail%20User%20CTR%20Prediction%20via%20Hierarchical%20Distribution%20Alignment.pdf)
 - [Interpretable User Retention Modeling in Recommendation](Industry/Interpretable%20User%20Retention%20Modeling%20in%20Recommendation.pdf)
 - [Improving feature interactions at Pinterest under industry constraints](Industry/Improving%20feature%20interactions%20at%20Pinterest%20under%20industry%20constraints.pdf)
 - [Implicit User Awareness Modeling via Candidate Items for CTR Prediction in Search Ads](Industry/Implicit%20User%20Awareness%20Modeling%20via%20Candidate%20Items%20for%20CTR%20Prediction%20in%20Search%20Ads.pdf)
@@ -396,6 +397,7 @@
 - [Discrete Conditional Diffusion for Reranking in Recommendation](Re-Rank/Discrete%20Conditional%20Diffusion%20for%20Reranking%20in%20Recommendation.pdf)
 - [DEAR - Deep Reinforcement Learning for Online Advertising Impression in Recommender Systems](Re-Rank/DEAR%20-%20Deep%20Reinforcement%20Learning%20for%20Online%20Advertising%20Impression%20in%20Recommender%20Systems.pdf)
 - [Do Not Wait - Learning Re-Ranking Model Without User Feedback At Serving Time in E-Commerce](Re-Rank/Do%20Not%20Wait%20-%20Learning%20Re-Ranking%20Model%20Without%20User%20Feedback%20At%20Serving%20Time%20in%20E-Commerce.pdf)
+- [From Generation to Consumption - Personalized List Value Estimation for Re-ranking](Re-Rank/From%20Generation%20to%20Consumption%20-%20Personalized%20List%20Value%20Estimation%20for%20Re-ranking.pdf)
 - [GenDeR - A Generic Diversified Ranking Algorithm](Re-Rank/GenDeR%20-%20A%20Generic%20Diversified%20Ranking%20Algorithm.pdf)
 - [GRN - Generative Rerank Network for Context-wise Recommendation](Re-Rank/GRN%20-%20Generative%20Rerank%20Network%20for%20Context-wise%20Recommendation.pdf)
 - [Globally Optimized Mutual Influence Aware Ranking in E-Commerce Search](Re-Rank/Globally%20Optimized%20Mutual%20Influence%20Aware%20Ranking%20in%20E-Commerce%20Search.pdf)
@@ -444,6 +446,7 @@
 - [Binary Embedding-based Retrieval at Tencent](Match/Binary%20Embedding-based%20Retrieval%20at%20Tencent.pdf)
 - [Beyond Two-Tower Matching - Learning Sparse Retrievable Cross-Interactions for Recommendation](Match/Beyond%20Two-Tower%20Matching%20-%20Learning%20Sparse%20Retrievable%20Cross-Interactions%20for%20Recommendation.pdf)
 - [Build Faster with Less - A Journey to Accelerate Sparse Model Building for Semantic Matching in Product Search](Match/Build%20Faster%20with%20Less%20-%20A%20Journey%20to%20Accelerate%20Sparse%20Model%20Building%20for%20Semantic%20Matching%20in%20Product%20Search.pdf)
+- [Bootstrapping Conditional Retrieval for User-to-Item Recommendations](Match/Bootstrapping%20Conditional%20Retrieval%20for%20User-to-Item%20Recommendations.pdf)
 - [Beyond Semantics - Learning a Behavior Augmented Relevance Model with Self-supervised Learning](Match/Beyond%20Semantics%20-%20Learning%20a%20Behavior%20Augmented%20Relevance%20Model%20with%20Self-supervised%20Learning.pdf)
 - [Balancing Semantic Relevance and Engagement in Related Video Recommendations](Match/Balancing%20Semantic%20Relevance%20and%20Engagement%20in%20Related%20Video%20Recommendations.pdf)
 - [CROLoss - Towards a Customizable Loss for Retrieval Models in Recommender Systems](Match/CROLoss%20-%20Towards%20a%20Customizable%20Loss%20for%20Retrieval%20Models%20in%20Recommender%20Systems.pdf)
@@ -511,6 +514,7 @@
 - [Self-Attentive Sequential Recommendation](Match/Self-Attentive%20Sequential%20Recommendation.pdf)
 - [StarSpace - Embed All The Things!](Match/StarSpace%20-%20Embed%20All%20The%20Things%21.pdf)
 - [SPM - Structured Pretraining and Matching Architectures for Relevance Modeling in Meituan Search](Match/SPM%20-%20Structured%20Pretraining%20and%20Matching%20Architectures%20for%20Relevance%20Modeling%20in%20Meituan%20Search.pdf)
+- [Suggest, complement, inspire - story of Two Tower recommendations at Allegro.com](Match/Suggest%2C%20complement%2C%20inspire%20-%20story%20of%20Two%20Tower%20recommendations%20at%20Allegro.com.pdf)
 - [SimpleX - A Simple and Strong Baseline for Collaborative Filtering](Match/SimpleX%20-%20A%20Simple%20and%20Strong%20Baseline%20for%20Collaborative%20Filtering.pdf)
 - [Towards Automated Negative Sampling in Implicit Recommendation](Match/Towards%20Automated%20Negative%20Sampling%20in%20Implicit%20Recommendation.pdf)
 - [Towards Personalized and Semantic Retrieval - An End-to-End Solution for E-commerce Search via Embedding Learning](Match/Towards%20Personalized%20and%20Semantic%20Retrieval%20-%20An%20End-to-End%20Solution%20for%20E-commerce%20Search%20via%20Embedding%20Learning.pdf)
@@ -845,6 +849,7 @@
 - [Momentum Contrast for Unsupervised Visual Representation Learning](ContrastiveLearning/Momentum%20Contrast%20for%20Unsupervised%20Visual%20Representation%20Learning.pdf)
 - [Multi-level Contrastive Learning Framework for Sequential Recommendation](ContrastiveLearning/Multi-level%20Contrastive%20Learning%20Framework%20for%20Sequential%20Recommendation.pdf)
 - [Predictive and Contrastive- Dual-Auxiliary Learning for Recommendation](ContrastiveLearning/Predictive%20and%20Contrastive-%20Dual-Auxiliary%20Learning%20for%20Recommendation.pdf)
+- [Taming the One-Epoch Phenomenon in Online Recommendation System by Two-stage Contrastive ID Pre-training](ContrastiveLearning/Taming%20the%20One-Epoch%20Phenomenon%20in%20Online%20Recommendation%20System%20by%20Two-stage%20Contrastive%20ID%20Pre-training.pdf)
 - [Understanding the Behaviour of Contrastive Loss](ContrastiveLearning/Understanding%20the%20Behaviour%20of%20Contrastive%20Loss.pdf)
 - [Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere](ContrastiveLearning/Understanding%20Contrastive%20Representation%20Learning%20through%20Alignment%20and%20Uniformity%20on%20the%20Hypersphere.pdf)
 ## Cold-Start
@@ -880,6 +885,7 @@
 - [Next-User Retrieva l- Enhancing Cold-Start Recommendations via Generative Next-User Modeling](Cold-Start/Next-User%20Retrieva%20l-%20Enhancing%20Cold-Start%20Recommendations%20via%20Generative%20Next-User%20Modeling.pdf)
 - [Neighbor Based Enhancement for the Long-Tail Ranking Problem in Video Rank Models](Cold-Start/Neighbor%20Based%20Enhancement%20for%20the%20Long-Tail%20Ranking%20Problem%20in%20Video%20Rank%20Models.pdf)
 - [Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning](Cold-Start/Online%20Item%20Cold-Start%20Recommendation%20with%20Popularity-Aware%20Meta-Learning.pdf)
+- [SocRipple - A Two-Stage Framework for Cold-Start Video Recommendations](Cold-Start/SocRipple%20-%20A%20Two-Stage%20Framework%20for%20Cold-Start%20Video%20Recommendations.pdf)
 - [SaviorRec - Semantic-Behavior Alignment for Cold-Start Recommendation](Cold-Start/SaviorRec%20-%20Semantic-Behavior%20Alignment%20for%20Cold-Start%20Recommendation.pdf)
 - [SimRec - Mitigating the Cold-Start Problem in Sequential Recommendation by Integrating Item Similarity](Cold-Start/SimRec%20-%20Mitigating%20the%20Cold-Start%20Problem%20in%20Sequential%20Recommendation%20by%20Integrating%20Item%20Similarity.pdf)
 - [SMINet - State-Aware Multi-Aspect Interests Representation Network for Cold-Start Users Recommendation](Cold-Start/SMINet%20-%20State-Aware%20Multi-Aspect%20Interests%20Representation%20Network%20for%20Cold-Start%20Users%20Recommendation.pdf)
