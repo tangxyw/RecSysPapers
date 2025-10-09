@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2025-09-04，本仓库收集汇总了推荐系统领域相关论文共**934**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2025-10-09，本仓库收集汇总了推荐系统领域相关论文共**938**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -110,6 +110,7 @@
 - [Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction](Industry/Deep%20Interest%20with%20Hierarchical%20Attention%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Disentangling Past-Future Modeling in Sequential Recommendation via Dual Networks](Industry/Disentangling%20Past-Future%20Modeling%20in%20Sequential%20Recommendation%20via%20Dual%20Networks.pdf)
 - [Deep Learning Recommendation Model for Personalization and Recommendation System](Industry/Deep%20Learning%20Recommendation%20Model%20for%20Personalization%20and%20Recommendation%20System.pdf)
+- [Deep Multiple Quantization Network on Long Behavior Sequence for Click-Through Rate Prediction](Industry/Deep%20Multiple%20Quantization%20Network%20on%20Long%20Behavior%20Sequence%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction](Industry/Deep%20Spatio-Temporal%20Neural%20Networks%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [DV365 - Extremely Long User History Modeling at Instagram](Industry/DV365%20-%20Extremely%20Long%20User%20History%20Modeling%20at%20Instagram.pdf)
 - [Denoising Neural Network for News Recommendation with Positive and Negative Implicit Feedback](Industry/Denoising%20Neural%20Network%20for%20News%20Recommendation%20with%20Positive%20and%20Negative%20Implicit%20Feedback.pdf)
@@ -378,6 +379,7 @@
 - [[2021][Alibaba] Towards a Better Tradeoff between Effectiveness and Efficiency in Pre-Ranking - A Learnable Feature Selection based Approach](Pre-Rank/%5B2021%5D%5BAlibaba%5D%20Towards%20a%20Better%20Tradeoff%20between%20Effectiveness%20and%20Efficiency%20in%20Pre-Ranking%20-%20A%20Learnable%20Feature%20Selection%20based%20Approach.pdf)
 - [[2022] On Ranking Consistency of Pre-ranking Stage](Pre-Rank/%5B2022%5D%20On%20Ranking%20Consistency%20of%20Pre-ranking%20Stage.pdf)
 - [[2022][Meituan] Contrastive Information Transfer for Pre-Ranking Systems](Pre-Rank/%5B2022%5D%5BMeituan%5D%20Contrastive%20Information%20Transfer%20for%20Pre-Ranking%20Systems.pdf)
+- [A Learnable Fully Interacted Two-Tower Model for Pre-Ranking System](Pre-Rank/A%20Learnable%20Fully%20Interacted%20Two-Tower%20Model%20for%20Pre-Ranking%20System.pdf)
 - [A Hybrid Cross-Stage Coordination Pre-ranking Model for Online Recommendation Systems](Pre-Rank/A%20Hybrid%20Cross-Stage%20Coordination%20Pre-ranking%20Model%20for%20Online%20Recommendation%20Systems.pdf)
 - [AutoFAS - Automatic Feature and Architecture Selection for Pre-Ranking System](Pre-Rank/AutoFAS%20-%20Automatic%20Feature%20and%20Architecture%20Selection%20for%20Pre-Ranking%20System.pdf)
 - [COPR - Consistency-Oriented Pre-Ranking for Online Advertising](Pre-Rank/COPR%20-%20Consistency-Oriented%20Pre-Ranking%20for%20Online%20Advertising.pdf)
@@ -480,6 +482,7 @@
 - [Learning from History and Present - Next-item Recommendation via Discriminatively Exploiting User Behaviors](Match/Learning%20from%20History%20and%20Present%20-%20Next-item%20Recommendation%20via%20Discriminatively%20Exploiting%20User%20Behaviors.pdf)
 - [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](Match/Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf)
 - [Locker - Locally Constrained Self-Attentive Sequential Recommendation](Match/Locker%20-%20Locally%20Constrained%20Self-Attentive%20Sequential%20Recommendation.pdf)
+- [LongRetriever - Towards Ultra-Long Sequence based Candidate Retrieval for Recommendation](Match/LongRetriever%20-%20Towards%20Ultra-Long%20Sequence%20based%20Candidate%20Retrieval%20for%20Recommendation.pdf)
 - [Multi-Objective Personalized Product Retrieval in Taobao Search](Match/Multi-Objective%20Personalized%20Product%20Retrieval%20in%20Taobao%20Search.pdf)
 - [M5 - Multi-Modal Multi-Interest Multi-Scenario Matching for Over-the-Top Recommendation](Match/M5%20-%20Multi-Modal%20Multi-Interest%20Multi-Scenario%20Matching%20for%20Over-the-Top%20Recommendation.pdf)
 - [Modeling Dynamic Missingness of Implicit Feedback for Recommendation](Match/Modeling%20Dynamic%20Missingness%20of%20Implicit%20Feedback%20for%20Recommendation.pdf)
@@ -647,6 +650,7 @@
 - [HoME - Hierarchy of Multi-Gate Experts for Multi-Task Learning at Kuaishou](Multi-Task/HoME%20-%20Hierarchy%20of%20Multi-Gate%20Experts%20for%20Multi-Task%20Learning%20at%20Kuaishou.pdf)
 - [HyperGrid Transformers - Towards A Single Model for Multiple Tasks](Multi-Task/HyperGrid%20Transformers%20-%20Towards%20A%20Single%20Model%20for%20Multiple%20Tasks.pdf)
 - [Improving Training Stability for Multitask Ranking Models in Recommender Systems](Multi-Task/Improving%20Training%20Stability%20for%20Multitask%20Ranking%20Models%20in%20Recommender%20Systems.pdf)
+- [INFNet - A Task-aware Information Flow Network for Large-Scale Recommendation Systems](Multi-Task/INFNet%20-%20A%20Task-aware%20Information%20Flow%20Network%20for%20Large-Scale%20Recommendation%20Systems.pdf)
 - [Learning to Recommend with Multiple Cascading Behaviors](Multi-Task/Learning%20to%20Recommend%20with%20Multiple%20Cascading%20Behaviors.pdf)
 - [MetaBalance - Improving Multi-Task Recommendations via Adapting Gradient Magnitudes of Auxiliary Tasks](Multi-Task/MetaBalance%20-%20Improving%20Multi-Task%20Recommendations%20via%20Adapting%20Gradient%20Magnitudes%20of%20Auxiliary%20Tasks.pdf)
 - [MSSM - A Multiple-level Sparse Sharing Model for Efficient Multi-Task Learning](Multi-Task/MSSM%20-%20A%20Multiple-level%20Sparse%20Sharing%20Model%20for%20Efficient%20Multi-Task%20Learning.pdf)
