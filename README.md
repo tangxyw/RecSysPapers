@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2025-10-09，本仓库收集汇总了推荐系统领域相关论文共**938**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2025-12-04，本仓库收集汇总了推荐系统领域相关论文共**939**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -746,6 +746,7 @@
 - [M-scan - A Multi-Scenario Causal-driven Adaptive Network for Recommendation](Multi-Scenario/M-scan%20-%20A%20Multi-Scenario%20Causal-driven%20Adaptive%20Network%20for%20Recommendation.pdf)
 - [MLoRA - Multi-Domain Low-Rank Adaptive Network for Click-Through Rate Prediction](Multi-Scenario/MLoRA%20-%20Multi-Domain%20Low-Rank%20Adaptive%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Multi-Scenario Ranking with Adaptive Feature Learning](Multi-Scenario/Multi-Scenario%20Ranking%20with%20Adaptive%20Feature%20Learning.pdf)
+- [MTMD - A Multi-Task Multi-Domain Framework for Unified Ad Lightweight Ranking at Pinterestpdf](Multi-Scenario/MTMD%20-%20A%20Multi-Task%20Multi-Domain%20Framework%20for%20Unified%20Ad%20Lightweight%20Ranking%20at%20Pinterestpdf.pdf)
 - [Personalized Transfer of User Preferences for Cross-domain Recommendation](Multi-Scenario/Personalized%20Transfer%20of%20User%20Preferences%20for%20Cross-domain%20Recommendation.pdf)
 - [Rethinking Cross-Domain Sequential Recommendation under Open-World Assumptions](Multi-Scenario/Rethinking%20Cross-Domain%20Sequential%20Recommendation%20under%20Open-World%20Assumptions.pdf)
 - [SAMD - An Industrial Framework for Heterogeneous Multi-Scenario Recommendation](Multi-Scenario/SAMD%20-%20An%20Industrial%20Framework%20for%20Heterogeneous%20Multi-Scenario%20Recommendation.pdf)

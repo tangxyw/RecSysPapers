@@ -1,7 +1,7 @@
 
 # Summary of Papers Related to Recommendation System
 ## Introduce
-1. Up to 2025-10-09, **938** papers related to recommendation system have been collected and summarized in this repo, 
+1. Up to 2025-12-04, **939** papers related to recommendation system have been collected and summarized in this repo, 
 including: **Match**, **Pre-Rank**, **Rank**, **Re-Rank**, **Multi-Task**, **Multi-Scenario**, **Multi-Modal**, **Cold-Start**, **Calibration**, 
 **Debias**, **Diversity**, **Fairness**, **Feedback-Delay**, **Distillation**, **Contrastive Learning**, **Casual Inference**, 
 **Look-Alike**, **Learning-to-Rank**, **Reinforcement Learning** and other fields, the repo will track the industry progress and update continuely.
@@ -753,6 +753,7 @@ I will remove it immediately after verification.
 - [M-scan - A Multi-Scenario Causal-driven Adaptive Network for Recommendation](Multi-Scenario/M-scan%20-%20A%20Multi-Scenario%20Causal-driven%20Adaptive%20Network%20for%20Recommendation.pdf)
 - [MLoRA - Multi-Domain Low-Rank Adaptive Network for Click-Through Rate Prediction](Multi-Scenario/MLoRA%20-%20Multi-Domain%20Low-Rank%20Adaptive%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Multi-Scenario Ranking with Adaptive Feature Learning](Multi-Scenario/Multi-Scenario%20Ranking%20with%20Adaptive%20Feature%20Learning.pdf)
+- [MTMD - A Multi-Task Multi-Domain Framework for Unified Ad Lightweight Ranking at Pinterestpdf](Multi-Scenario/MTMD%20-%20A%20Multi-Task%20Multi-Domain%20Framework%20for%20Unified%20Ad%20Lightweight%20Ranking%20at%20Pinterestpdf.pdf)
 - [Personalized Transfer of User Preferences for Cross-domain Recommendation](Multi-Scenario/Personalized%20Transfer%20of%20User%20Preferences%20for%20Cross-domain%20Recommendation.pdf)
 - [Rethinking Cross-Domain Sequential Recommendation under Open-World Assumptions](Multi-Scenario/Rethinking%20Cross-Domain%20Sequential%20Recommendation%20under%20Open-World%20Assumptions.pdf)
 - [SAMD - An Industrial Framework for Heterogeneous Multi-Scenario Recommendation](Multi-Scenario/SAMD%20-%20An%20Industrial%20Framework%20for%20Heterogeneous%20Multi-Scenario%20Recommendation.pdf)
