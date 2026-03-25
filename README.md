@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2025-12-04，本仓库收集汇总了推荐系统领域相关论文共**939**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2026-03-25，本仓库收集汇总了推荐系统领域相关论文共**946**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -143,6 +143,7 @@
 - [Hesitation and Tolerance in Recommender Systems](Industry/Hesitation%20and%20Tolerance%20in%20Recommender%20Systems.pdf)
 - [Hierarchically Fusing Long and Short-Term User Interests for Click-Through Rate Prediction in Product Search](Industry/Hierarchically%20Fusing%20Long%20and%20Short-Term%20User%20Interests%20for%20Click-Through%20Rate%20Prediction%20in%20Product%20Search.pdf)
 - [Hybrid Interest Modeling for Long-tailed Users](Industry/Hybrid%20Interest%20Modeling%20for%20Long-tailed%20Users.pdf)
+- [HyFormer - Revisiting the Roles of Sequence Modeling and Feature Interaction in CTR Prediction](Industry/HyFormer%20-%20Revisiting%20the%20Roles%20of%20Sequence%20Modeling%20and%20Feature%20Interaction%20in%20CTR%20Prediction.pdf)
 - [Hierarchical Gating Networks for Sequential Recommendation](Industry/Hierarchical%20Gating%20Networks%20for%20Sequential%20Recommendation.pdf)
 - [HIEN - Hierarchical Intention Embedding Network for Click-Through Rate Prediction](Industry/HIEN%20-%20Hierarchical%20Intention%20Embedding%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 - [Inverse Learning with Extremely Sparse Feedback for Recommendation](Industry/Inverse%20Learning%20with%20Extremely%20Sparse%20Feedback%20for%20Recommendation.pdf)
@@ -228,7 +229,7 @@
 - [Reciprocal Recommendation System for Online Dating](Industry/Reciprocal/Reciprocal%20Recommendation%20System%20for%20Online%20Dating.pdf)
 - [Reciprocal Sequential Recommendation](Industry/Reciprocal/Reciprocal%20Sequential%20Recommendation.pdf)
 - [Reciprocal Recommendation Algorithm for the Field of Recruitment](Industry/Reciprocal/Reciprocal%20Recommendation%20Algorithm%20for%20the%20Field%20of%20Recruitment.pdf)
-- [Supporting users in fnding successful matches in reciprocal recommender systems](Industry/Reciprocal/Supporting%20users%20in%20fnding%20successful%20matches%20in%20reciprocal%20recommender%20systems.pdf)
+- [Supporting users in finding successful matches in reciprocal recommender systems](Industry/Reciprocal/Supporting%20users%20in%20finding%20successful%20matches%20in%20reciprocal%20recommender%20systems.pdf)
 #### Dataset
 - [A Content-Driven Micro-Video Recommendation Dataset at Scale](Industry/Dataset/A%20Content-Driven%20Micro-Video%20Recommendation%20Dataset%20at%20Scale.pdf)
 - [KuaiRand - An Unbiased Sequential Recommendation Dataset with Randomly Exposed Videos](Industry/Dataset/KuaiRand%20-%20An%20Unbiased%20Sequential%20Recommendation%20Dataset%20with%20Randomly%20Exposed%20Videos.pdf)
@@ -458,6 +459,7 @@
 - [CSMF - Cascaded Selective Mask Fine-Tuning for Multi-Objective Embedding-Based Retrieval](Match/CSMF%20-%20Cascaded%20Selective%20Mask%20Fine-Tuning%20for%20Multi-Objective%20Embedding-Based%20Retrieval.pdf)
 - [Collaborative Deep Learning for Recommender Systems](Match/Collaborative%20Deep%20Learning%20for%20Recommender%20Systems.pdf)
 - [CRM - Retrieval Model with Controllable Condition](Match/CRM%20-%20Retrieval%20Model%20with%20Controllable%20Condition.pdf)
+- [CroPS - Improving Dense Retrieval with Cross-Perspective Positive Samples in Short-Video Search](Match/CroPS%20-%20Improving%20Dense%20Retrieval%20with%20Cross-Perspective%20Positive%20Samples%20in%20Short-Video%20Search.pdf)
 - [Deep Matrix Factorization Models for Recommender Systems](Match/Deep%20Matrix%20Factorization%20Models%20for%20Recommender%20Systems.pdf)
 - [Divide and Conquer - Towards Better Embedding-based Retrieval for Recommender Systems from a Multi-task Perspective](Match/Divide%20and%20Conquer%20-%20Towards%20Better%20Embedding-based%20Retrieval%20for%20Recommender%20Systems%20from%20a%20Multi-task%20Perspective.pdf)
 - [Disentangled Self-Supervision in Sequential Recommenders](Match/Disentangled%20Self-Supervision%20in%20Sequential%20Recommenders.pdf)
@@ -495,6 +497,7 @@
 - [Outer Product-based Neural Collaborative Filtering](Match/Outer%20Product-based%20Neural%20Collaborative%20Filtering.pdf)
 - [On the Theories Behind Hard Negative Sampling for Recommendation](Match/On%20the%20Theories%20Behind%20Hard%20Negative%20Sampling%20for%20Recommendation.pdf)
 - [On Sampling Strategies for Neural Network-based Collaborative Filtering](Match/On%20Sampling%20Strategies%20for%20Neural%20Network-based%20Collaborative%20Filtering.pdf)
+- [PI2I - A Personalized Item-Based Collaborative Filtering Retrieval Framework](Match/PI2I%20-%20A%20Personalized%20Item-Based%20Collaborative%20Filtering%20Retrieval%20Framework.pdf)
 - [PinnerSage - Multi-Modal User Embedding Framework for Recommendations at Pinterest](Match/PinnerSage%20-%20Multi-Modal%20User%20Embedding%20Framework%20for%20Recommendations%20at%20Pinterest.pdf)
 - [Pre-training Tasks for User Intent Detection and Embedding Retrieval in E-commerce Search](Match/Pre-training%20Tasks%20for%20User%20Intent%20Detection%20and%20Embedding%20Retrieval%20in%20E-commerce%20Search.pdf)
 - [Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding](Match/Personalized%20Top-N%20Sequential%20Recommendation%20via%20Convolutional%20Sequence%20Embedding.pdf)
@@ -648,6 +651,7 @@
 - [Feature Decomposition for Reducing Negative Transfer - A Novel Multi-task Learning Method for Recommender System](Multi-Task/Feature%20Decomposition%20for%20Reducing%20Negative%20Transfer%20-%20A%20Novel%20Multi-task%20Learning%20Method%20for%20Recommender%20System.pdf)
 - [Hierarchically Modeling Micro and Macro Behaviors via Multi-Task Learning for Conversion Rate Prediction](Multi-Task/Hierarchically%20Modeling%20Micro%20and%20Macro%20Behaviors%20via%20Multi-Task%20Learning%20for%20Conversion%20Rate%20Prediction.pdf)
 - [HoME - Hierarchy of Multi-Gate Experts for Multi-Task Learning at Kuaishou](Multi-Task/HoME%20-%20Hierarchy%20of%20Multi-Gate%20Experts%20for%20Multi-Task%20Learning%20at%20Kuaishou.pdf)
+- [HarmonRank - Ranking-aligned Multi-objective Ensemble for Live-streaming E-commerce Recommendation](Multi-Task/HarmonRank%20-%20Ranking-aligned%20Multi-objective%20Ensemble%20for%20Live-streaming%20E-commerce%20Recommendation.pdf)
 - [HyperGrid Transformers - Towards A Single Model for Multiple Tasks](Multi-Task/HyperGrid%20Transformers%20-%20Towards%20A%20Single%20Model%20for%20Multiple%20Tasks.pdf)
 - [Improving Training Stability for Multitask Ranking Models in Recommender Systems](Multi-Task/Improving%20Training%20Stability%20for%20Multitask%20Ranking%20Models%20in%20Recommender%20Systems.pdf)
 - [INFNet - A Task-aware Information Flow Network for Large-Scale Recommendation Systems](Multi-Task/INFNet%20-%20A%20Task-aware%20Information%20Flow%20Network%20for%20Large-Scale%20Recommendation%20Systems.pdf)
@@ -874,6 +878,7 @@
 - [Bootstrapping Contrastive Learning Enhanced Music Cold-Start Matching](Cold-Start/Bootstrapping%20Contrastive%20Learning%20Enhanced%20Music%20Cold-Start%20Matching.pdf)
 - [Contrastive Learning for Cold-Start Recommendation](Cold-Start/Contrastive%20Learning%20for%20Cold-Start%20Recommendation.pdf)
 - [Cold-start Sequential Recommendation via Meta Learner](Cold-Start/Cold-start%20Sequential%20Recommendation%20via%20Meta%20Learner.pdf)
+- [Cold-Starting Podcast Ads and Promotions with Multi-Task Learning on Spotify](Cold-Start/Cold-Starting%20Podcast%20Ads%20and%20Promotions%20with%20Multi-Task%20Learning%20on%20Spotify.pdf)
 - [Contrastive Collaborative Filtering for Cold-Start Item Recommendation](Cold-Start/Contrastive%20Collaborative%20Filtering%20for%20Cold-Start%20Item%20Recommendation.pdf)
 - [Cold & Warm Net - Addressing Cold-Start Users in Recommender Systems](Cold-Start/Cold%20%26%20Warm%20Net%20-%20Addressing%20Cold-Start%20Users%20in%20Recommender%20Systems.pdf)
 - [Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN)](Cold-Start/Empowering%20Long-tail%20Item%20Recommendation%20through%20Cross%20Decoupling%20Network%20%28CDN%29.pdf)
@@ -899,6 +904,7 @@
 - [Telepath - Understanding Users from a Human Vision Perspective in Large-Scale Recommender Systems](Cold-Start/Telepath%20-%20Understanding%20Users%20from%20a%20Human%20Vision%20Perspective%20in%20Large-Scale%20Recommender%20Systems.pdf)
 - [Value of Exploration - Measurements, Findings and Algorithms](Cold-Start/Value%20of%20Exploration%20-%20Measurements%2C%20Findings%20and%20Algorithms.pdf)
 - [Warming Up Cold-Start CTR Prediction by Learning Item-Specific Feature Interactions](Cold-Start/Warming%20Up%20Cold-Start%20CTR%20Prediction%20by%20Learning%20Item-Specific%20Feature%20Interactions.pdf)
+- [Warmer for Less - A Cost-Efficient Strategy for Cold-Start Recommendations at Pinterest](Cold-Start/Warmer%20for%20Less%20-%20A%20Cost-Efficient%20Strategy%20for%20Cold-Start%20Recommendations%20at%20Pinterest.pdf)
 - [Warm Up Cold-start Advertisements - Improving CTR Predictions via Learning to Learn ID Embeddings](Cold-Start/Warm%20Up%20Cold-start%20Advertisements%20-%20Improving%20CTR%20Predictions%20via%20Learning%20to%20Learn%20ID%20Embeddings.pdf)
 #### Exploration&Exploitation
 - [An Empirical Evaluation of Thompson Sampling](Cold-Start/Exploration%26Exploitation/An%20Empirical%20Evaluation%20of%20Thompson%20Sampling.pdf)
@@ -964,6 +970,7 @@
 - [Causal Inference in Recommender Systems - A Survey and Future Directions](CausalInference/Causal%20Inference%20in%20Recommender%20Systems%20-%20A%20Survey%20and%20Future%20Directions.pdf)
 - [Doubly Robust Joint Learning for Recommendation on Data Missing Not at Random](CausalInference/Doubly%20Robust%20Joint%20Learning%20for%20Recommendation%20on%20Data%20Missing%20Not%20at%20Random.pdf)
 - [Deconfounded Recommendation for Alleviating Bias Amplification](CausalInference/Deconfounded%20Recommendation%20for%20Alleviating%20Bias%20Amplification.pdf)
+- [Heterogeneous Multi-treatment Uplift Modeling for Trade-off Optimization in Short-Video Recommendation](CausalInference/Heterogeneous%20Multi-treatment%20Uplift%20Modeling%20for%20Trade-off%20Optimization%20in%20Short-Video%20Recommendation.pdf)
 - [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](CausalInference/Model-Agnostic%20Counterfactual%20Reasoning%20for%20Eliminating%20Popularity%20Bias%20in%20Recommender%20System.pdf)
 - [Multi-Treatment Multi-Task Uplift Modeling for Enhancing User Growth](CausalInference/Multi-Treatment%20Multi-Task%20Uplift%20Modeling%20for%20Enhancing%20User%20Growth.pdf)
 - [Mitigating Hidden Confounding Effects for Causal Recommendation](CausalInference/Mitigating%20Hidden%20Confounding%20Effects%20for%20Causal%20Recommendation.pdf)
