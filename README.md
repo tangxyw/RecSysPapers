@@ -2,7 +2,7 @@
 # 推荐系统相关论文汇总
 ([English Version is Here](/README_EN.md))
 ## 介绍
-1. 截至2026-03-25，本仓库收集汇总了推荐系统领域相关论文共**946**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
+1. 截至2026-06-11，本仓库收集汇总了推荐系统领域相关论文共**948**篇，涉及：**召回**，**粗排**，**精排**，**重排**，**多任务**，**多场景**，**多模态**，**冷启动**，**校准**，
 **纠偏**，**多样性**，**公平性**，**反馈延迟**，**蒸馏**，**对比学习**，**因果推断**，**Look-Alike**，**Learning-to-Rank**，**强化学习**等领域，本仓库会跟踪业界进展，持续更新。
 2. 因文件名特殊字符的限制，故论文title中所有的`:`都改为了`-`，检索时请注意。
 3. 文件名前缀中带有`[]`的，表明本人已经通读过，第一个`[]`中为论文年份，第二个`[]`中为发表机构或公司(可选)，第三个`[]`中为论文提出的model或method的简称(可选)。
@@ -255,6 +255,7 @@
 #### BigPromotion
 - [Capturing Conversion Rate Fluctuation during Sales Promotions - A Novel Historical Data Reuse Approach](Industry/BigPromotion/Capturing%20Conversion%20Rate%20Fluctuation%20during%20Sales%20Promotions%20-%20A%20Novel%20Historical%20Data%20Reuse%20Approach.pdf)
 - [Multi-task based Sales Predictions for Online Promotions](Industry/BigPromotion/Multi-task%20based%20Sales%20Predictions%20for%20Online%20Promotions.pdf)
+- [TemporalExpertNet - Cross-Temporal Knowledge Reuse forPromotion-Aware CVR Prediction](Industry/BigPromotion/TemporalExpertNet%20-%20Cross-Temporal%20Knowledge%20Reuse%20forPromotion-Aware%20CVR%20Prediction.pdf)
 #### LifetimeValue
 - [ADSNet - Cross-Domain LTV Prediction with an Adaptive Siamese Network in Advertising](Industry/LifetimeValue/ADSNet%20-%20Cross-Domain%20LTV%20Prediction%20with%20an%20Adaptive%20Siamese%20Network%20in%20Advertising.pdf)
 - [Out of the Box Thinking - Improving Customer Lifetime Value Modelling via Expert Routing and Game Whale Detection](Industry/LifetimeValue/Out%20of%20the%20Box%20Thinking%20-%20Improving%20Customer%20Lifetime%20Value%20Modelling%20via%20Expert%20Routing%20and%20Game%20Whale%20Detection.pdf)
@@ -472,6 +473,7 @@
 - [Factorization Meets the Neighborhood - a Multifaceted Collaborative Filtering Model](Match/Factorization%20Meets%20the%20Neighborhood%20-%20a%20Multifaceted%20Collaborative%20Filtering%20Model.pdf)
 - [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](Match/Fast%20Matrix%20Factorization%20for%20Online%20Recommendation%20with%20Implicit%20Feedback.pdf)
 - [HeterRec - Heterogeneous Information Transformer for Scalable Sequential Recommendation](Match/HeterRec%20-%20Heterogeneous%20Information%20Transformer%20for%20Scalable%20Sequential%20Recommendation.pdf)
+- [Hierarchical Structured Neural Network- Efficient Retrieval Scaling for Large Scale Recommendation](Match/Hierarchical%20Structured%20Neural%20Network-%20Efficient%20Retrieval%20Scaling%20for%20Large%20Scale%20Recommendation.pdf)
 - [Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems](Match/Hierarchical%20Temporal%20Convolutional%20Networks%20for%20Dynamic%20Recommender%20Systems.pdf)
 - [Heterogeneous Graph Neural Networks for Large-Scale Bid Keyword Matching](Match/Heterogeneous%20Graph%20Neural%20Networks%20for%20Large-Scale%20Bid%20Keyword%20Matching.pdf)
 - [Improving Ad matching via Cluster-Adaptive Keyword Expansion and Relevance tuning](Match/Improving%20Ad%20matching%20via%20Cluster-Adaptive%20Keyword%20Expansion%20and%20Relevance%20tuning.pdf)
